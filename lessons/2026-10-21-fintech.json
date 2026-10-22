@@ -23,7 +23,8 @@
   ],
   "source": {
     "name": "21世纪经济报道（转载自中国网）",
-    "url": "https://www.21jingji.com/article/20261021/herald/cfba9fd5daf9fee85f02824d657a7403.html"
+    "url": "https://www.21jingji.com/article/20261021/herald/cfba9fd5daf9fee85f02824d657a7403.html",
+    "name_en": "21st Century Business Herald (republished from China.com.cn)"
   },
   "vocab": [
     {
@@ -321,6 +322,278 @@
           "en": "We need to analyse which merchants haven't logged in for more than three months."
         }
       ]
+    }
+  ],
+  "glossary": [
+    {
+      "w": "开始",
+      "py": "kāishǐ",
+      "en": "to start"
+    },
+    {
+      "w": "今年",
+      "py": "jīnnián",
+      "en": "this year"
+    },
+    {
+      "w": "一些",
+      "py": "yìxiē",
+      "en": "some"
+    },
+    {
+      "w": "指",
+      "py": "zhǐ",
+      "en": "to refer to"
+    },
+    {
+      "w": "的",
+      "py": "de",
+      "en": "(particle: of; 's)"
+    },
+    {
+      "w": "是",
+      "py": "shì",
+      "en": "is; to be"
+    },
+    {
+      "w": "很",
+      "py": "hěn",
+      "en": "very"
+    },
+    {
+      "w": "长",
+      "py": "cháng",
+      "en": "long"
+    },
+    {
+      "w": "时间",
+      "py": "shíjiān",
+      "en": "time"
+    },
+    {
+      "w": "没有",
+      "py": "méiyǒu",
+      "en": "not have; did not"
+    },
+    {
+      "w": "也",
+      "py": "yě",
+      "en": "also"
+    },
+    {
+      "w": "活动",
+      "py": "huódòng",
+      "en": "activity"
+    },
+    {
+      "w": "在",
+      "py": "zài",
+      "en": "at; in; (in progress)"
+    },
+    {
+      "w": "月",
+      "py": "yuè",
+      "en": "month"
+    },
+    {
+      "w": "会",
+      "py": "huì",
+      "en": "will; can; meeting"
+    },
+    {
+      "w": "个",
+      "py": "gè",
+      "en": "(measure word)"
+    },
+    {
+      "w": "和",
+      "py": "hé",
+      "en": "and; with"
+    },
+    {
+      "w": "两年",
+      "py": "liǎng nián",
+      "en": "two years"
+    },
+    {
+      "w": "或",
+      "py": "huò",
+      "en": "or"
+    },
+    {
+      "w": "更",
+      "py": "gèng",
+      "en": "more; even more"
+    },
+    {
+      "w": "虽然",
+      "py": "suīrán",
+      "en": "although"
+    },
+    {
+      "w": "专门",
+      "py": "zhuānmén",
+      "en": "dedicated; specially"
+    },
+    {
+      "w": "但是",
+      "py": "dànshì",
+      "en": "but"
+    },
+    {
+      "w": "了",
+      "py": "le",
+      "en": "(particle: completed action / change)"
+    },
+    {
+      "w": "增加",
+      "py": "zēngjiā",
+      "en": "to increase"
+    },
+    {
+      "w": "等",
+      "py": "děng",
+      "en": "etc.; and so on"
+    },
+    {
+      "w": "内容",
+      "py": "nèiróng",
+      "en": "content"
+    },
+    {
+      "w": "认为",
+      "py": "rènwéi",
+      "en": "to think; to believe"
+    },
+    {
+      "w": "主要",
+      "py": "zhǔyào",
+      "en": "main; mainly"
+    },
+    {
+      "w": "为了",
+      "py": "wèile",
+      "en": "in order to"
+    },
+    {
+      "w": "要求",
+      "py": "yāoqiú",
+      "en": "requirement; to require"
+    },
+    {
+      "w": "做好",
+      "py": "zuòhǎo",
+      "en": "to do well"
+    },
+    {
+      "w": "管理",
+      "py": "guǎnlǐ",
+      "en": "management; to manage"
+    },
+    {
+      "w": "对",
+      "py": "duì",
+      "en": "to; toward; for"
+    },
+    {
+      "w": "来说",
+      "py": "lái shuō",
+      "en": "speaking (对…来说)"
+    },
+    {
+      "w": "如果",
+      "py": "rúguǒ",
+      "en": "if"
+    },
+    {
+      "w": "想",
+      "py": "xiǎng",
+      "en": "to want; to think"
+    },
+    {
+      "w": "只",
+      "py": "zhǐ",
+      "en": "only"
+    },
+    {
+      "w": "需要",
+      "py": "xūyào",
+      "en": "to need; need"
+    },
+    {
+      "w": "重新",
+      "py": "chóngxīn",
+      "en": "again; anew"
+    },
+    {
+      "w": "然后",
+      "py": "ránhòu",
+      "en": "then; after that"
+    },
+    {
+      "w": "信息",
+      "py": "xìnxī",
+      "en": "information"
+    },
+    {
+      "w": "里",
+      "py": "lǐ",
+      "en": "in; inside"
+    },
+    {
+      "w": "有",
+      "py": "yǒu",
+      "en": "to have; there is"
+    },
+    {
+      "w": "或者",
+      "py": "huòzhě",
+      "en": "or"
+    },
+    {
+      "w": "没",
+      "py": "méi",
+      "en": "not; did not"
+    },
+    {
+      "w": "完成",
+      "py": "wánchéng",
+      "en": "to complete"
+    },
+    {
+      "w": "一般",
+      "py": "yìbān",
+      "en": "generally; usually"
+    },
+    {
+      "w": "不会",
+      "py": "bú huì",
+      "en": "won't"
+    },
+    {
+      "w": "被",
+      "py": "bèi",
+      "en": "(passive marker)"
+    },
+    {
+      "w": "直接",
+      "py": "zhíjiē",
+      "en": "directly"
+    },
+    {
+      "w": "仍然",
+      "py": "réngrán",
+      "en": "still"
+    },
+    {
+      "w": "可以",
+      "py": "kěyǐ",
+      "en": "can; may"
+    },
+    {
+      "w": "取回",
+      "py": "qǔhuí",
+      "en": "to take back; to withdraw"
     }
   ]
 }

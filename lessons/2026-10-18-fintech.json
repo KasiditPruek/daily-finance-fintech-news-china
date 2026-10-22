@@ -23,7 +23,8 @@
   ],
   "source": {
     "name": "移动支付网",
-    "url": "https://www.mpaypass.com.cn/news/202610/18093748.html"
+    "url": "https://www.mpaypass.com.cn/news/202610/18093748.html",
+    "name_en": "Mpaypass (China Mobile Payment Network)"
   },
   "vocab": [
     {
@@ -369,6 +370,423 @@
           "en": "Last month, the platform's active users grew by 10%."
         }
       ]
+    }
+  ],
+  "glossary": [
+    {
+      "w": "香港",
+      "py": "Xiānggǎng",
+      "en": "Hong Kong"
+    },
+    {
+      "w": "支持",
+      "py": "zhīchí",
+      "en": "to support"
+    },
+    {
+      "w": "银行",
+      "py": "yínháng",
+      "en": "bank"
+    },
+    {
+      "w": "负责任",
+      "py": "fù zérèn",
+      "en": "responsible"
+    },
+    {
+      "w": "地",
+      "py": "de",
+      "en": "(adverb marker)"
+    },
+    {
+      "w": "使用",
+      "py": "shǐyòng",
+      "en": "to use"
+    },
+    {
+      "w": "月",
+      "py": "yuè",
+      "en": "month"
+    },
+    {
+      "w": "日",
+      "py": "rì",
+      "en": "day (date)"
+    },
+    {
+      "w": "香港金融管理局",
+      "py": "Xiānggǎng Jīnróng Guǎnlǐjú",
+      "en": "Hong Kong Monetary Authority (HKMA)"
+    },
+    {
+      "w": "了",
+      "py": "le",
+      "en": "(particle: completed action / change)"
+    },
+    {
+      "w": "一个",
+      "py": "yí gè",
+      "en": "one; a"
+    },
+    {
+      "w": "新",
+      "py": "xīn",
+      "en": "new"
+    },
+    {
+      "w": "的",
+      "py": "de",
+      "en": "(particle: of; 's)"
+    },
+    {
+      "w": "目的",
+      "py": "mùdì",
+      "en": "purpose; aim"
+    },
+    {
+      "w": "是",
+      "py": "shì",
+      "en": "is; to be"
+    },
+    {
+      "w": "三个",
+      "py": "sān gè",
+      "en": "three"
+    },
+    {
+      "w": "词",
+      "py": "cí",
+      "en": "word"
+    },
+    {
+      "w": "有",
+      "py": "yǒu",
+      "en": "to have; there is"
+    },
+    {
+      "w": "和",
+      "py": "hé",
+      "en": "and; with"
+    },
+    {
+      "w": "时",
+      "py": "shí",
+      "en": "when; time"
+    },
+    {
+      "w": "要",
+      "py": "yào",
+      "en": "to need; must; will"
+    },
+    {
+      "w": "清楚",
+      "py": "qīngchu",
+      "en": "clear"
+    },
+    {
+      "w": "谁",
+      "py": "shéi",
+      "en": "who"
+    },
+    {
+      "w": "负责",
+      "py": "fùzé",
+      "en": "to be responsible for"
+    },
+    {
+      "w": "也",
+      "py": "yě",
+      "en": "also"
+    },
+    {
+      "w": "能够",
+      "py": "nénggòu",
+      "en": "to be able to"
+    },
+    {
+      "w": "根据",
+      "py": "gēnjù",
+      "en": "according to; based on"
+    },
+    {
+      "w": "这个",
+      "py": "zhège",
+      "en": "this"
+    },
+    {
+      "w": "并",
+      "py": "bìng",
+      "en": "and; also"
+    },
+    {
+      "w": "香港大学",
+      "py": "Xiānggǎng Dàxué",
+      "en": "University of Hong Kong"
+    },
+    {
+      "w": "一起",
+      "py": "yìqǐ",
+      "en": "together"
+    },
+    {
+      "w": "把",
+      "py": "bǎ",
+      "en": "(marks the object)"
+    },
+    {
+      "w": "质量",
+      "py": "zhìliàng",
+      "en": "quality"
+    },
+    {
+      "w": "放在",
+      "py": "fàngzài",
+      "en": "to put in"
+    },
+    {
+      "w": "第一",
+      "py": "dì-yī",
+      "en": "first"
+    },
+    {
+      "w": "位",
+      "py": "wèi",
+      "en": "place; position"
+    },
+    {
+      "w": "另外",
+      "py": "lìngwài",
+      "en": "in addition"
+    },
+    {
+      "w": "还",
+      "py": "hái",
+      "en": "also; still"
+    },
+    {
+      "w": "一份",
+      "py": "yí fèn",
+      "en": "one (copy of a document)"
+    },
+    {
+      "w": "讨论",
+      "py": "tǎolùn",
+      "en": "discussion"
+    },
+    {
+      "w": "研究",
+      "py": "yánjiū",
+      "en": "to study; to research"
+    },
+    {
+      "w": "怎么",
+      "py": "zěnme",
+      "en": "how"
+    },
+    {
+      "w": "比如",
+      "py": "bǐrú",
+      "en": "for example"
+    },
+    {
+      "w": "出",
+      "py": "chū",
+      "en": "to come out; to happen"
+    },
+    {
+      "w": "问题",
+      "py": "wèntí",
+      "en": "problem; issue"
+    },
+    {
+      "w": "人",
+      "py": "rén",
+      "en": "person; people"
+    },
+    {
+      "w": "可以",
+      "py": "kěyǐ",
+      "en": "can; may"
+    },
+    {
+      "w": "及时",
+      "py": "jíshí",
+      "en": "promptly; timely"
+    },
+    {
+      "w": "在",
+      "py": "zài",
+      "en": "at; in; (in progress)"
+    },
+    {
+      "w": "第二",
+      "py": "dì-èr",
+      "en": "second"
+    },
+    {
+      "w": "中",
+      "py": "zhōng",
+      "en": "in; middle"
+    },
+    {
+      "w": "超过",
+      "py": "chāoguò",
+      "en": "to exceed; more than"
+    },
+    {
+      "w": "都",
+      "py": "dōu",
+      "en": "all; both"
+    },
+    {
+      "w": "就是",
+      "py": "jiùshì",
+      "en": "is exactly"
+    },
+    {
+      "w": "让",
+      "py": "ràng",
+      "en": "to let; to make"
+    },
+    {
+      "w": "允许",
+      "py": "yǔnxǔ",
+      "en": "to allow"
+    },
+    {
+      "w": "内",
+      "py": "nèi",
+      "en": "within; inside"
+    },
+    {
+      "w": "自己",
+      "py": "zìjǐ",
+      "en": "oneself; on one's own"
+    },
+    {
+      "w": "计划",
+      "py": "jìhuà",
+      "en": "to plan"
+    },
+    {
+      "w": "完成",
+      "py": "wánchéng",
+      "en": "to complete"
+    },
+    {
+      "w": "多个",
+      "py": "duō gè",
+      "en": "multiple"
+    },
+    {
+      "w": "任务",
+      "py": "rènwù",
+      "en": "task"
+    },
+    {
+      "w": "表示",
+      "py": "biǎoshì",
+      "en": "to say; to state"
+    },
+    {
+      "w": "从",
+      "py": "cóng",
+      "en": "from"
+    },
+    {
+      "w": "式",
+      "py": "shì",
+      "en": "-style; -type"
+    },
+    {
+      "w": "重要",
+      "py": "zhòngyào",
+      "en": "important"
+    },
+    {
+      "w": "这",
+      "py": "zhè",
+      "en": "this"
+    },
+    {
+      "w": "条",
+      "py": "tiáo",
+      "en": "(measure word for news items)"
+    },
+    {
+      "w": "消息",
+      "py": "xiāoxi",
+      "en": "news"
+    },
+    {
+      "w": "说明",
+      "py": "shuōmíng",
+      "en": "to show; to explain"
+    },
+    {
+      "w": "不",
+      "py": "bù",
+      "en": "not"
+    },
+    {
+      "w": "只是",
+      "py": "zhǐshì",
+      "en": "only; merely"
+    },
+    {
+      "w": "而是",
+      "py": "érshì",
+      "en": "but rather"
+    },
+    {
+      "w": "帮",
+      "py": "bāng",
+      "en": "to help"
+    },
+    {
+      "w": "找到",
+      "py": "zhǎodào",
+      "en": "to find"
+    },
+    {
+      "w": "安全",
+      "py": "ānquán",
+      "en": "safe"
+    },
+    {
+      "w": "方法",
+      "py": "fāngfǎ",
+      "en": "method; way"
+    },
+    {
+      "w": "对于",
+      "py": "duìyú",
+      "en": "regarding; for"
+    },
+    {
+      "w": "亚洲",
+      "py": "Yàzhōu",
+      "en": "Asia"
+    },
+    {
+      "w": "其他",
+      "py": "qítā",
+      "en": "other"
+    },
+    {
+      "w": "来说",
+      "py": "lái shuō",
+      "en": "speaking (对…来说)"
+    },
+    {
+      "w": "很",
+      "py": "hěn",
+      "en": "very"
+    },
+    {
+      "w": "值得",
+      "py": "zhíde",
+      "en": "to be worth"
     }
   ]
 }

@@ -23,7 +23,8 @@
   ],
   "source": {
     "name": "澎湃新闻",
-    "url": "https://www.thepaper.cn/newsDetail_forward_34283044"
+    "url": "https://www.thepaper.cn/newsDetail_forward_34283044",
+    "name_en": "The Paper"
   },
   "vocab": [
     {
@@ -273,6 +274,343 @@
           "en": "Half of my monthly salary goes to paying off my loan."
         }
       ]
+    }
+  ],
+  "glossary": [
+    {
+      "w": "十月",
+      "py": "shíyuè",
+      "en": "October"
+    },
+    {
+      "w": "不变",
+      "py": "bú biàn",
+      "en": "unchanged"
+    },
+    {
+      "w": "已经",
+      "py": "yǐjīng",
+      "en": "already"
+    },
+    {
+      "w": "个",
+      "py": "gè",
+      "en": "(measure word)"
+    },
+    {
+      "w": "月",
+      "py": "yuè",
+      "en": "month"
+    },
+    {
+      "w": "没有",
+      "py": "méiyǒu",
+      "en": "not have; did not"
+    },
+    {
+      "w": "日",
+      "py": "rì",
+      "en": "day (date)"
+    },
+    {
+      "w": "中国",
+      "py": "Zhōngguó",
+      "en": "China"
+    },
+    {
+      "w": "了",
+      "py": "le",
+      "en": "(particle: completed action / change)"
+    },
+    {
+      "w": "最新",
+      "py": "zuìxīn",
+      "en": "latest"
+    },
+    {
+      "w": "的",
+      "py": "de",
+      "en": "(particle: of; 's)"
+    },
+    {
+      "w": "是",
+      "py": "shì",
+      "en": "is; to be"
+    },
+    {
+      "w": "都",
+      "py": "dōu",
+      "en": "all; both"
+    },
+    {
+      "w": "和",
+      "py": "hé",
+      "en": "and; with"
+    },
+    {
+      "w": "上个月",
+      "py": "shàng ge yuè",
+      "en": "last month"
+    },
+    {
+      "w": "一样",
+      "py": "yíyàng",
+      "en": "the same"
+    },
+    {
+      "w": "这",
+      "py": "zhè",
+      "en": "this"
+    },
+    {
+      "w": "第",
+      "py": "dì",
+      "en": "(ordinal prefix)"
+    },
+    {
+      "w": "银行",
+      "py": "yínháng",
+      "en": "bank"
+    },
+    {
+      "w": "给",
+      "py": "gěi",
+      "en": "to give; for"
+    },
+    {
+      "w": "时",
+      "py": "shí",
+      "en": "when; time"
+    },
+    {
+      "w": "其中",
+      "py": "qízhōng",
+      "en": "among them"
+    },
+    {
+      "w": "关系",
+      "py": "guānxì",
+      "en": "relationship; connection"
+    },
+    {
+      "w": "最",
+      "py": "zuì",
+      "en": "most"
+    },
+    {
+      "w": "主要",
+      "py": "zhǔyào",
+      "en": "main; mainly"
+    },
+    {
+      "w": "根据",
+      "py": "gēnjù",
+      "en": "according to; based on"
+    },
+    {
+      "w": "来",
+      "py": "lái",
+      "en": "to come"
+    },
+    {
+      "w": "决定",
+      "py": "juédìng",
+      "en": "to decide; decision"
+    },
+    {
+      "w": "而",
+      "py": "ér",
+      "en": "while; and"
+    },
+    {
+      "w": "这个",
+      "py": "zhège",
+      "en": "this"
+    },
+    {
+      "w": "从",
+      "py": "cóng",
+      "en": "from"
+    },
+    {
+      "w": "年",
+      "py": "nián",
+      "en": "year"
+    },
+    {
+      "w": "以后",
+      "py": "yǐhòu",
+      "en": "after; later"
+    },
+    {
+      "w": "就",
+      "py": "jiù",
+      "en": "then; just; already"
+    },
+    {
+      "w": "变",
+      "py": "biàn",
+      "en": "to change"
+    },
+    {
+      "w": "过",
+      "py": "guo",
+      "en": "(particle: past experience)"
+    },
+    {
+      "w": "所以",
+      "py": "suǒyǐ",
+      "en": "so; therefore"
+    },
+    {
+      "w": "这次",
+      "py": "zhècì",
+      "en": "this time"
+    },
+    {
+      "w": "也",
+      "py": "yě",
+      "en": "also"
+    },
+    {
+      "w": "变化",
+      "py": "biànhuà",
+      "en": "change"
+    },
+    {
+      "w": "在",
+      "py": "zài",
+      "en": "at; in; (in progress)"
+    },
+    {
+      "w": "上",
+      "py": "shàng",
+      "en": "on; previous; to go up"
+    },
+    {
+      "w": "表示",
+      "py": "biǎoshì",
+      "en": "to say; to state"
+    },
+    {
+      "w": "要",
+      "py": "yào",
+      "en": "to need; must; will"
+    },
+    {
+      "w": "更",
+      "py": "gèng",
+      "en": "more; even more"
+    },
+    {
+      "w": "多",
+      "py": "duō",
+      "en": "many; much; more"
+    },
+    {
+      "w": "地",
+      "py": "de",
+      "en": "(adverb marker)"
+    },
+    {
+      "w": "作用",
+      "py": "zuòyòng",
+      "en": "role; effect"
+    },
+    {
+      "w": "他",
+      "py": "tā",
+      "en": "he"
+    },
+    {
+      "w": "还",
+      "py": "hái",
+      "en": "also; still"
+    },
+    {
+      "w": "说",
+      "py": "shuō",
+      "en": "to say"
+    },
+    {
+      "w": "标准",
+      "py": "biāozhǔn",
+      "en": "standard; benchmark"
+    },
+    {
+      "w": "只",
+      "py": "zhǐ",
+      "en": "only"
+    },
+    {
+      "w": "慢慢",
+      "py": "mànmàn",
+      "en": "slowly; gradually"
+    },
+    {
+      "w": "变得",
+      "py": "biàn de",
+      "en": "to become"
+    },
+    {
+      "w": "对",
+      "py": "duì",
+      "en": "to; toward; for"
+    },
+    {
+      "w": "普通",
+      "py": "pǔtōng",
+      "en": "ordinary"
+    },
+    {
+      "w": "人",
+      "py": "rén",
+      "en": "person; people"
+    },
+    {
+      "w": "来说",
+      "py": "lái shuō",
+      "en": "speaking (对…来说)"
+    },
+    {
+      "w": "其他",
+      "py": "qítā",
+      "en": "other"
+    },
+    {
+      "w": "暂时",
+      "py": "zànshí",
+      "en": "temporarily; for now"
+    },
+    {
+      "w": "不会",
+      "py": "bú huì",
+      "en": "won't"
+    },
+    {
+      "w": "降低",
+      "py": "jiàngdī",
+      "en": "to lower; to reduce"
+    },
+    {
+      "w": "很多",
+      "py": "hěnduō",
+      "en": "many; a lot of"
+    },
+    {
+      "w": "会",
+      "py": "huì",
+      "en": "will; can; meeting"
+    },
+    {
+      "w": "继续",
+      "py": "jìxù",
+      "en": "to continue"
+    },
+    {
+      "w": "下一步",
+      "py": "xià yí bù",
+      "en": "next step"
     }
   ]
 }

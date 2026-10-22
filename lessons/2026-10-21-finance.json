@@ -23,7 +23,8 @@
   ],
   "source": {
     "name": "澎湃新闻",
-    "url": "https://www.thepaper.cn/newsDetail_forward_34287766"
+    "url": "https://www.thepaper.cn/newsDetail_forward_34287766",
+    "name_en": "The Paper"
   },
   "vocab": [
     {
@@ -285,6 +286,333 @@
           "en": "Half the money for opening our café came from our parents."
         }
       ]
+    }
+  ],
+  "glossary": [
+    {
+      "w": "九",
+      "py": "jiǔ",
+      "en": "nine"
+    },
+    {
+      "w": "天",
+      "py": "tiān",
+      "en": "day"
+    },
+    {
+      "w": "每天",
+      "py": "měitiān",
+      "en": "every day"
+    },
+    {
+      "w": "最多",
+      "py": "zuìduō",
+      "en": "at most"
+    },
+    {
+      "w": "一",
+      "py": "yī",
+      "en": "one; a"
+    },
+    {
+      "w": "万亿",
+      "py": "wànyì",
+      "en": "trillion"
+    },
+    {
+      "w": "元",
+      "py": "yuán",
+      "en": "yuan"
+    },
+    {
+      "w": "月",
+      "py": "yuè",
+      "en": "month"
+    },
+    {
+      "w": "日",
+      "py": "rì",
+      "en": "day (date)"
+    },
+    {
+      "w": "从",
+      "py": "cóng",
+      "en": "from"
+    },
+    {
+      "w": "到",
+      "py": "dào",
+      "en": "to; until; to arrive"
+    },
+    {
+      "w": "的",
+      "py": "de",
+      "en": "(particle: of; 's)"
+    },
+    {
+      "w": "不",
+      "py": "bù",
+      "en": "not"
+    },
+    {
+      "w": "超过",
+      "py": "chāoguò",
+      "en": "to exceed; more than"
+    },
+    {
+      "w": "这次",
+      "py": "zhècì",
+      "en": "this time"
+    },
+    {
+      "w": "数量",
+      "py": "shùliàng",
+      "en": "quantity; number"
+    },
+    {
+      "w": "是",
+      "py": "shì",
+      "en": "is; to be"
+    },
+    {
+      "w": "向",
+      "py": "xiàng",
+      "en": "to; toward"
+    },
+    {
+      "w": "银行",
+      "py": "yínháng",
+      "en": "bank"
+    },
+    {
+      "w": "借出",
+      "py": "jièchū",
+      "en": "to lend out"
+    },
+    {
+      "w": "一种",
+      "py": "yì zhǒng",
+      "en": "a kind of"
+    },
+    {
+      "w": "方法",
+      "py": "fāngfǎ",
+      "en": "method; way"
+    },
+    {
+      "w": "意思",
+      "py": "yìsi",
+      "en": "meaning"
+    },
+    {
+      "w": "钱",
+      "py": "qián",
+      "en": "money"
+    },
+    {
+      "w": "只",
+      "py": "zhǐ",
+      "en": "only"
+    },
+    {
+      "w": "借",
+      "py": "jiè",
+      "en": "to borrow; to lend"
+    },
+    {
+      "w": "一天",
+      "py": "yì tiān",
+      "en": "one day"
+    },
+    {
+      "w": "第二天",
+      "py": "dì-èr tiān",
+      "en": "the next day"
+    },
+    {
+      "w": "就要",
+      "py": "jiù yào",
+      "en": "must; be about to"
+    },
+    {
+      "w": "还",
+      "py": "hái",
+      "en": "also; still"
+    },
+    {
+      "w": "表示",
+      "py": "biǎoshì",
+      "en": "to say; to state"
+    },
+    {
+      "w": "这样",
+      "py": "zhèyàng",
+      "en": "like this; this way"
+    },
+    {
+      "w": "做",
+      "py": "zuò",
+      "en": "to do; to make"
+    },
+    {
+      "w": "为了",
+      "py": "wèile",
+      "en": "in order to"
+    },
+    {
+      "w": "更好",
+      "py": "gènghǎo",
+      "en": "better"
+    },
+    {
+      "w": "地",
+      "py": "de",
+      "en": "(adverb marker)"
+    },
+    {
+      "w": "需要",
+      "py": "xūyào",
+      "en": "to need; need"
+    },
+    {
+      "w": "有",
+      "py": "yǒu",
+      "en": "to have; there is"
+    },
+    {
+      "w": "认为",
+      "py": "rènwéi",
+      "en": "to think; to believe"
+    },
+    {
+      "w": "这",
+      "py": "zhè",
+      "en": "this"
+    },
+    {
+      "w": "段",
+      "py": "duàn",
+      "en": "(measure word for periods)"
+    },
+    {
+      "w": "时间",
+      "py": "shíjiān",
+      "en": "time"
+    },
+    {
+      "w": "正好",
+      "py": "zhènghǎo",
+      "en": "happens to; just right"
+    },
+    {
+      "w": "和",
+      "py": "hé",
+      "en": "and; with"
+    },
+    {
+      "w": "月底",
+      "py": "yuèdǐ",
+      "en": "end of the month"
+    },
+    {
+      "w": "对",
+      "py": "duì",
+      "en": "to; toward; for"
+    },
+    {
+      "w": "会",
+      "py": "huì",
+      "en": "will; can; meeting"
+    },
+    {
+      "w": "增加",
+      "py": "zēngjiā",
+      "en": "to increase"
+    },
+    {
+      "w": "上",
+      "py": "shàng",
+      "en": "on; previous; to go up"
+    },
+    {
+      "w": "大约",
+      "py": "dàyuē",
+      "en": "about; approximately"
+    },
+    {
+      "w": "说明",
+      "py": "shuōmíng",
+      "en": "to show; to explain"
+    },
+    {
+      "w": "比较",
+      "py": "bǐjiào",
+      "en": "fairly; relatively"
+    },
+    {
+      "w": "另外",
+      "py": "lìngwài",
+      "en": "in addition"
+    },
+    {
+      "w": "研究",
+      "py": "yánjiū",
+      "en": "to study; to research"
+    },
+    {
+      "w": "把",
+      "py": "bǎ",
+      "en": "(marks the object)"
+    },
+    {
+      "w": "公开市场",
+      "py": "gōngkāi shìchǎng",
+      "en": "open market"
+    },
+    {
+      "w": "主要",
+      "py": "zhǔyào",
+      "en": "main; mainly"
+    },
+    {
+      "w": "如果",
+      "py": "rúguǒ",
+      "en": "if"
+    },
+    {
+      "w": "可能",
+      "py": "kěnéng",
+      "en": "may; possibly"
+    },
+    {
+      "w": "成为",
+      "py": "chéngwéi",
+      "en": "to become"
+    },
+    {
+      "w": "新",
+      "py": "xīn",
+      "en": "new"
+    },
+    {
+      "w": "中国",
+      "py": "Zhōngguó",
+      "en": "China"
+    },
+    {
+      "w": "货币政策",
+      "py": "huòbì zhèngcè",
+      "en": "monetary policy"
+    },
+    {
+      "w": "重要",
+      "py": "zhòngyào",
+      "en": "important"
+    },
+    {
+      "w": "影响",
+      "py": "yǐngxiǎng",
+      "en": "influence; to affect"
     }
   ]
 }

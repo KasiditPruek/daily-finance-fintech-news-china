@@ -22,8 +22,10 @@
     }
   ],
   "source": {
-    "name": "澎湃新闻（2026-10-16）",
-    "url": "https://www.thepaper.cn/newsDetail_forward_34261885"
+    "name": "澎湃新闻",
+    "url": "https://www.thepaper.cn/newsDetail_forward_34261885",
+    "date": "2026-10-16",
+    "name_en": "The Paper"
   },
   "vocab": [
     {
@@ -273,6 +275,258 @@
           "en": "Driving too fast on a rainy day is far too risky."
         }
       ]
+    }
+  ],
+  "glossary": [
+    {
+      "w": "支持",
+      "py": "zhīchí",
+      "en": "to support"
+    },
+    {
+      "w": "更",
+      "py": "gèng",
+      "en": "more; even more"
+    },
+    {
+      "w": "多",
+      "py": "duō",
+      "en": "many; much; more"
+    },
+    {
+      "w": "中国",
+      "py": "Zhōngguó",
+      "en": "China"
+    },
+    {
+      "w": "月",
+      "py": "yuè",
+      "en": "month"
+    },
+    {
+      "w": "日",
+      "py": "rì",
+      "en": "day (date)"
+    },
+    {
+      "w": "在",
+      "py": "zài",
+      "en": "at; in; (in progress)"
+    },
+    {
+      "w": "上海",
+      "py": "Shànghǎi",
+      "en": "Shanghai"
+    },
+    {
+      "w": "的",
+      "py": "de",
+      "en": "(particle: of; 's)"
+    },
+    {
+      "w": "一个",
+      "py": "yí gè",
+      "en": "one; a"
+    },
+    {
+      "w": "管理",
+      "py": "guǎnlǐ",
+      "en": "management; to manage"
+    },
+    {
+      "w": "上",
+      "py": "shàng",
+      "en": "on; previous; to go up"
+    },
+    {
+      "w": "表示",
+      "py": "biǎoshì",
+      "en": "to say; to state"
+    },
+    {
+      "w": "他们",
+      "py": "tāmen",
+      "en": "they"
+    },
+    {
+      "w": "可以",
+      "py": "kěyǐ",
+      "en": "can; may"
+    },
+    {
+      "w": "买",
+      "py": "mǎi",
+      "en": "to buy"
+    },
+    {
+      "w": "和",
+      "py": "hé",
+      "en": "and; with"
+    },
+    {
+      "w": "等",
+      "py": "děng",
+      "en": "etc.; and so on"
+    },
+    {
+      "w": "介绍",
+      "py": "jièshào",
+      "en": "to introduce; to explain"
+    },
+    {
+      "w": "到",
+      "py": "dào",
+      "en": "to; until; to arrive"
+    },
+    {
+      "w": "年",
+      "py": "nián",
+      "en": "year"
+    },
+    {
+      "w": "月底",
+      "py": "yuèdǐ",
+      "en": "end of the month"
+    },
+    {
+      "w": "已经",
+      "py": "yǐjīng",
+      "en": "already"
+    },
+    {
+      "w": "有",
+      "py": "yǒu",
+      "en": "to have; there is"
+    },
+    {
+      "w": "家",
+      "py": "jiā",
+      "en": "(measure word for companies); home"
+    },
+    {
+      "w": "来到",
+      "py": "láidào",
+      "en": "to come to; to arrive in"
+    },
+    {
+      "w": "大约",
+      "py": "dàyuē",
+      "en": "about; approximately"
+    },
+    {
+      "w": "元",
+      "py": "yuán",
+      "en": "yuan"
+    },
+    {
+      "w": "她",
+      "py": "tā",
+      "en": "she"
+    },
+    {
+      "w": "说",
+      "py": "shuō",
+      "en": "to say"
+    },
+    {
+      "w": "拿到",
+      "py": "nádào",
+      "en": "to get; to obtain"
+    },
+    {
+      "w": "以后",
+      "py": "yǐhòu",
+      "en": "after; later"
+    },
+    {
+      "w": "不仅",
+      "py": "bùjǐn",
+      "en": "not only"
+    },
+    {
+      "w": "要",
+      "py": "yào",
+      "en": "to need; must; will"
+    },
+    {
+      "w": "愿意",
+      "py": "yuànyì",
+      "en": "to be willing"
+    },
+    {
+      "w": "还要",
+      "py": "hái yào",
+      "en": "also need to"
+    },
+    {
+      "w": "所以",
+      "py": "suǒyǐ",
+      "en": "so; therefore"
+    },
+    {
+      "w": "需要",
+      "py": "xūyào",
+      "en": "to need; need"
+    },
+    {
+      "w": "提供",
+      "py": "tígōng",
+      "en": "to provide"
+    },
+    {
+      "w": "也",
+      "py": "yě",
+      "en": "also"
+    },
+    {
+      "w": "这些",
+      "py": "zhèxiē",
+      "en": "these"
+    },
+    {
+      "w": "目的",
+      "py": "mùdì",
+      "en": "purpose; aim"
+    },
+    {
+      "w": "是",
+      "py": "shì",
+      "en": "is; to be"
+    },
+    {
+      "w": "让",
+      "py": "ràng",
+      "en": "to let; to make"
+    },
+    {
+      "w": "国际",
+      "py": "guójì",
+      "en": "international"
+    },
+    {
+      "w": "用",
+      "py": "yòng",
+      "en": "to use"
+    },
+    {
+      "w": "得",
+      "py": "de",
+      "en": "(complement marker)"
+    },
+    {
+      "w": "如果",
+      "py": "rúguǒ",
+      "en": "if"
+    },
+    {
+      "w": "会",
+      "py": "huì",
+      "en": "will; can; meeting"
+    },
+    {
+      "w": "变得",
+      "py": "biàn de",
+      "en": "to become"
     }
   ]
 }

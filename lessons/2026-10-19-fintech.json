@@ -23,7 +23,8 @@
   ],
   "source": {
     "name": "移动支付网",
-    "url": "https://www.mpaypass.com.cn/news/202610/16144700.html"
+    "url": "https://www.mpaypass.com.cn/news/202610/16144700.html",
+    "name_en": "Mpaypass (China Mobile Payment Network)"
   },
   "vocab": [
     {
@@ -405,6 +406,363 @@
           "en": "My manager asked me to analyse which customers use the cross-border transfer feature most."
         }
       ]
+    }
+  ],
+  "glossary": [
+    {
+      "w": "帮助",
+      "py": "bāngzhù",
+      "en": "to help"
+    },
+    {
+      "w": "管理",
+      "py": "guǎnlǐ",
+      "en": "management; to manage"
+    },
+    {
+      "w": "月",
+      "py": "yuè",
+      "en": "month"
+    },
+    {
+      "w": "日",
+      "py": "rì",
+      "en": "day (date)"
+    },
+    {
+      "w": "在",
+      "py": "zài",
+      "en": "at; in; (in progress)"
+    },
+    {
+      "w": "第",
+      "py": "dì",
+      "en": "(ordinal prefix)"
+    },
+    {
+      "w": "上",
+      "py": "shàng",
+      "en": "on; previous; to go up"
+    },
+    {
+      "w": "了",
+      "py": "le",
+      "en": "(particle: completed action / change)"
+    },
+    {
+      "w": "它",
+      "py": "tā",
+      "en": "it"
+    },
+    {
+      "w": "主要",
+      "py": "zhǔyào",
+      "en": "main; mainly"
+    },
+    {
+      "w": "为",
+      "py": "wèi",
+      "en": "for; on behalf of"
+    },
+    {
+      "w": "做",
+      "py": "zuò",
+      "en": "to do; to make"
+    },
+    {
+      "w": "的",
+      "py": "de",
+      "en": "(particle: of; 's)"
+    },
+    {
+      "w": "现在",
+      "py": "xiànzài",
+      "en": "now"
+    },
+    {
+      "w": "已经",
+      "py": "yǐjīng",
+      "en": "already"
+    },
+    {
+      "w": "和",
+      "py": "hé",
+      "en": "and; with"
+    },
+    {
+      "w": "网站",
+      "py": "wǎngzhàn",
+      "en": "website"
+    },
+    {
+      "w": "以前",
+      "py": "yǐqián",
+      "en": "before; in the past"
+    },
+    {
+      "w": "开",
+      "py": "kāi",
+      "en": "to open"
+    },
+    {
+      "w": "换",
+      "py": "huàn",
+      "en": "to exchange; to change"
+    },
+    {
+      "w": "要",
+      "py": "yào",
+      "en": "to need; must; will"
+    },
+    {
+      "w": "打开",
+      "py": "dǎkāi",
+      "en": "to open"
+    },
+    {
+      "w": "很多",
+      "py": "hěnduō",
+      "en": "many; a lot of"
+    },
+    {
+      "w": "表格",
+      "py": "biǎogé",
+      "en": "form"
+    },
+    {
+      "w": "只",
+      "py": "zhǐ",
+      "en": "only"
+    },
+    {
+      "w": "需要",
+      "py": "xūyào",
+      "en": "to need; need"
+    },
+    {
+      "w": "一个",
+      "py": "yí gè",
+      "en": "one; a"
+    },
+    {
+      "w": "对话",
+      "py": "duìhuà",
+      "en": "dialogue; chat"
+    },
+    {
+      "w": "里",
+      "py": "lǐ",
+      "en": "in; inside"
+    },
+    {
+      "w": "说",
+      "py": "shuō",
+      "en": "to say"
+    },
+    {
+      "w": "一句",
+      "py": "yí jù",
+      "en": "one sentence"
+    },
+    {
+      "w": "话",
+      "py": "huà",
+      "en": "words; speech"
+    },
+    {
+      "w": "就",
+      "py": "jiù",
+      "en": "then; just; already"
+    },
+    {
+      "w": "能",
+      "py": "néng",
+      "en": "can; to be able to"
+    },
+    {
+      "w": "帮忙",
+      "py": "bāngmáng",
+      "en": "to help out"
+    },
+    {
+      "w": "完成",
+      "py": "wánchéng",
+      "en": "to complete"
+    },
+    {
+      "w": "经过",
+      "py": "jīngguò",
+      "en": "after; through"
+    },
+    {
+      "w": "以后",
+      "py": "yǐhòu",
+      "en": "after; later"
+    },
+    {
+      "w": "还",
+      "py": "hái",
+      "en": "also; still"
+    },
+    {
+      "w": "广告",
+      "py": "guǎnggào",
+      "en": "advertising"
+    },
+    {
+      "w": "等",
+      "py": "děng",
+      "en": "etc.; and so on"
+    },
+    {
+      "w": "帮",
+      "py": "bāng",
+      "en": "to help"
+    },
+    {
+      "w": "查",
+      "py": "chá",
+      "en": "to check"
+    },
+    {
+      "w": "方面",
+      "py": "fāngmiàn",
+      "en": "aspect; area"
+    },
+    {
+      "w": "会",
+      "py": "huì",
+      "en": "will; can; meeting"
+    },
+    {
+      "w": "根据",
+      "py": "gēnjù",
+      "en": "according to; based on"
+    },
+    {
+      "w": "告诉",
+      "py": "gàosu",
+      "en": "to tell"
+    },
+    {
+      "w": "够",
+      "py": "gòu",
+      "en": "enough"
+    },
+    {
+      "w": "不够",
+      "py": "bú gòu",
+      "en": "not enough"
+    },
+    {
+      "w": "什么时候",
+      "py": "shénme shíhou",
+      "en": "when"
+    },
+    {
+      "w": "可能",
+      "py": "kěnéng",
+      "en": "may; possibly"
+    },
+    {
+      "w": "有",
+      "py": "yǒu",
+      "en": "to have; there is"
+    },
+    {
+      "w": "并",
+      "py": "bìng",
+      "en": "and; also"
+    },
+    {
+      "w": "及时",
+      "py": "jíshí",
+      "en": "promptly; timely"
+    },
+    {
+      "w": "提醒",
+      "py": "tíxǐng",
+      "en": "to remind; to alert"
+    },
+    {
+      "w": "如果",
+      "py": "rúguǒ",
+      "en": "if"
+    },
+    {
+      "w": "意思",
+      "py": "yìsi",
+      "en": "meaning"
+    },
+    {
+      "w": "可以",
+      "py": "kěyǐ",
+      "en": "can; may"
+    },
+    {
+      "w": "得到",
+      "py": "dédào",
+      "en": "to get; to receive"
+    },
+    {
+      "w": "今年",
+      "py": "jīnnián",
+      "en": "this year"
+    },
+    {
+      "w": "只有",
+      "py": "zhǐyǒu",
+      "en": "only"
+    },
+    {
+      "w": "中",
+      "py": "zhōng",
+      "en": "in; middle"
+    },
+    {
+      "w": "使用",
+      "py": "shǐyòng",
+      "en": "to use"
+    },
+    {
+      "w": "因此",
+      "py": "yīncǐ",
+      "en": "therefore"
+    },
+    {
+      "w": "这个",
+      "py": "zhège",
+      "en": "this"
+    },
+    {
+      "w": "还有",
+      "py": "hái yǒu",
+      "en": "also; there is also"
+    },
+    {
+      "w": "很大",
+      "py": "hěndà",
+      "en": "very large"
+    },
+    {
+      "w": "表示",
+      "py": "biǎoshì",
+      "en": "to say; to state"
+    },
+    {
+      "w": "年",
+      "py": "nián",
+      "en": "year"
+    },
+    {
+      "w": "是",
+      "py": "shì",
+      "en": "is; to be"
+    },
+    {
+      "w": "一年",
+      "py": "yì nián",
+      "en": "one year"
     }
   ]
 }

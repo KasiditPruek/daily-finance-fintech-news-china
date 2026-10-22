@@ -23,7 +23,8 @@
   ],
   "source": {
     "name": "第一财经",
-    "url": "https://www.yicai.com/brief/103398267.html"
+    "url": "https://www.yicai.com/brief/103398267.html",
+    "name_en": "Yicai (China Business Network)"
   },
   "vocab": [
     {
@@ -255,6 +256,238 @@
           "en": "Fruit prices have gone up lately; a jin of apples costs ten yuan."
         }
       ]
+    }
+  ],
+  "glossary": [
+    {
+      "w": "月",
+      "py": "yuè",
+      "en": "month"
+    },
+    {
+      "w": "继续",
+      "py": "jìxù",
+      "en": "to continue"
+    },
+    {
+      "w": "日",
+      "py": "rì",
+      "en": "day (date)"
+    },
+    {
+      "w": "了",
+      "py": "le",
+      "en": "(particle: completed action / change)"
+    },
+    {
+      "w": "月份",
+      "py": "yuèfèn",
+      "en": "month (of the year)"
+    },
+    {
+      "w": "个",
+      "py": "gè",
+      "en": "(measure word)"
+    },
+    {
+      "w": "的",
+      "py": "de",
+      "en": "(particle: of; 's)"
+    },
+    {
+      "w": "和",
+      "py": "hé",
+      "en": "and; with"
+    },
+    {
+      "w": "去年",
+      "py": "qùnián",
+      "en": "last year"
+    },
+    {
+      "w": "城市",
+      "py": "chéngshì",
+      "en": "city"
+    },
+    {
+      "w": "虽然",
+      "py": "suīrán",
+      "en": "although"
+    },
+    {
+      "w": "还",
+      "py": "hái",
+      "en": "also; still"
+    },
+    {
+      "w": "在",
+      "py": "zài",
+      "en": "at; in; (in progress)"
+    },
+    {
+      "w": "但是",
+      "py": "dànshì",
+      "en": "but"
+    },
+    {
+      "w": "都",
+      "py": "dōu",
+      "en": "all; both"
+    },
+    {
+      "w": "变小",
+      "py": "biànxiǎo",
+      "en": "to become smaller"
+    },
+    {
+      "w": "从",
+      "py": "cóng",
+      "en": "from"
+    },
+    {
+      "w": "看",
+      "py": "kàn",
+      "en": "to look; to see"
+    },
+    {
+      "w": "价格",
+      "py": "jiàgé",
+      "en": "price"
+    },
+    {
+      "w": "比",
+      "py": "bǐ",
+      "en": "than; compared with"
+    },
+    {
+      "w": "来看",
+      "py": "lái kàn",
+      "en": "looking at (从…来看)"
+    },
+    {
+      "w": "其中",
+      "py": "qízhōng",
+      "en": "among them"
+    },
+    {
+      "w": "上海",
+      "py": "Shànghǎi",
+      "en": "Shanghai"
+    },
+    {
+      "w": "北京",
+      "py": "Běijīng",
+      "en": "Beijing"
+    },
+    {
+      "w": "二线",
+      "py": "èrxiàn",
+      "en": "second-tier"
+    },
+    {
+      "w": "也",
+      "py": "yě",
+      "en": "also"
+    },
+    {
+      "w": "一样",
+      "py": "yíyàng",
+      "en": "the same"
+    },
+    {
+      "w": "是",
+      "py": "shì",
+      "en": "is; to be"
+    },
+    {
+      "w": "中国",
+      "py": "Zhōngguó",
+      "en": "China"
+    },
+    {
+      "w": "经济",
+      "py": "jīngjì",
+      "en": "economy"
+    },
+    {
+      "w": "很",
+      "py": "hěn",
+      "en": "very"
+    },
+    {
+      "w": "重要",
+      "py": "zhòngyào",
+      "en": "important"
+    },
+    {
+      "w": "一部分",
+      "py": "yí bùfen",
+      "en": "a part"
+    },
+    {
+      "w": "银行",
+      "py": "yínháng",
+      "en": "bank"
+    },
+    {
+      "w": "关系",
+      "py": "guānxì",
+      "en": "relationship; connection"
+    },
+    {
+      "w": "说明",
+      "py": "shuōmíng",
+      "en": "to show; to explain"
+    },
+    {
+      "w": "可能",
+      "py": "kěnéng",
+      "en": "may; possibly"
+    },
+    {
+      "w": "正在",
+      "py": "zhèngzài",
+      "en": "in the process of"
+    },
+    {
+      "w": "慢慢",
+      "py": "mànmàn",
+      "en": "slowly; gradually"
+    },
+    {
+      "w": "二",
+      "py": "èr",
+      "en": "two"
+    },
+    {
+      "w": "仍然",
+      "py": "réngrán",
+      "en": "still"
+    },
+    {
+      "w": "得",
+      "py": "de",
+      "en": "(complement marker)"
+    },
+    {
+      "w": "比较",
+      "py": "bǐjiào",
+      "en": "fairly; relatively"
+    },
+    {
+      "w": "多",
+      "py": "duō",
+      "en": "many; much; more"
+    },
+    {
+      "w": "压力",
+      "py": "yālì",
+      "en": "pressure"
+    },
+    {
+      "w": "大",
+      "py": "dà",
+      "en": "big; large"
     }
   ]
 }

@@ -22,8 +22,10 @@
     }
   ],
   "source": {
-    "name": "移动支付网 (2026-10-19 21:02)",
-    "url": "https://www.mpaypass.com.cn/news/202610/19211016.html"
+    "name": "移动支付网",
+    "url": "https://www.mpaypass.com.cn/news/202610/19211016.html",
+    "date": "2026-10-19",
+    "name_en": "Mpaypass (China Mobile Payment Network)"
   },
   "vocab": [
     {
@@ -315,6 +317,283 @@
           "en": "We should analyse users' conversion rate by usage scenario."
         }
       ]
+    }
+  ],
+  "glossary": [
+    {
+      "w": "增加",
+      "py": "zēngjiā",
+      "en": "to increase"
+    },
+    {
+      "w": "到",
+      "py": "dào",
+      "en": "to; until; to arrive"
+    },
+    {
+      "w": "家",
+      "py": "jiā",
+      "en": "(measure word for companies); home"
+    },
+    {
+      "w": "月",
+      "py": "yuè",
+      "en": "month"
+    },
+    {
+      "w": "日",
+      "py": "rì",
+      "en": "day (date)"
+    },
+    {
+      "w": "在",
+      "py": "zài",
+      "en": "at; in; (in progress)"
+    },
+    {
+      "w": "上",
+      "py": "shàng",
+      "en": "on; previous; to go up"
+    },
+    {
+      "w": "说",
+      "py": "shuō",
+      "en": "to say"
+    },
+    {
+      "w": "的",
+      "py": "de",
+      "en": "(particle: of; 's)"
+    },
+    {
+      "w": "已经",
+      "py": "yǐjīng",
+      "en": "already"
+    },
+    {
+      "w": "从",
+      "py": "cóng",
+      "en": "from"
+    },
+    {
+      "w": "所有",
+      "py": "suǒyǒu",
+      "en": "all"
+    },
+    {
+      "w": "这",
+      "py": "zhè",
+      "en": "this"
+    },
+    {
+      "w": "说明",
+      "py": "shuōmíng",
+      "en": "to show; to explain"
+    },
+    {
+      "w": "正在",
+      "py": "zhèngzài",
+      "en": "in the process of"
+    },
+    {
+      "w": "更大",
+      "py": "gèngdà",
+      "en": "bigger"
+    },
+    {
+      "w": "还",
+      "py": "hái",
+      "en": "also; still"
+    },
+    {
+      "w": "今年",
+      "py": "jīnnián",
+      "en": "this year"
+    },
+    {
+      "w": "改变",
+      "py": "gǎibiàn",
+      "en": "to change"
+    },
+    {
+      "w": "了",
+      "py": "le",
+      "en": "(particle: completed action / change)"
+    },
+    {
+      "w": "以前",
+      "py": "yǐqián",
+      "en": "before; in the past"
+    },
+    {
+      "w": "它",
+      "py": "tā",
+      "en": "it"
+    },
+    {
+      "w": "被",
+      "py": "bèi",
+      "en": "(passive marker)"
+    },
+    {
+      "w": "现金",
+      "py": "xiànjīn",
+      "en": "cash"
+    },
+    {
+      "w": "现在",
+      "py": "xiànzài",
+      "en": "now"
+    },
+    {
+      "w": "里",
+      "py": "lǐ",
+      "en": "in; inside"
+    },
+    {
+      "w": "更",
+      "py": "gèng",
+      "en": "more; even more"
+    },
+    {
+      "w": "像",
+      "py": "xiàng",
+      "en": "like; to resemble"
+    },
+    {
+      "w": "银行",
+      "py": "yínháng",
+      "en": "bank"
+    },
+    {
+      "w": "另外",
+      "py": "lìngwài",
+      "en": "in addition"
+    },
+    {
+      "w": "去年",
+      "py": "qùnián",
+      "en": "last year"
+    },
+    {
+      "w": "北京",
+      "py": "Běijīng",
+      "en": "Beijing"
+    },
+    {
+      "w": "管理",
+      "py": "guǎnlǐ",
+      "en": "management; to manage"
+    },
+    {
+      "w": "开始",
+      "py": "kāishǐ",
+      "en": "to start"
+    },
+    {
+      "w": "工作",
+      "py": "gōngzuò",
+      "en": "to work; work"
+    },
+    {
+      "w": "这个",
+      "py": "zhège",
+      "en": "this"
+    },
+    {
+      "w": "可以",
+      "py": "kěyǐ",
+      "en": "can; may"
+    },
+    {
+      "w": "提供",
+      "py": "tígōng",
+      "en": "to provide"
+    },
+    {
+      "w": "和",
+      "py": "hé",
+      "en": "and; with"
+    },
+    {
+      "w": "等",
+      "py": "děng",
+      "en": "etc.; and so on"
+    },
+    {
+      "w": "服务",
+      "py": "fúwù",
+      "en": "service; to serve"
+    },
+    {
+      "w": "对",
+      "py": "duì",
+      "en": "to; toward; for"
+    },
+    {
+      "w": "来说",
+      "py": "lái shuō",
+      "en": "speaking (对…来说)"
+    },
+    {
+      "w": "参加",
+      "py": "cānjiā",
+      "en": "to take part in"
+    },
+    {
+      "w": "越",
+      "py": "yuè",
+      "en": "the more"
+    },
+    {
+      "w": "多",
+      "py": "duō",
+      "en": "many; much; more"
+    },
+    {
+      "w": "使用",
+      "py": "shǐyòng",
+      "en": "to use"
+    },
+    {
+      "w": "就",
+      "py": "jiù",
+      "en": "then; just; already"
+    },
+    {
+      "w": "会",
+      "py": "huì",
+      "en": "will; can; meeting"
+    },
+    {
+      "w": "丰富",
+      "py": "fēngfù",
+      "en": "rich; varied"
+    },
+    {
+      "w": "可能",
+      "py": "kěnéng",
+      "en": "may; possibly"
+    },
+    {
+      "w": "有",
+      "py": "yǒu",
+      "en": "to have; there is"
+    },
+    {
+      "w": "机会",
+      "py": "jīhuì",
+      "en": "chance; opportunity"
+    },
+    {
+      "w": "用",
+      "py": "yòng",
+      "en": "to use"
+    },
+    {
+      "w": "付款",
+      "py": "fùkuǎn",
+      "en": "to pay"
     }
   ]
 }

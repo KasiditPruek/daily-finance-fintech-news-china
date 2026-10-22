@@ -5,7 +5,8 @@ Usage (from the repo root):
     python3 scripts/publish.py path/to/lesson.json
 
 The JSON must contain at least: date (YYYY-MM-DD), category (finance|fintech),
-title_zh, title_en, paragraphs [{zh, en}], source {name, url}, vocab [{hanzi, pinyin, en, hsk}],
+title_zh, title_en, paragraphs [{zh, en}], source {name, name_en, url}, vocab [{hanzi, pinyin, en, hsk}],
+glossary [{w, py, en}] (every other word in the title and paragraphs, so every word can be tapped),
 featured [{hanzi, pinyin, pos, en, note, examples [{zh, py, en}]}].
 
 It writes lessons/<date>-<category>.json and removes lessons/*-<category>.json whose
@@ -41,8 +42,34 @@ def clean_url(url):
     return url
 
 
+HAN = re.compile(r"[\u4e00-\u9fff]")
+
+
+def uncovered(d):
+    """Segment the text exactly like the website does (greedy longest match) and
+    return the Chinese characters/runs that no glossary or vocab entry covers."""
+    words = {g["w"] for g in d.get("glossary", []) if g.get("w")}
+    words |= {v["hanzi"] for v in d.get("vocab", []) if v.get("hanzi")}
+    longest = max((len(w) for w in words), default=1)
+    missing = []
+    for text in [d.get("title_zh", "")] + [p.get("zh", "") for p in d.get("paragraphs", [])]:
+        i = 0
+        while i < len(text):
+            for size in range(min(longest, len(text) - i), 0, -1):
+                if text[i:i + size] in words:
+                    i += size
+                    break
+            else:
+                if HAN.match(text[i]):
+                    ctx = text[max(0, i - 4):i + 5]
+                    if not missing or not missing[-1].endswith(f"…{ctx}…"):
+                        missing.append(f"{text[i]}（…{ctx}…）")
+                i += 1
+    return missing
+
+
 def validate(d):
-    for key in ("date", "category", "title_zh", "title_en", "paragraphs", "vocab"):
+    for key in ("date", "category", "title_zh", "title_en", "paragraphs", "vocab", "glossary"):
         if not d.get(key):
             fail(f"missing '{key}'")
     try:
@@ -58,12 +85,21 @@ def validate(d):
         for k in ("hanzi", "pinyin", "en"):
             if not v.get(k):
                 fail(f"vocab entry {i + 1} is missing '{k}'")
+    for i, g in enumerate(d["glossary"]):
+        for k in ("w", "py", "en"):
+            if not g.get(k):
+                fail(f"glossary entry {i + 1} is missing '{k}'")
+    missing = uncovered(d)
+    if missing:
+        fail("these words have no definition — add them to 'glossary' (or 'vocab') and run again: " + "、".join(missing))
     for f in d.get("featured", []):
         if not f.get("hanzi") or not f.get("examples"):
             fail("each featured word needs 'hanzi' and 'examples'")
     d.pop("takeaway", None)  # the website never shows the takeaway
     src = d.setdefault("source", {})
     src["url"] = clean_url(src.get("url", ""))
+    if not src.get("name") or not src.get("name_en"):
+        fail("source needs both 'name' (Chinese) and 'name_en' (English)")
     return d
 
 

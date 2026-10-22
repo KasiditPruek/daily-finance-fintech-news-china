@@ -121,19 +121,61 @@
   }
 
   /* ---------- lesson ---------- */
-  function annotate(text, vocab) {
-    var words = (vocab || []).map(function (v) { return v.hanzi; })
-      .filter(function (h) { return h && h.indexOf("…") === -1 && h.indexOf("...") === -1; })
-      .sort(function (a, b) { return b.length - a.length; });
-    var safe = esc(text);
-    if (!words.length) return safe;
-    var byWord = {};
-    vocab.forEach(function (v, i) { if (!(v.hanzi in byWord)) byWord[v.hanzi] = i; });
-    var re = new RegExp(words.map(function (w) { return w.replace(/[.*+?^${}()|[\]\\]/g, "\\$&"); }).join("|"), "g");
-    return safe.replace(re, function (m) {
-      var i = byWord[m], v = vocab[i];
-      return '<ruby class="v" data-i="' + i + '">' + m + "<rt>" + esc(v.pinyin) + "</rt></ruby>";
+  // One dictionary per lesson: 生词 (with HSK level) + glossary (every other word in the text).
+  function buildDict(l) {
+    var map = {}, max = 1;
+    (l.glossary || []).forEach(function (g) { if (g.w) map[g.w] = { w: g.w, py: g.py, en: g.en }; });
+    (l.vocab || []).forEach(function (v) {
+      if (!v.hanzi || /…|\.\.\./.test(v.hanzi)) return;
+      map[v.hanzi] = { w: v.hanzi, py: v.pinyin, en: v.en, hsk: v.hsk, sc: true };
     });
+    Object.keys(map).forEach(function (k) { if (k.length > max) max = k.length; });
+    return { map: map, max: max };
+  }
+
+  // Greedy longest-match segmentation — the same rule scripts/publish.py checks.
+  function segment(text, D) {
+    var out = [], i = 0;
+    while (i < text.length) {
+      var hit = null;
+      for (var L = Math.min(D.max, text.length - i); L > 0; L--) {
+        var s = text.substr(i, L);
+        if (D.map.hasOwnProperty(s)) { hit = s; break; }
+      }
+      if (hit) { out.push({ t: hit, e: D.map[hit] }); i += hit.length; }
+      else {
+        if (out.length && !out[out.length - 1].e) out[out.length - 1].t += text.charAt(i);
+        else out.push({ t: text.charAt(i) });
+        i++;
+      }
+    }
+    return out;
+  }
+
+  function splitSentences(text) {
+    var parts = text.match(/[^。！？；!?]+[。！？；!?”"」）)]*/g) || [text];
+    return parts.filter(function (s) { return s.trim(); });
+  }
+
+  // Builds clickable word HTML and records sentences for the audio player.
+  function makeReader(D) {
+    var entries = [], sentences = [], pos = 0;
+    function words(text) {
+      return segment(text, D).map(function (tok) {
+        if (!tok.e) return esc(tok.t);
+        var k = entries.push(tok.e) - 1;
+        if (tok.e.sc) return '<ruby class="w v" data-k="' + k + '">' + esc(tok.t) + "<rt>" + esc(tok.e.py) + "</rt></ruby>";
+        return '<span class="w" data-k="' + k + '">' + esc(tok.t) + "</span>";
+      }).join("");
+    }
+    function block(text) {
+      return splitSentences(text).map(function (s) {
+        var i = sentences.push({ text: s, start: pos }) - 1;
+        pos += s.length;
+        return '<span class="sent" data-s="' + i + '">' + words(s) + "</span>";
+      }).join("");
+    }
+    return { block: block, entries: entries, sentences: sentences, total: function () { return pos; } };
   }
 
   function renderLesson() {
@@ -152,20 +194,18 @@
         a.classList.toggle("on", a.getAttribute("data-c") === c);
       });
 
-      var vocab = l.vocab || [];
+      var R = makeReader(buildDict(l));
+      var titleHtml = R.block(l.title_zh);
       var paras = (l.paragraphs || []).map(function (p) {
-        return '<div class="para"><p class="zh" lang="zh-CN">' + annotate(p.zh, vocab) + '</p><p class="en">' + esc(p.en) + "</p></div>";
+        return '<div class="para"><p class="zh" lang="zh-CN">' + R.block(p.zh) + '</p><p class="en">' + esc(p.en) + "</p></div>";
       }).join("");
-      var src = l.source || {};
-      var srcHtml = src.url
-        ? '<p class="source">来源：<a href="' + esc(src.url) + '" target="_blank" rel="noopener">' + esc(src.name || src.url) + "</a>" +
-          (src.date ? " · " + esc(src.date) : "") + "</p>"
-        : (src.name ? '<p class="source">来源：' + esc(src.name) + "</p>" : "");
 
-      var vocabHtml = vocab.map(function (v, i) {
-        return '<li data-i="' + i + '"><span><span class="h" lang="zh-CN">' + esc(v.hanzi) + '</span> <span class="p">' + esc(v.pinyin) +
-          '</span></span><span class="lvl">' + esc(v.hsk) + '</span><span class="m">' + esc(v.en) + "</span></li>";
-      }).join("");
+      var src = l.source || {};
+      var label = esc(src.name || "") + (src.name_en ? " · " + esc(src.name_en) : "");
+      var srcHtml = (src.name || src.url)
+        ? '<p class="source">来源 Source：' + (src.url ? '<a href="' + esc(src.url) + '" target="_blank" rel="noopener">' + (label || esc(src.url)) + "</a>" : label) +
+          (src.date ? " · " + esc(src.date) : "") + "</p>"
+        : "";
 
       var feat = (l.featured || []).map(function (f) {
         var ex = (f.examples || []).map(function (e) {
@@ -184,46 +224,123 @@
 
       root.innerHTML =
         '<header class="lesson-head">' + chip(c) + ' <span class="meta">' + esc(prettyDate(l.date)) + "</span>" +
-        '<h1 lang="zh-CN">' + esc(l.title_zh) + '</h1><p class="en">' + esc(l.title_en) + "</p></header>" +
-        '<div class="lesson-grid"><div class="article">' + paras + srcHtml + "</div>" +
-        '<aside class="vocab"><h3>生词（共 ' + vocab.length + " 个）</h3><ol>" + vocabHtml + "</ol></aside></div>" +
+        '<h1 lang="zh-CN">' + titleHtml + '</h1><p class="en">' + esc(l.title_en) + "</p></header>" +
+        '<div class="article">' + paras + srcHtml + "</div>" +
         (feat ? '<section class="featured"><h3>重点词汇</h3><div class="featured-grid">' + feat + "</div></section>" : "") +
         '<nav class="pager">' +
         (older ? '<a href="' + lessonUrl(older) + '">← ' + esc(older.date.slice(5)) + " " + esc(older.title_zh) + "</a>" : "<span></span>") +
         (newer ? '<a href="' + lessonUrl(newer) + '" style="text-align:right">' + esc(newer.date.slice(5)) + " " + esc(newer.title_zh) + " →</a>" : "") +
         "</nav>";
 
-      wireVocabLinks(vocab);
+      wireWords(R.entries);
+      setupPlayer(R.sentences, R.total());
     });
   }
 
-  /* Tap a highlighted word → show meaning and flash it in the 生词 list. */
-  function wireVocabLinks(vocab) {
+  /* Tap any word → pinyin and meaning. */
+  function wireWords(entries) {
     var pop = document.createElement("div");
     pop.className = "pop"; pop.hidden = true; document.body.appendChild(pop);
     var current = null;
     function clear() {
       pop.hidden = true;
-      Array.prototype.forEach.call(document.querySelectorAll(".active"), function (n) { n.classList.remove("active"); });
+      if (current) current.classList.remove("active");
       current = null;
     }
     document.addEventListener("click", function (e) {
-      var r = e.target.closest && e.target.closest("ruby.v");
-      if (!r) { clear(); return; }
-      if (current === r) { clear(); return; }
-      clear(); current = r;
-      var i = r.getAttribute("data-i"), v = vocab[+i];
-      Array.prototype.forEach.call(document.querySelectorAll('[data-i="' + i + '"]'), function (n) { n.classList.add("active"); });
-      pop.innerHTML = "<b>" + esc(v.hanzi) + "</b> " + esc(v.pinyin) + "<br>" + esc(v.en) + (v.hsk ? " · " + esc(v.hsk) : "");
+      var w = e.target.closest && e.target.closest(".w");
+      if (!w) { clear(); return; }
+      if (current === w) { clear(); return; }
+      clear(); current = w; w.classList.add("active");
+      var v = entries[+w.getAttribute("data-k")];
+      pop.innerHTML = "<b>" + esc(v.w) + "</b> " + esc(v.py) + "<br>" + esc(v.en) +
+        (v.sc ? '<span class="tag">生词' + (v.hsk ? " · " + esc(v.hsk) : "") + "</span>" : "");
       pop.hidden = false;
-      var b = r.getBoundingClientRect();
+      var b = w.getBoundingClientRect();
       var left = Math.max(8, Math.min(window.scrollX + b.left, window.scrollX + document.documentElement.clientWidth - 270));
       pop.style.left = left + "px";
       pop.style.top = (window.scrollY + b.bottom + 6) + "px";
-      var li = document.querySelector('.vocab li[data-i="' + i + '"]');
-      var box = document.querySelector(".vocab");
-      if (li && box && box.scrollHeight > box.clientHeight) box.scrollTop = li.offsetTop - box.clientHeight / 2;
     });
+    window.addEventListener("resize", clear);
+  }
+
+  /* Read the whole lesson aloud with the device's Chinese voice; the bar seeks by position in the text. */
+  function setupPlayer(sentences, total) {
+    var bar = $("#player");
+    if (!bar) return;
+    var synth = window.speechSynthesis;
+    if (!synth || !window.SpeechSynthesisUtterance || !sentences.length) {
+      bar.innerHTML = '<span class="meta">这个浏览器不能朗读。Read-aloud isn\'t supported in this browser.</span>';
+      return;
+    }
+    bar.innerHTML =
+      '<button class="play" type="button" aria-label="Play">' +
+      '<svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path class="i-play" d="M7 4.5v15l13-7.5z"/><path class="i-pause" d="M6 4h4v16H6zM14 4h4v16h-4z"/></svg></button>' +
+      '<input class="seek" type="range" min="0" max="' + Math.max(total - 1, 0) + '" step="1" value="0" aria-label="Position in the text">' +
+      '<span class="ptime meta">1 / ' + sentences.length + "</span>";
+    var btn = bar.querySelector(".play"), seek = bar.querySelector(".seek"), label = bar.querySelector(".ptime");
+    var cur = 0, playing = false, run = 0, voice = null, dragging = false;
+
+    function pickVoice() {
+      var vs = synth.getVoices().filter(function (v) { return /^zh[-_](CN|Hans)/i.test(v.lang) || v.lang === "zh"; });
+      vs.sort(function (a, b) { return score(b) - score(a); });
+      voice = vs[0] || null;
+      function score(v) { return (/natural|neural|online/i.test(v.name) ? 4 : 0) + (/xiaoxiao|yunxi|tingting|google/i.test(v.name) ? 2 : 0) + (v.localService ? 0 : 1); }
+    }
+    pickVoice();
+    if (typeof synth.onvoiceschanged !== "undefined") synth.onvoiceschanged = pickVoice;
+
+    function sentAt(p) {
+      for (var i = sentences.length - 1; i >= 0; i--) if (sentences[i].start <= p) return i;
+      return 0;
+    }
+    function mark(i) {
+      Array.prototype.forEach.call(document.querySelectorAll(".sent.speaking"), function (n) { n.classList.remove("speaking"); });
+      var el = document.querySelector('.sent[data-s="' + i + '"]');
+      if (el) el.classList.add("speaking");
+      label.textContent = (i + 1) + " / " + sentences.length;
+      return el;
+    }
+    function setPlaying(v) {
+      playing = v; bar.classList.toggle("is-playing", v);
+      btn.setAttribute("aria-label", v ? "Pause" : "Play");
+    }
+    function speak(i, offset) {
+      var my = ++run;
+      synth.cancel();
+      if (i >= sentences.length) { setPlaying(false); cur = 0; seek.value = 0; mark(0); return; }
+      cur = i;
+      var s = sentences[i], text = s.text.slice(offset || 0);
+      var el = mark(i);
+      if (!dragging) seek.value = s.start + (offset || 0);
+      if (el) {
+        var r = el.getBoundingClientRect();
+        if (r.top < 120 || r.bottom > window.innerHeight - 40) window.scrollBy({ top: r.top - window.innerHeight / 3, behavior: "smooth" });
+      }
+      var u = new SpeechSynthesisUtterance(text);
+      u.lang = "zh-CN"; if (voice) u.voice = voice; u.rate = 0.95;
+      u.onboundary = function (ev) { if (my === run && !dragging) seek.value = s.start + (offset || 0) + (ev.charIndex || 0); };
+      u.onend = function () { if (my === run && playing) speak(i + 1, 0); };
+      u.onerror = function () { if (my === run && playing) speak(i + 1, 0); };
+      synth.speak(u);
+    }
+    btn.addEventListener("click", function () {
+      if (playing) { run++; synth.cancel(); setPlaying(false); return; }
+      setPlaying(true); speak(cur, 0);
+    });
+    seek.addEventListener("input", function () { dragging = true; var i = sentAt(+seek.value); mark(i); });
+    seek.addEventListener("change", function () {
+      dragging = false;
+      var i = sentAt(+seek.value);
+      cur = i; seek.value = sentences[i].start;
+      if (playing) speak(i, 0); else mark(i);
+    });
+    document.addEventListener("click", function (e) {
+      // Double-click/tap a sentence while the bar is visible to jump there.
+      var s = e.detail === 2 && e.target.closest && e.target.closest(".sent");
+      if (s) { var i = +s.getAttribute("data-s"); cur = i; seek.value = sentences[i].start; if (playing) speak(i, 0); else mark(i); }
+    });
+    window.addEventListener("pagehide", function () { run++; synth.cancel(); });
   }
 
   /* ---------- vocab page ---------- */

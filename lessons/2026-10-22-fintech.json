@@ -22,8 +22,9 @@
     }
   ],
   "source": {
-    "name": "光明网（转载央视财经）《数字人民币迎来全面升级》",
-    "url": "https://m.gmw.cn/2026-10/22/content_1304578025.htm"
+    "name": "光明网（转载央视财经）",
+    "url": "https://m.gmw.cn/2026-10/22/content_1304578025.htm",
+    "name_en": "Guangming Online (republished from CCTV Finance)"
   },
   "vocab": [
     {
@@ -393,6 +394,413 @@
           "en": "This month the number of cross-border transactions rose 15% compared with last month."
         }
       ]
+    }
+  ],
+  "glossary": [
+    {
+      "w": "月",
+      "py": "yuè",
+      "en": "month"
+    },
+    {
+      "w": "日",
+      "py": "rì",
+      "en": "day (date)"
+    },
+    {
+      "w": "在",
+      "py": "zài",
+      "en": "at; in; (in progress)"
+    },
+    {
+      "w": "北京",
+      "py": "Běijīng",
+      "en": "Beijing"
+    },
+    {
+      "w": "举行",
+      "py": "jǔxíng",
+      "en": "to hold (an event)"
+    },
+    {
+      "w": "的",
+      "py": "de",
+      "en": "(particle: of; 's)"
+    },
+    {
+      "w": "金融街",
+      "py": "Jīnróng Jiē",
+      "en": "Financial Street (Beijing)"
+    },
+    {
+      "w": "上",
+      "py": "shàng",
+      "en": "on; previous; to go up"
+    },
+    {
+      "w": "陆磊",
+      "py": "Lù Lěi",
+      "en": "Lu Lei (PBOC deputy governor)"
+    },
+    {
+      "w": "服务",
+      "py": "fúwù",
+      "en": "service; to serve"
+    },
+    {
+      "w": "完成",
+      "py": "wánchéng",
+      "en": "to complete"
+    },
+    {
+      "w": "同时",
+      "py": "tóngshí",
+      "en": "at the same time"
+    },
+    {
+      "w": "管理",
+      "py": "guǎnlǐ",
+      "en": "management; to manage"
+    },
+    {
+      "w": "了",
+      "py": "le",
+      "en": "(particle: completed action / change)"
+    },
+    {
+      "w": "两项",
+      "py": "liǎng xiàng",
+      "en": "two (items)"
+    },
+    {
+      "w": "新",
+      "py": "xīn",
+      "en": "new"
+    },
+    {
+      "w": "端",
+      "py": "duān",
+      "en": "side; end"
+    },
+    {
+      "w": "和",
+      "py": "hé",
+      "en": "and; with"
+    },
+    {
+      "w": "一个",
+      "py": "yí gè",
+      "en": "one; a"
+    },
+    {
+      "w": "这次",
+      "py": "zhècì",
+      "en": "this time"
+    },
+    {
+      "w": "最",
+      "py": "zuì",
+      "en": "most"
+    },
+    {
+      "w": "重要",
+      "py": "zhòngyào",
+      "en": "important"
+    },
+    {
+      "w": "变化",
+      "py": "biànhuà",
+      "en": "change"
+    },
+    {
+      "w": "是",
+      "py": "shì",
+      "en": "is; to be"
+    },
+    {
+      "w": "从",
+      "py": "cóng",
+      "en": "from"
+    },
+    {
+      "w": "现金",
+      "py": "xiànjīn",
+      "en": "cash"
+    },
+    {
+      "w": "变成",
+      "py": "biànchéng",
+      "en": "to turn into"
+    },
+    {
+      "w": "简单",
+      "py": "jiǎndān",
+      "en": "simple"
+    },
+    {
+      "w": "来说",
+      "py": "lái shuō",
+      "en": "speaking (对…来说)"
+    },
+    {
+      "w": "以前",
+      "py": "yǐqián",
+      "en": "before; in the past"
+    },
+    {
+      "w": "更",
+      "py": "gèng",
+      "en": "more; even more"
+    },
+    {
+      "w": "像",
+      "py": "xiàng",
+      "en": "like; to resemble"
+    },
+    {
+      "w": "手机",
+      "py": "shǒujī",
+      "en": "mobile phone"
+    },
+    {
+      "w": "里",
+      "py": "lǐ",
+      "en": "in; inside"
+    },
+    {
+      "w": "现在",
+      "py": "xiànzài",
+      "en": "now"
+    },
+    {
+      "w": "放在",
+      "py": "fàngzài",
+      "en": "to put in"
+    },
+    {
+      "w": "商业银行",
+      "py": "shāngyè yínháng",
+      "en": "commercial bank"
+    },
+    {
+      "w": "会",
+      "py": "huì",
+      "en": "will; can; meeting"
+    },
+    {
+      "w": "银行",
+      "py": "yínháng",
+      "en": "bank"
+    },
+    {
+      "w": "记",
+      "py": "jì",
+      "en": "to record"
+    },
+    {
+      "w": "这样",
+      "py": "zhèyàng",
+      "en": "like this; this way"
+    },
+    {
+      "w": "可以",
+      "py": "kěyǐ",
+      "en": "can; may"
+    },
+    {
+      "w": "减少",
+      "py": "jiǎnshǎo",
+      "en": "to reduce"
+    },
+    {
+      "w": "人们",
+      "py": "rénmen",
+      "en": "people"
+    },
+    {
+      "w": "担心",
+      "py": "dānxīn",
+      "en": "to worry"
+    },
+    {
+      "w": "钱",
+      "py": "qián",
+      "en": "money"
+    },
+    {
+      "w": "离开",
+      "py": "líkāi",
+      "en": "to leave"
+    },
+    {
+      "w": "问题",
+      "py": "wèntí",
+      "en": "problem; issue"
+    },
+    {
+      "w": "把",
+      "py": "bǎ",
+      "en": "(marks the object)"
+    },
+    {
+      "w": "等",
+      "py": "děng",
+      "en": "etc.; and so on"
+    },
+    {
+      "w": "同一个",
+      "py": "tóng yí gè",
+      "en": "the same"
+    },
+    {
+      "w": "小时",
+      "py": "xiǎoshí",
+      "en": "hour"
+    },
+    {
+      "w": "另",
+      "py": "lìng",
+      "en": "another"
+    },
+    {
+      "w": "重点",
+      "py": "zhòngdiǎn",
+      "en": "focus; key point"
+    },
+    {
+      "w": "按照",
+      "py": "ànzhào",
+      "en": "according to"
+    },
+    {
+      "w": "提前",
+      "py": "tíqián",
+      "en": "in advance"
+    },
+    {
+      "w": "写",
+      "py": "xiě",
+      "en": "to write"
+    },
+    {
+      "w": "好",
+      "py": "hǎo",
+      "en": "good; well"
+    },
+    {
+      "w": "比如",
+      "py": "bǐrú",
+      "en": "for example"
+    },
+    {
+      "w": "到",
+      "py": "dào",
+      "en": "to; until; to arrive"
+    },
+    {
+      "w": "才",
+      "py": "cái",
+      "en": "only then; not until"
+    },
+    {
+      "w": "付款",
+      "py": "fùkuǎn",
+      "en": "to pay"
+    },
+    {
+      "w": "这",
+      "py": "zhè",
+      "en": "this"
+    },
+    {
+      "w": "对",
+      "py": "duì",
+      "en": "to; toward; for"
+    },
+    {
+      "w": "很",
+      "py": "hěn",
+      "en": "very"
+    },
+    {
+      "w": "有用",
+      "py": "yǒuyòng",
+      "en": "useful"
+    },
+    {
+      "w": "普通",
+      "py": "pǔtōng",
+      "en": "ordinary"
+    },
+    {
+      "w": "可能",
+      "py": "kěnéng",
+      "en": "may; possibly"
+    },
+    {
+      "w": "不",
+      "py": "bù",
+      "en": "not"
+    },
+    {
+      "w": "大",
+      "py": "dà",
+      "en": "big; large"
+    },
+    {
+      "w": "但",
+      "py": "dàn",
+      "en": "but"
+    },
+    {
+      "w": "公司",
+      "py": "gōngsī",
+      "en": "company"
+    },
+    {
+      "w": "正",
+      "py": "zhèng",
+      "en": "right now; just"
+    },
+    {
+      "w": "真正",
+      "py": "zhēnzhèng",
+      "en": "real; genuine"
+    },
+    {
+      "w": "它",
+      "py": "tā",
+      "en": "it"
+    },
+    {
+      "w": "支付宝",
+      "py": "Zhīfùbǎo",
+      "en": "Alipay"
+    },
+    {
+      "w": "微信",
+      "py": "Wēixìn",
+      "en": "WeChat"
+    },
+    {
+      "w": "竞争",
+      "py": "jìngzhēng",
+      "en": "competition"
+    },
+    {
+      "w": "与",
+      "py": "yǔ",
+      "en": "and; with"
+    },
+    {
+      "w": "值得",
+      "py": "zhíde",
+      "en": "to be worth"
+    },
+    {
+      "w": "继续",
+      "py": "jìxù",
+      "en": "to continue"
     }
   ]
 }
