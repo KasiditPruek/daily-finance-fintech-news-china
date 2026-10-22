@@ -1,0 +1,326 @@
+{
+  "date": "2026-10-22",
+  "category": "finance",
+  "title_zh": "央行推出新工具，帮助稳定债券市场",
+  "title_en": "Central bank launches a new tool to help stabilize the bond market",
+  "paragraphs": [
+    {
+      "zh": "中国人民银行最近宣布，将和金融监管总局、证监会一起，推出一个新的流动性支持工具。这个工具主要是为了帮助非银行机构，比如银行理财公司和公募基金公司。",
+      "en": "The People's Bank of China recently announced that, together with the National Financial Regulatory Administration and the China Securities Regulatory Commission, it will launch a new liquidity support tool. The tool is mainly meant to help non-bank institutions, such as bank wealth-management companies and public fund companies."
+    },
+    {
+      "zh": "为什么需要这个工具？当很多投资者同时要求赎回时，这些机构手里的现金可能不够，只好卖出债券。债券价格下跌以后，更多投资者担心亏钱，又要赎回，这样就形成了“赎回—抛售”的恶性循环。",
+      "en": "Why is this tool needed? When many investors ask to redeem at the same time, these institutions may not have enough cash on hand and have to sell bonds. After bond prices fall, more investors worry about losing money and redeem too, creating a \"redemption–sell-off\" vicious circle."
+    },
+    {
+      "zh": "根据规定，使用这个工具的机构要符合宏观审慎要求，还要提供高等级的债券作为抵押品。专家估计，因为央行不能直接把钱借给非银行机构，这个工具可能会采用互换的方式。",
+      "en": "Under the rules, institutions using the tool must meet macro-prudential requirements and provide high-grade bonds as collateral. Experts estimate that because the central bank cannot lend money directly to non-bank institutions, the tool may take the form of a swap."
+    },
+    {
+      "zh": "分析人士认为，这个新工具可以减少债券利率的大幅波动，让市场更稳定。具体的操作方法，央行以后会在公开市场业务公告中说明。",
+      "en": "Analysts believe the new tool can reduce sharp swings in bond yields and make the market more stable. The central bank will explain the specific operating details later in its open market operation announcements."
+    }
+  ],
+  "source": {
+    "name": "第一财经 (2026-10-21)",
+    "url": "https://www.yicai.com/news/103401861.html"
+  },
+  "vocab": [
+    {
+      "hanzi": "央行",
+      "pinyin": "yāngháng",
+      "en": "central bank (short for 中央银行)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "推出",
+      "pinyin": "tuīchū",
+      "en": "to launch; to roll out",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "工具",
+      "pinyin": "gōngjù",
+      "en": "tool; (policy) instrument",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "稳定",
+      "pinyin": "wěndìng",
+      "en": "to stabilize; stable",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "债券",
+      "pinyin": "zhàiquàn",
+      "en": "bond",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "市场",
+      "pinyin": "shìchǎng",
+      "en": "market",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "中国人民银行",
+      "pinyin": "Zhōngguó Rénmín Yínháng",
+      "en": "People's Bank of China (PBOC)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "宣布",
+      "pinyin": "xuānbù",
+      "en": "to announce",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "将",
+      "pinyin": "jiāng",
+      "en": "will; shall (formal)",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "金融监管总局",
+      "pinyin": "Jīnróng Jiānguǎn Zǒngjú",
+      "en": "National Financial Regulatory Administration",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "证监会",
+      "pinyin": "Zhèngjiānhuì",
+      "en": "China Securities Regulatory Commission (CSRC)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "流动性",
+      "pinyin": "liúdòngxìng",
+      "en": "liquidity",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "非银行",
+      "pinyin": "fēi yínháng",
+      "en": "non-bank",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "机构",
+      "pinyin": "jīgòu",
+      "en": "institution; organization",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "理财",
+      "pinyin": "lǐcái",
+      "en": "wealth management; to manage one's money",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "公募基金",
+      "pinyin": "gōngmù jījīn",
+      "en": "public (mutual) fund",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "投资者",
+      "pinyin": "tóuzīzhě",
+      "en": "investor",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "赎回",
+      "pinyin": "shúhuí",
+      "en": "to redeem (cash out of a fund)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "下跌",
+      "pinyin": "xiàdiē",
+      "en": "to fall; to decline",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "亏钱",
+      "pinyin": "kuī qián",
+      "en": "to lose money",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "形成",
+      "pinyin": "xíngchéng",
+      "en": "to form; to create",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "抛售",
+      "pinyin": "pāoshòu",
+      "en": "to sell off; to dump",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "恶性循环",
+      "pinyin": "èxìng xúnhuán",
+      "en": "vicious circle",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "宏观审慎",
+      "pinyin": "hóngguān shěnshèn",
+      "en": "macro-prudential",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "等级",
+      "pinyin": "děngjí",
+      "en": "grade; rank (高等级 = high-grade)",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "作为",
+      "pinyin": "zuòwéi",
+      "en": "as; to serve as",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "抵押品",
+      "pinyin": "dǐyāpǐn",
+      "en": "collateral",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "专家",
+      "pinyin": "zhuānjiā",
+      "en": "expert",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "采用",
+      "pinyin": "cǎiyòng",
+      "en": "to adopt; to use",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "互换",
+      "pinyin": "hùhuàn",
+      "en": "swap; to exchange",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "方式",
+      "pinyin": "fāngshì",
+      "en": "way; form; method",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "分析",
+      "pinyin": "fēnxī",
+      "en": "to analyze; analysis",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "人士",
+      "pinyin": "rénshì",
+      "en": "person; figure (分析人士 = analysts)",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "利率",
+      "pinyin": "lìlǜ",
+      "en": "interest rate; (bond) yield",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "大幅",
+      "pinyin": "dàfú",
+      "en": "sharply; by a large margin",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "波动",
+      "pinyin": "bōdòng",
+      "en": "fluctuation; to fluctuate",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "具体",
+      "pinyin": "jùtǐ",
+      "en": "specific; concrete",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "操作",
+      "pinyin": "cāozuò",
+      "en": "operation; to operate",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "公开",
+      "pinyin": "gōngkāi",
+      "en": "open; public (公开市场 = open market)",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "业务",
+      "pinyin": "yèwù",
+      "en": "business; operations",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "公告",
+      "pinyin": "gōnggào",
+      "en": "announcement; notice",
+      "hsk": "HSK 7–9"
+    }
+  ],
+  "featured": [
+    {
+      "hanzi": "债券",
+      "pinyin": "zhàiquàn",
+      "pos": "noun",
+      "en": "bond",
+      "note": "Common collocations: 发行债券 (issue bonds), 购买债券 (buy bonds), 债券市场 (bond market), 债券价格 / 债券收益率 (bond price / yield). 国债 = government bond.",
+      "examples": [
+        {
+          "zh": "政府今年计划发行更多债券。",
+          "py": "Zhèngfǔ jīnnián jìhuà fāxíng gèng duō zhàiquàn.",
+          "en": "The government plans to issue more bonds this year."
+        },
+        {
+          "zh": "最近债券价格上涨，收益率下降了。",
+          "py": "Zuìjìn zhàiquàn jiàgé shàngzhǎng, shōuyìlǜ xiàjiàng le.",
+          "en": "Bond prices have risen recently, and yields have fallen."
+        },
+        {
+          "zh": "我爸爸觉得买债券比买股票更安全。",
+          "py": "Wǒ bàba juéde mǎi zhàiquàn bǐ mǎi gǔpiào gèng ānquán.",
+          "en": "My dad thinks buying bonds is safer than buying stocks."
+        }
+      ]
+    },
+    {
+      "hanzi": "利率",
+      "pinyin": "lìlǜ",
+      "pos": "noun",
+      "en": "interest rate; (bond) yield",
+      "note": "Common collocations: 下调利率 / 上调利率 (cut / raise rates), 存款利率 (deposit rate), 贷款利率 (loan rate), 利率上升 / 利率下降 (rates rise / fall).",
+      "examples": [
+        {
+          "zh": "央行决定下调利率，帮助经济发展。",
+          "py": "Yāngháng juédìng xiàtiáo lìlǜ, bāngzhù jīngjì fāzhǎn.",
+          "en": "The central bank decided to cut interest rates to support economic growth."
+        },
+        {
+          "zh": "银行的存款利率越来越低了。",
+          "py": "Yínháng de cúnkuǎn lìlǜ yuè lái yuè dī le.",
+          "en": "Bank deposit rates are getting lower and lower."
+        },
+        {
+          "zh": "买房以前，你最好先比较一下几家银行的贷款利率。",
+          "py": "Mǎi fáng yǐqián, nǐ zuìhǎo xiān bǐjiào yíxià jǐ jiā yínháng de dàikuǎn lìlǜ.",
+          "en": "Before buying a home, you'd better compare the loan rates of a few banks."
+        }
+      ]
+    }
+  ]
+}

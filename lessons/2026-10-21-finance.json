@@ -1,0 +1,290 @@
+{
+  "date": "2026-10-21",
+  "category": "finance",
+  "title_zh": "央行连续九天开展隔夜逆回购，每天最多一万亿元",
+  "title_en": "China's central bank to run overnight reverse repos for nine working days in a row, up to 1 trillion yuan a day",
+  "paragraphs": [
+    {
+      "zh": "10月20日，中国人民银行发布公告：从10月21日到11月2日，央行将连续开展隔夜逆回购操作，每天的规模不超过1万亿元。这次操作采用固定利率、数量招标的方式。",
+      "en": "On October 20, the People's Bank of China issued a notice: from October 21 to November 2, the central bank will carry out overnight reverse repo operations continuously, with no more than 1 trillion yuan per day. The operations will use a fixed rate with quantity bidding."
+    },
+    {
+      "zh": "逆回购是央行向银行借出资金的一种方法。\"隔夜\"的意思是钱只借一天，第二天就要还。央行表示，这样做是为了更好地满足银行短期的资金需要。",
+      "en": "A reverse repo is a way for the central bank to lend money to banks. \"Overnight\" means the money is lent for only one day and must be paid back the next day. The central bank said it is doing this to better meet banks' short-term funding needs."
+    },
+    {
+      "zh": "有专家认为，这段时间正好是企业交税和月底，银行对资金的需求会增加。目前市场上的隔夜利率大约是1.26%，低于7天逆回购利率1.4%，说明市场上的钱比较充足。",
+      "en": "Some experts say this period happens to cover companies' tax payments and the end of the month, so banks' demand for funds will rise. The market overnight rate is currently about 1.26%, lower than the 1.4% seven-day reverse repo rate, which shows there is fairly plenty of money in the market."
+    },
+    {
+      "zh": "另外，央行行长潘功胜10月19日表示，央行将研究把公开市场主要操作的期限从7天改为隔夜。如果这样做，隔夜利率可能成为新的主要政策利率，这对中国的货币政策有重要影响。",
+      "en": "In addition, central bank governor Pan Gongsheng said on October 19 that the bank will study changing the term of its main open market operations from 7 days to overnight. If this happens, the overnight rate could become the new main policy rate, which would have an important effect on China's monetary policy."
+    }
+  ],
+  "source": {
+    "name": "澎湃新闻",
+    "url": "https://www.thepaper.cn/newsDetail_forward_34287766"
+  },
+  "vocab": [
+    {
+      "hanzi": "央行",
+      "pinyin": "yāngháng",
+      "en": "central bank (short for 中央银行)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "连续",
+      "pinyin": "liánxù",
+      "en": "continuous; in a row",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "开展",
+      "pinyin": "kāizhǎn",
+      "en": "to carry out; to launch",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "隔夜",
+      "pinyin": "géyè",
+      "en": "overnight (one-day term)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "逆回购",
+      "pinyin": "nìhuígòu",
+      "en": "reverse repo",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "亿",
+      "pinyin": "yì",
+      "en": "hundred million (一万亿 = one trillion)",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "中国人民银行",
+      "pinyin": "Zhōngguó Rénmín Yínháng",
+      "en": "People's Bank of China",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "发布",
+      "pinyin": "fābù",
+      "en": "to issue; to release",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "公告",
+      "pinyin": "gōnggào",
+      "en": "official notice; announcement",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "将",
+      "pinyin": "jiāng",
+      "en": "will; be going to (formal)",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "操作",
+      "pinyin": "cāozuò",
+      "en": "operation; to operate",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "规模",
+      "pinyin": "guīmó",
+      "en": "scale; size",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "采用",
+      "pinyin": "cǎiyòng",
+      "en": "to adopt; to use (a method)",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "固定",
+      "pinyin": "gùdìng",
+      "en": "fixed",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "利率",
+      "pinyin": "lìlǜ",
+      "en": "interest rate",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "招标",
+      "pinyin": "zhāobiāo",
+      "en": "tender; bidding (数量招标 = quantity bidding)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "方式",
+      "pinyin": "fāngshì",
+      "en": "way; method",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "资金",
+      "pinyin": "zījīn",
+      "en": "funds; capital",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "满足",
+      "pinyin": "mǎnzú",
+      "en": "to meet (a need); to satisfy",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "短期",
+      "pinyin": "duǎnqī",
+      "en": "short-term",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "专家",
+      "pinyin": "zhuānjiā",
+      "en": "expert",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "企业",
+      "pinyin": "qǐyè",
+      "en": "company; enterprise",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "交税",
+      "pinyin": "jiāo shuì",
+      "en": "to pay taxes",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "需求",
+      "pinyin": "xūqiú",
+      "en": "demand; need",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "目前",
+      "pinyin": "mùqián",
+      "en": "at present; currently",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "市场",
+      "pinyin": "shìchǎng",
+      "en": "market",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "低于",
+      "pinyin": "dīyú",
+      "en": "lower than; below",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "充足",
+      "pinyin": "chōngzú",
+      "en": "ample; plentiful",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "行长",
+      "pinyin": "hángzhǎng",
+      "en": "bank governor; bank president",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "潘功胜",
+      "pinyin": "Pān Gōngshèng",
+      "en": "Pan Gongsheng (PBOC governor)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "公开",
+      "pinyin": "gōngkāi",
+      "en": "open; public (公开市场 = open market)",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "期限",
+      "pinyin": "qīxiàn",
+      "en": "term; time limit",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "改为",
+      "pinyin": "gǎiwéi",
+      "en": "to change to",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "政策",
+      "pinyin": "zhèngcè",
+      "en": "policy",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "货币",
+      "pinyin": "huòbì",
+      "en": "currency; money (货币政策 = monetary policy)",
+      "hsk": "HSK 6"
+    }
+  ],
+  "featured": [
+    {
+      "hanzi": "利率",
+      "pinyin": "lìlǜ",
+      "pos": "noun",
+      "en": "interest rate",
+      "note": "下调利率 / 上调利率 (cut / raise rates), 存款利率 (deposit rate), 贷款利率 (loan rate), 政策利率 (policy rate).",
+      "examples": [
+        {
+          "zh": "央行决定下调利率，让企业借钱更便宜。",
+          "py": "Yāngháng juédìng xiàtiáo lìlǜ, ràng qǐyè jiè qián gèng piányi.",
+          "en": "The central bank decided to cut interest rates, making it cheaper for companies to borrow."
+        },
+        {
+          "zh": "这家银行的存款利率比那家高一点儿。",
+          "py": "Zhè jiā yínháng de cúnkuǎn lìlǜ bǐ nà jiā gāo yìdiǎnr.",
+          "en": "This bank's deposit rate is a little higher than that one's."
+        },
+        {
+          "zh": "买房以前，我先比较了几家银行的房贷利率。",
+          "py": "Mǎi fáng yǐqián, wǒ xiān bǐjiào le jǐ jiā yínháng de fángdài lìlǜ.",
+          "en": "Before buying a home, I first compared mortgage rates at several banks."
+        }
+      ]
+    },
+    {
+      "hanzi": "资金",
+      "pinyin": "zījīn",
+      "pos": "noun",
+      "en": "funds; capital",
+      "note": "资金紧张 (funds are tight), 资金充足 (ample funds), 资金需求 (funding demand), 筹集资金 (raise funds). More formal than 钱; used for banks, companies, projects.",
+      "examples": [
+        {
+          "zh": "月底银行的资金比较紧张。",
+          "py": "Yuèdǐ yínháng de zījīn bǐjiào jǐnzhāng.",
+          "en": "Banks' funds are fairly tight at the end of the month."
+        },
+        {
+          "zh": "这个项目缺少资金，所以推迟了。",
+          "py": "Zhège xiàngmù quēshǎo zījīn, suǒyǐ tuīchí le.",
+          "en": "This project lacked funding, so it was postponed."
+        },
+        {
+          "zh": "我们开咖啡店的资金，一半来自父母。",
+          "py": "Wǒmen kāi kāfēidiàn de zījīn, yíbàn láizì fùmǔ.",
+          "en": "Half the money for opening our café came from our parents."
+        }
+      ]
+    }
+  ]
+}

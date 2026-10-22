@@ -1,0 +1,398 @@
+{
+  "date": "2026-10-22",
+  "category": "fintech",
+  "title_zh": "数字人民币全面升级，进入\"2.0时代\"",
+  "title_en": "China's digital yuan gets a full upgrade, entering its \"2.0 era\"",
+  "paragraphs": [
+    {
+      "zh": "10月21日，在北京举行的2026金融街论坛上，中国人民银行副行长陆磊宣布，数字人民币的基础设施服务体系完成全面升级。同时，数字人民币运营管理中心发布了两项新成果：央行端的数字人民币系统（DCEPS）和一个智能合约生态服务框架。",
+      "en": "On October 21, at the 2026 Financial Street Forum in Beijing, PBOC Deputy Governor Lu Lei announced that the digital yuan's infrastructure service system has completed a full upgrade. The Digital Yuan Operation and Management Center also released two new results: the central-bank-side digital yuan system (DCEPS) and a smart contract ecosystem service framework."
+    },
+    {
+      "zh": "这次升级最重要的变化是，数字人民币从\"现金型1.0\"变成了\"存款货币型2.0\"。简单来说，以前数字人民币更像手机里的现金；现在，用户放在商业银行钱包里的数字人民币，会算作银行存款，记在银行的负债里。这样可以减少人们担心的\"钱离开银行\"的问题。",
+      "en": "The most important change is that the digital yuan moves from \"cash-type 1.0\" to \"deposit-money-type 2.0\". Simply put, it used to be more like cash on your phone; now, digital yuan in commercial-bank wallets counts as bank deposits and is recorded as a bank liability. This eases the worry that \"money will leave the banks\"."
+    },
+    {
+      "zh": "新系统把发行、零售、批发、跨境等功能放在同一个平台上，可以7×24小时运行。智能合约是另一个重点：钱可以按照提前写好的规则自动支付，比如货物到了才付款，这对企业和政府补贴等场景很有用。",
+      "en": "The new system puts issuance, retail, wholesale, cross-border and other functions on one platform, running 24/7. Smart contracts are another focus: money can be paid automatically by rules written in advance — e.g. pay only after goods arrive — useful for businesses and government subsidies."
+    },
+    {
+      "zh": "对普通用户来说，付款方式可能变化不大；但对银行和支付公司来说，数字人民币正从\"支付工具\"变成真正的银行产品。未来，它和支付宝、微信支付之间的竞争与合作，值得继续关注。",
+      "en": "For ordinary users, the way they pay may not change much; but for banks and payment companies, the digital yuan is turning from a \"payment tool\" into a real bank product. How it competes and cooperates with Alipay and WeChat Pay is worth watching."
+    }
+  ],
+  "source": {
+    "name": "光明网（转载央视财经）《数字人民币迎来全面升级》",
+    "url": "https://m.gmw.cn/2026-10/22/content_1304578025.htm"
+  },
+  "vocab": [
+    {
+      "hanzi": "数字人民币",
+      "pinyin": "shùzì rénmínbì",
+      "en": "digital yuan (e-CNY)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "全面",
+      "pinyin": "quánmiàn",
+      "en": "full, comprehensive",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "升级",
+      "pinyin": "shēngjí",
+      "en": "to upgrade",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "进入",
+      "pinyin": "jìnrù",
+      "en": "to enter",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "时代",
+      "pinyin": "shídài",
+      "en": "era, age",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "金融",
+      "pinyin": "jīnróng",
+      "en": "finance",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "论坛",
+      "pinyin": "lùntán",
+      "en": "forum",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "中国人民银行",
+      "pinyin": "Zhōngguó Rénmín Yínháng",
+      "en": "People's Bank of China",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "副行长",
+      "pinyin": "fù hángzhǎng",
+      "en": "deputy governor",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "宣布",
+      "pinyin": "xuānbù",
+      "en": "to announce",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "基础设施",
+      "pinyin": "jīchǔ shèshī",
+      "en": "infrastructure",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "体系",
+      "pinyin": "tǐxì",
+      "en": "system, framework",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "运营",
+      "pinyin": "yùnyíng",
+      "en": "to operate",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "中心",
+      "pinyin": "zhōngxīn",
+      "en": "center",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "发布",
+      "pinyin": "fābù",
+      "en": "to release, publish",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "项",
+      "pinyin": "xiàng",
+      "en": "measure word for items",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "成果",
+      "pinyin": "chéngguǒ",
+      "en": "result, achievement",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "央行",
+      "pinyin": "yāngháng",
+      "en": "central bank",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "系统",
+      "pinyin": "xìtǒng",
+      "en": "system",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "智能合约",
+      "pinyin": "zhìnéng héyuē",
+      "en": "smart contract",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "生态",
+      "pinyin": "shēngtài",
+      "en": "ecosystem; ecology",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "框架",
+      "pinyin": "kuàngjià",
+      "en": "framework",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "型",
+      "pinyin": "xíng",
+      "en": "type, model",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "存款",
+      "pinyin": "cúnkuǎn",
+      "en": "bank deposit",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "货币",
+      "pinyin": "huòbì",
+      "en": "currency",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "用户",
+      "pinyin": "yònghù",
+      "en": "user",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "钱包",
+      "pinyin": "qiánbāo",
+      "en": "wallet",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "商业",
+      "pinyin": "shāngyè",
+      "en": "commercial; business",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "算作",
+      "pinyin": "suànzuò",
+      "en": "to count as",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "负债",
+      "pinyin": "fùzhài",
+      "en": "liability; to be in debt",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "发行",
+      "pinyin": "fāxíng",
+      "en": "to issue (currency)",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "零售",
+      "pinyin": "língshòu",
+      "en": "retail",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "批发",
+      "pinyin": "pīfā",
+      "en": "wholesale",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "跨境",
+      "pinyin": "kuàjìng",
+      "en": "cross-border",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "功能",
+      "pinyin": "gōngnéng",
+      "en": "function, feature",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "平台",
+      "pinyin": "píngtái",
+      "en": "platform",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "运行",
+      "pinyin": "yùnxíng",
+      "en": "to run (system)",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "规则",
+      "pinyin": "guīzé",
+      "en": "rule",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "自动",
+      "pinyin": "zìdòng",
+      "en": "automatic(ally)",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "支付",
+      "pinyin": "zhīfù",
+      "en": "to pay; payment",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "货物",
+      "pinyin": "huòwù",
+      "en": "goods",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "企业",
+      "pinyin": "qǐyè",
+      "en": "enterprise, company",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "政府",
+      "pinyin": "zhèngfǔ",
+      "en": "government",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "补贴",
+      "pinyin": "bǔtiē",
+      "en": "subsidy",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "场景",
+      "pinyin": "chǎngjǐng",
+      "en": "use case, scenario; scene",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "对…来说",
+      "pinyin": "duì…lái shuō",
+      "en": "for…, as far as…is concerned",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "方式",
+      "pinyin": "fāngshì",
+      "en": "way, method",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "工具",
+      "pinyin": "gōngjù",
+      "en": "tool",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "产品",
+      "pinyin": "chǎnpǐn",
+      "en": "product",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "未来",
+      "pinyin": "wèilái",
+      "en": "future",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "之间",
+      "pinyin": "zhījiān",
+      "en": "between",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "合作",
+      "pinyin": "hézuò",
+      "en": "cooperation",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "关注",
+      "pinyin": "guānzhù",
+      "en": "to follow closely",
+      "hsk": "HSK 5"
+    }
+  ],
+  "featured": [
+    {
+      "hanzi": "智能合约",
+      "pinyin": "zhìnéng héyuē",
+      "pos": "noun",
+      "en": "smart contract",
+      "note": "Code that moves money automatically when preset conditions are met. Collocations: 智能合约支付, 部署智能合约, 智能合约平台.",
+      "examples": [
+        {
+          "zh": "数字人民币的智能合约可以让补贴自动发到企业账户。",
+          "py": "Shùzì rénmínbì de zhìnéng héyuē kěyǐ ràng bǔtiē zìdòng fā dào qǐyè zhànghù.",
+          "en": "The digital yuan's smart contracts can send subsidies automatically to companies' accounts."
+        },
+        {
+          "zh": "我开玩笑说，要是房租也用智能合约，房东就不用每个月提醒我了。",
+          "py": "Wǒ kāi wánxiào shuō, yàoshi fángzū yě yòng zhìnéng héyuē, fángdōng jiù búyòng měi gè yuè tíxǐng wǒ le.",
+          "en": "I joked that if rent used a smart contract too, my landlord wouldn't have to remind me every month."
+        },
+        {
+          "zh": "我们要统计用智能合约付款的商户数量，看看这个功能有没有人用。",
+          "py": "Wǒmen yào tǒngjì yòng zhìnéng héyuē fùkuǎn de shānghù shùliàng, kànkan zhège gōngnéng yǒu méiyǒu rén yòng.",
+          "en": "We need to count how many merchants pay via smart contracts, to see whether anyone uses this feature."
+        }
+      ]
+    },
+    {
+      "hanzi": "跨境",
+      "pinyin": "kuàjìng",
+      "pos": "adjective (attributive)",
+      "en": "cross-border",
+      "note": "跨 = to cross, 境 = border. Used before nouns: 跨境支付, 跨境电商, 跨境结算, 跨境汇款.",
+      "examples": [
+        {
+          "zh": "中国和泰国之间的跨境支付越来越方便了。",
+          "py": "Zhōngguó hé Tàiguó zhījiān de kuàjìng zhīfù yuè lái yuè fāngbiàn le.",
+          "en": "Cross-border payments between China and Thailand are getting more and more convenient."
+        },
+        {
+          "zh": "我妈妈经常在跨境电商网站上买日本的护肤品。",
+          "py": "Wǒ māma jīngcháng zài kuàjìng diànshāng wǎngzhàn shang mǎi Rìběn de hùfūpǐn.",
+          "en": "My mom often buys Japanese skincare on cross-border e-commerce websites."
+        },
+        {
+          "zh": "这个月跨境交易的笔数比上个月增加了百分之十五。",
+          "py": "Zhège yuè kuàjìng jiāoyì de bǐshù bǐ shàng gè yuè zēngjiāle bǎi fēn zhī shíwǔ.",
+          "en": "This month the number of cross-border transactions rose 15% compared with last month."
+        }
+      ]
+    }
+  ]
+}

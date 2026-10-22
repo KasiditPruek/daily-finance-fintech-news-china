@@ -1,0 +1,374 @@
+{
+  "date": "2026-10-18",
+  "category": "fintech",
+  "title_zh": "香港金管局推出\"ART\"框架，支持银行负责任地使用AI",
+  "title_en": "Hong Kong Monetary Authority launches \"ART\" framework to help banks use AI responsibly",
+  "paragraphs": [
+    {
+      "zh": "10月15日，香港金融管理局（金管局）公布了一个新的\"ART\"框架，目的是支持银行业负责任地使用人工智能（AI）。\"ART\"代表三个词：可问责、有韧性和可信赖。也就是说，银行使用AI时，要清楚谁负责，系统要稳定，客户也要能够信任。",
+      "en": "On October 15, the Hong Kong Monetary Authority (HKMA) announced a new \"ART\" framework, aimed at supporting the banking industry in using artificial intelligence (AI) responsibly. \"ART\" stands for three words: Accountability, Resilience and Trust. In other words, when banks use AI, it must be clear who is responsible, the systems must be stable, and customers must be able to trust them."
+    },
+    {
+      "zh": "根据这个框架，金管局发布了新的监管指引，并将和数码港、香港大学一起建设一个AI训练数据共享平台。这个平台把数据质量放在第一位。另外，金管局还发表了一份讨论文件，研究怎么监管\"AI代理\"，比如出了问题时，人可以及时介入。",
+      "en": "Under this framework, the HKMA issued new supervisory guidance, and will work with Cyberport and the University of Hong Kong to build a shared platform for AI training data. The platform puts data quality first. In addition, the HKMA published a discussion paper on how to regulate \"AI agents\" - for example, making sure people can step in promptly when something goes wrong."
+    },
+    {
+      "zh": "在第二期生成式AI沙盒测试中，超过60%的用例都在探索AI代理，也就是让AI在允许的范围内自己计划并完成多个步骤的任务。金管局副总裁阮国恒表示，AI从\"生成式\"走向\"代理式\"，是银行业创新的一个重要新阶段。",
+      "en": "In the second phase of the generative AI sandbox tests, more than 60% of use cases were exploring AI agents - that is, letting AI plan and complete multi-step tasks on its own within an authorised scope. HKMA Deputy Chief Executive Arthur Yuen said that AI moving from \"generative\" to \"agentic\" is an important new stage of innovation for the banking industry."
+    },
+    {
+      "zh": "这条消息说明，监管机构不只是限制AI，而是在帮银行找到安全使用AI的方法。对于亚洲其他市场的银行来说，香港的做法也很值得参考。",
+      "en": "This news shows that regulators are not just restricting AI, but are helping banks find safe ways to use it. For banks in other Asian markets, Hong Kong's approach is also well worth looking at."
+    }
+  ],
+  "source": {
+    "name": "移动支付网",
+    "url": "https://www.mpaypass.com.cn/news/202610/18093748.html"
+  },
+  "vocab": [
+    {
+      "hanzi": "金管局",
+      "pinyin": "jīnguǎnjú",
+      "en": "HKMA (short for 香港金融管理局)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "推出",
+      "pinyin": "tuīchū",
+      "en": "to launch; to introduce",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "框架",
+      "pinyin": "kuàngjià",
+      "en": "framework",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "金融",
+      "pinyin": "jīnróng",
+      "en": "finance",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "管理局",
+      "pinyin": "guǎnlǐjú",
+      "en": "authority; administration",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "公布",
+      "pinyin": "gōngbù",
+      "en": "to announce; to make public",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "银行业",
+      "pinyin": "yínhángyè",
+      "en": "banking industry",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "人工智能",
+      "pinyin": "réngōng zhìnéng",
+      "en": "artificial intelligence",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "代表",
+      "pinyin": "dàibiǎo",
+      "en": "to stand for; to represent",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "可问责",
+      "pinyin": "kě wènzé",
+      "en": "accountable",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "韧性",
+      "pinyin": "rènxìng",
+      "en": "resilience; toughness",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "可信赖",
+      "pinyin": "kě xìnlài",
+      "en": "trustworthy, reliable",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "也就是说",
+      "pinyin": "yě jiù shì shuō",
+      "en": "in other words",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "系统",
+      "pinyin": "xìtǒng",
+      "en": "system",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "稳定",
+      "pinyin": "wěndìng",
+      "en": "stable",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "客户",
+      "pinyin": "kèhù",
+      "en": "client; customer",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "信任",
+      "pinyin": "xìnrèn",
+      "en": "to trust; trust",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "发布",
+      "pinyin": "fābù",
+      "en": "to issue; to release",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "监管",
+      "pinyin": "jiānguǎn",
+      "en": "to supervise; to regulate; regulation",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "指引",
+      "pinyin": "zhǐyǐn",
+      "en": "guidance; guidelines",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "将",
+      "pinyin": "jiāng",
+      "en": "will; shall (formal future)",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "数码港",
+      "pinyin": "Shùmǎgǎng",
+      "en": "Cyberport (Hong Kong tech hub)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "建设",
+      "pinyin": "jiànshè",
+      "en": "to build; to construct",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "训练",
+      "pinyin": "xùnliàn",
+      "en": "to train; training",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "数据",
+      "pinyin": "shùjù",
+      "en": "data",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "共享",
+      "pinyin": "gòngxiǎng",
+      "en": "to share; shared",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "平台",
+      "pinyin": "píngtái",
+      "en": "platform",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "发表",
+      "pinyin": "fābiǎo",
+      "en": "to publish; to issue",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "文件",
+      "pinyin": "wénjiàn",
+      "en": "document; paper; file",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "代理",
+      "pinyin": "dàilǐ",
+      "en": "agent (AI代理 = AI agent; 代理式 = agentic); acting/proxy",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "介入",
+      "pinyin": "jièrù",
+      "en": "to intervene; to step in",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "期",
+      "pinyin": "qī",
+      "en": "phase; period",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "生成式",
+      "pinyin": "shēngchéngshì",
+      "en": "generative",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "沙盒",
+      "pinyin": "shāhé",
+      "en": "(regulatory) sandbox",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "测试",
+      "pinyin": "cèshì",
+      "en": "test; testing",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "用例",
+      "pinyin": "yònglì",
+      "en": "use case",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "探索",
+      "pinyin": "tànsuǒ",
+      "en": "to explore",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "范围",
+      "pinyin": "fànwéi",
+      "en": "scope; range",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "步骤",
+      "pinyin": "bùzhòu",
+      "en": "step (of a process)",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "副总裁",
+      "pinyin": "fù zǒngcái",
+      "en": "deputy chief executive; vice president",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "阮国恒",
+      "pinyin": "Ruǎn Guóhéng",
+      "en": "Arthur Yuen (HKMA official)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "走向",
+      "pinyin": "zǒuxiàng",
+      "en": "to move toward; trend",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "创新",
+      "pinyin": "chuàngxīn",
+      "en": "innovation; to innovate",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "阶段",
+      "pinyin": "jiēduàn",
+      "en": "stage; phase",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "机构",
+      "pinyin": "jīgòu",
+      "en": "institution; body (监管机构 = regulator)",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "限制",
+      "pinyin": "xiànzhì",
+      "en": "to restrict; limit",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "市场",
+      "pinyin": "shìchǎng",
+      "en": "market",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "做法",
+      "pinyin": "zuòfǎ",
+      "en": "approach; way of doing things",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "参考",
+      "pinyin": "cānkǎo",
+      "en": "to refer to; reference",
+      "hsk": "HSK 5"
+    }
+  ],
+  "featured": [
+    {
+      "hanzi": "监管",
+      "pinyin": "jiānguǎn",
+      "pos": "verb/noun",
+      "en": "to supervise, to regulate; regulation",
+      "note": "the standard word for financial regulation. Collocations: 金融监管, 监管机构, 监管要求, 加强监管, 受到监管, 监管沙盒.",
+      "examples": [
+        {
+          "zh": "金管局加强了对银行使用AI的监管。",
+          "py": "Jīnguǎnjú jiāqiángle duì yínháng shǐyòng AI de jiānguǎn.",
+          "en": "The HKMA has tightened its supervision of how banks use AI."
+        },
+        {
+          "zh": "这家超市的食品安全受到严格监管。",
+          "py": "Zhè jiā chāoshì de shípǐn ānquán shòudào yángé jiānguǎn.",
+          "en": "This supermarket's food safety is strictly regulated."
+        },
+        {
+          "zh": "我们需要把新的监管要求加进数据报表里。",
+          "py": "Wǒmen xūyào bǎ xīn de jiānguǎn yāoqiú jiā jìn shùjù bàobiǎo lǐ.",
+          "en": "We need to add the new regulatory requirements into the data reports."
+        }
+      ]
+    },
+    {
+      "hanzi": "平台",
+      "pinyin": "píngtái",
+      "pos": "noun",
+      "en": "platform",
+      "note": "core word in fintech and internet business. Collocations: 支付平台, 数字平台, 电商平台, 外卖平台, 平台用户, 开放平台.",
+      "examples": [
+        {
+          "zh": "很多中小企业通过数字平台申请贷款。",
+          "py": "Hěn duō zhōng xiǎo qǐyè tōngguò shùzì píngtái shēnqǐng dàikuǎn.",
+          "en": "Many SMEs apply for loans through digital platforms."
+        },
+        {
+          "zh": "我常在外卖平台上点午饭。",
+          "py": "Wǒ cháng zài wàimài píngtái shàng diǎn wǔfàn.",
+          "en": "I often order lunch on a food-delivery platform."
+        },
+        {
+          "zh": "上个月，平台的活跃用户增加了百分之十。",
+          "py": "Shàng gè yuè, píngtái de huóyuè yònghù zēngjiāle bǎi fēn zhī shí.",
+          "en": "Last month, the platform's active users grew by 10%."
+        }
+      ]
+    }
+  ]
+}

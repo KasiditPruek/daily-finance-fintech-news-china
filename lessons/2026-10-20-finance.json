@@ -1,0 +1,278 @@
+{
+  "date": "2026-10-20",
+  "category": "finance",
+  "title_zh": "十月贷款利率不变，已经连续17个月没有调整",
+  "title_en": "October Loan Prime Rate Unchanged — No Adjustment for 17 Months in a Row",
+  "paragraphs": [
+    {
+      "zh": "10月20日，中国公布了最新的贷款市场报价利率（LPR）。1年期LPR是3.0%，5年期以上LPR是3.5%，都和上个月一样。这已经是LPR连续第17个月保持不变。",
+      "en": "On October 20, China announced its latest Loan Prime Rate (LPR). The 1-year LPR is 3.0% and the 5-year-and-above LPR is 3.5%, both the same as last month. This is the 17th month in a row that the LPR has stayed unchanged."
+    },
+    {
+      "zh": "LPR是银行给企业和个人发放贷款时参考的利率，其中5年期以上LPR和房贷关系最密切。LPR主要根据央行的政策利率来决定，而这个政策利率从2025年5月以后就没有变过，所以这次LPR也没有变化。",
+      "en": "The LPR is the reference rate banks use when lending to companies and individuals; the 5-year-and-above LPR is the one most closely tied to mortgages. The LPR is mainly based on the central bank's policy rate, which hasn't changed since May 2025, so the LPR didn't change this time either."
+    },
+    {
+      "zh": "10月19日，央行行长潘功胜在金融街论坛上表示，以后要更多地发挥利率的作用。他还说，贷款利率的定价标准将从只参考LPR，慢慢变得更加多样化。",
+      "en": "On October 19, central bank governor Pan Gongsheng said at the Financial Street Forum that interest rates should play a bigger role in the future. He also said the pricing benchmark for loans will gradually move from relying only on the LPR to becoming more diversified."
+    },
+    {
+      "zh": "对普通人来说，利率不变意味着房贷和其他贷款的成本暂时不会降低。很多人会继续关注央行下一步会不会降息。",
+      "en": "For ordinary people, unchanged rates mean that the cost of mortgages and other loans won't come down for now. Many people will keep watching whether the central bank cuts rates next."
+    }
+  ],
+  "source": {
+    "name": "澎湃新闻",
+    "url": "https://www.thepaper.cn/newsDetail_forward_34283044"
+  },
+  "vocab": [
+    {
+      "hanzi": "贷款",
+      "pinyin": "dàikuǎn",
+      "en": "loan; to take out a loan",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "利率",
+      "pinyin": "lìlǜ",
+      "en": "interest rate",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "连续",
+      "pinyin": "liánxù",
+      "en": "in a row; consecutive",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "调整",
+      "pinyin": "tiáozhěng",
+      "en": "to adjust",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "公布",
+      "pinyin": "gōngbù",
+      "en": "to announce; to publish",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "市场",
+      "pinyin": "shìchǎng",
+      "en": "market",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "报价",
+      "pinyin": "bàojià",
+      "en": "quoted price; to quote",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "贷款市场报价利率",
+      "pinyin": "dàikuǎn shìchǎng bàojià lìlǜ",
+      "en": "Loan Prime Rate (LPR)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "年期",
+      "pinyin": "niánqī",
+      "en": "term in years (e.g. 1年期 = 1-year)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "以上",
+      "pinyin": "yǐshàng",
+      "en": "and above; more than",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "保持",
+      "pinyin": "bǎochí",
+      "en": "to keep; to maintain",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "企业",
+      "pinyin": "qǐyè",
+      "en": "company; enterprise",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "个人",
+      "pinyin": "gèrén",
+      "en": "individual (person)",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "发放",
+      "pinyin": "fāfàng",
+      "en": "to issue; to grant (loans)",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "参考",
+      "pinyin": "cānkǎo",
+      "en": "to refer to; reference",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "房贷",
+      "pinyin": "fángdài",
+      "en": "mortgage; home loan",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "密切",
+      "pinyin": "mìqiè",
+      "en": "close (relationship)",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "央行",
+      "pinyin": "yāngháng",
+      "en": "central bank (short for 中央银行)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "政策",
+      "pinyin": "zhèngcè",
+      "en": "policy",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "行长",
+      "pinyin": "hángzhǎng",
+      "en": "(bank) governor; bank president",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "潘功胜",
+      "pinyin": "Pān Gōngshèng",
+      "en": "Pan Gongsheng, governor of the People's Bank of China",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "金融",
+      "pinyin": "jīnróng",
+      "en": "finance; financial",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "论坛",
+      "pinyin": "lùntán",
+      "en": "forum",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "金融街论坛",
+      "pinyin": "Jīnróngjiē Lùntán",
+      "en": "Financial Street Forum (Beijing)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "发挥",
+      "pinyin": "fāhuī",
+      "en": "to bring into play; to give full play to",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "定价",
+      "pinyin": "dìngjià",
+      "en": "pricing; to set a price",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "将",
+      "pinyin": "jiāng",
+      "en": "will; shall (formal)",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "更加",
+      "pinyin": "gèngjiā",
+      "en": "even more",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "多样化",
+      "pinyin": "duōyànghuà",
+      "en": "diversified; to diversify",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "意味着",
+      "pinyin": "yìwèizhe",
+      "en": "to mean; to imply",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "成本",
+      "pinyin": "chéngběn",
+      "en": "cost",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "关注",
+      "pinyin": "guānzhù",
+      "en": "to follow closely; to pay attention to",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "降息",
+      "pinyin": "jiàngxī",
+      "en": "to cut interest rates",
+      "hsk": "超纲"
+    }
+  ],
+  "featured": [
+    {
+      "hanzi": "利率",
+      "pinyin": "lìlǜ",
+      "pos": "noun",
+      "en": "interest rate",
+      "note": "上调利率 (raise rates) / 下调利率 (cut rates) / 利率不变 (rates unchanged) / 存款利率 (deposit rate) / 贷款利率 (lending rate). Often shortened to 加息 / 降息.",
+      "examples": [
+        {
+          "zh": "央行决定下调利率，以支持经济发展。",
+          "py": "Yāngháng juédìng xiàtiáo lìlǜ, yǐ zhīchí jīngjì fāzhǎn.",
+          "en": "The central bank decided to cut interest rates to support economic growth."
+        },
+        {
+          "zh": "这家银行的存款利率比别的银行高一点。",
+          "py": "Zhè jiā yínháng de cúnkuǎn lìlǜ bǐ bié de yínháng gāo yìdiǎn.",
+          "en": "This bank's deposit rate is a little higher than other banks'."
+        },
+        {
+          "zh": "利率太高的时候，很多人不愿意买房。",
+          "py": "Lìlǜ tài gāo de shíhou, hěn duō rén bú yuànyì mǎi fáng.",
+          "en": "When interest rates are too high, many people don't want to buy a home."
+        }
+      ]
+    },
+    {
+      "hanzi": "贷款",
+      "pinyin": "dàikuǎn",
+      "pos": "noun / verb",
+      "en": "loan; to take out a loan",
+      "note": "申请贷款 (apply for a loan) / 发放贷款 (issue loans) / 还贷款 (repay a loan) / 向银行贷款 (borrow from a bank) / 房屋贷款 → 房贷 (mortgage).",
+      "examples": [
+        {
+          "zh": "今年银行发放的企业贷款比去年增加了不少。",
+          "py": "Jīnnián yínháng fāfàng de qǐyè dàikuǎn bǐ qùnián zēngjiā le bù shǎo.",
+          "en": "Business loans issued by banks this year have risen quite a lot compared with last year."
+        },
+        {
+          "zh": "他向银行贷款二十万元，开了一家咖啡店。",
+          "py": "Tā xiàng yínháng dàikuǎn èrshí wàn yuán, kāi le yì jiā kāfēidiàn.",
+          "en": "He borrowed 200,000 yuan from the bank and opened a café."
+        },
+        {
+          "zh": "我每个月工资的一半都要用来还贷款。",
+          "py": "Wǒ měi ge yuè gōngzī de yíbàn dōu yào yònglái huán dàikuǎn.",
+          "en": "Half of my monthly salary goes to paying off my loan."
+        }
+      ]
+    }
+  ]
+}

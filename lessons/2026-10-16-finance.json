@@ -1,0 +1,332 @@
+{
+  "date": "2026-10-16",
+  "category": "finance",
+  "title_zh": "央行行长潘功胜：中国将继续实施适度宽松的货币政策",
+  "title_en": "PBOC Governor Pan Gongsheng: China will keep implementing an appropriately loose monetary policy",
+  "paragraphs": [
+    {
+      "zh": "10月15日，二十国集团（G20）财长和央行行长会议在泰国曼谷举行。中国人民银行行长潘功胜参加了会议并发言。这是今年第三次G20财长和央行行长会议。",
+      "en": "On October 15, the G20 meeting of finance ministers and central bank governors was held in Bangkok, Thailand. People's Bank of China Governor Pan Gongsheng attended the meeting and gave a speech. This was the third such G20 meeting this year."
+    },
+    {
+      "zh": "潘功胜说，地缘政治冲突是全球经济最大的不确定性。他还提醒，一些国家的国债市场波动很大，人工智能相关资产的价格也可能下跌，这些都会增加金融风险。",
+      "en": "Pan said that geopolitical conflict is the biggest uncertainty for the global economy. He also warned that government bond markets in some countries are very volatile and that the prices of AI-related assets may fall, all of which add to financial risk."
+    },
+    {
+      "zh": "在汇率问题上，潘功胜表示，全球经济不平衡不能只靠调整汇率来解决。他认为，汇率受经济增长、货币政策和市场情况等许多因素影响。",
+      "en": "On exchange rates, Pan said that global economic imbalances cannot be solved just by adjusting exchange rates. In his view, exchange rates are affected by many factors, such as economic growth, monetary policy and market conditions."
+    },
+    {
+      "zh": "关于中国经济，潘功胜说，中国金融市场运行平稳，长期发展的基础没有改变。央行将继续实施适度宽松的货币政策，支持经济稳定增长。对投资者来说，这说明央行短期内不会收紧货币政策。",
+      "en": "As for China's economy, Pan said China's financial markets are running smoothly and the foundation for long-term development has not changed. The central bank will continue an appropriately loose monetary policy to support stable economic growth. For investors, this suggests the central bank will not tighten monetary policy in the short term."
+    }
+  ],
+  "source": {
+    "name": "第一财经",
+    "url": "https://www.yicai.com/news/103395401.html"
+  },
+  "vocab": [
+    {
+      "hanzi": "央行",
+      "pinyin": "yāngháng",
+      "en": "central bank",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "行长",
+      "pinyin": "hángzhǎng",
+      "en": "(bank) governor; bank president",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "潘功胜",
+      "pinyin": "Pān Gōngshèng",
+      "en": "Pan Gongsheng (PBOC governor)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "将",
+      "pinyin": "jiāng",
+      "en": "will; shall (formal)",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "实施",
+      "pinyin": "shíshī",
+      "en": "to implement; carry out",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "适度",
+      "pinyin": "shìdù",
+      "en": "appropriate; moderate",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "宽松",
+      "pinyin": "kuānsōng",
+      "en": "loose; accommodative; roomy",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "货币",
+      "pinyin": "huòbì",
+      "en": "currency; money",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "政策",
+      "pinyin": "zhèngcè",
+      "en": "policy",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "二十国集团",
+      "pinyin": "Èrshí Guó Jítuán",
+      "en": "Group of Twenty (G20)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "财长",
+      "pinyin": "cáizhǎng",
+      "en": "finance minister",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "泰国",
+      "pinyin": "Tàiguó",
+      "en": "Thailand",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "曼谷",
+      "pinyin": "Màngǔ",
+      "en": "Bangkok",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "中国人民银行",
+      "pinyin": "Zhōngguó Rénmín Yínháng",
+      "en": "People's Bank of China (PBOC)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "发言",
+      "pinyin": "fāyán",
+      "en": "to speak (at a meeting); speech",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "地缘政治",
+      "pinyin": "dìyuán zhèngzhì",
+      "en": "geopolitics",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "冲突",
+      "pinyin": "chōngtū",
+      "en": "conflict",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "全球",
+      "pinyin": "quánqiú",
+      "en": "global; the whole world",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "不确定性",
+      "pinyin": "bú quèdìngxìng",
+      "en": "uncertainty",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "国债",
+      "pinyin": "guózhài",
+      "en": "government bonds; national debt",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "市场",
+      "pinyin": "shìchǎng",
+      "en": "market",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "波动",
+      "pinyin": "bōdòng",
+      "en": "to fluctuate; volatility",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "人工智能",
+      "pinyin": "réngōng zhìnéng",
+      "en": "artificial intelligence (AI)",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "相关",
+      "pinyin": "xiāngguān",
+      "en": "related; relevant",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "资产",
+      "pinyin": "zīchǎn",
+      "en": "assets",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "下跌",
+      "pinyin": "xiàdiē",
+      "en": "to fall (prices)",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "金融",
+      "pinyin": "jīnróng",
+      "en": "finance; financial",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "风险",
+      "pinyin": "fēngxiǎn",
+      "en": "risk",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "汇率",
+      "pinyin": "huìlǜ",
+      "en": "exchange rate",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "不平衡",
+      "pinyin": "bù pínghéng",
+      "en": "imbalance; unbalanced",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "靠",
+      "pinyin": "kào",
+      "en": "to rely on; depend on",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "调整",
+      "pinyin": "tiáozhěng",
+      "en": "to adjust",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "受……影响",
+      "pinyin": "shòu……yǐngxiǎng",
+      "en": "to be affected by …",
+      "hsk": "超纲, news expression"
+    },
+    {
+      "hanzi": "增长",
+      "pinyin": "zēngzhǎng",
+      "en": "growth; to grow",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "因素",
+      "pinyin": "yīnsù",
+      "en": "factor",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "运行",
+      "pinyin": "yùnxíng",
+      "en": "to run; operate",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "平稳",
+      "pinyin": "píngwěn",
+      "en": "smooth and steady",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "长期",
+      "pinyin": "chángqī",
+      "en": "long-term",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "稳定",
+      "pinyin": "wěndìng",
+      "en": "stable; to stabilize",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "投资者",
+      "pinyin": "tóuzīzhě",
+      "en": "investor",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "短期",
+      "pinyin": "duǎnqī",
+      "en": "short-term",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "收紧",
+      "pinyin": "shōujǐn",
+      "en": "to tighten (policy)",
+      "hsk": "超纲"
+    }
+  ],
+  "featured": [
+    {
+      "hanzi": "宽松",
+      "pinyin": "kuānsōng",
+      "pos": "adjective",
+      "en": "loose; accommodative (policy); roomy (clothes)",
+      "note": "in finance it describes \"easy\" monetary policy. Common: 宽松的货币政策 / 适度宽松 / 货币宽松 / 政策宽松. Opposite: 收紧、从紧. Everyday: 衣服宽松, 时间宽松.",
+      "examples": [
+        {
+          "zh": "很多人认为，央行明年会继续保持宽松的货币政策。",
+          "py": "Hěn duō rén rènwéi, yāngháng míngnián huì jìxù bǎochí kuānsōng de huòbì zhèngcè.",
+          "en": "Many people think the central bank will keep a loose monetary policy next year."
+        },
+        {
+          "zh": "货币政策宽松以后，公司借钱变得更容易了。",
+          "py": "Huòbì zhèngcè kuānsōng yǐhòu, gōngsī jiè qián biàn de gèng róngyì le.",
+          "en": "After monetary policy was loosened, it became easier for companies to borrow money."
+        },
+        {
+          "zh": "这件衣服很宽松，穿起来很舒服。",
+          "py": "Zhè jiàn yīfu hěn kuānsōng, chuān qǐlái hěn shūfu.",
+          "en": "This piece of clothing is loose and very comfortable to wear."
+        }
+      ]
+    },
+    {
+      "hanzi": "汇率",
+      "pinyin": "huìlǜ",
+      "pos": "noun",
+      "en": "exchange rate",
+      "note": "人民币汇率 / 人民币对美元的汇率 / 汇率上升、汇率下降 / 汇率波动 / 稳定汇率 / 调整汇率.",
+      "examples": [
+        {
+          "zh": "最近人民币对美元的汇率比较稳定。",
+          "py": "Zuìjìn Rénmínbì duì Měiyuán de huìlǜ bǐjiào wěndìng.",
+          "en": "Recently the RMB–US dollar exchange rate has been fairly stable."
+        },
+        {
+          "zh": "汇率的变化会影响出口公司的收入。",
+          "py": "Huìlǜ de biànhuà huì yǐngxiǎng chūkǒu gōngsī de shōurù.",
+          "en": "Changes in the exchange rate affect the income of export companies."
+        },
+        {
+          "zh": "去泰国旅行以前，我先查了一下人民币和泰铢的汇率。",
+          "py": "Qù Tàiguó lǚxíng yǐqián, wǒ xiān chá le yíxià Rénmínbì hé tàizhū de huìlǜ.",
+          "en": "Before traveling to Thailand, I first checked the exchange rate between the RMB and the Thai baht."
+        }
+      ]
+    }
+  ]
+}
