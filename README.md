@@ -8,10 +8,19 @@ Site: https://kasiditpruek.github.io/daily-finance-fintech-news-china/
 
 - Two scheduled Claude tasks write one lesson each: **金融** every morning, **金融科技** on weekday lunchtimes (Bangkok time).
 - Each lesson is a JSON file in `lessons/`, named `YYYY-MM-DD-finance.json` or `YYYY-MM-DD-fintech.json`.
-- `scripts/publish.py lesson.json` validates a lesson, writes it to `lessons/`, and deletes that category's lessons older than 7 days.
+- `scripts/publish.py lesson.json --source source.txt` validates a lesson, writes it to `lessons/`, and deletes that category's lessons older than 7 days.
 - `vocab` is the 生词 list (words above HSK 4); `glossary` defines every other word, so readers can tap any word in the article. `publish.py` refuses a lesson where any Chinese character in the title or paragraphs has no definition.
 - The lesson page reads the article aloud with the device's built-in Chinese voice (no audio files, no cost).
 - The pages (`index.html`, `lesson.html`, `vocab.html`) are plain HTML + `assets/app.js`, which loads the last 7 days of lesson files in the browser. No build step; `.nojekyll` tells GitHub Pages to serve files as they are.
+
+## Legal safeguards
+
+- **Facts only.** Lessons are written from the basic facts of a story (what happened, who announced what, numbers, officials' statements) in simple Chinese, in our own order and words. No outlet's structure, headline, wording, analysis or commentary; no expert/analyst opinions; no paywalled details.
+- **Copy check.** `publish.py --source` compares the lesson with everything the job read about the story and refuses to publish if they share a run of 12+ characters, if the headline shares 8+, or if more than 20% of the wording overlaps.
+- **Text only.** Lessons may not contain HTML, links or image references; the pages' Content-Security-Policy blocks images and media from any other site. The only graphics are our own flag SVG and emoji.
+- **Respectful sourcing.** Pages are read only through normal public access that honours robots.txt; no paywall bypassing, logins, caches or mirrors.
+- **Attribution.** Every lesson names the outlet in Chinese and English and links directly to the original article, at the top and bottom of the page. Homepages, search pages and redirects are rejected.
+- **Not advice.** The footer states the site is for language study only, not financial or investment advice. Only the last 7 days are kept.
 
 ## Lesson format
 

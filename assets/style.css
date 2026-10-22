@@ -236,3 +236,5 @@ ruby.w.v.active { background: var(--hl); }
 }
 .themes button[aria-pressed="true"] { background: var(--ink); color: var(--paper); }
 @media (max-width: 600px) { .themes button span { display: none; } }
+.orig { font-size: 13px; color: var(--ink-3); margin: 6px 0 0; }
+.orig a { color: var(--ink-2); }

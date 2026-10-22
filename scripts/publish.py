@@ -2,12 +2,25 @@
 """Add one lesson to the site and delete that category's lessons older than 7 days.
 
 Usage (from the repo root):
-    python3 scripts/publish.py path/to/lesson.json
+    python3 scripts/publish.py path/to/lesson.json --source path/to/source.txt
+
+--source is a file (kept OUTSIDE the repo, never published) holding everything that was
+read about the story: the fetched article text or page summaries and any search snippets.
+It is used only to check that the lesson does not copy that wording.
 
 The JSON must contain at least: date (YYYY-MM-DD), category (finance|fintech),
 title_zh, title_en, paragraphs [{zh, en}], source {name, name_en, url}, vocab [{hanzi, pinyin, en, hsk}],
 glossary [{w, py, en}] (every other word in the title and paragraphs, so every word can be tapped),
 featured [{hanzi, pinyin, pos, en, note, examples [{zh, py, en}]}].
+
+Safeguards (the lesson is refused if any fails):
+  * no copying: no run of 12+ Chinese characters shared with the source text, and
+    at most 20% of the lesson's 6-character sequences may also appear in it;
+    the headline may not share 8+ characters in a row with the source
+  * text only: no HTML, images, or links anywhere except source.url
+  * attribution: source.url must be a direct http(s) link to the original article
+    (not a homepage, search page, redirect, cache or archive mirror), with the
+    outlet named in Chinese and English
 
 It writes lessons/<date>-<category>.json and removes lessons/*-<category>.json whose
 date is more than 6 days before <date> (so 7 days are kept). Only standard library.
@@ -68,6 +81,84 @@ def uncovered(d):
     return missing
 
 
+# ---------- safeguards ----------
+CJK = re.compile(r"[\u4e00-\u9fff0-9０-９%％.]")
+COPY_RUN = 12          # longest allowed shared run of characters (body)
+TITLE_RUN = 8          # longest allowed shared run (headline)
+SHINGLE = 6
+MAX_OVERLAP = 0.20
+BLOCKED_HOSTS = ("google.", "baidu.com", "bing.com", "sogou.com", "web.archive.org", "archive.ph", "archive.today",
+                 "archive.is", "12ft.io", "removepaywall", "webcache", "translate.goog", "r.jina.ai")
+TAG = re.compile(r"<[^>]+>|https?://|www\.|\.(?:png|jpe?g|gif|webp|svg)\b", re.I)
+
+
+def chars(text):
+    """Keep only Chinese characters and digits, so punctuation and spaces can't hide copying."""
+    return "".join(CJK.findall(text or ""))
+
+
+def shared_runs(lesson_text, source_text, n):
+    src = {source_text[i:i + n] for i in range(len(source_text) - n + 1)}
+    hits, i = [], 0
+    while i <= len(lesson_text) - n:
+        if lesson_text[i:i + n] in src:
+            j = i + n
+            while j < len(lesson_text) and lesson_text[i:j + 1] in source_text:
+                j += 1
+            hits.append(lesson_text[i:j]); i = j
+        else:
+            i += 1
+    return hits
+
+
+def check_copying(d, source_text):
+    src = chars(source_text)
+    if len(src) < 20:
+        fail("the --source file is (nearly) empty; save everything you read about the story into it and run again")
+    body = chars("".join(p["zh"] for p in d["paragraphs"]))
+    runs = shared_runs(body, src, COPY_RUN)
+    if runs:
+        fail("these passages are copied from the source article — rewrite them in your own simple words: " + " | ".join(runs))
+    title_runs = shared_runs(chars(d["title_zh"]), src, TITLE_RUN)
+    if title_runs:
+        fail("the headline copies the source's wording — write your own headline: " + " | ".join(title_runs))
+    grams = [body[i:i + SHINGLE] for i in range(len(body) - SHINGLE + 1)]
+    if grams:
+        srcg = {src[i:i + SHINGLE] for i in range(len(src) - SHINGLE + 1)}
+        ratio = sum(g in srcg for g in grams) / len(grams)
+        if ratio > MAX_OVERLAP:
+            fail(f"{ratio:.0%} of the lesson's wording overlaps the source (limit {MAX_OVERLAP:.0%}) — "
+                 "rewrite it more simply in your own words and order")
+        print(f"copy check passed: {ratio:.0%} overlap, no shared run of {COPY_RUN}+ characters")
+
+
+def check_text_only(d):
+    def walk(x, path):
+        if isinstance(x, dict):
+            for k, v in x.items():
+                if path == "source" and k == "url":
+                    continue
+                walk(v, f"{path}.{k}" if path else k)
+        elif isinstance(x, list):
+            for i, v in enumerate(x):
+                walk(v, f"{path}[{i}]")
+        elif isinstance(x, str) and TAG.search(x):
+            fail(f"{path} contains HTML, a link or an image reference ({TAG.search(x).group(0)!r}) — lessons must be plain text")
+    walk(d, "")
+
+
+def check_attribution(src):
+    url = src.get("url", "")
+    u = urlparse(url)
+    if u.scheme not in ("http", "https") or not u.netloc:
+        fail("source.url must be a full http(s) link to the original article")
+    host = u.netloc.lower()
+    if any(b in host or b in url.lower() for b in BLOCKED_HOSTS):
+        fail(f"source.url must link directly to the publisher's article, not a search page, redirect, cache or mirror: {url}")
+    if u.path in ("", "/") or re.fullmatch(r"/(index\.html?)?", u.path):
+        fail(f"source.url points to a homepage — link the specific article instead: {url}")
+
+
 def validate(d):
     for key in ("date", "category", "title_zh", "title_en", "paragraphs", "vocab", "glossary"):
         if not d.get(key):
@@ -100,13 +191,29 @@ def validate(d):
     src["url"] = clean_url(src.get("url", ""))
     if not src.get("name") or not src.get("name_en"):
         fail("source needs both 'name' (Chinese) and 'name_en' (English)")
+    check_attribution(src)
+    check_text_only(d)
     return d
 
 
 def main():
-    if len(sys.argv) != 2:
-        fail("usage: python3 scripts/publish.py lesson.json")
-    lesson = validate(json.loads(pathlib.Path(sys.argv[1]).read_text(encoding="utf-8")))
+    args = sys.argv[1:]
+    source = None
+    if "--source" in args:
+        i = args.index("--source")
+        if i + 1 >= len(args):
+            fail("--source needs a file path")
+        source = pathlib.Path(args[i + 1]).read_text(encoding="utf-8")
+        args = args[:i] + args[i + 2:]
+    if len(args) != 1:
+        fail("usage: python3 scripts/publish.py lesson.json --source source.txt")
+    if source is None:
+        fail("--source is required: save everything you read about the story (fetched page text and search "
+             "snippets) to a file outside the repo and pass it, so the lesson can be checked for copied wording")
+    raw = json.loads(pathlib.Path(args[0]).read_text(encoding="utf-8"))
+    check_text_only(raw)
+    lesson = validate(raw)
+    check_copying(lesson, source)
     LESSONS.mkdir(exist_ok=True)
 
     out = LESSONS / f"{lesson['date']}-{lesson['category']}.json"

@@ -224,7 +224,9 @@
 
       root.innerHTML =
         '<header class="lesson-head">' + chip(c) + ' <span class="meta">' + esc(prettyDate(l.date)) + "</span>" +
-        '<h1 lang="zh-CN">' + titleHtml + '</h1><p class="en">' + esc(l.title_en) + "</p></header>" +
+        '<h1 lang="zh-CN">' + titleHtml + '</h1><p class="en">' + esc(l.title_en) + "</p>" +
+        (src.url ? '<p class="orig">原文报道 Originally reported by：<a href="' + esc(src.url) + '" target="_blank" rel="noopener">' +
+          (label || esc(src.url)) + ' ↗</a></p>' : "") + "</header>" +
         '<div class="article">' + paras + srcHtml + "</div>" +
         (feat ? '<section class="featured"><h3>重点词汇</h3><div class="featured-grid">' + feat + "</div></section>" : "") +
         '<nav class="pager">' +
