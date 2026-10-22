@@ -13,8 +13,8 @@
       "en": "A reverse repo is a way for the central bank to lend money to banks. \"Overnight\" means the money is lent for only one day and must be paid back the next day. The central bank said it is doing this to better meet banks' short-term funding needs."
     },
     {
-      "zh": "有专家认为，这段时间正好是企业交税和月底，银行对资金的需求会增加。目前市场上的隔夜利率大约是1.26%，低于7天逆回购利率1.4%，说明市场上的钱比较充足。",
-      "en": "Some experts say this period happens to cover companies' tax payments and the end of the month, so banks' demand for funds will rise. The market overnight rate is currently about 1.26%, lower than the 1.4% seven-day reverse repo rate, which shows there is fairly plenty of money in the market."
+      "zh": "目前市场上的隔夜利率大约是1.26%，低于7天逆回购利率1.4%。",
+      "en": "The market overnight rate is currently about 1.26%, lower than the 1.4% seven-day reverse repo rate."
     },
     {
       "zh": "另外，央行行长潘功胜10月19日表示，央行将研究把公开市场主要操作的期限从7天改为隔夜。如果这样做，隔夜利率可能成为新的主要政策利率，这对中国的货币政策有重要影响。",
@@ -148,30 +148,6 @@
       "hsk": "HSK 7–9"
     },
     {
-      "hanzi": "专家",
-      "pinyin": "zhuānjiā",
-      "en": "expert",
-      "hsk": "HSK 5"
-    },
-    {
-      "hanzi": "企业",
-      "pinyin": "qǐyè",
-      "en": "company; enterprise",
-      "hsk": "HSK 6"
-    },
-    {
-      "hanzi": "交税",
-      "pinyin": "jiāo shuì",
-      "en": "to pay taxes",
-      "hsk": "HSK 6"
-    },
-    {
-      "hanzi": "需求",
-      "pinyin": "xūqiú",
-      "en": "demand; need",
-      "hsk": "HSK 6"
-    },
-    {
       "hanzi": "目前",
       "pinyin": "mùqián",
       "en": "at present; currently",
@@ -188,12 +164,6 @@
       "pinyin": "dīyú",
       "en": "lower than; below",
       "hsk": "HSK 5"
-    },
-    {
-      "hanzi": "充足",
-      "pinyin": "chōngzú",
-      "en": "ample; plentiful",
-      "hsk": "HSK 6"
     },
     {
       "hanzi": "行长",
@@ -480,54 +450,14 @@
       "en": "to have; there is"
     },
     {
-      "w": "认为",
-      "py": "rènwéi",
-      "en": "to think; to believe"
-    },
-    {
       "w": "这",
       "py": "zhè",
       "en": "this"
     },
     {
-      "w": "段",
-      "py": "duàn",
-      "en": "(measure word for periods)"
-    },
-    {
-      "w": "时间",
-      "py": "shíjiān",
-      "en": "time"
-    },
-    {
-      "w": "正好",
-      "py": "zhènghǎo",
-      "en": "happens to; just right"
-    },
-    {
-      "w": "和",
-      "py": "hé",
-      "en": "and; with"
-    },
-    {
-      "w": "月底",
-      "py": "yuèdǐ",
-      "en": "end of the month"
-    },
-    {
       "w": "对",
       "py": "duì",
       "en": "to; toward; for"
-    },
-    {
-      "w": "会",
-      "py": "huì",
-      "en": "will; can; meeting"
-    },
-    {
-      "w": "增加",
-      "py": "zēngjiā",
-      "en": "to increase"
     },
     {
       "w": "上",
@@ -538,16 +468,6 @@
       "w": "大约",
       "py": "dàyuē",
       "en": "about; approximately"
-    },
-    {
-      "w": "说明",
-      "py": "shuōmíng",
-      "en": "to show; to explain"
-    },
-    {
-      "w": "比较",
-      "py": "bǐjiào",
-      "en": "fairly; relatively"
     },
     {
       "w": "另外",
@@ -613,6 +533,11 @@
       "w": "影响",
       "py": "yǐngxiǎng",
       "en": "influence; to affect"
+    },
+    {
+      "w": "用",
+      "py": "yòng",
+      "en": "to use"
     }
   ]
 }

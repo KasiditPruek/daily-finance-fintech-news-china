@@ -403,7 +403,32 @@
     });
   }
 
+  /* ---------- theme switch: light / dark / eye-care ---------- */
+  function setupThemes() {
+    var btns = document.querySelectorAll("[data-theme-set]");
+    if (!btns.length) return;
+    function current() {
+      var t = document.documentElement.getAttribute("data-theme");
+      if (t) return t;
+      return window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
+    }
+    function paint() {
+      var t = current();
+      Array.prototype.forEach.call(btns, function (b) { b.setAttribute("aria-pressed", b.getAttribute("data-theme-set") === t ? "true" : "false"); });
+    }
+    Array.prototype.forEach.call(btns, function (b) {
+      b.addEventListener("click", function () {
+        var t = b.getAttribute("data-theme-set");
+        document.documentElement.setAttribute("data-theme", t);
+        store("theme", t);
+        paint();
+      });
+    });
+    paint();
+  }
+
   document.addEventListener("DOMContentLoaded", function () {
+    setupThemes();
     setupToggles();
     var page = document.body.getAttribute("data-page");
     if (page === "home") renderHome();

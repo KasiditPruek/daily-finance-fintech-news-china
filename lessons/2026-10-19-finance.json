@@ -17,8 +17,8 @@
       "en": "The second-hand housing market was the same: resale prices in first-tier cities fell 1.5% year on year, with the decline narrowing by 1.2 percentage points, and Shanghai even saw a 0.8% rise."
     },
     {
-      "zh": "房地产是中国经济很重要的一部分，和银行贷款、居民财富的关系都很密切。房价降幅缩小，说明市场可能正在慢慢稳定。但是，二三线城市的房价仍然下降得比较多，压力还比较大。",
-      "en": "Real estate is a very important part of China's economy and is closely tied to bank loans and household wealth. Smaller price declines suggest the market may be slowly stabilizing. However, prices in second- and third-tier cities are still falling quite a lot, and the pressure there remains fairly high."
+      "zh": "房地产是中国经济很重要的一部分，和银行贷款、居民财富的关系都很密切。",
+      "en": "Real estate is a very important part of China's economy and is closely tied to bank loans and household wealth."
     }
   ],
   "source": {
@@ -142,12 +142,6 @@
       "hsk": "HSK 7–9"
     },
     {
-      "hanzi": "二线城市",
-      "pinyin": "èrxiàn chéngshì",
-      "en": "second-tier city",
-      "hsk": "超纲"
-    },
-    {
       "hanzi": "三线城市",
       "pinyin": "sānxiàn chéngshì",
       "en": "third-tier city",
@@ -199,12 +193,6 @@
       "hanzi": "密切",
       "pinyin": "mìqiè",
       "en": "close (relationship)",
-      "hsk": "HSK 5"
-    },
-    {
-      "hanzi": "稳定",
-      "pinyin": "wěndìng",
-      "en": "stable; to stabilize",
       "hsk": "HSK 5"
     }
   ],
@@ -435,54 +423,9 @@
       "en": "relationship; connection"
     },
     {
-      "w": "说明",
-      "py": "shuōmíng",
-      "en": "to show; to explain"
-    },
-    {
-      "w": "可能",
-      "py": "kěnéng",
-      "en": "may; possibly"
-    },
-    {
-      "w": "正在",
-      "py": "zhèngzài",
-      "en": "in the process of"
-    },
-    {
-      "w": "慢慢",
-      "py": "mànmàn",
-      "en": "slowly; gradually"
-    },
-    {
       "w": "二",
       "py": "èr",
       "en": "two"
-    },
-    {
-      "w": "仍然",
-      "py": "réngrán",
-      "en": "still"
-    },
-    {
-      "w": "得",
-      "py": "de",
-      "en": "(complement marker)"
-    },
-    {
-      "w": "比较",
-      "py": "bǐjiào",
-      "en": "fairly; relatively"
-    },
-    {
-      "w": "多",
-      "py": "duō",
-      "en": "many; much; more"
-    },
-    {
-      "w": "压力",
-      "py": "yālì",
-      "en": "pressure"
     },
     {
       "w": "大",

@@ -5,8 +5,8 @@
   "title_en": "Digital yuan operating institutions grow to 30",
   "paragraphs": [
     {
-      "zh": "10月19日，中国人民银行行长潘功胜在2026金融街论坛年会上说，数字人民币的业务运营机构已经从10家增加到30家，包括所有系统重要性银行。这说明数字人民币正在从试点走向更大的范围。",
-      "en": "On October 19, People's Bank of China Governor Pan Gongsheng said at the 2026 Financial Street Forum annual meeting that the number of institutions operating digital yuan business has grown from 10 to 30, including all systemically important banks. This shows the digital yuan is moving from pilot to wider use."
+      "zh": "10月19日，中国人民银行行长潘功胜在2026金融街论坛年会上说，数字人民币的业务运营机构已经从10家增加到30家，包括所有系统重要性银行。",
+      "en": "On October 19, People's Bank of China Governor Pan Gongsheng said at the 2026 Financial Street Forum annual meeting that the number of institutions operating digital yuan business has grown from 10 to 30, including all systemically important banks."
     },
     {
       "zh": "潘功胜还说，今年年初，央行改变了数字人民币的定位：以前它被看作现金，现在被看作存款货币。也就是说，钱包里的数字人民币更像银行里的存款。",
@@ -17,8 +17,8 @@
       "en": "In addition, the digital yuan operations management centre set up in Beijing last year is now fully in operation. This platform provides services such as issuance management, retail, wholesale, blockchain and smart contracts."
     },
     {
-      "zh": "对银行来说，参加的银行越多，数字人民币的使用场景就会越丰富。未来，企业和商户可能会有更多机会用数字人民币收款和付款。",
-      "en": "For banks, the more banks take part, the richer the use cases for the digital yuan will become. In the future, businesses and merchants may have more chances to receive and make payments in digital yuan."
+      "zh": "数字人民币可以用在零售和批发等不同场景，商户也可以用它收款。",
+      "en": "The digital yuan can be used in different scenarios such as retail and wholesale, and merchants can also use it to receive payments."
     }
   ],
   "source": {
@@ -111,24 +111,6 @@
       "pinyin": "xìtǒng zhòngyàoxìng yínháng",
       "en": "systemically important bank",
       "hsk": "超纲"
-    },
-    {
-      "hanzi": "试点",
-      "pinyin": "shìdiǎn",
-      "en": "pilot (program); to pilot",
-      "hsk": "超纲"
-    },
-    {
-      "hanzi": "走向",
-      "pinyin": "zǒuxiàng",
-      "en": "to move toward; trend",
-      "hsk": "HSK 6"
-    },
-    {
-      "hanzi": "范围",
-      "pinyin": "fànwéi",
-      "en": "scope; range",
-      "hsk": "HSK 5"
     },
     {
       "hanzi": "年初",
@@ -243,18 +225,6 @@
       "pinyin": "chǎngjǐng",
       "en": "scenario; use case; scene",
       "hsk": "超纲"
-    },
-    {
-      "hanzi": "未来",
-      "pinyin": "wèilái",
-      "en": "future",
-      "hsk": "HSK 5"
-    },
-    {
-      "hanzi": "企业",
-      "pinyin": "qǐyè",
-      "en": "enterprise; company",
-      "hsk": "HSK 5"
     },
     {
       "hanzi": "商户",
@@ -386,21 +356,6 @@
       "en": "this"
     },
     {
-      "w": "说明",
-      "py": "shuōmíng",
-      "en": "to show; to explain"
-    },
-    {
-      "w": "正在",
-      "py": "zhèngzài",
-      "en": "in the process of"
-    },
-    {
-      "w": "更大",
-      "py": "gèngdà",
-      "en": "bigger"
-    },
-    {
       "w": "还",
       "py": "hái",
       "en": "also; still"
@@ -526,36 +481,6 @@
       "en": "service; to serve"
     },
     {
-      "w": "对",
-      "py": "duì",
-      "en": "to; toward; for"
-    },
-    {
-      "w": "来说",
-      "py": "lái shuō",
-      "en": "speaking (对…来说)"
-    },
-    {
-      "w": "参加",
-      "py": "cānjiā",
-      "en": "to take part in"
-    },
-    {
-      "w": "越",
-      "py": "yuè",
-      "en": "the more"
-    },
-    {
-      "w": "多",
-      "py": "duō",
-      "en": "many; much; more"
-    },
-    {
-      "w": "使用",
-      "py": "shǐyòng",
-      "en": "to use"
-    },
-    {
       "w": "就",
       "py": "jiù",
       "en": "then; just; already"
@@ -566,24 +491,9 @@
       "en": "will; can; meeting"
     },
     {
-      "w": "丰富",
-      "py": "fēngfù",
-      "en": "rich; varied"
-    },
-    {
-      "w": "可能",
-      "py": "kěnéng",
-      "en": "may; possibly"
-    },
-    {
       "w": "有",
       "py": "yǒu",
       "en": "to have; there is"
-    },
-    {
-      "w": "机会",
-      "py": "jīhuì",
-      "en": "chance; opportunity"
     },
     {
       "w": "用",
@@ -591,9 +501,14 @@
       "en": "to use"
     },
     {
-      "w": "付款",
-      "py": "fùkuǎn",
-      "en": "to pay"
+      "w": "不同",
+      "py": "bùtóng",
+      "en": "different"
+    },
+    {
+      "w": "也",
+      "py": "yě",
+      "en": "also"
     }
   ]
 }

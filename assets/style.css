@@ -15,11 +15,16 @@
   color-scheme: light;
 }
 @media (prefers-color-scheme: dark) {
-  :root:not([data-theme="light"]) {
+  :root:not([data-theme]) {
     --paper: #16140f; --card: #1f1c16; --ink: #ede6d9; --ink-2: #b9b0a1; --ink-3: #887f71;
     --rule: #332e25; --accent: #e0675c; --accent-soft: #3a211d; --fintech: #6fb5b8;
     --fintech-soft: #1b3233; --hl: #4a3d16; color-scheme: dark;
   }
+}
+:root[data-theme="eye"] {
+  --paper: #f2e9d0; --card: #f8f1dd; --ink: #3a3226; --ink-2: #5c5140; --ink-3: #887b63;
+  --rule: #e0d3b2; --accent: #9a3b22; --accent-soft: #ecd9c3; --fintech: #3d6a4d;
+  --fintech-soft: #dbe6d0; --hl: #e8d59c; color-scheme: light;
 }
 :root[data-theme="dark"] {
   --paper: #16140f; --card: #1f1c16; --ink: #ede6d9; --ink-2: #b9b0a1; --ink-3: #887f71;
@@ -221,3 +226,13 @@ ruby.w.v.active { background: var(--hl); }
 .sent.speaking { background: var(--accent-soft); box-shadow: 0 0 0 2px var(--accent-soft); }
 .player .seek:focus { outline: none; }
 .player .seek:focus-visible { outline: 2px solid var(--accent-soft); outline-offset: 2px; }
+
+/* ---------- flag + theme switch ---------- */
+.flag { flex: none; border-radius: 3px; box-shadow: 0 1px 3px rgba(0,0,0,.18); }
+.themes { display: inline-flex; gap: 2px; padding: 3px; border: 1px solid var(--rule); border-radius: 999px; background: var(--card); }
+.themes button {
+  font: inherit; font-size: 13px; border: 0; background: transparent; color: var(--ink-2); cursor: pointer;
+  padding: 4px 10px; border-radius: 999px; display: inline-flex; align-items: center; gap: 4px; line-height: 1.4;
+}
+.themes button[aria-pressed="true"] { background: var(--ink); color: var(--paper); }
+@media (max-width: 600px) { .themes button span { display: none; } }

@@ -17,8 +17,8 @@
       "en": "On October 19, central bank governor Pan Gongsheng said at the Financial Street Forum that interest rates should play a bigger role in the future. He also said the pricing benchmark for loans will gradually move from relying only on the LPR to becoming more diversified."
     },
     {
-      "zh": "对普通人来说，利率不变意味着房贷和其他贷款的成本暂时不会降低。很多人会继续关注央行下一步会不会降息。",
-      "en": "For ordinary people, unchanged rates mean that the cost of mortgages and other loans won't come down for now. Many people will keep watching whether the central bank cuts rates next."
+      "zh": "对普通人来说，利率不变意味着房贷和其他贷款的成本暂时不会降低。",
+      "en": "For ordinary people, unchanged rates mean that the cost of mortgages and other loans won't come down for now."
     }
   ],
   "source": {
@@ -212,18 +212,6 @@
       "pinyin": "chéngběn",
       "en": "cost",
       "hsk": "HSK 6"
-    },
-    {
-      "hanzi": "关注",
-      "pinyin": "guānzhù",
-      "en": "to follow closely; to pay attention to",
-      "hsk": "HSK 6"
-    },
-    {
-      "hanzi": "降息",
-      "pinyin": "jiàngxī",
-      "en": "to cut interest rates",
-      "hsk": "超纲"
     }
   ],
   "featured": [
@@ -593,24 +581,9 @@
       "en": "to lower; to reduce"
     },
     {
-      "w": "很多",
-      "py": "hěnduō",
-      "en": "many; a lot of"
-    },
-    {
       "w": "会",
       "py": "huì",
       "en": "will; can; meeting"
-    },
-    {
-      "w": "继续",
-      "py": "jìxù",
-      "en": "to continue"
-    },
-    {
-      "w": "下一步",
-      "py": "xià yí bù",
-      "en": "next step"
     }
   ]
 }

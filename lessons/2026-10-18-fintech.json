@@ -15,10 +15,6 @@
     {
       "zh": "在第二期生成式AI沙盒测试中，超过60%的用例都在探索AI代理，也就是让AI在允许的范围内自己计划并完成多个步骤的任务。金管局副总裁阮国恒表示，AI从\"生成式\"走向\"代理式\"，是银行业创新的一个重要新阶段。",
       "en": "In the second phase of the generative AI sandbox tests, more than 60% of use cases were exploring AI agents - that is, letting AI plan and complete multi-step tasks on its own within an authorised scope. HKMA Deputy Chief Executive Arthur Yuen said that AI moving from \"generative\" to \"agentic\" is an important new stage of innovation for the banking industry."
-    },
-    {
-      "zh": "这条消息说明，监管机构不只是限制AI，而是在帮银行找到安全使用AI的方法。对于亚洲其他市场的银行来说，香港的做法也很值得参考。",
-      "en": "This news shows that regulators are not just restricting AI, but are helping banks find safe ways to use it. For banks in other Asian markets, Hong Kong's approach is also well worth looking at."
     }
   ],
   "source": {
@@ -289,36 +285,6 @@
       "hanzi": "阶段",
       "pinyin": "jiēduàn",
       "en": "stage; phase",
-      "hsk": "HSK 5"
-    },
-    {
-      "hanzi": "机构",
-      "pinyin": "jīgòu",
-      "en": "institution; body (监管机构 = regulator)",
-      "hsk": "HSK 6"
-    },
-    {
-      "hanzi": "限制",
-      "pinyin": "xiànzhì",
-      "en": "to restrict; limit",
-      "hsk": "HSK 5"
-    },
-    {
-      "hanzi": "市场",
-      "pinyin": "shìchǎng",
-      "en": "market",
-      "hsk": "HSK 5"
-    },
-    {
-      "hanzi": "做法",
-      "pinyin": "zuòfǎ",
-      "en": "approach; way of doing things",
-      "hsk": "HSK 5"
-    },
-    {
-      "hanzi": "参考",
-      "pinyin": "cānkǎo",
-      "en": "to refer to; reference",
       "hsk": "HSK 5"
     }
   ],
@@ -707,86 +673,6 @@
       "w": "这",
       "py": "zhè",
       "en": "this"
-    },
-    {
-      "w": "条",
-      "py": "tiáo",
-      "en": "(measure word for news items)"
-    },
-    {
-      "w": "消息",
-      "py": "xiāoxi",
-      "en": "news"
-    },
-    {
-      "w": "说明",
-      "py": "shuōmíng",
-      "en": "to show; to explain"
-    },
-    {
-      "w": "不",
-      "py": "bù",
-      "en": "not"
-    },
-    {
-      "w": "只是",
-      "py": "zhǐshì",
-      "en": "only; merely"
-    },
-    {
-      "w": "而是",
-      "py": "érshì",
-      "en": "but rather"
-    },
-    {
-      "w": "帮",
-      "py": "bāng",
-      "en": "to help"
-    },
-    {
-      "w": "找到",
-      "py": "zhǎodào",
-      "en": "to find"
-    },
-    {
-      "w": "安全",
-      "py": "ānquán",
-      "en": "safe"
-    },
-    {
-      "w": "方法",
-      "py": "fāngfǎ",
-      "en": "method; way"
-    },
-    {
-      "w": "对于",
-      "py": "duìyú",
-      "en": "regarding; for"
-    },
-    {
-      "w": "亚洲",
-      "py": "Yàzhōu",
-      "en": "Asia"
-    },
-    {
-      "w": "其他",
-      "py": "qítā",
-      "en": "other"
-    },
-    {
-      "w": "来说",
-      "py": "lái shuō",
-      "en": "speaking (对…来说)"
-    },
-    {
-      "w": "很",
-      "py": "hěn",
-      "en": "very"
-    },
-    {
-      "w": "值得",
-      "py": "zhíde",
-      "en": "to be worth"
     }
   ]
 }

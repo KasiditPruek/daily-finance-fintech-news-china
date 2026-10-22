@@ -13,8 +13,8 @@
       "en": "Midea Pay also issued notices in July and September, one after another, to clear merchant and personal accounts with no transactions, no fund flows and no logins for two years or more. Tenpay did not publish a dedicated cleanup notice, but it updated its user agreement, adding content such as customer risk tiering and dynamic monitoring."
     },
     {
-      "zh": "专家认为，清理睡眠账户主要是为了反洗钱和防止电信网络诈骗。监管部门要求支付机构做好客户身份管理和账户管理。",
-      "en": "Experts believe that clearing dormant accounts is mainly about anti-money-laundering and preventing telecom and online fraud. Regulators require payment institutions to do a good job of managing customer identities and accounts."
+      "zh": "监管部门要求支付机构做好客户身份管理和账户管理。",
+      "en": "Regulators require payment institutions to do a good job of managing customer identities and accounts."
     },
     {
       "zh": "对用户来说，如果想保留账户，只需要重新登录，然后更新身份信息。账户里有余额或者有没完成的交易，一般不会被直接关闭，用户仍然可以取回资金。",
@@ -199,42 +199,6 @@
       "hanzi": "监测",
       "pinyin": "jiāncè",
       "en": "to monitor",
-      "hsk": "HSK 7–9"
-    },
-    {
-      "hanzi": "专家",
-      "pinyin": "zhuānjiā",
-      "en": "expert",
-      "hsk": "HSK 5"
-    },
-    {
-      "hanzi": "反洗钱",
-      "pinyin": "fǎn xǐqián",
-      "en": "anti-money-laundering (AML)",
-      "hsk": "超纲"
-    },
-    {
-      "hanzi": "防止",
-      "pinyin": "fángzhǐ",
-      "en": "to prevent",
-      "hsk": "HSK 5"
-    },
-    {
-      "hanzi": "电信",
-      "pinyin": "diànxìn",
-      "en": "telecommunications",
-      "hsk": "HSK 7–9"
-    },
-    {
-      "hanzi": "网络",
-      "pinyin": "wǎngluò",
-      "en": "network; online",
-      "hsk": "HSK 5"
-    },
-    {
-      "hanzi": "诈骗",
-      "pinyin": "zhàpiàn",
-      "en": "fraud, scam; to swindle",
       "hsk": "HSK 7–9"
     },
     {
@@ -461,21 +425,6 @@
       "en": "content"
     },
     {
-      "w": "认为",
-      "py": "rènwéi",
-      "en": "to think; to believe"
-    },
-    {
-      "w": "主要",
-      "py": "zhǔyào",
-      "en": "main; mainly"
-    },
-    {
-      "w": "为了",
-      "py": "wèile",
-      "en": "in order to"
-    },
-    {
       "w": "要求",
       "py": "yāoqiú",
       "en": "requirement; to require"
@@ -594,6 +543,11 @@
       "w": "取回",
       "py": "qǔhuí",
       "en": "to take back; to withdraw"
+    },
+    {
+      "w": "用",
+      "py": "yòng",
+      "en": "to use"
     }
   ]
 }

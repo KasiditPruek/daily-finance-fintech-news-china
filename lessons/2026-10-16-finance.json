@@ -17,8 +17,8 @@
       "en": "On exchange rates, Pan said that global economic imbalances cannot be solved just by adjusting exchange rates. In his view, exchange rates are affected by many factors, such as economic growth, monetary policy and market conditions."
     },
     {
-      "zh": "关于中国经济，潘功胜说，中国金融市场运行平稳，长期发展的基础没有改变。央行将继续实施适度宽松的货币政策，支持经济稳定增长。对投资者来说，这说明央行短期内不会收紧货币政策。",
-      "en": "As for China's economy, Pan said China's financial markets are running smoothly and the foundation for long-term development has not changed. The central bank will continue an appropriately loose monetary policy to support stable economic growth. For investors, this suggests the central bank will not tighten monetary policy in the short term."
+      "zh": "关于中国经济，潘功胜说，中国金融市场运行平稳，长期发展的基础没有改变。央行将继续实施适度宽松的货币政策，支持经济稳定增长。",
+      "en": "As for China's economy, Pan said China's financial markets are running smoothly and the foundation for long-term development has not changed. The central bank will continue an appropriately loose monetary policy to support stable economic growth."
     }
   ],
   "source": {
@@ -260,24 +260,6 @@
       "pinyin": "wěndìng",
       "en": "stable; to stabilize",
       "hsk": "HSK 5"
-    },
-    {
-      "hanzi": "投资者",
-      "pinyin": "tóuzīzhě",
-      "en": "investor",
-      "hsk": "HSK 5"
-    },
-    {
-      "hanzi": "短期",
-      "pinyin": "duǎnqī",
-      "en": "short-term",
-      "hsk": "HSK 6"
-    },
-    {
-      "hanzi": "收紧",
-      "pinyin": "shōujǐn",
-      "en": "to tighten (policy)",
-      "hsk": "超纲"
     }
   ],
   "featured": [
@@ -595,31 +577,6 @@
       "w": "支持",
       "py": "zhīchí",
       "en": "to support"
-    },
-    {
-      "w": "对",
-      "py": "duì",
-      "en": "to; toward; for"
-    },
-    {
-      "w": "来说",
-      "py": "lái shuō",
-      "en": "speaking (对…来说)"
-    },
-    {
-      "w": "说明",
-      "py": "shuōmíng",
-      "en": "to show; to explain"
-    },
-    {
-      "w": "内",
-      "py": "nèi",
-      "en": "within; inside"
-    },
-    {
-      "w": "不会",
-      "py": "bú huì",
-      "en": "won't"
     }
   ]
 }

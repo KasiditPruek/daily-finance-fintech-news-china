@@ -15,10 +15,6 @@
     {
       "zh": "新系统把发行、零售、批发、跨境等功能放在同一个平台上，可以7×24小时运行。智能合约是另一个重点：钱可以按照提前写好的规则自动支付，比如货物到了才付款，这对企业和政府补贴等场景很有用。",
       "en": "The new system puts issuance, retail, wholesale, cross-border and other functions on one platform, running 24/7. Smart contracts are another focus: money can be paid automatically by rules written in advance — e.g. pay only after goods arrive — useful for businesses and government subsidies."
-    },
-    {
-      "zh": "对普通用户来说，付款方式可能变化不大；但对银行和支付公司来说，数字人民币正从\"支付工具\"变成真正的银行产品。未来，它和支付宝、微信支付之间的竞争与合作，值得继续关注。",
-      "en": "For ordinary users, the way they pay may not change much; but for banks and payment companies, the digital yuan is turning from a \"payment tool\" into a real bank product. How it competes and cooperates with Alipay and WeChat Pay is worth watching."
     }
   ],
   "source": {
@@ -296,54 +292,6 @@
       "pinyin": "chǎngjǐng",
       "en": "use case, scenario; scene",
       "hsk": "HSK 7–9"
-    },
-    {
-      "hanzi": "对…来说",
-      "pinyin": "duì…lái shuō",
-      "en": "for…, as far as…is concerned",
-      "hsk": "超纲"
-    },
-    {
-      "hanzi": "方式",
-      "pinyin": "fāngshì",
-      "en": "way, method",
-      "hsk": "HSK 5"
-    },
-    {
-      "hanzi": "工具",
-      "pinyin": "gōngjù",
-      "en": "tool",
-      "hsk": "HSK 5"
-    },
-    {
-      "hanzi": "产品",
-      "pinyin": "chǎnpǐn",
-      "en": "product",
-      "hsk": "HSK 5"
-    },
-    {
-      "hanzi": "未来",
-      "pinyin": "wèilái",
-      "en": "future",
-      "hsk": "HSK 5"
-    },
-    {
-      "hanzi": "之间",
-      "pinyin": "zhījiān",
-      "en": "between",
-      "hsk": "HSK 5"
-    },
-    {
-      "hanzi": "合作",
-      "pinyin": "hézuò",
-      "en": "cooperation",
-      "hsk": "HSK 5"
-    },
-    {
-      "hanzi": "关注",
-      "pinyin": "guānzhù",
-      "en": "to follow closely",
-      "hsk": "HSK 5"
     }
   ],
   "featured": [
@@ -726,81 +674,6 @@
       "w": "有用",
       "py": "yǒuyòng",
       "en": "useful"
-    },
-    {
-      "w": "普通",
-      "py": "pǔtōng",
-      "en": "ordinary"
-    },
-    {
-      "w": "可能",
-      "py": "kěnéng",
-      "en": "may; possibly"
-    },
-    {
-      "w": "不",
-      "py": "bù",
-      "en": "not"
-    },
-    {
-      "w": "大",
-      "py": "dà",
-      "en": "big; large"
-    },
-    {
-      "w": "但",
-      "py": "dàn",
-      "en": "but"
-    },
-    {
-      "w": "公司",
-      "py": "gōngsī",
-      "en": "company"
-    },
-    {
-      "w": "正",
-      "py": "zhèng",
-      "en": "right now; just"
-    },
-    {
-      "w": "真正",
-      "py": "zhēnzhèng",
-      "en": "real; genuine"
-    },
-    {
-      "w": "它",
-      "py": "tā",
-      "en": "it"
-    },
-    {
-      "w": "支付宝",
-      "py": "Zhīfùbǎo",
-      "en": "Alipay"
-    },
-    {
-      "w": "微信",
-      "py": "Wēixìn",
-      "en": "WeChat"
-    },
-    {
-      "w": "竞争",
-      "py": "jìngzhēng",
-      "en": "competition"
-    },
-    {
-      "w": "与",
-      "py": "yǔ",
-      "en": "and; with"
-    },
-    {
-      "w": "值得",
-      "py": "zhíde",
-      "en": "to be worth"
-    },
-    {
-      "w": "继续",
-      "py": "jìxù",
-      "en": "to continue"
     }
   ]
 }
