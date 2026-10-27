@@ -1,0 +1,524 @@
+{
+  "date": "2026-10-27",
+  "category": "finance",
+  "title_zh": "金价回落，银行买入积存金要先重新测评风险",
+  "title_en": "Gold Falls Back: Banks Ask Customers to Retake Risk Assessment Before Buying Gold Savings Plans",
+  "paragraphs": [
+    {
+      "zh": "10月23日，国际现货黄金价格一度跌到每盎司4000美元以下，最低是3975美元。到10月26日，金价大约是4011美元，比今年的最高点低了百分之二十九左右。",
+      "en": "On October 23, the international spot gold price briefly fell below 4,000 US dollars per ounce, with a low of 3,975 dollars. By October 26, gold was at about 4,011 dollars, roughly 29 percent below this year's peak."
+    },
+    {
+      "zh": "国内金价也回落到每克八百多元。银行的积存金是一种买黄金的方式，客户可以定期用少量的钱买入黄金。",
+      "en": "Gold prices in China also fell back to a little over 800 yuan per gram. A bank's gold savings plan (积存金) is a way to buy gold: customers can regularly use a small amount of money to buy gold."
+    },
+    {
+      "zh": "第一财经的记者发现，有客户打开银行App想买入，却看到风险测评已经过期，要重新做测评才能继续。",
+      "en": "Yicai reporters found that some customers opened their bank app wanting to buy, but saw that their risk assessment had expired and they had to take it again before they could continue."
+    },
+    {
+      "zh": "另外，很多银行把买入费率降到零，但是卖出的费用和买卖差价没有明显变化。",
+      "en": "In addition, many banks cut their buying fee rate to zero, but the selling fees and the buy–sell price gap have not changed noticeably."
+    }
+  ],
+  "source": {
+    "name": "第一财经",
+    "name_en": "Yicai (China Business Network)",
+    "url": "https://www.yicai.com/news/103410268.html"
+  },
+  "vocab": [
+    {
+      "hanzi": "回落",
+      "pinyin": "huíluò",
+      "en": "to fall back, retreat (after a rise)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "买入",
+      "pinyin": "mǎirù",
+      "en": "to buy, purchase (of assets)",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "积存金",
+      "pinyin": "jīcúnjīn",
+      "en": "gold savings plan (regular small purchases of gold at a bank)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "测评",
+      "pinyin": "cèpíng",
+      "en": "assessment, evaluation",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "风险",
+      "pinyin": "fēngxiǎn",
+      "en": "risk",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "现货黄金",
+      "pinyin": "xiànhuò huángjīn",
+      "en": "spot gold",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "一度",
+      "pinyin": "yídù",
+      "en": "once, for a time; briefly",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "盎司",
+      "pinyin": "àngsī",
+      "en": "ounce",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "美元",
+      "pinyin": "měiyuán",
+      "en": "US dollar",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "最高点",
+      "pinyin": "zuìgāodiǎn",
+      "en": "peak, highest point",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "黄金",
+      "pinyin": "huángjīn",
+      "en": "gold",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "客户",
+      "pinyin": "kèhù",
+      "en": "customer, client",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "定期",
+      "pinyin": "dìngqī",
+      "en": "regularly, at fixed times; fixed-term",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "少量",
+      "pinyin": "shǎoliàng",
+      "en": "a small amount",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "过期",
+      "pinyin": "guòqī",
+      "en": "to expire, be out of date",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "卖出",
+      "pinyin": "màichū",
+      "en": "to sell (assets)",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "费率",
+      "pinyin": "fèilǜ",
+      "en": "fee rate",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "费用",
+      "pinyin": "fèiyong",
+      "en": "cost, fee, expense",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "买卖",
+      "pinyin": "mǎimai",
+      "en": "buying and selling; trade",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "差价",
+      "pinyin": "chājià",
+      "en": "price gap, spread",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "明显",
+      "pinyin": "míngxiǎn",
+      "en": "obvious, noticeable",
+      "hsk": "HSK 5"
+    }
+  ],
+  "glossary": [
+    {
+      "w": "金价",
+      "py": "jīnjià",
+      "en": "gold price"
+    },
+    {
+      "w": "银行",
+      "py": "yínháng",
+      "en": "bank"
+    },
+    {
+      "w": "要",
+      "py": "yào",
+      "en": "need to; must"
+    },
+    {
+      "w": "先",
+      "py": "xiān",
+      "en": "first"
+    },
+    {
+      "w": "重新",
+      "py": "chóngxīn",
+      "en": "again, anew"
+    },
+    {
+      "w": "10",
+      "py": "shí",
+      "en": "ten"
+    },
+    {
+      "w": "月",
+      "py": "yuè",
+      "en": "month"
+    },
+    {
+      "w": "23",
+      "py": "èrshísān",
+      "en": "twenty-three"
+    },
+    {
+      "w": "日",
+      "py": "rì",
+      "en": "day (of the month)"
+    },
+    {
+      "w": "国际",
+      "py": "guójì",
+      "en": "international"
+    },
+    {
+      "w": "价格",
+      "py": "jiàgé",
+      "en": "price"
+    },
+    {
+      "w": "跌",
+      "py": "diē",
+      "en": "to fall, drop"
+    },
+    {
+      "w": "到",
+      "py": "dào",
+      "en": "to; down to"
+    },
+    {
+      "w": "每",
+      "py": "měi",
+      "en": "per, each"
+    },
+    {
+      "w": "4000",
+      "py": "sìqiān",
+      "en": "four thousand"
+    },
+    {
+      "w": "以下",
+      "py": "yǐxià",
+      "en": "below, under"
+    },
+    {
+      "w": "最低",
+      "py": "zuìdī",
+      "en": "lowest"
+    },
+    {
+      "w": "是",
+      "py": "shì",
+      "en": "is; was"
+    },
+    {
+      "w": "3975",
+      "py": "sān qiān jiǔ bǎi qī shí wǔ",
+      "en": "three thousand nine hundred seventy-five"
+    },
+    {
+      "w": "26",
+      "py": "èrshíliù",
+      "en": "twenty-six"
+    },
+    {
+      "w": "大约",
+      "py": "dàyuē",
+      "en": "about, approximately"
+    },
+    {
+      "w": "4011",
+      "py": "sì qiān líng yī shí yī",
+      "en": "four thousand and eleven"
+    },
+    {
+      "w": "比",
+      "py": "bǐ",
+      "en": "than; compared with"
+    },
+    {
+      "w": "今年",
+      "py": "jīnnián",
+      "en": "this year"
+    },
+    {
+      "w": "的",
+      "py": "de",
+      "en": "(possessive/modifier particle)"
+    },
+    {
+      "w": "低",
+      "py": "dī",
+      "en": "low; lower"
+    },
+    {
+      "w": "了",
+      "py": "le",
+      "en": "(completed-action particle)"
+    },
+    {
+      "w": "百分之二十九",
+      "py": "bǎi fēn zhī èrshíjiǔ",
+      "en": "29 percent"
+    },
+    {
+      "w": "左右",
+      "py": "zuǒyòu",
+      "en": "about, or so"
+    },
+    {
+      "w": "国内",
+      "py": "guónèi",
+      "en": "domestic, within the country"
+    },
+    {
+      "w": "也",
+      "py": "yě",
+      "en": "also"
+    },
+    {
+      "w": "克",
+      "py": "kè",
+      "en": "gram"
+    },
+    {
+      "w": "八百",
+      "py": "bā bǎi",
+      "en": "eight hundred"
+    },
+    {
+      "w": "多",
+      "py": "duō",
+      "en": "more than; many"
+    },
+    {
+      "w": "元",
+      "py": "yuán",
+      "en": "yuan (RMB)"
+    },
+    {
+      "w": "一种",
+      "py": "yì zhǒng",
+      "en": "a kind of"
+    },
+    {
+      "w": "买",
+      "py": "mǎi",
+      "en": "to buy"
+    },
+    {
+      "w": "方式",
+      "py": "fāngshì",
+      "en": "way, method"
+    },
+    {
+      "w": "可以",
+      "py": "kěyǐ",
+      "en": "can, may"
+    },
+    {
+      "w": "用",
+      "py": "yòng",
+      "en": "to use"
+    },
+    {
+      "w": "钱",
+      "py": "qián",
+      "en": "money"
+    },
+    {
+      "w": "第一财经",
+      "py": "Dìyī Cáijīng",
+      "en": "Yicai (China Business Network)"
+    },
+    {
+      "w": "记者",
+      "py": "jìzhě",
+      "en": "reporter"
+    },
+    {
+      "w": "发现",
+      "py": "fāxiàn",
+      "en": "to find, discover"
+    },
+    {
+      "w": "有",
+      "py": "yǒu",
+      "en": "there are; some"
+    },
+    {
+      "w": "打开",
+      "py": "dǎkāi",
+      "en": "to open"
+    },
+    {
+      "w": "App",
+      "py": "App",
+      "en": "app"
+    },
+    {
+      "w": "想",
+      "py": "xiǎng",
+      "en": "to want to"
+    },
+    {
+      "w": "却",
+      "py": "què",
+      "en": "but, yet"
+    },
+    {
+      "w": "看到",
+      "py": "kàndào",
+      "en": "to see"
+    },
+    {
+      "w": "已经",
+      "py": "yǐjīng",
+      "en": "already"
+    },
+    {
+      "w": "做",
+      "py": "zuò",
+      "en": "to do; to take (a test)"
+    },
+    {
+      "w": "才能",
+      "py": "cáinéng",
+      "en": "only then can"
+    },
+    {
+      "w": "继续",
+      "py": "jìxù",
+      "en": "to continue"
+    },
+    {
+      "w": "另外",
+      "py": "lìngwài",
+      "en": "in addition"
+    },
+    {
+      "w": "很多",
+      "py": "hěn duō",
+      "en": "many"
+    },
+    {
+      "w": "把",
+      "py": "bǎ",
+      "en": "(object-marking word)"
+    },
+    {
+      "w": "降",
+      "py": "jiàng",
+      "en": "to lower, cut"
+    },
+    {
+      "w": "零",
+      "py": "líng",
+      "en": "zero"
+    },
+    {
+      "w": "但是",
+      "py": "dànshì",
+      "en": "but"
+    },
+    {
+      "w": "和",
+      "py": "hé",
+      "en": "and"
+    },
+    {
+      "w": "没有",
+      "py": "méiyǒu",
+      "en": "did not; there is no"
+    },
+    {
+      "w": "变化",
+      "py": "biànhuà",
+      "en": "change"
+    }
+  ],
+  "featured": [
+    {
+      "hanzi": "风险",
+      "pinyin": "fēngxiǎn",
+      "pos": "noun",
+      "en": "risk",
+      "note": "Common phrases: 风险测评 (risk assessment), 有风险 (risky), 控制风险 (control risk), 承担风险 (bear risk).",
+      "examples": [
+        {
+          "zh": "买理财产品以前，要先做风险测评。",
+          "py": "Mǎi lǐcái chǎnpǐn yǐqián, yào xiān zuò fēngxiǎn cèpíng.",
+          "en": "Before buying a wealth-management product, you must first take a risk assessment."
+        },
+        {
+          "zh": "金价波动很大，投资黄金有一定的风险。",
+          "py": "Jīnjià bōdòng hěn dà, tóuzī huángjīn yǒu yídìng de fēngxiǎn.",
+          "en": "Gold prices swing a lot, so investing in gold carries some risk."
+        },
+        {
+          "zh": "骑车不戴头盔很有风险。",
+          "py": "Qí chē bú dài tóukuī hěn yǒu fēngxiǎn.",
+          "en": "Riding a bike without a helmet is quite risky."
+        }
+      ]
+    },
+    {
+      "hanzi": "费率",
+      "pinyin": "fèilǜ",
+      "pos": "noun",
+      "en": "fee rate",
+      "note": "Common phrases: 降低费率 (cut the fee rate), 买入费率 / 卖出费率 (buy / sell fee rate), 手续费率 (service fee rate).",
+      "examples": [
+        {
+          "zh": "这家银行把转账费率降到了零。",
+          "py": "Zhè jiā yínháng bǎ zhuǎnzhàng fèilǜ jiàng dào le líng.",
+          "en": "This bank cut its transfer fee rate to zero."
+        },
+        {
+          "zh": "买基金之前，请先看清楚费率。",
+          "py": "Mǎi jījīn zhīqián, qǐng xiān kàn qīngchu fèilǜ.",
+          "en": "Before buying a fund, please check the fee rate carefully first."
+        },
+        {
+          "zh": "这个停车场的费率是每小时十元。",
+          "py": "Zhège tíngchēchǎng de fèilǜ shì měi xiǎoshí shí yuán.",
+          "en": "This car park's rate is ten yuan per hour."
+        }
+      ]
+    }
+  ]
+}

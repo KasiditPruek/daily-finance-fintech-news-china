@@ -1,0 +1,531 @@
+{
+  "date": "2026-10-27",
+  "category": "fintech",
+  "title_zh": "江苏高校11月起，教职工工资进入数字人民币钱包",
+  "title_en": "From November, Jiangsu University Staff Salaries Go into Digital Yuan Wallets",
+  "paragraphs": [
+    {
+      "zh": "近日，江苏的几所大学发出通知：从2026年11月开始，学校的在编教职工，工资会发到数字人民币钱包里。",
+      "en": "Recently, several universities in Jiangsu issued notices: starting in November 2026, the salaries of the schools' permanent staff will be paid into digital yuan wallets."
+    },
+    {
+      "zh": "扬州大学财务处在10月20日发了通知，要求教职工在10月23日以前开通并升级数字人民币钱包。通知说，这个安排来自江苏省财政厅先发来的通知。",
+      "en": "The finance office of Yangzhou University sent a notice on October 20, asking staff to open and upgrade their digital yuan wallets before October 23. The notice says this arrangement comes from an earlier notice from the Jiangsu provincial finance department."
+    },
+    {
+      "zh": "南通大学要求教职工在10月30日以前完成开通。工资和绩效分别发在两张银行卡上，所以两张卡都要开通钱包。",
+      "en": "Nantong University asks staff to finish opening their wallets before October 30. Salary and performance pay are paid onto two separate bank cards, so both cards need a wallet."
+    },
+    {
+      "zh": "数字人民币是中国人民银行发行的数字货币。如果想使用数字人民币，要先在手机上安装它的App，开一个钱包，然后从银行卡转钱进去。这些消息在10月26日被媒体报道。",
+      "en": "The digital yuan is a digital currency issued by the People's Bank of China. If you want to use it, you first install its app on your phone, open a wallet, and then transfer money into it from your bank card. This news was reported by the media on October 26."
+    }
+  ],
+  "source": {
+    "name": "澎湃新闻",
+    "name_en": "The Paper",
+    "url": "https://www.thepaper.cn/newsDetail_forward_34335309"
+  },
+  "vocab": [
+    {
+      "hanzi": "高校",
+      "pinyin": "gāoxiào",
+      "en": "university, higher-education institution",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "教职工",
+      "pinyin": "jiàozhígōng",
+      "en": "teaching and administrative staff",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "数字人民币",
+      "pinyin": "shùzì rénmínbì",
+      "en": "digital yuan (e-CNY)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "钱包",
+      "pinyin": "qiánbāo",
+      "en": "wallet",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "近日",
+      "pinyin": "jìnrì",
+      "en": "recently, in recent days",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "在编",
+      "pinyin": "zàibiān",
+      "en": "on the permanent staff list",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "财务处",
+      "pinyin": "cáiwùchù",
+      "en": "finance office",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "开通",
+      "pinyin": "kāitōng",
+      "en": "to open, activate (an account or service)",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "升级",
+      "pinyin": "shēngjí",
+      "en": "to upgrade",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "财政厅",
+      "pinyin": "cáizhèngtīng",
+      "en": "provincial finance department",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "绩效",
+      "pinyin": "jìxiào",
+      "en": "performance (pay); results",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "分别",
+      "pinyin": "fēnbié",
+      "en": "separately, respectively",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "银行卡",
+      "pinyin": "yínhángkǎ",
+      "en": "bank card",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "发行",
+      "pinyin": "fāxíng",
+      "en": "to issue (currency, bonds)",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "货币",
+      "pinyin": "huòbì",
+      "en": "currency, money",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "安装",
+      "pinyin": "ānzhuāng",
+      "en": "to install",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "媒体",
+      "pinyin": "méitǐ",
+      "en": "media",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "报道",
+      "pinyin": "bàodào",
+      "en": "to report; a news report",
+      "hsk": "HSK 5"
+    }
+  ],
+  "glossary": [
+    {
+      "w": "江苏",
+      "py": "Jiāngsū",
+      "en": "Jiangsu (province)"
+    },
+    {
+      "w": "11",
+      "py": "shíyī",
+      "en": "eleven"
+    },
+    {
+      "w": "月",
+      "py": "yuè",
+      "en": "month"
+    },
+    {
+      "w": "起",
+      "py": "qǐ",
+      "en": "starting from"
+    },
+    {
+      "w": "工资",
+      "py": "gōngzī",
+      "en": "salary"
+    },
+    {
+      "w": "进入",
+      "py": "jìnrù",
+      "en": "to enter, go into"
+    },
+    {
+      "w": "的",
+      "py": "de",
+      "en": "(modifier particle)"
+    },
+    {
+      "w": "几",
+      "py": "jǐ",
+      "en": "several"
+    },
+    {
+      "w": "所",
+      "py": "suǒ",
+      "en": "(measure word for schools)"
+    },
+    {
+      "w": "大学",
+      "py": "dàxué",
+      "en": "university"
+    },
+    {
+      "w": "发出",
+      "py": "fāchū",
+      "en": "to send out, issue"
+    },
+    {
+      "w": "通知",
+      "py": "tōngzhī",
+      "en": "notice; to notify"
+    },
+    {
+      "w": "从",
+      "py": "cóng",
+      "en": "from"
+    },
+    {
+      "w": "2026",
+      "py": "èr líng èr liù",
+      "en": "2026"
+    },
+    {
+      "w": "年",
+      "py": "nián",
+      "en": "year"
+    },
+    {
+      "w": "开始",
+      "py": "kāishǐ",
+      "en": "to begin"
+    },
+    {
+      "w": "学校",
+      "py": "xuéxiào",
+      "en": "school"
+    },
+    {
+      "w": "会",
+      "py": "huì",
+      "en": "will"
+    },
+    {
+      "w": "发",
+      "py": "fā",
+      "en": "to issue; to pay out"
+    },
+    {
+      "w": "到",
+      "py": "dào",
+      "en": "to; into"
+    },
+    {
+      "w": "里",
+      "py": "lǐ",
+      "en": "inside"
+    },
+    {
+      "w": "扬州大学",
+      "py": "Yángzhōu Dàxué",
+      "en": "Yangzhou University"
+    },
+    {
+      "w": "在",
+      "py": "zài",
+      "en": "at; on"
+    },
+    {
+      "w": "10",
+      "py": "shí",
+      "en": "ten"
+    },
+    {
+      "w": "20",
+      "py": "èrshí",
+      "en": "twenty"
+    },
+    {
+      "w": "日",
+      "py": "rì",
+      "en": "day (of the month)"
+    },
+    {
+      "w": "了",
+      "py": "le",
+      "en": "(completed-action particle)"
+    },
+    {
+      "w": "要求",
+      "py": "yāoqiú",
+      "en": "to ask, require"
+    },
+    {
+      "w": "23",
+      "py": "èrshísān",
+      "en": "twenty-three"
+    },
+    {
+      "w": "以前",
+      "py": "yǐqián",
+      "en": "before"
+    },
+    {
+      "w": "并",
+      "py": "bìng",
+      "en": "and (also)"
+    },
+    {
+      "w": "说",
+      "py": "shuō",
+      "en": "to say"
+    },
+    {
+      "w": "这个",
+      "py": "zhège",
+      "en": "this"
+    },
+    {
+      "w": "安排",
+      "py": "ānpái",
+      "en": "arrangement"
+    },
+    {
+      "w": "来自",
+      "py": "láizì",
+      "en": "to come from"
+    },
+    {
+      "w": "江苏省",
+      "py": "Jiāngsūshěng",
+      "en": "Jiangsu Province"
+    },
+    {
+      "w": "先",
+      "py": "xiān",
+      "en": "earlier; first"
+    },
+    {
+      "w": "发来",
+      "py": "fālái",
+      "en": "to send over"
+    },
+    {
+      "w": "南通大学",
+      "py": "Nántōng Dàxué",
+      "en": "Nantong University"
+    },
+    {
+      "w": "30",
+      "py": "sānshí",
+      "en": "thirty"
+    },
+    {
+      "w": "完成",
+      "py": "wánchéng",
+      "en": "to finish"
+    },
+    {
+      "w": "和",
+      "py": "hé",
+      "en": "and"
+    },
+    {
+      "w": "两",
+      "py": "liǎng",
+      "en": "two"
+    },
+    {
+      "w": "张",
+      "py": "zhāng",
+      "en": "(measure word for cards)"
+    },
+    {
+      "w": "上",
+      "py": "shàng",
+      "en": "on"
+    },
+    {
+      "w": "所以",
+      "py": "suǒyǐ",
+      "en": "so"
+    },
+    {
+      "w": "卡",
+      "py": "kǎ",
+      "en": "card"
+    },
+    {
+      "w": "都",
+      "py": "dōu",
+      "en": "both; all"
+    },
+    {
+      "w": "要",
+      "py": "yào",
+      "en": "need to; must; to want"
+    },
+    {
+      "w": "是",
+      "py": "shì",
+      "en": "is"
+    },
+    {
+      "w": "中国人民银行",
+      "py": "Zhōngguó Rénmín Yínháng",
+      "en": "People's Bank of China"
+    },
+    {
+      "w": "数字",
+      "py": "shùzì",
+      "en": "digital"
+    },
+    {
+      "w": "如果",
+      "py": "rúguǒ",
+      "en": "if"
+    },
+    {
+      "w": "想",
+      "py": "xiǎng",
+      "en": "to want to"
+    },
+    {
+      "w": "使用",
+      "py": "shǐyòng",
+      "en": "to use"
+    },
+    {
+      "w": "手机",
+      "py": "shǒujī",
+      "en": "mobile phone"
+    },
+    {
+      "w": "它",
+      "py": "tā",
+      "en": "it"
+    },
+    {
+      "w": "App",
+      "py": "App",
+      "en": "app"
+    },
+    {
+      "w": "开",
+      "py": "kāi",
+      "en": "to open (a wallet)"
+    },
+    {
+      "w": "一个",
+      "py": "yí gè",
+      "en": "one, a"
+    },
+    {
+      "w": "然后",
+      "py": "ránhòu",
+      "en": "then"
+    },
+    {
+      "w": "转",
+      "py": "zhuǎn",
+      "en": "to transfer"
+    },
+    {
+      "w": "钱",
+      "py": "qián",
+      "en": "money"
+    },
+    {
+      "w": "进去",
+      "py": "jìnqù",
+      "en": "into it"
+    },
+    {
+      "w": "这些",
+      "py": "zhèxiē",
+      "en": "these"
+    },
+    {
+      "w": "消息",
+      "py": "xiāoxi",
+      "en": "news"
+    },
+    {
+      "w": "26",
+      "py": "èrshíliù",
+      "en": "twenty-six"
+    },
+    {
+      "w": "被",
+      "py": "bèi",
+      "en": "(passive marker)"
+    }
+  ],
+  "featured": [
+    {
+      "hanzi": "数字人民币",
+      "pinyin": "shùzì rénmínbì",
+      "pos": "noun",
+      "en": "digital yuan (e-CNY)",
+      "note": "Common phrases: 数字人民币钱包 (e-CNY wallet), 开通数字人民币 (activate e-CNY), 用数字人民币付款 (pay with e-CNY).",
+      "examples": [
+        {
+          "zh": "很多城市在试点用数字人民币发工资。",
+          "py": "Hěn duō chéngshì zài shìdiǎn yòng shùzì rénmínbì fā gōngzī.",
+          "en": "Many cities are piloting paying salaries in digital yuan."
+        },
+        {
+          "zh": "在这家超市，你可以用数字人民币付款。",
+          "py": "Zài zhè jiā chāoshì, nǐ kěyǐ yòng shùzì rénmínbì fùkuǎn.",
+          "en": "In this supermarket, you can pay with the digital yuan."
+        },
+        {
+          "zh": "我们的平台正在分析使用数字人民币的用户数据。",
+          "py": "Wǒmen de píngtái zhèngzài fēnxī shǐyòng shùzì rénmínbì de yònghù shùjù.",
+          "en": "Our platform is analysing data on users who use the digital yuan."
+        }
+      ]
+    },
+    {
+      "hanzi": "钱包",
+      "pinyin": "qiánbāo",
+      "pos": "noun",
+      "en": "wallet",
+      "note": "Common phrases: 电子钱包 / 数字钱包 (e-wallet), 开通钱包 (open a wallet), 充钱包 (top up a wallet).",
+      "examples": [
+        {
+          "zh": "请先下载App，再开通电子钱包。",
+          "py": "Qǐng xiān xiàzài App, zài kāitōng diànzǐ qiánbāo.",
+          "en": "Please download the app first, then open an e-wallet."
+        },
+        {
+          "zh": "我的钱包忘在家里了，所以我用手机付款。",
+          "py": "Wǒ de qiánbāo wàng zài jiā lǐ le, suǒyǐ wǒ yòng shǒujī fùkuǎn.",
+          "en": "I left my wallet at home, so I paid with my phone."
+        },
+        {
+          "zh": "我们想了解用户每个月往钱包里充多少钱。",
+          "py": "Wǒmen xiǎng liǎojiě yònghù měi gè yuè wǎng qiánbāo lǐ chōng duōshǎo qián.",
+          "en": "We want to find out how much money users top up into their wallets each month."
+        }
+      ]
+    }
+  ]
+}
