@@ -1,0 +1,528 @@
+{
+  "date": "2026-10-28",
+  "category": "finance",
+  "title_zh": "中国平安公布今年1至9月业绩，营运利润多了8.3%",
+  "title_en": "Ping An reports its January–September results, with operating profit 8.3% higher",
+  "paragraphs": [
+    {
+      "zh": "10月28日，中国平安公布了2026年前三个季度的业绩。今年1月到9月，公司归属于股东的营运利润是1259.05亿元，比去年同期增长8.3%。",
+      "en": "On October 28, Ping An announced its results for the first three quarters of 2026. From January to September this year, the operating profit attributable to shareholders was 125.905 billion yuan, up 8.3% from the same period last year."
+    },
+    {
+      "zh": "每股营运收益是7.23元，增长9.2%。到9月底，归属于股东的净资产是10443.66亿元，比年初多了4.4%。",
+      "en": "Operating earnings per share were 7.23 yuan, up 9.2%. At the end of September, net assets attributable to shareholders were 1,044.366 billion yuan, 4.4% more than at the start of the year."
+    },
+    {
+      "zh": "寿险及健康险业务的营运利润是872.38亿元，增长5.7%。平安产险的保费收入增长3.5%，综合成本率是95.6%，改善了1.4个百分点。",
+      "en": "The life and health insurance business had an operating profit of 87.238 billion yuan, up 5.7%. Ping An Property & Casualty's premium income rose 3.5%, and its combined cost ratio was 95.6%, an improvement of 1.4 percentage points."
+    },
+    {
+      "zh": "平安银行的营业收入增长2.4%，净利润增长2.2%。不良贷款是指还不上的贷款，该行的不良贷款率是1.05%。保险资金投资组合有6.83万亿元，比年初增长5.2%。",
+      "en": "Ping An Bank's operating revenue rose 2.4% and its net profit rose 2.2%. Non-performing loans are loans that cannot be repaid, and the bank's non-performing loan ratio was 1.05%. The insurance fund investment portfolio stood at 6.83 trillion yuan, up 5.2% from the start of the year."
+    }
+  ],
+  "source": {
+    "name": "第一财经",
+    "name_en": "Yicai (China Business Network)",
+    "url": "https://www.yicai.com/news/103413519.html"
+  },
+  "vocab": [
+    {
+      "hanzi": "公布",
+      "pinyin": "gōngbù",
+      "en": "to announce; to publish",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "业绩",
+      "pinyin": "yèjì",
+      "en": "results; performance",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "季度",
+      "pinyin": "jìdù",
+      "en": "quarter (of a year)",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "营运利润",
+      "pinyin": "yíngyùn lìrùn",
+      "en": "operating profit",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "增长",
+      "pinyin": "zēngzhǎng",
+      "en": "to grow; growth",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "归属于",
+      "pinyin": "guīshǔ yú",
+      "en": "to belong to; attributable to",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "股东",
+      "pinyin": "gǔdōng",
+      "en": "shareholder",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "同期",
+      "pinyin": "tóngqī",
+      "en": "the same period",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "每股",
+      "pinyin": "měi gǔ",
+      "en": "per share",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "收益",
+      "pinyin": "shōuyì",
+      "en": "earnings; income",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "净资产",
+      "pinyin": "jìng zīchǎn",
+      "en": "net assets",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "年初",
+      "pinyin": "niánchū",
+      "en": "start of the year",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "寿险",
+      "pinyin": "shòuxiǎn",
+      "en": "life insurance",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "健康险",
+      "pinyin": "jiànkāngxiǎn",
+      "en": "health insurance",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "业务",
+      "pinyin": "yèwù",
+      "en": "business; operations",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "产险",
+      "pinyin": "chǎnxiǎn",
+      "en": "property and casualty insurance",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "保费",
+      "pinyin": "bǎofèi",
+      "en": "insurance premium",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "综合成本率",
+      "pinyin": "zōnghé chéngběnlǜ",
+      "en": "combined cost ratio",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "改善",
+      "pinyin": "gǎishàn",
+      "en": "to improve",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "百分点",
+      "pinyin": "bǎifēndiǎn",
+      "en": "percentage point",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "营业收入",
+      "pinyin": "yíngyè shōurù",
+      "en": "operating revenue",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "净利润",
+      "pinyin": "jìng lìrùn",
+      "en": "net profit",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "不良贷款",
+      "pinyin": "bùliáng dàikuǎn",
+      "en": "non-performing loan",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "贷款",
+      "pinyin": "dàikuǎn",
+      "en": "loan; to take out a loan",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "还不上",
+      "pinyin": "huán bu shàng",
+      "en": "unable to pay back",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "该行",
+      "pinyin": "gāi háng",
+      "en": "this bank",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "不良贷款率",
+      "pinyin": "bùliáng dàikuǎn lǜ",
+      "en": "non-performing loan ratio",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "保险资金",
+      "pinyin": "bǎoxiǎn zījīn",
+      "en": "insurance funds",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "投资组合",
+      "pinyin": "tóuzī zǔhé",
+      "en": "investment portfolio",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "万亿",
+      "pinyin": "wànyì",
+      "en": "trillion",
+      "hsk": "超纲"
+    }
+  ],
+  "glossary": [
+    {
+      "w": "中国平安",
+      "py": "Zhōngguó Píng'ān",
+      "en": "Ping An (company)"
+    },
+    {
+      "w": "前",
+      "py": "qián",
+      "en": "first (in 前三…)"
+    },
+    {
+      "w": "三",
+      "py": "sān",
+      "en": "three"
+    },
+    {
+      "w": "8.3",
+      "py": "8.3",
+      "en": "8.3"
+    },
+    {
+      "w": "125.905",
+      "py": "125.905",
+      "en": "125.905"
+    },
+    {
+      "w": "1259.05",
+      "py": "1259.05",
+      "en": "1259.05"
+    },
+    {
+      "w": "7.23",
+      "py": "7.23",
+      "en": "7.23"
+    },
+    {
+      "w": "9.2",
+      "py": "9.2",
+      "en": "9.2"
+    },
+    {
+      "w": "10443.66",
+      "py": "10443.66",
+      "en": "10443.66"
+    },
+    {
+      "w": "4.4",
+      "py": "4.4",
+      "en": "4.4"
+    },
+    {
+      "w": "872.38",
+      "py": "872.38",
+      "en": "872.38"
+    },
+    {
+      "w": "5.7",
+      "py": "5.7",
+      "en": "5.7"
+    },
+    {
+      "w": "3.5",
+      "py": "3.5",
+      "en": "3.5"
+    },
+    {
+      "w": "95.6",
+      "py": "95.6",
+      "en": "95.6"
+    },
+    {
+      "w": "1.4",
+      "py": "1.4",
+      "en": "1.4"
+    },
+    {
+      "w": "2.4",
+      "py": "2.4",
+      "en": "2.4"
+    },
+    {
+      "w": "2.2",
+      "py": "2.2",
+      "en": "2.2"
+    },
+    {
+      "w": "1.05",
+      "py": "1.05",
+      "en": "1.05"
+    },
+    {
+      "w": "6.83",
+      "py": "6.83",
+      "en": "6.83"
+    },
+    {
+      "w": "5.2",
+      "py": "5.2",
+      "en": "5.2"
+    },
+    {
+      "w": "亿",
+      "py": "yì",
+      "en": "hundred million"
+    },
+    {
+      "w": "营运",
+      "py": "yíngyùn",
+      "en": "operating"
+    },
+    {
+      "w": "已",
+      "py": "yǐ",
+      "en": "already"
+    },
+    {
+      "w": "了",
+      "py": "le",
+      "en": "(completed action)"
+    },
+    {
+      "w": "月",
+      "py": "yuè",
+      "en": "month"
+    },
+    {
+      "w": "日",
+      "py": "rì",
+      "en": "day"
+    },
+    {
+      "w": "的",
+      "py": "de",
+      "en": "(possessive/modifier)"
+    },
+    {
+      "w": "是",
+      "py": "shì",
+      "en": "is"
+    },
+    {
+      "w": "元",
+      "py": "yuán",
+      "en": "yuan"
+    },
+    {
+      "w": "到",
+      "py": "dào",
+      "en": "to; until"
+    },
+    {
+      "w": "今年",
+      "py": "jīnnián",
+      "en": "this year"
+    },
+    {
+      "w": "公司",
+      "py": "gōngsī",
+      "en": "company"
+    },
+    {
+      "w": "比",
+      "py": "bǐ",
+      "en": "compared with"
+    },
+    {
+      "w": "去年",
+      "py": "qùnián",
+      "en": "last year"
+    },
+    {
+      "w": "底",
+      "py": "dǐ",
+      "en": "end"
+    },
+    {
+      "w": "多",
+      "py": "duō",
+      "en": "more"
+    },
+    {
+      "w": "及",
+      "py": "jí",
+      "en": "and"
+    },
+    {
+      "w": "平安产险",
+      "py": "Píng'ān Chǎnxiǎn",
+      "en": "Ping An Property & Casualty"
+    },
+    {
+      "w": "收入",
+      "py": "shōurù",
+      "en": "income"
+    },
+    {
+      "w": "个",
+      "py": "gè",
+      "en": "(measure word)"
+    },
+    {
+      "w": "平安银行",
+      "py": "Píng'ān Yínháng",
+      "en": "Ping An Bank"
+    },
+    {
+      "w": "指",
+      "py": "zhǐ",
+      "en": "to refer to"
+    },
+    {
+      "w": "有",
+      "py": "yǒu",
+      "en": "to have"
+    },
+    {
+      "w": "2026",
+      "py": "èr líng èr liù",
+      "en": "2026"
+    },
+    {
+      "w": "年",
+      "py": "nián",
+      "en": "year"
+    },
+    {
+      "w": "前三个季度",
+      "py": "qián sān gè jìdù",
+      "en": "first three quarters"
+    },
+    {
+      "w": "和",
+      "py": "hé",
+      "en": "and"
+    },
+    {
+      "w": "1",
+      "py": "yī",
+      "en": "one"
+    },
+    {
+      "w": "9",
+      "py": "jiǔ",
+      "en": "nine"
+    },
+    {
+      "w": "10",
+      "py": "shí",
+      "en": "ten"
+    },
+    {
+      "w": "28",
+      "py": "èrshíbā",
+      "en": "28"
+    },
+    {
+      "w": "%",
+      "py": "bǎifēnzhī",
+      "en": "percent"
+    },
+    {
+      "w": "至",
+      "py": "zhì",
+      "en": "to; through"
+    }
+  ],
+  "featured": [
+    {
+      "hanzi": "营运利润",
+      "pinyin": "yíngyùn lìrùn",
+      "pos": "noun",
+      "en": "operating profit",
+      "note": "Profit from a company's normal business; often reported with 同比增长 (year-on-year growth). Collocations: 营运利润增长 / 归属于股东的营运利润.",
+      "examples": [
+        {
+          "zh": "这家保险公司的营运利润比去年增长了8%。",
+          "py": "Zhè jiā bǎoxiǎn gōngsī de yíngyùn lìrùn bǐ qùnián zēngzhǎng le bā bǎifēnzhī.",
+          "en": "This insurance company's operating profit grew 8% compared with last year."
+        },
+        {
+          "zh": "银行公布了季度业绩，营运利润超过了预期。",
+          "py": "Yínháng gōngbù le jìdù yèjì, yíngyùn lìrùn chāoguò le yùqī.",
+          "en": "The bank released its quarterly results, and operating profit beat expectations."
+        },
+        {
+          "zh": "开小店的朋友每个月都会算一下营运利润。",
+          "py": "Kāi xiǎo diàn de péngyou měi gè yuè dōu huì suàn yíxià yíngyùn lìrùn.",
+          "en": "My friend who runs a small shop works out the operating profit every month."
+        }
+      ]
+    },
+    {
+      "hanzi": "不良贷款率",
+      "pinyin": "bùliáng dàikuǎn lǜ",
+      "pos": "noun",
+      "en": "non-performing loan (NPL) ratio",
+      "note": "Share of a bank's loans that borrowers are not repaying; a basic indicator of bank asset quality. Collocations: 不良贷款率上升 / 下降.",
+      "examples": [
+        {
+          "zh": "这家银行的不良贷款率是1.05%。",
+          "py": "Zhè jiā yínháng de bùliáng dàikuǎn lǜ shì yī diǎn líng wǔ bǎifēnzhī.",
+          "en": "This bank's non-performing loan ratio is 1.05%."
+        },
+        {
+          "zh": "经济不好时，不良贷款率可能会上升。",
+          "py": "Jīngjì bù hǎo shí, bùliáng dàikuǎn lǜ kěnéng huì shàngshēng.",
+          "en": "When the economy is weak, the non-performing loan ratio can rise."
+        },
+        {
+          "zh": "我们每个季度都要看一次小企业贷款的不良贷款率。",
+          "py": "Wǒmen měi gè jìdù dōu yào kàn yí cì xiǎo qǐyè dàikuǎn de bùliáng dàikuǎn lǜ.",
+          "en": "Every quarter we check the non-performing loan ratio on small-business loans."
+        }
+      ]
+    }
+  ]
+}

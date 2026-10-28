@@ -1,0 +1,587 @@
+{
+  "date": "2026-10-28",
+  "category": "fintech",
+  "title_zh": "丰隆银行客户可用银联二维码在海外付款",
+  "title_en": "Hong Leong Bank customers can pay overseas with UnionPay QR codes",
+  "paragraphs": [
+    {
+      "zh": "马来西亚的丰隆银行和银联国际合作，推出了跨境扫码服务。丰隆银行的客户用手机应用HLB Connect，就可以在世界各地接受银联二维码的商户付款。",
+      "en": "Malaysia's Hong Leong Bank and UnionPay International have worked together to launch a cross-border QR-scan service. Using the HLB Connect mobile app, Hong Leong Bank customers can pay at merchants around the world that accept UnionPay QR codes."
+    },
+    {
+      "zh": "客户可以扫商户的收款码，也可以打开应用里的付款码，让商户来扫。钱直接从个人银行账户扣除，不需要第三方支付应用，也不需要电子钱包。客户还可以提前换好人民币，先确定汇率。",
+      "en": "Customers can scan a merchant's payment-collection code, or open the payment code in the app and let the merchant scan it. The money is taken directly from the personal bank account, with no need for a third-party payment app or an e-wallet. Customers can also exchange yuan in advance to fix the exchange rate first."
+    },
+    {
+      "zh": "这个应用在中国也能扫描微信支付的二维码。两家公司从2018年开始合作，现在丰隆银行接受银联的商户已经超过4万家。今年上半年，马来西亚是中国入境游客的第三大来源地。",
+      "en": "The app can also scan WeChat Pay QR codes in China. The two companies began cooperating in 2018, and more than 40,000 merchants now accept UnionPay through Hong Leong Bank. In the first half of this year, Malaysia was the third-largest source of visitors entering China."
+    },
+    {
+      "zh": "在马来西亚，九成以上的商户可以接受银联卡。银联国际和当地的支付网络PayNet连接后，已有270多万家商户开通了银联二维码支付。",
+      "en": "In Malaysia, more than 90% of merchants can accept UnionPay cards. Since UnionPay International connected with the local payment network PayNet, more than 2.7 million merchants have enabled UnionPay QR payments."
+    }
+  ],
+  "source": {
+    "name": "移动支付网",
+    "name_en": "Mpaypass (China Mobile Payment Network)",
+    "url": "https://www.mpaypass.com.cn/news/202610/28190906.html"
+  },
+  "vocab": [
+    {
+      "hanzi": "二维码",
+      "pinyin": "èrwéimǎ",
+      "en": "QR code",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "跨境",
+      "pinyin": "kuàjìng",
+      "en": "cross-border",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "推出",
+      "pinyin": "tuīchū",
+      "en": "to launch; to roll out",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "扫码",
+      "pinyin": "sǎomǎ",
+      "en": "to scan a code",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "客户",
+      "pinyin": "kèhù",
+      "en": "customer; client",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "应用",
+      "pinyin": "yìngyòng",
+      "en": "app; application",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "商户",
+      "pinyin": "shānghù",
+      "en": "merchant",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "扫",
+      "pinyin": "sǎo",
+      "en": "to scan; to sweep",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "收款码",
+      "pinyin": "shōukuǎnmǎ",
+      "en": "payment-collection code (merchant QR code)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "付款码",
+      "pinyin": "fùkuǎnmǎ",
+      "en": "payment code (shown by the payer)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "账户",
+      "pinyin": "zhànghù",
+      "en": "account",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "扣除",
+      "pinyin": "kòuchú",
+      "en": "to deduct",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "第三方",
+      "pinyin": "dì-sān fāng",
+      "en": "third party",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "支付",
+      "pinyin": "zhīfù",
+      "en": "to pay; payment",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "电子钱包",
+      "pinyin": "diànzǐ qiánbāo",
+      "en": "e-wallet",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "汇率",
+      "pinyin": "huìlǜ",
+      "en": "exchange rate",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "确定",
+      "pinyin": "quèdìng",
+      "en": "to fix; to determine",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "扫描",
+      "pinyin": "sǎomiáo",
+      "en": "to scan",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "入境",
+      "pinyin": "rùjìng",
+      "en": "to enter a country",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "游客",
+      "pinyin": "yóukè",
+      "en": "tourist; visitor",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "来源地",
+      "pinyin": "láiyuándì",
+      "en": "place of origin; source",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "九成",
+      "pinyin": "jiǔ chéng",
+      "en": "90 percent",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "连接",
+      "pinyin": "liánjiē",
+      "en": "to connect; link",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "开通",
+      "pinyin": "kāitōng",
+      "en": "to enable; to open (a service)",
+      "hsk": "HSK 6"
+    }
+  ],
+  "glossary": [
+    {
+      "w": "马来西亚",
+      "py": "Mǎláixīyà",
+      "en": "Malaysia"
+    },
+    {
+      "w": "丰隆银行",
+      "py": "Fēnglóng Yínháng",
+      "en": "Hong Leong Bank"
+    },
+    {
+      "w": "银联",
+      "py": "Yínlián",
+      "en": "UnionPay"
+    },
+    {
+      "w": "可",
+      "py": "kě",
+      "en": "can"
+    },
+    {
+      "w": "用",
+      "py": "yòng",
+      "en": "to use"
+    },
+    {
+      "w": "付款",
+      "py": "fùkuǎn",
+      "en": "to pay"
+    },
+    {
+      "w": "的",
+      "py": "de",
+      "en": "(possessive/modifier)"
+    },
+    {
+      "w": "和",
+      "py": "hé",
+      "en": "and"
+    },
+    {
+      "w": "银联国际",
+      "py": "Yínlián Guójì",
+      "en": "UnionPay International"
+    },
+    {
+      "w": "合作",
+      "py": "hézuò",
+      "en": "to cooperate"
+    },
+    {
+      "w": "了",
+      "py": "le",
+      "en": "(completed action)"
+    },
+    {
+      "w": "服务",
+      "py": "fúwù",
+      "en": "service"
+    },
+    {
+      "w": "手机",
+      "py": "shǒujī",
+      "en": "mobile phone"
+    },
+    {
+      "w": "HLB Connect",
+      "py": "HLB Connect",
+      "en": "HLB Connect (app name)"
+    },
+    {
+      "w": "就",
+      "py": "jiù",
+      "en": "then; just"
+    },
+    {
+      "w": "可以",
+      "py": "kěyǐ",
+      "en": "can"
+    },
+    {
+      "w": "在",
+      "py": "zài",
+      "en": "at; in"
+    },
+    {
+      "w": "世界各地",
+      "py": "shìjiè gèdì",
+      "en": "around the world"
+    },
+    {
+      "w": "接受",
+      "py": "jiēshòu",
+      "en": "to accept"
+    },
+    {
+      "w": "也",
+      "py": "yě",
+      "en": "also"
+    },
+    {
+      "w": "打开",
+      "py": "dǎkāi",
+      "en": "to open"
+    },
+    {
+      "w": "里",
+      "py": "lǐ",
+      "en": "inside"
+    },
+    {
+      "w": "让",
+      "py": "ràng",
+      "en": "to let"
+    },
+    {
+      "w": "来",
+      "py": "lái",
+      "en": "to come (to do)"
+    },
+    {
+      "w": "钱",
+      "py": "qián",
+      "en": "money"
+    },
+    {
+      "w": "直接",
+      "py": "zhíjiē",
+      "en": "directly"
+    },
+    {
+      "w": "从",
+      "py": "cóng",
+      "en": "from"
+    },
+    {
+      "w": "个人",
+      "py": "gèrén",
+      "en": "personal"
+    },
+    {
+      "w": "银行",
+      "py": "yínháng",
+      "en": "bank"
+    },
+    {
+      "w": "不",
+      "py": "bù",
+      "en": "not"
+    },
+    {
+      "w": "需要",
+      "py": "xūyào",
+      "en": "to need"
+    },
+    {
+      "w": "还",
+      "py": "hái",
+      "en": "also; still"
+    },
+    {
+      "w": "提前",
+      "py": "tíqián",
+      "en": "in advance"
+    },
+    {
+      "w": "换好",
+      "py": "huàn hǎo",
+      "en": "to exchange (done)"
+    },
+    {
+      "w": "人民币",
+      "py": "rénmínbì",
+      "en": "Chinese yuan (RMB)"
+    },
+    {
+      "w": "先",
+      "py": "xiān",
+      "en": "first"
+    },
+    {
+      "w": "这个",
+      "py": "zhège",
+      "en": "this"
+    },
+    {
+      "w": "中国",
+      "py": "Zhōngguó",
+      "en": "China"
+    },
+    {
+      "w": "能",
+      "py": "néng",
+      "en": "can"
+    },
+    {
+      "w": "微信支付",
+      "py": "Wēixìn Zhīfù",
+      "en": "WeChat Pay"
+    },
+    {
+      "w": "两",
+      "py": "liǎng",
+      "en": "two"
+    },
+    {
+      "w": "家",
+      "py": "jiā",
+      "en": "(measure word for companies)"
+    },
+    {
+      "w": "公司",
+      "py": "gōngsī",
+      "en": "company"
+    },
+    {
+      "w": "年",
+      "py": "nián",
+      "en": "year"
+    },
+    {
+      "w": "开始",
+      "py": "kāishǐ",
+      "en": "to begin"
+    },
+    {
+      "w": "现在",
+      "py": "xiànzài",
+      "en": "now"
+    },
+    {
+      "w": "已经",
+      "py": "yǐjīng",
+      "en": "already"
+    },
+    {
+      "w": "超过",
+      "py": "chāoguò",
+      "en": "to exceed"
+    },
+    {
+      "w": "万",
+      "py": "wàn",
+      "en": "ten thousand"
+    },
+    {
+      "w": "今年",
+      "py": "jīnnián",
+      "en": "this year"
+    },
+    {
+      "w": "上半年",
+      "py": "shàngbànnián",
+      "en": "first half of the year"
+    },
+    {
+      "w": "是",
+      "py": "shì",
+      "en": "is"
+    },
+    {
+      "w": "第三大",
+      "py": "dì-sān dà",
+      "en": "third largest"
+    },
+    {
+      "w": "以上",
+      "py": "yǐshàng",
+      "en": "more than"
+    },
+    {
+      "w": "银联卡",
+      "py": "Yínliánkǎ",
+      "en": "UnionPay card"
+    },
+    {
+      "w": "当地",
+      "py": "dāngdì",
+      "en": "local"
+    },
+    {
+      "w": "网络",
+      "py": "wǎngluò",
+      "en": "network"
+    },
+    {
+      "w": "PayNet",
+      "py": "PayNet",
+      "en": "PayNet (Malaysia's payment network)"
+    },
+    {
+      "w": "后",
+      "py": "hòu",
+      "en": "after"
+    },
+    {
+      "w": "有",
+      "py": "yǒu",
+      "en": "to have"
+    },
+    {
+      "w": "多",
+      "py": "duō",
+      "en": "more than"
+    },
+    {
+      "w": "2018",
+      "py": "èr líng yī bā",
+      "en": "2018"
+    },
+    {
+      "w": "4",
+      "py": "sì",
+      "en": "four"
+    },
+    {
+      "w": "270",
+      "py": "èr bǎi qīshí",
+      "en": "270"
+    },
+    {
+      "w": "2",
+      "py": "èr",
+      "en": "two"
+    },
+    {
+      "w": "已",
+      "py": "yǐ",
+      "en": "already"
+    },
+    {
+      "w": "过",
+      "py": "guo",
+      "en": "(experience particle)"
+    },
+    {
+      "w": "到",
+      "py": "dào",
+      "en": "to; (result)"
+    },
+    {
+      "w": "上",
+      "py": "shàng",
+      "en": "up"
+    },
+    {
+      "w": "以",
+      "py": "yǐ",
+      "en": "(in 以上)"
+    },
+    {
+      "w": "成",
+      "py": "chéng",
+      "en": "tenths"
+    },
+    {
+      "w": "海外",
+      "py": "hǎiwài",
+      "en": "overseas"
+    }
+  ],
+  "featured": [
+    {
+      "hanzi": "跨境",
+      "pinyin": "kuàjìng",
+      "pos": "adjective (attributive)",
+      "en": "cross-border",
+      "note": "Used before a noun: 跨境支付 (cross-border payment), 跨境电商 (cross-border e-commerce), 跨境汇款 (cross-border remittance).",
+      "examples": [
+        {
+          "zh": "这家公司推出了新的跨境支付服务。",
+          "py": "Zhè jiā gōngsī tuīchū le xīn de kuàjìng zhīfù fúwù.",
+          "en": "The company launched a new cross-border payment service."
+        },
+        {
+          "zh": "我在网上买了一双跨境电商卖的鞋。",
+          "py": "Wǒ zài wǎngshàng mǎi le yì shuāng kuàjìng diànshāng mài de xié.",
+          "en": "I bought a pair of shoes sold by a cross-border e-commerce shop online."
+        },
+        {
+          "zh": "我们的平台需要分析跨境交易的增长情况。",
+          "py": "Wǒmen de píngtái xūyào fēnxī kuàjìng jiāoyì de zēngzhǎng qíngkuàng.",
+          "en": "Our platform needs to analyse the growth of cross-border transactions."
+        }
+      ]
+    },
+    {
+      "hanzi": "商户",
+      "pinyin": "shānghù",
+      "pos": "noun",
+      "en": "merchant",
+      "note": "Business that accepts payments; common in payments and platform work: 商户收款码, 特约商户, 商户数量.",
+      "examples": [
+        {
+          "zh": "已有一百万家商户开通了扫码支付。",
+          "py": "Yǐ yǒu yìbǎi wàn jiā shānghù kāitōng le sǎomǎ zhīfù.",
+          "en": "One million merchants have already enabled scan-to-pay."
+        },
+        {
+          "zh": "小商户常常用二维码收款。",
+          "py": "Xiǎo shānghù chángcháng yòng èrwéimǎ shōukuǎn.",
+          "en": "Small merchants often collect payments with QR codes."
+        },
+        {
+          "zh": "我们每周看一次活跃商户的数量。",
+          "py": "Wǒmen měi zhōu kàn yí cì huóyuè shānghù de shùliàng.",
+          "en": "Every week we look at the number of active merchants."
+        }
+      ]
+    }
+  ]
+}
