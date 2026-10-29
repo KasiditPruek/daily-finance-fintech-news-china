@@ -1,0 +1,490 @@
+{
+  "date": "2026-10-29",
+  "category": "fintech",
+  "title_zh": "武商集团的商场和超市，开始支持支付宝“碰一下”付款",
+  "title_en": "Wushang Group's malls and supermarkets start to support Alipay “Tap” payment",
+  "paragraphs": [
+    {
+      "zh": "10月28日，武商集团和支付宝宣布合作。以后，武商集团的商场和超市都可以用支付宝的“碰一下”付款。",
+      "en": "On October 28, Wushang Group and Alipay announced a partnership. From now on, Wushang Group's malls and supermarkets can all accept Alipay's “Tap” payment."
+    },
+    {
+      "zh": "“碰一下”是一种不用打开软件、也不用出示付款码的付款方式。顾客先解锁手机，再用手机碰一下收款设备，就可以付款了。",
+      "en": "“Tap” is a way to pay without opening an app or showing a payment code. The customer first unlocks the phone, then taps it on the payment device, and the payment is done."
+    },
+    {
+      "zh": "付款的时候，顾客还可以顺便加入武商集团的会员，并领取礼品、停车券和优惠券。双方还会一起办活动，发放专属优惠券。",
+      "en": "While paying, customers can also join Wushang Group's membership and claim gifts, parking vouchers and coupons. The two sides will also hold events together and give out exclusive coupons."
+    },
+    {
+      "zh": "武商集团还会用支付宝的技术，做一个叫“豚宝”的人工智能购物助手。它可以回答打折、服务台、停车位和洗手间位置等问题。另外，武商集团也会和蚂蚁森林一起做公益活动。",
+      "en": "Wushang Group will also use Alipay's technology to build an AI shopping assistant called “Tunbao”. It can answer questions about discounts, the service desk, parking spaces and where the restrooms are. In addition, Wushang Group will do public-welfare activities together with Ant Forest."
+    }
+  ],
+  "source": {
+    "name": "移动支付网",
+    "name_en": "Mpaypass (China Mobile Payment Network)",
+    "url": "https://www.mpaypass.com.cn/news/202610/28190523.html"
+  },
+  "vocab": [
+    {
+      "hanzi": "武商集团",
+      "pinyin": "Wǔshāng Jítuán",
+      "en": "Wushang Group (Wuhan retail group)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "商场",
+      "pinyin": "shāngchǎng",
+      "en": "shopping mall",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "宣布",
+      "pinyin": "xuānbù",
+      "en": "to announce",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "碰",
+      "pinyin": "pèng",
+      "en": "to touch, to tap",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "软件",
+      "pinyin": "ruǎnjiàn",
+      "en": "software, app",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "出示",
+      "pinyin": "chūshì",
+      "en": "to show, to present",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "付款码",
+      "pinyin": "fùkuǎnmǎ",
+      "en": "payment code",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "方式",
+      "pinyin": "fāngshì",
+      "en": "way, method",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "解锁",
+      "pinyin": "jiěsuǒ",
+      "en": "to unlock",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "收款",
+      "pinyin": "shōukuǎn",
+      "en": "to receive payment",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "设备",
+      "pinyin": "shèbèi",
+      "en": "equipment, device",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "加入",
+      "pinyin": "jiārù",
+      "en": "to join",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "会员",
+      "pinyin": "huìyuán",
+      "en": "member, membership",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "领取",
+      "pinyin": "lǐngqǔ",
+      "en": "to claim, to collect",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "礼品",
+      "pinyin": "lǐpǐn",
+      "en": "gift",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "停车券",
+      "pinyin": "tíngchēquàn",
+      "en": "parking voucher",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "优惠券",
+      "pinyin": "yōuhuìquàn",
+      "en": "coupon",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "发放",
+      "pinyin": "fāfàng",
+      "en": "to issue, to give out",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "专属",
+      "pinyin": "zhuānshǔ",
+      "en": "exclusive",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "人工智能",
+      "pinyin": "réngōng zhìnéng",
+      "en": "artificial intelligence",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "助手",
+      "pinyin": "zhùshǒu",
+      "en": "assistant",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "豚宝",
+      "pinyin": "Túnbǎo",
+      "en": "Tunbao (name of an AI assistant)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "服务台",
+      "pinyin": "fúwùtái",
+      "en": "service desk",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "停车位",
+      "pinyin": "tíngchēwèi",
+      "en": "parking space",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "洗手间",
+      "pinyin": "xǐshǒujiān",
+      "en": "restroom",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "蚂蚁森林",
+      "pinyin": "Mǎyǐ Sēnlín",
+      "en": "Ant Forest (Alipay's green-action app)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "公益",
+      "pinyin": "gōngyì",
+      "en": "public welfare, charity",
+      "hsk": "HSK 7–9"
+    }
+  ],
+  "glossary": [
+    {
+      "w": "的",
+      "py": "de",
+      "en": "(possessive particle)"
+    },
+    {
+      "w": "和",
+      "py": "hé",
+      "en": "and"
+    },
+    {
+      "w": "支付宝",
+      "py": "Zhīfùbǎo",
+      "en": "Alipay"
+    },
+    {
+      "w": "超市",
+      "py": "chāoshì",
+      "en": "supermarket"
+    },
+    {
+      "w": "开始",
+      "py": "kāishǐ",
+      "en": "to start"
+    },
+    {
+      "w": "支持",
+      "py": "zhīchí",
+      "en": "to support"
+    },
+    {
+      "w": "一下",
+      "py": "yíxià",
+      "en": "a little, one tap"
+    },
+    {
+      "w": "付款",
+      "py": "fùkuǎn",
+      "en": "to pay"
+    },
+    {
+      "w": "月",
+      "py": "yuè",
+      "en": "month"
+    },
+    {
+      "w": "日",
+      "py": "rì",
+      "en": "day (of the month)"
+    },
+    {
+      "w": "合作",
+      "py": "hézuò",
+      "en": "cooperation"
+    },
+    {
+      "w": "以后",
+      "py": "yǐhòu",
+      "en": "from now on"
+    },
+    {
+      "w": "都",
+      "py": "dōu",
+      "en": "all"
+    },
+    {
+      "w": "可以",
+      "py": "kěyǐ",
+      "en": "can"
+    },
+    {
+      "w": "用",
+      "py": "yòng",
+      "en": "to use"
+    },
+    {
+      "w": "是",
+      "py": "shì",
+      "en": "is"
+    },
+    {
+      "w": "一种",
+      "py": "yì zhǒng",
+      "en": "a kind of"
+    },
+    {
+      "w": "不用",
+      "py": "búyòng",
+      "en": "no need to"
+    },
+    {
+      "w": "打开",
+      "py": "dǎkāi",
+      "en": "to open"
+    },
+    {
+      "w": "也",
+      "py": "yě",
+      "en": "also"
+    },
+    {
+      "w": "顾客",
+      "py": "gùkè",
+      "en": "customer"
+    },
+    {
+      "w": "先",
+      "py": "xiān",
+      "en": "first"
+    },
+    {
+      "w": "手机",
+      "py": "shǒujī",
+      "en": "mobile phone"
+    },
+    {
+      "w": "再",
+      "py": "zài",
+      "en": "then"
+    },
+    {
+      "w": "就",
+      "py": "jiù",
+      "en": "then"
+    },
+    {
+      "w": "了",
+      "py": "le",
+      "en": "(completed-action particle)"
+    },
+    {
+      "w": "时候",
+      "py": "shíhou",
+      "en": "time, moment"
+    },
+    {
+      "w": "还",
+      "py": "hái",
+      "en": "also"
+    },
+    {
+      "w": "顺便",
+      "py": "shùnbiàn",
+      "en": "at the same time, in passing"
+    },
+    {
+      "w": "并",
+      "py": "bìng",
+      "en": "and"
+    },
+    {
+      "w": "双方",
+      "py": "shuāngfāng",
+      "en": "both sides"
+    },
+    {
+      "w": "会",
+      "py": "huì",
+      "en": "will"
+    },
+    {
+      "w": "一起",
+      "py": "yìqǐ",
+      "en": "together"
+    },
+    {
+      "w": "办",
+      "py": "bàn",
+      "en": "to hold"
+    },
+    {
+      "w": "活动",
+      "py": "huódòng",
+      "en": "activity, event"
+    },
+    {
+      "w": "技术",
+      "py": "jìshù",
+      "en": "technology"
+    },
+    {
+      "w": "做",
+      "py": "zuò",
+      "en": "to make"
+    },
+    {
+      "w": "一个",
+      "py": "yí ge",
+      "en": "one"
+    },
+    {
+      "w": "叫",
+      "py": "jiào",
+      "en": "to be called"
+    },
+    {
+      "w": "购物",
+      "py": "gòuwù",
+      "en": "shopping"
+    },
+    {
+      "w": "它",
+      "py": "tā",
+      "en": "it"
+    },
+    {
+      "w": "回答",
+      "py": "huídá",
+      "en": "to answer"
+    },
+    {
+      "w": "打折",
+      "py": "dǎzhé",
+      "en": "discount"
+    },
+    {
+      "w": "位置",
+      "py": "wèizhi",
+      "en": "location"
+    },
+    {
+      "w": "等",
+      "py": "děng",
+      "en": "and so on"
+    },
+    {
+      "w": "问题",
+      "py": "wèntí",
+      "en": "questions"
+    },
+    {
+      "w": "另外",
+      "py": "lìngwài",
+      "en": "in addition"
+    },
+    {
+      "w": "一",
+      "py": "yī",
+      "en": "one"
+    },
+    {
+      "w": "天",
+      "py": "tiān",
+      "en": "day"
+    }
+  ],
+  "featured": [
+    {
+      "hanzi": "付款码",
+      "pinyin": "fùkuǎnmǎ",
+      "pos": "noun",
+      "en": "payment code",
+      "note": "The QR/bar code a customer shows to pay: 出示付款码 (show the payment code), 扫付款码 (scan the payment code), 用付款码付款 (pay with a payment code).",
+      "examples": [
+        {
+          "zh": "顾客打开手机，给收银员看付款码。",
+          "py": "Gùkè dǎkāi shǒujī, gěi shōuyínyuán kàn fùkuǎnmǎ.",
+          "en": "The customer opens the phone and shows the cashier the payment code."
+        },
+        {
+          "zh": "我们的平台上，用付款码付款的比例每个月都不一样。",
+          "py": "Wǒmen de píngtái shàng, yòng fùkuǎnmǎ fùkuǎn de bǐlì měi gè yuè dōu bù yíyàng.",
+          "en": "On our platform, the share of payments made with payment codes is different every month."
+        },
+        {
+          "zh": "我的手机没电了，所以不能用付款码。",
+          "py": "Wǒ de shǒujī méi diàn le, suǒyǐ bù néng yòng fùkuǎnmǎ.",
+          "en": "My phone is out of battery, so I can't use a payment code."
+        }
+      ]
+    },
+    {
+      "hanzi": "会员",
+      "pinyin": "huìyuán",
+      "pos": "noun",
+      "en": "member; membership",
+      "note": "Used for loyalty and subscription programmes: 成为会员 (become a member), 会员优惠 (member offers), 会员体系 (membership system).",
+      "examples": [
+        {
+          "zh": "成为会员以后，买东西可以打九折。",
+          "py": "Chéngwéi huìyuán yǐhòu, mǎi dōngxi kěyǐ dǎ jiǔ zhé.",
+          "en": "After becoming a member, you can get 10% off when you shop."
+        },
+        {
+          "zh": "这家商店的会员每个月可以领一张优惠券。",
+          "py": "Zhè jiā shāngdiàn de huìyuán měi gè yuè kěyǐ lǐng yì zhāng yōuhuìquàn.",
+          "en": "Members of this shop can claim one coupon every month."
+        },
+        {
+          "zh": "我们在分析会员用户的使用习惯。",
+          "py": "Wǒmen zài fēnxī huìyuán yònghù de shǐyòng xíguàn.",
+          "en": "We are analysing the usage habits of member users."
+        }
+      ]
+    }
+  ]
+}
