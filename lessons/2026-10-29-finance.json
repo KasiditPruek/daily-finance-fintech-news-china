@@ -29,7 +29,7 @@
   "vocab": [
     {
       "hanzi": "评级",
-      "pinyin": "pīngjí",
+      "pinyin": "píngjí",
       "en": "rating; to rate",
       "hsk": "超纲"
     },
@@ -448,24 +448,24 @@
   "featured": [
     {
       "hanzi": "评级",
-      "pinyin": "pīngjí",
+      "pinyin": "píngjí",
       "pos": "noun / verb",
       "en": "rating; to rate",
       "note": "Used for credit and bank ratings: 上调评级 (raise a rating), 下调评级 (cut a rating), 信用评级 (credit rating), 评级公司 (rating firm).",
       "examples": [
         {
           "zh": "评级公司下调了这家公司的信用评级。",
-          "py": "Pínglí gōngsī xiàtiáo le zhè jiā gōngsī de xìnyòng pínglí.",
+          "py": "Píngjí gōngsī xiàtiáo le zhè jiā gōngsī de xìnyòng píngjí.",
           "en": "The rating firm cut this company's credit rating."
         },
         {
           "zh": "买债券以前，我会先看它的评级。",
-          "py": "Mǎi zhàiquàn yǐqián, wǒ huì xiān kàn tā de pínglí.",
+          "py": "Mǎi zhàiquàn yǐqián, wǒ huì xiān kàn tā de píngjí.",
           "en": "Before I buy a bond, I first look at its rating."
         },
         {
           "zh": "这家餐厅在网上的评级很高。",
-          "py": "Zhè jiā cāntīng zài wǎngshàng de pínglí hěn gāo.",
+          "py": "Zhè jiā cāntīng zài wǎngshàng de píngjí hěn gāo.",
           "en": "This restaurant has a high rating online."
         }
       ]
