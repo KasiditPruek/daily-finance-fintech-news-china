@@ -1,0 +1,526 @@
+{
+  "date": "2026-10-30",
+  "category": "fintech",
+  "title_zh": "报道称，谷歌钱包在开发Alipay+二维码付款功能",
+  "title_en": "Report says Google Wallet is developing an Alipay+ QR code payment feature",
+  "paragraphs": [
+    {
+      "zh": "科技网站Android Authority报道，谷歌钱包（Google Wallet）正在开发一个叫“Traveler QR”的功能。这个功能是在手机软件的代码里发现的。",
+      "en": "The tech site Android Authority reported that Google Wallet is developing a feature called “Traveler QR”. The feature was found in the code of the phone app."
+    },
+    {
+      "zh": "Alipay+是蚂蚁国际的跨境支付服务。有了这个新功能，用户到了支持的地区，不用手动开通，就能先扫描Alipay+合作商户的二维码，再用钱包里绑定的Visa卡或万事达卡付款。",
+      "en": "Alipay+ is Ant International's cross-border payment service. With the new feature, when users are in a supported region, they would not need to switch it on by hand, and could scan the QR code of an Alipay+ partner merchant and then pay with a Visa or Mastercard linked in the wallet."
+    },
+    {
+      "zh": "代码显示，第一个支持的地区是新加坡的Alipay+合作网络。以后，马来西亚、印度尼西亚和菲律宾也可能加入。",
+      "en": "The code shows that the first supported region is the Alipay+ partner network in Singapore. Later, Malaysia, Indonesia and the Philippines may also be added."
+    },
+    {
+      "zh": "谷歌钱包在巴西已经可以用二维码付Pix。现在，谷歌还没有正式宣布这个功能，也没有说什么时候上线。",
+      "en": "In Brazil, Google Wallet can already pay with Pix by QR code. For now, Google has not officially announced this feature, and has not said when it will go live."
+    }
+  ],
+  "source": {
+    "name": "移动支付网",
+    "name_en": "Mpaypass (China Mobile Payment Network)",
+    "url": "https://www.mpaypass.com.cn/news/202610/29180750.html"
+  },
+  "vocab": [
+    {
+      "hanzi": "报道",
+      "pinyin": "bàodào",
+      "en": "to report; a report",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "钱包",
+      "pinyin": "qiánbāo",
+      "en": "wallet",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "开发",
+      "pinyin": "kāifā",
+      "en": "to develop",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "功能",
+      "pinyin": "gōngnéng",
+      "en": "function, feature",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "软件",
+      "pinyin": "ruǎnjiàn",
+      "en": "software, app",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "代码",
+      "pinyin": "dàimǎ",
+      "en": "code (programming)",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "发现",
+      "pinyin": "fāxiàn",
+      "en": "to discover, to find",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "跨境",
+      "pinyin": "kuàjìng",
+      "en": "cross-border",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "支付",
+      "pinyin": "zhīfù",
+      "en": "payment; to pay",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "用户",
+      "pinyin": "yònghù",
+      "en": "user",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "地区",
+      "pinyin": "dìqū",
+      "en": "region, area",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "手动",
+      "pinyin": "shǒudòng",
+      "en": "manual, by hand",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "开通",
+      "pinyin": "kāitōng",
+      "en": "to activate, to switch on",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "绑定",
+      "pinyin": "bǎngdìng",
+      "en": "to link (an account or card)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "万事达卡",
+      "pinyin": "Wànshìdá kǎ",
+      "en": "Mastercard",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "扫描",
+      "pinyin": "sǎomiáo",
+      "en": "to scan",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "合作",
+      "pinyin": "hézuò",
+      "en": "cooperation, partner",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "商户",
+      "pinyin": "shānghù",
+      "en": "merchant",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "二维码",
+      "pinyin": "èrwéimǎ",
+      "en": "QR code",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "显示",
+      "pinyin": "xiǎnshì",
+      "en": "to show, to display",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "网络",
+      "pinyin": "wǎngluò",
+      "en": "network",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "宣布",
+      "pinyin": "xuānbù",
+      "en": "to announce",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "上线",
+      "pinyin": "shàngxiàn",
+      "en": "to go live",
+      "hsk": "HSK 7–9"
+    }
+  ],
+  "glossary": [
+    {
+      "w": "先",
+      "py": "xiān",
+      "en": "first"
+    },
+    {
+      "w": "再",
+      "py": "zài",
+      "en": "then"
+    },
+    {
+      "w": "称",
+      "py": "chēng",
+      "en": "to say, to state"
+    },
+    {
+      "w": "个",
+      "py": "gè",
+      "en": "(measure word)"
+    },
+    {
+      "w": "科技",
+      "py": "kējì",
+      "en": "technology"
+    },
+    {
+      "w": "网站",
+      "py": "wǎngzhàn",
+      "en": "website"
+    },
+    {
+      "w": "谷歌",
+      "py": "Gǔgē",
+      "en": "Google"
+    },
+    {
+      "w": "（",
+      "py": "（",
+      "en": "("
+    },
+    {
+      "w": "）",
+      "py": "）",
+      "en": ")"
+    },
+    {
+      "w": "正在",
+      "py": "zhèngzài",
+      "en": "in the process of"
+    },
+    {
+      "w": "一个",
+      "py": "yí gè",
+      "en": "one, a"
+    },
+    {
+      "w": "叫",
+      "py": "jiào",
+      "en": "called"
+    },
+    {
+      "w": "的",
+      "py": "de",
+      "en": "(particle)"
+    },
+    {
+      "w": "这个",
+      "py": "zhège",
+      "en": "this"
+    },
+    {
+      "w": "是",
+      "py": "shì",
+      "en": "is"
+    },
+    {
+      "w": "在",
+      "py": "zài",
+      "en": "in, at"
+    },
+    {
+      "w": "手机",
+      "py": "shǒujī",
+      "en": "mobile phone"
+    },
+    {
+      "w": "里",
+      "py": "lǐ",
+      "en": "in, inside"
+    },
+    {
+      "w": "蚂蚁国际",
+      "py": "Mǎyǐ Guójì",
+      "en": "Ant International"
+    },
+    {
+      "w": "有了",
+      "py": "yǒule",
+      "en": "with, having"
+    },
+    {
+      "w": "新",
+      "py": "xīn",
+      "en": "new"
+    },
+    {
+      "w": "到了",
+      "py": "dàole",
+      "en": "when (someone) arrives in"
+    },
+    {
+      "w": "支持",
+      "py": "zhīchí",
+      "en": "to support"
+    },
+    {
+      "w": "不用",
+      "py": "bú yòng",
+      "en": "no need to"
+    },
+    {
+      "w": "就",
+      "py": "jiù",
+      "en": "then"
+    },
+    {
+      "w": "能",
+      "py": "néng",
+      "en": "can"
+    },
+    {
+      "w": "用",
+      "py": "yòng",
+      "en": "to use"
+    },
+    {
+      "w": "卡",
+      "py": "kǎ",
+      "en": "card"
+    },
+    {
+      "w": "或",
+      "py": "huò",
+      "en": "or"
+    },
+    {
+      "w": "付款",
+      "py": "fùkuǎn",
+      "en": "to pay"
+    },
+    {
+      "w": "第一",
+      "py": "dìyī",
+      "en": "first"
+    },
+    {
+      "w": "新加坡",
+      "py": "Xīnjiāpō",
+      "en": "Singapore"
+    },
+    {
+      "w": "以后",
+      "py": "yǐhòu",
+      "en": "later, afterwards"
+    },
+    {
+      "w": "马来西亚",
+      "py": "Mǎláixīyà",
+      "en": "Malaysia"
+    },
+    {
+      "w": "印度尼西亚",
+      "py": "Yìndùníxīyà",
+      "en": "Indonesia"
+    },
+    {
+      "w": "和",
+      "py": "hé",
+      "en": "and"
+    },
+    {
+      "w": "菲律宾",
+      "py": "Fēilǜbīn",
+      "en": "the Philippines"
+    },
+    {
+      "w": "也",
+      "py": "yě",
+      "en": "also"
+    },
+    {
+      "w": "可能",
+      "py": "kěnéng",
+      "en": "may, might"
+    },
+    {
+      "w": "加入",
+      "py": "jiārù",
+      "en": "to join, to be added"
+    },
+    {
+      "w": "巴西",
+      "py": "Bāxī",
+      "en": "Brazil"
+    },
+    {
+      "w": "已经",
+      "py": "yǐjīng",
+      "en": "already"
+    },
+    {
+      "w": "可以",
+      "py": "kěyǐ",
+      "en": "can"
+    },
+    {
+      "w": "付",
+      "py": "fù",
+      "en": "to pay"
+    },
+    {
+      "w": "现在",
+      "py": "xiànzài",
+      "en": "now"
+    },
+    {
+      "w": "谷歌钱包",
+      "py": "Gǔgē Qiánbāo",
+      "en": "Google Wallet"
+    },
+    {
+      "w": "还没有",
+      "py": "hái méiyǒu",
+      "en": "has not yet"
+    },
+    {
+      "w": "也没有",
+      "py": "yě méiyǒu",
+      "en": "also has not"
+    },
+    {
+      "w": "说",
+      "py": "shuō",
+      "en": "to say"
+    },
+    {
+      "w": "什么时候",
+      "py": "shénme shíhou",
+      "en": "when"
+    },
+    {
+      "w": "正式",
+      "py": "zhèngshì",
+      "en": "officially"
+    },
+    {
+      "w": "了",
+      "py": "le",
+      "en": "(particle)"
+    },
+    {
+      "w": "到",
+      "py": "dào",
+      "en": "to"
+    },
+    {
+      "w": "Android Authority",
+      "py": "Android Authority",
+      "en": "Android Authority (tech site)"
+    },
+    {
+      "w": "Google Wallet",
+      "py": "Google Wallet",
+      "en": "Google Wallet"
+    },
+    {
+      "w": "Traveler QR",
+      "py": "Traveler QR",
+      "en": "Traveler QR (feature name)"
+    },
+    {
+      "w": "Alipay+",
+      "py": "Alipay+",
+      "en": "Alipay+ (cross-border payment service)"
+    },
+    {
+      "w": "Visa",
+      "py": "Visa",
+      "en": "Visa"
+    },
+    {
+      "w": "Pix",
+      "py": "Pix",
+      "en": "Pix (Brazil's instant payment system)"
+    },
+    {
+      "w": "服务",
+      "py": "fúwù",
+      "en": "service"
+    },
+    {
+      "w": "里的",
+      "py": "lǐ de",
+      "en": "in the"
+    }
+  ],
+  "featured": [
+    {
+      "hanzi": "跨境",
+      "pinyin": "kuàjìng",
+      "pos": "adjective / adverb",
+      "en": "cross-border",
+      "note": "常见搭配：跨境支付、跨境电商、跨境汇款。Common collocations: cross-border payment, cross-border e-commerce, cross-border remittance.",
+      "examples": [
+        {
+          "zh": "这个钱包支持跨境支付，出国旅行很方便。",
+          "py": "Zhège qiánbāo zhīchí kuàjìng zhīfù, chūguó lǚxíng hěn fāngbiàn.",
+          "en": "This wallet supports cross-border payment, so it is very convenient for travelling abroad."
+        },
+        {
+          "zh": "我朋友在一家跨境电商公司工作。",
+          "py": "Wǒ péngyou zài yì jiā kuàjìng diànshāng gōngsī gōngzuò.",
+          "en": "My friend works at a cross-border e-commerce company."
+        },
+        {
+          "zh": "我们的平台上个月跨境交易的数量增加了一倍。",
+          "py": "Wǒmen de píngtái shàng gè yuè kuàjìng jiāoyì de shùliàng zēngjiāle yí bèi.",
+          "en": "The number of cross-border transactions on our platform doubled last month."
+        }
+      ]
+    },
+    {
+      "hanzi": "商户",
+      "pinyin": "shānghù",
+      "pos": "noun",
+      "en": "merchant",
+      "note": "常见搭配：合作商户、商户收款、小微商户。Common collocations: partner merchant, merchant collection, small and micro merchants.",
+      "examples": [
+        {
+          "zh": "越来越多的商户接受扫码支付。",
+          "py": "Yuèláiyuè duō de shānghù jiēshòu sǎomǎ zhīfù.",
+          "en": "More and more merchants accept QR code payment."
+        },
+        {
+          "zh": "这家小店是我们的合作商户，买东西可以打折。",
+          "py": "Zhè jiā xiǎo diàn shì wǒmen de hézuò shānghù, mǎi dōngxi kěyǐ dǎzhé.",
+          "en": "This little shop is our partner merchant, and you get a discount when you buy things."
+        },
+        {
+          "zh": "我们要分析商户每天的收款数据，看看哪些商户用得最多。",
+          "py": "Wǒmen yào fēnxī shānghù měi tiān de shōukuǎn shùjù, kànkan nǎxiē shānghù yòng de zuì duō.",
+          "en": "We need to analyse merchants' daily collection data and see which merchants use it the most."
+        }
+      ]
+    }
+  ]
+}

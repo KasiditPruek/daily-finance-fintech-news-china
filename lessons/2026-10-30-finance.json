@@ -1,0 +1,568 @@
+{
+  "date": "2026-10-30",
+  "category": "finance",
+  "title_zh": "今年前三季度，国家一般公共预算花了21万亿元，比去年多1%",
+  "title_en": "In the first three quarters, the state spent 21 trillion yuan under the general public budget, 1% more than last year",
+  "paragraphs": [
+    {
+      "zh": "财政部公布了今年1至9月的财政数据。这九个月里，全国一般公共预算的收入有17.23万亿元，比去年同期多了5.1%。",
+      "en": "The Ministry of Finance released this year's fiscal data for January to September. In these nine months, national general public budget revenue was 17.23 trillion yuan, 5.1% more than in the same period last year."
+    },
+    {
+      "zh": "同一时期，全国一般公共预算的支出有21.02万亿元，比去年同期多了1%。政府性基金预算的收入是2.5万亿元，少了18.6%；支出是6.28万亿元，少了16.2%。",
+      "en": "In the same period, national general public budget spending was 21.02 trillion yuan, 1% more than a year earlier. Government fund budget revenue was 2.5 trillion yuan, down 18.6%; spending was 6.28 trillion yuan, down 16.2%."
+    },
+    {
+      "zh": "一般公共预算是政府一年的收支计划。钱主要来自税收，主要用在教育、医疗和社会保障等方面。",
+      "en": "The general public budget is the government's income and spending plan for a year. The money mainly comes from taxes and is mainly used for education, health care, social security and similar areas."
+    },
+    {
+      "zh": "第一财经报道，今年8000亿元的新型政策性金融工具已经全部投放。另外，第四季度会有3000亿元的特别国债资金拨给银行，用来补充资本金。",
+      "en": "Yicai reported that this year's 800 billion yuan of new policy-based financial instruments have all been put into use. In addition, in the fourth quarter 300 billion yuan of special treasury bond funds will be allocated to banks to top up their capital."
+    }
+  ],
+  "source": {
+    "name": "第一财经",
+    "name_en": "Yicai (China Business Network)",
+    "url": "https://www.yicai.com/news/103416008.html"
+  },
+  "vocab": [
+    {
+      "hanzi": "季度",
+      "pinyin": "jìdù",
+      "en": "quarter (of a year)",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "公共",
+      "pinyin": "gōnggòng",
+      "en": "public",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "预算",
+      "pinyin": "yùsuàn",
+      "en": "budget",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "支出",
+      "pinyin": "zhīchū",
+      "en": "spending, expenditure",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "万亿",
+      "pinyin": "wànyì",
+      "en": "trillion",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "财政部",
+      "pinyin": "Cáizhèngbù",
+      "en": "Ministry of Finance",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "公布",
+      "pinyin": "gōngbù",
+      "en": "to publish, to release",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "财政",
+      "pinyin": "cáizhèng",
+      "en": "public finance, fiscal",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "数据",
+      "pinyin": "shùjù",
+      "en": "data",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "同期",
+      "pinyin": "tóngqī",
+      "en": "the same period",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "政府",
+      "pinyin": "zhèngfǔ",
+      "en": "government",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "基金",
+      "pinyin": "jījīn",
+      "en": "fund",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "税收",
+      "pinyin": "shuìshōu",
+      "en": "tax revenue, taxation",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "医疗",
+      "pinyin": "yīliáo",
+      "en": "medical care",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "社会保障",
+      "pinyin": "shèhuì bǎozhàng",
+      "en": "social security",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "报道",
+      "pinyin": "bàodào",
+      "en": "to report; a report",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "新型",
+      "pinyin": "xīnxíng",
+      "en": "new type of",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "政策性",
+      "pinyin": "zhèngcèxìng",
+      "en": "policy-based",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "金融",
+      "pinyin": "jīnróng",
+      "en": "finance",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "工具",
+      "pinyin": "gōngjù",
+      "en": "tool, instrument",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "投放",
+      "pinyin": "tóufàng",
+      "en": "to put in, to inject",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "特别国债",
+      "pinyin": "tèbié guózhài",
+      "en": "special treasury bonds",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "拨",
+      "pinyin": "bō",
+      "en": "to allocate (funds)",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "补充",
+      "pinyin": "bǔchōng",
+      "en": "to add, to top up",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "资本金",
+      "pinyin": "zīběnjīn",
+      "en": "capital funds",
+      "hsk": "超纲"
+    }
+  ],
+  "glossary": [
+    {
+      "w": "国家",
+      "py": "guójiā",
+      "en": "the state, country"
+    },
+    {
+      "w": "花",
+      "py": "huā",
+      "en": "to spend"
+    },
+    {
+      "w": "前",
+      "py": "qián",
+      "en": "first (of the)"
+    },
+    {
+      "w": "三",
+      "py": "sān",
+      "en": "three"
+    },
+    {
+      "w": "一般",
+      "py": "yībān",
+      "en": "general"
+    },
+    {
+      "w": "全国",
+      "py": "quánguó",
+      "en": "national"
+    },
+    {
+      "w": "比",
+      "py": "bǐ",
+      "en": "than, compared with"
+    },
+    {
+      "w": "去年",
+      "py": "qùnián",
+      "en": "last year"
+    },
+    {
+      "w": "多",
+      "py": "duō",
+      "en": "more"
+    },
+    {
+      "w": "1",
+      "py": "yī",
+      "en": "one"
+    },
+    {
+      "w": "万",
+      "py": "wàn",
+      "en": "ten thousand"
+    },
+    {
+      "w": "元",
+      "py": "yuán",
+      "en": "yuan"
+    },
+    {
+      "w": "了",
+      "py": "le",
+      "en": "(particle: completed action)"
+    },
+    {
+      "w": "今年",
+      "py": "jīnnián",
+      "en": "this year"
+    },
+    {
+      "w": "的",
+      "py": "de",
+      "en": "(possessive particle)"
+    },
+    {
+      "w": "至",
+      "py": "zhì",
+      "en": "to, through"
+    },
+    {
+      "w": "月",
+      "py": "yuè",
+      "en": "month"
+    },
+    {
+      "w": "日",
+      "py": "rì",
+      "en": "day"
+    },
+    {
+      "w": "这",
+      "py": "zhè",
+      "en": "these"
+    },
+    {
+      "w": "九",
+      "py": "jiǔ",
+      "en": "nine"
+    },
+    {
+      "w": "个",
+      "py": "gè",
+      "en": "(measure word)"
+    },
+    {
+      "w": "里",
+      "py": "lǐ",
+      "en": "in, inside"
+    },
+    {
+      "w": "有",
+      "py": "yǒu",
+      "en": "to have; was"
+    },
+    {
+      "w": "同",
+      "py": "tóng",
+      "en": "same"
+    },
+    {
+      "w": "一",
+      "py": "yī",
+      "en": "one"
+    },
+    {
+      "w": "时期",
+      "py": "shíqī",
+      "en": "period"
+    },
+    {
+      "w": "是",
+      "py": "shì",
+      "en": "is, was"
+    },
+    {
+      "w": "少",
+      "py": "shǎo",
+      "en": "less, down"
+    },
+    {
+      "w": "；",
+      "py": "；",
+      "en": ";"
+    },
+    {
+      "w": "年",
+      "py": "nián",
+      "en": "year"
+    },
+    {
+      "w": "收支",
+      "py": "shōuzhī",
+      "en": "income and spending"
+    },
+    {
+      "w": "计划",
+      "py": "jìhuà",
+      "en": "plan"
+    },
+    {
+      "w": "钱",
+      "py": "qián",
+      "en": "money"
+    },
+    {
+      "w": "主要",
+      "py": "zhǔyào",
+      "en": "mainly"
+    },
+    {
+      "w": "来自",
+      "py": "láizì",
+      "en": "to come from"
+    },
+    {
+      "w": "用在",
+      "py": "yòngzài",
+      "en": "to be used on"
+    },
+    {
+      "w": "和",
+      "py": "hé",
+      "en": "and"
+    },
+    {
+      "w": "等",
+      "py": "děng",
+      "en": "and so on"
+    },
+    {
+      "w": "方面",
+      "py": "fāngmiàn",
+      "en": "areas, aspects"
+    },
+    {
+      "w": "第一财经",
+      "py": "Dìyī Cáijīng",
+      "en": "Yicai (China Business Network)"
+    },
+    {
+      "w": "已经",
+      "py": "yǐjīng",
+      "en": "already"
+    },
+    {
+      "w": "全部",
+      "py": "quánbù",
+      "en": "all"
+    },
+    {
+      "w": "另外",
+      "py": "lìngwài",
+      "en": "in addition"
+    },
+    {
+      "w": "会",
+      "py": "huì",
+      "en": "will"
+    },
+    {
+      "w": "在",
+      "py": "zài",
+      "en": "in"
+    },
+    {
+      "w": "第",
+      "py": "dì",
+      "en": "(ordinal prefix)"
+    },
+    {
+      "w": "四",
+      "py": "sì",
+      "en": "four"
+    },
+    {
+      "w": "给",
+      "py": "gěi",
+      "en": "to"
+    },
+    {
+      "w": "银行",
+      "py": "yínháng",
+      "en": "banks"
+    },
+    {
+      "w": "用来",
+      "py": "yònglái",
+      "en": "used to"
+    },
+    {
+      "w": "8000",
+      "py": "bāqiān",
+      "en": "8000"
+    },
+    {
+      "w": "3000",
+      "py": "sānqiān",
+      "en": "3000"
+    },
+    {
+      "w": "亿",
+      "py": "yì",
+      "en": "hundred million"
+    },
+    {
+      "w": "今",
+      "py": "jīn",
+      "en": "this"
+    },
+    {
+      "w": "17.23",
+      "py": "shíqī diǎn èrsān",
+      "en": "17.23"
+    },
+    {
+      "w": "5.1",
+      "py": "wǔ diǎn yī",
+      "en": "5.1"
+    },
+    {
+      "w": "21.02",
+      "py": "èrshíyī diǎn líng èr",
+      "en": "21.02"
+    },
+    {
+      "w": "18.6",
+      "py": "shíbā diǎn liù",
+      "en": "18.6"
+    },
+    {
+      "w": "2.5",
+      "py": "èr diǎn wǔ",
+      "en": "2.5"
+    },
+    {
+      "w": "6.28",
+      "py": "liù diǎn èr bā",
+      "en": "6.28"
+    },
+    {
+      "w": "16.2",
+      "py": "shíliù diǎn èr",
+      "en": "16.2"
+    },
+    {
+      "w": "%",
+      "py": "bǎifēnzhī",
+      "en": "percent"
+    },
+    {
+      "w": "9",
+      "py": "jiǔ",
+      "en": "nine"
+    },
+    {
+      "w": "性",
+      "py": "xìng",
+      "en": "-type"
+    },
+    {
+      "w": "收入",
+      "py": "shōurù",
+      "en": "revenue, income"
+    },
+    {
+      "w": "教育",
+      "py": "jiàoyù",
+      "en": "education"
+    },
+    {
+      "w": "资金",
+      "py": "zījīn",
+      "en": "funds"
+    }
+  ],
+  "featured": [
+    {
+      "hanzi": "预算",
+      "pinyin": "yùsuàn",
+      "pos": "noun / verb",
+      "en": "budget; to budget",
+      "note": "常见搭配：财政预算、编制预算、超出预算、预算不足。Common collocations: fiscal budget, draw up a budget, over budget.",
+      "examples": [
+        {
+          "zh": "政府公布了明年的财政预算。",
+          "py": "Zhèngfǔ gōngbùle míngnián de cáizhèng yùsuàn.",
+          "en": "The government announced next year's fiscal budget."
+        },
+        {
+          "zh": "这个项目的预算不够，我们要再申请一点钱。",
+          "py": "Zhège xiàngmù de yùsuàn bú gòu, wǒmen yào zài shēnqǐng yìdiǎn qián.",
+          "en": "This project's budget is not enough, so we need to apply for a little more money."
+        },
+        {
+          "zh": "我每个月都做预算，所以不会乱花钱。",
+          "py": "Wǒ měi gè yuè dōu zuò yùsuàn, suǒyǐ bú huì luàn huā qián.",
+          "en": "I make a budget every month, so I don't spend money carelessly."
+        }
+      ]
+    },
+    {
+      "hanzi": "税收",
+      "pinyin": "shuìshōu",
+      "pos": "noun",
+      "en": "tax revenue; taxation",
+      "note": "常见搭配：税收收入、税收政策、税收增长。Common collocations: tax revenue, tax policy, tax revenue growth.",
+      "examples": [
+        {
+          "zh": "今年的税收收入比去年增长了。",
+          "py": "Jīnnián de shuìshōu shōurù bǐ qùnián zēngzhǎng le.",
+          "en": "This year's tax revenue grew compared with last year."
+        },
+        {
+          "zh": "国家用税收来修路、盖学校。",
+          "py": "Guójiā yòng shuìshōu lái xiū lù, gài xuéxiào.",
+          "en": "The state uses tax revenue to build roads and schools."
+        },
+        {
+          "zh": "这家公司的税收数据放在每月的报告里。",
+          "py": "Zhè jiā gōngsī de shuìshōu shùjù fàng zài měi yuè de bàogào lǐ.",
+          "en": "This company's tax data is placed in the monthly report."
+        }
+      ]
+    }
+  ]
+}
