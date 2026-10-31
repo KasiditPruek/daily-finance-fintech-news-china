@@ -1,0 +1,545 @@
+{
+  "date": "2026-10-31",
+  "category": "finance",
+  "title_zh": "央行宣布：11月2日起，隔夜逆回购成为主要政策利率",
+  "title_en": "PBOC announces: from November 2, the overnight reverse repo rate becomes the main policy rate",
+  "paragraphs": [
+    {
+      "zh": "10月30日晚，中国人民银行发布公告：从11月2日起，每个工作日，央行都会做隔夜逆回购操作，利率固定为1.25%。",
+      "en": "On the evening of October 30, the People's Bank of China issued an announcement: from November 2, on every working day, the central bank will conduct overnight reverse repo operations at a fixed rate of 1.25%."
+    },
+    {
+      "zh": "逆回购是央行向银行借出短期资金的一种方法。“隔夜”的意思是只借一天。",
+      "en": "A reverse repo is a method by which the central bank lends short-term funds to banks. \"Overnight\" means the money is lent for only one day."
+    },
+    {
+      "zh": "七天期逆回购的利率是1.40%，以前它是主要政策利率。现在，隔夜逆回购利率成为主要政策利率。七天期逆回购主要在缴税日和月底使用，采用多重价位招标的方式。",
+      "en": "The rate on the seven-day reverse repo is 1.40%, and it used to be the main policy rate. Now the overnight reverse repo rate becomes the main policy rate. The seven-day reverse repo will mainly be used on tax payment dates and at the end of the month, using a multiple-price bidding method."
+    },
+    {
+      "zh": "其他短期借款工具的利率，也会跟着隔夜利率调整，利差不变。10月30日，银行之间隔夜回购的平均利率是1.2890%。",
+      "en": "The rates on other short-term lending tools will also be adjusted along with the overnight rate, with the spreads unchanged. On October 30, the average rate on overnight repo between banks was 1.2890%."
+    }
+  ],
+  "source": {
+    "name": "第一财经",
+    "name_en": "Yicai (China Business Network)",
+    "url": "https://www.yicai.com/news/103419083.html"
+  },
+  "vocab": [
+    {
+      "hanzi": "央行",
+      "pinyin": "yāngháng",
+      "en": "central bank (short for 中央银行)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "宣布",
+      "pinyin": "xuānbù",
+      "en": "to announce, to declare",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "隔夜",
+      "pinyin": "géyè",
+      "en": "overnight",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "逆回购",
+      "pinyin": "nìhuígòu",
+      "en": "reverse repo (central bank lends cash to banks against collateral)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "主要",
+      "pinyin": "zhǔyào",
+      "en": "main, major",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "政策",
+      "pinyin": "zhèngcè",
+      "en": "policy",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "利率",
+      "pinyin": "lìlǜ",
+      "en": "interest rate",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "发布",
+      "pinyin": "fābù",
+      "en": "to issue, to release",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "公告",
+      "pinyin": "gōnggào",
+      "en": "announcement, notice",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "工作日",
+      "pinyin": "gōngzuòrì",
+      "en": "working day, business day",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "操作",
+      "pinyin": "cāozuò",
+      "en": "operation; to operate",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "固定",
+      "pinyin": "gùdìng",
+      "en": "fixed; to fix",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "短期",
+      "pinyin": "duǎnqī",
+      "en": "short-term",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "资金",
+      "pinyin": "zījīn",
+      "en": "funds, capital",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "借出",
+      "pinyin": "jièchū",
+      "en": "to lend out",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "回购",
+      "pinyin": "huígòu",
+      "en": "repurchase, repo",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "缴税日",
+      "pinyin": "jiǎoshuìrì",
+      "en": "tax payment date",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "月底",
+      "pinyin": "yuèdǐ",
+      "en": "end of the month",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "招标",
+      "pinyin": "zhāobiāo",
+      "en": "to invite bids; bidding",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "多重",
+      "pinyin": "duōchóng",
+      "en": "multiple, multi-layer",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "价位",
+      "pinyin": "jiàwèi",
+      "en": "price level",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "方式",
+      "pinyin": "fāngshì",
+      "en": "method, way",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "借款",
+      "pinyin": "jièkuǎn",
+      "en": "loan; to borrow money",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "工具",
+      "pinyin": "gōngjù",
+      "en": "tool, instrument",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "调整",
+      "pinyin": "tiáozhěng",
+      "en": "to adjust",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "利差",
+      "pinyin": "lìchā",
+      "en": "interest rate spread",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "平均",
+      "pinyin": "píngjūn",
+      "en": "average",
+      "hsk": "HSK 5"
+    }
+  ],
+  "glossary": [
+    {
+      "w": "10月30日",
+      "py": "shí yuè sānshí rì",
+      "en": "October 30"
+    },
+    {
+      "w": "10",
+      "py": "shí",
+      "en": "ten"
+    },
+    {
+      "w": "月",
+      "py": "yuè",
+      "en": "month"
+    },
+    {
+      "w": "30",
+      "py": "sānshí",
+      "en": "thirty"
+    },
+    {
+      "w": "日",
+      "py": "rì",
+      "en": "day (date)"
+    },
+    {
+      "w": "晚",
+      "py": "wǎn",
+      "en": "evening"
+    },
+    {
+      "w": "中国人民银行",
+      "py": "Zhōngguó Rénmín Yínháng",
+      "en": "People's Bank of China"
+    },
+    {
+      "w": "从",
+      "py": "cóng",
+      "en": "from"
+    },
+    {
+      "w": "11月2日",
+      "py": "shíyī yuè èr rì",
+      "en": "November 2"
+    },
+    {
+      "w": "11",
+      "py": "shíyī",
+      "en": "eleven"
+    },
+    {
+      "w": "2",
+      "py": "èr",
+      "en": "two"
+    },
+    {
+      "w": "起",
+      "py": "qǐ",
+      "en": "starting from"
+    },
+    {
+      "w": "每个",
+      "py": "měi ge",
+      "en": "every"
+    },
+    {
+      "w": "每",
+      "py": "měi",
+      "en": "each, every"
+    },
+    {
+      "w": "个",
+      "py": "gè",
+      "en": "(measure word)"
+    },
+    {
+      "w": "，",
+      "py": ",",
+      "en": "comma"
+    },
+    {
+      "w": "都",
+      "py": "dōu",
+      "en": "all, always"
+    },
+    {
+      "w": "会",
+      "py": "huì",
+      "en": "will"
+    },
+    {
+      "w": "做",
+      "py": "zuò",
+      "en": "to do"
+    },
+    {
+      "w": "为",
+      "py": "wéi",
+      "en": "to be, at"
+    },
+    {
+      "w": "1.25%",
+      "py": "bǎi fēn zhī yī diǎn èr wǔ",
+      "en": "1.25 percent"
+    },
+    {
+      "w": "是",
+      "py": "shì",
+      "en": "is"
+    },
+    {
+      "w": "的",
+      "py": "de",
+      "en": "(possessive particle)"
+    },
+    {
+      "w": "向",
+      "py": "xiàng",
+      "en": "to, toward"
+    },
+    {
+      "w": "银行",
+      "py": "yínháng",
+      "en": "bank"
+    },
+    {
+      "w": "一种",
+      "py": "yì zhǒng",
+      "en": "one kind of"
+    },
+    {
+      "w": "一",
+      "py": "yī",
+      "en": "one"
+    },
+    {
+      "w": "种",
+      "py": "zhǒng",
+      "en": "kind"
+    },
+    {
+      "w": "方法",
+      "py": "fāngfǎ",
+      "en": "method"
+    },
+    {
+      "w": "意思",
+      "py": "yìsi",
+      "en": "meaning"
+    },
+    {
+      "w": "只",
+      "py": "zhǐ",
+      "en": "only"
+    },
+    {
+      "w": "借",
+      "py": "jiè",
+      "en": "to lend, to borrow"
+    },
+    {
+      "w": "一天",
+      "py": "yì tiān",
+      "en": "one day"
+    },
+    {
+      "w": "天",
+      "py": "tiān",
+      "en": "day"
+    },
+    {
+      "w": "七天期",
+      "py": "qī tiān qī",
+      "en": "seven-day term"
+    },
+    {
+      "w": "七",
+      "py": "qī",
+      "en": "seven"
+    },
+    {
+      "w": "期",
+      "py": "qī",
+      "en": "term, period"
+    },
+    {
+      "w": "1.40%",
+      "py": "bǎi fēn zhī yī diǎn sì líng",
+      "en": "1.40 percent"
+    },
+    {
+      "w": "以前",
+      "py": "yǐqián",
+      "en": "before, in the past"
+    },
+    {
+      "w": "它",
+      "py": "tā",
+      "en": "it"
+    },
+    {
+      "w": "现在",
+      "py": "xiànzài",
+      "en": "now"
+    },
+    {
+      "w": "成为",
+      "py": "chéngwéi",
+      "en": "to become"
+    },
+    {
+      "w": "在",
+      "py": "zài",
+      "en": "at, on"
+    },
+    {
+      "w": "和",
+      "py": "hé",
+      "en": "and"
+    },
+    {
+      "w": "使用",
+      "py": "shǐyòng",
+      "en": "to use"
+    },
+    {
+      "w": "采用",
+      "py": "cǎiyòng",
+      "en": "to adopt, to use"
+    },
+    {
+      "w": "其他",
+      "py": "qítā",
+      "en": "other"
+    },
+    {
+      "w": "跟着",
+      "py": "gēnzhe",
+      "en": "along with"
+    },
+    {
+      "w": "也",
+      "py": "yě",
+      "en": "also"
+    },
+    {
+      "w": "不变",
+      "py": "bú biàn",
+      "en": "unchanged"
+    },
+    {
+      "w": "银行之间",
+      "py": "yínháng zhījiān",
+      "en": "between banks"
+    },
+    {
+      "w": "之间",
+      "py": "zhījiān",
+      "en": "between"
+    },
+    {
+      "w": "1.2890%",
+      "py": "bǎi fēn zhī yī diǎn èr bā jiǔ líng",
+      "en": "1.2890 percent"
+    },
+    {
+      "w": "、",
+      "py": "、",
+      "en": "enumeration comma"
+    },
+    {
+      "w": "。",
+      "py": ".",
+      "en": "period"
+    },
+    {
+      "w": "：",
+      "py": ":",
+      "en": "colon"
+    },
+    {
+      "w": "“",
+      "py": "\"",
+      "en": "opening quote"
+    },
+    {
+      "w": "”",
+      "py": "\"",
+      "en": "closing quote"
+    },
+    {
+      "w": "了",
+      "py": "le",
+      "en": "(particle)"
+    },
+    {
+      "w": "不",
+      "py": "bù",
+      "en": "not"
+    }
+  ],
+  "featured": [
+    {
+      "hanzi": "利率",
+      "pinyin": "lìlǜ",
+      "pos": "noun",
+      "en": "interest rate",
+      "note": "Common collocations: 下调利率 / 上调利率 (cut / raise rates), 政策利率 (policy rate), 贷款利率 (loan rate).",
+      "examples": [
+        {
+          "zh": "央行把政策利率固定在1.25%。",
+          "py": "Yāngháng bǎ zhèngcè lìlǜ gùdìng zài bǎi fēn zhī yī diǎn èr wǔ.",
+          "en": "The central bank fixed the policy rate at 1.25%."
+        },
+        {
+          "zh": "这家银行下调了房贷利率。",
+          "py": "Zhè jiā yínháng xiàtiáo le fángdài lìlǜ.",
+          "en": "This bank lowered its mortgage interest rate."
+        },
+        {
+          "zh": "我想比较一下两家银行的存款利率。",
+          "py": "Wǒ xiǎng bǐjiào yíxià liǎng jiā yínháng de cúnkuǎn lìlǜ.",
+          "en": "I want to compare the deposit rates of two banks."
+        }
+      ]
+    },
+    {
+      "hanzi": "逆回购",
+      "pinyin": "nìhuígòu",
+      "pos": "noun",
+      "en": "reverse repo",
+      "note": "A central bank tool to lend short-term cash; used as 开展逆回购操作 (conduct reverse repo operations), 七天期逆回购 (seven-day reverse repo).",
+      "examples": [
+        {
+          "zh": "央行今天开展了一千亿元逆回购操作。",
+          "py": "Yāngháng jīntiān kāizhǎn le yì qiān yì yuán nìhuígòu cāozuò.",
+          "en": "The central bank conducted 100 billion yuan of reverse repo operations today."
+        },
+        {
+          "zh": "逆回购到期后，银行要把钱还给央行。",
+          "py": "Nìhuígòu dàoqī hòu, yínháng yào bǎ qián huán gěi yāngháng.",
+          "en": "When a reverse repo matures, the bank must return the money to the central bank."
+        },
+        {
+          "zh": "我在财经新闻里第一次看到逆回购这个词。",
+          "py": "Wǒ zài cáijīng xīnwén lǐ dì yī cì kàndào nìhuígòu zhège cí.",
+          "en": "I first saw the word reverse repo in financial news."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,620 @@
+{
+  "date": "2026-10-31",
+  "category": "fintech",
+  "title_zh": "今年1至9月，江苏的跨境移动支付金额是21.6亿元，比去年同期多42.6%",
+  "title_en": "This year from January to September, cross-border mobile payments in Jiangsu came to 2.16 billion yuan, up 42.6% on the same period last year",
+  "paragraphs": [
+    {
+      "zh": "10月30日，中国人民银行江苏省分行开了新闻发布会，介绍江苏怎样改善外国人和老年人的支付服务。",
+      "en": "On October 30, the Jiangsu Provincial Branch of the People's Bank of China held a press conference on how Jiangsu is improving payment services for foreigners and elderly people."
+    },
+    {
+      "zh": "1至9月，江苏的外币兑换、外国银行卡取现、外国银行卡刷卡，还有跨境移动支付，金额一共是43.5亿元，比去年同期增长32.2%。其中，跨境移动支付的金额是21.6亿元，增长42.6%。",
+      "en": "From January to September, foreign currency exchange, cash withdrawals with foreign bank cards, payments with foreign bank cards and cross-border mobile payments in Jiangsu totalled 4.35 billion yuan, up 32.2% on the same period last year. Of this, cross-border mobile payments came to 2.16 billion yuan, up 42.6%."
+    },
+    {
+      "zh": "到9月底，可以刷外国银行卡的重点商户有3.9万家。外国银行卡取现的金额是8.7亿元，增长22.5%；外币兑换的金额增长12.7%。",
+      "en": "By the end of September, 39,000 key merchants could accept foreign bank cards. Cash withdrawals with foreign bank cards came to 870 million yuan, up 22.5%, and the amount of foreign currency exchanged grew 12.7%."
+    },
+    {
+      "zh": "为了方便老年人，全省约5.4万台ATM已经改造好，1.3万多个银行网点开通了“绿色通道”。另外，江苏还为亚太经合组织的贸易部长会议和其他活动提供了支付服务保障。",
+      "en": "To make things easier for elderly people, about 54,000 ATMs across the province have been upgraded, and more than 13,000 bank branches have opened a \"green channel\". In addition, Jiangsu provided payment service support for the APEC trade ministers' meeting and other events."
+    }
+  ],
+  "source": {
+    "name": "移动支付网",
+    "name_en": "Mpaypass (China Mobile Payment Network)",
+    "url": "https://www.mpaypass.com.cn/news/202610/30183703.html"
+  },
+  "vocab": [
+    {
+      "hanzi": "分行",
+      "pinyin": "fēnháng",
+      "en": "branch (of a bank)",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "跨境",
+      "pinyin": "kuàjìng",
+      "en": "cross-border",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "移动支付",
+      "pinyin": "yídòng zhīfù",
+      "en": "mobile payment",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "金额",
+      "pinyin": "jīn'é",
+      "en": "amount of money",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "同期",
+      "pinyin": "tóngqī",
+      "en": "the same period",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "新闻发布会",
+      "pinyin": "xīnwén fābùhuì",
+      "en": "press conference",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "改善",
+      "pinyin": "gǎishàn",
+      "en": "to improve",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "老年人",
+      "pinyin": "lǎoniánrén",
+      "en": "elderly people",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "支付",
+      "pinyin": "zhīfù",
+      "en": "payment; to pay",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "服务",
+      "pinyin": "fúwù",
+      "en": "service; to serve",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "银行卡",
+      "pinyin": "yínhángkǎ",
+      "en": "bank card",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "刷卡",
+      "pinyin": "shuākǎ",
+      "en": "to pay by card, to swipe a card",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "取现",
+      "pinyin": "qǔxiàn",
+      "en": "to withdraw cash",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "外币",
+      "pinyin": "wàibì",
+      "en": "foreign currency",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "兑换",
+      "pinyin": "duìhuàn",
+      "en": "to exchange (currency)",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "增长",
+      "pinyin": "zēngzhǎng",
+      "en": "to grow; growth",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "商户",
+      "pinyin": "shānghù",
+      "en": "merchant",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "全省",
+      "pinyin": "quánshěng",
+      "en": "the whole province",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "ATM",
+      "pinyin": "ATM",
+      "en": "ATM, cash machine",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "改造",
+      "pinyin": "gǎizào",
+      "en": "to upgrade, to renovate",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "网点",
+      "pinyin": "wǎngdiǎn",
+      "en": "(bank) outlet, branch point",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "绿色通道",
+      "pinyin": "lǜsè tōngdào",
+      "en": "green channel, fast lane",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "开通",
+      "pinyin": "kāitōng",
+      "en": "to open, to activate",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "保障",
+      "pinyin": "bǎozhàng",
+      "en": "to guarantee; support",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "亚太经合组织",
+      "pinyin": "Yà-Tài Jīnghé Zǔzhī",
+      "en": "APEC (Asia-Pacific Economic Cooperation)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "贸易",
+      "pinyin": "màoyì",
+      "en": "trade",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "部长",
+      "pinyin": "bùzhǎng",
+      "en": "minister",
+      "hsk": "HSK 6"
+    }
+  ],
+  "glossary": [
+    {
+      "w": "中国人民银行",
+      "py": "Zhōngguó Rénmín Yínháng",
+      "en": "People's Bank of China"
+    },
+    {
+      "w": "江苏省",
+      "py": "Jiāngsū Shěng",
+      "en": "Jiangsu Province"
+    },
+    {
+      "w": "今年",
+      "py": "jīnnián",
+      "en": "this year"
+    },
+    {
+      "w": "江苏",
+      "py": "Jiāngsū",
+      "en": "Jiangsu"
+    },
+    {
+      "w": "省",
+      "py": "shěng",
+      "en": "province"
+    },
+    {
+      "w": "1",
+      "py": "yī",
+      "en": "one"
+    },
+    {
+      "w": "至",
+      "py": "zhì",
+      "en": "to, until"
+    },
+    {
+      "w": "9",
+      "py": "jiǔ",
+      "en": "nine"
+    },
+    {
+      "w": "月",
+      "py": "yuè",
+      "en": "month"
+    },
+    {
+      "w": "的",
+      "py": "de",
+      "en": "(possessive particle)"
+    },
+    {
+      "w": "是",
+      "py": "shì",
+      "en": "is"
+    },
+    {
+      "w": "21.6亿元",
+      "py": "èrshíyī diǎn liù yì yuán",
+      "en": "2.16 billion yuan"
+    },
+    {
+      "w": "比",
+      "py": "bǐ",
+      "en": "compared with"
+    },
+    {
+      "w": "去年",
+      "py": "qùnián",
+      "en": "last year"
+    },
+    {
+      "w": "多",
+      "py": "duō",
+      "en": "more"
+    },
+    {
+      "w": "42.6%",
+      "py": "bǎi fēn zhī sìshíèr diǎn liù",
+      "en": "42.6 percent"
+    },
+    {
+      "w": "，",
+      "py": ",",
+      "en": "comma"
+    },
+    {
+      "w": "10月30日",
+      "py": "shí yuè sānshí rì",
+      "en": "October 30"
+    },
+    {
+      "w": "10",
+      "py": "shí",
+      "en": "ten"
+    },
+    {
+      "w": "30",
+      "py": "sānshí",
+      "en": "thirty"
+    },
+    {
+      "w": "日",
+      "py": "rì",
+      "en": "day (date)"
+    },
+    {
+      "w": "开",
+      "py": "kāi",
+      "en": "to hold (a meeting)"
+    },
+    {
+      "w": "了",
+      "py": "le",
+      "en": "(particle)"
+    },
+    {
+      "w": "介绍",
+      "py": "jièshào",
+      "en": "to introduce, to explain"
+    },
+    {
+      "w": "怎样",
+      "py": "zěnyàng",
+      "en": "how"
+    },
+    {
+      "w": "和",
+      "py": "hé",
+      "en": "and"
+    },
+    {
+      "w": "外国人",
+      "py": "wàiguórén",
+      "en": "foreigner"
+    },
+    {
+      "w": "外国",
+      "py": "wàiguó",
+      "en": "foreign"
+    },
+    {
+      "w": "银行",
+      "py": "yínháng",
+      "en": "bank"
+    },
+    {
+      "w": "卡",
+      "py": "kǎ",
+      "en": "card"
+    },
+    {
+      "w": "43.5亿元",
+      "py": "sìshísān diǎn wǔ yì yuán",
+      "en": "4.35 billion yuan"
+    },
+    {
+      "w": "一共",
+      "py": "yígòng",
+      "en": "in total"
+    },
+    {
+      "w": "比去年同期",
+      "py": "bǐ qùnián tóngqī",
+      "en": "compared with the same period last year"
+    },
+    {
+      "w": "32.2%",
+      "py": "bǎi fēn zhī sānshí'èr diǎn èr",
+      "en": "32.2 percent"
+    },
+    {
+      "w": "其中",
+      "py": "qízhōng",
+      "en": "among them"
+    },
+    {
+      "w": "到",
+      "py": "dào",
+      "en": "by, until"
+    },
+    {
+      "w": "9月底",
+      "py": "jiǔ yuè dǐ",
+      "en": "end of September"
+    },
+    {
+      "w": "底",
+      "py": "dǐ",
+      "en": "end"
+    },
+    {
+      "w": "可以",
+      "py": "kěyǐ",
+      "en": "can"
+    },
+    {
+      "w": "刷",
+      "py": "shuā",
+      "en": "to swipe"
+    },
+    {
+      "w": "重点",
+      "py": "zhòngdiǎn",
+      "en": "key, focus"
+    },
+    {
+      "w": "有",
+      "py": "yǒu",
+      "en": "to have"
+    },
+    {
+      "w": "3.9万",
+      "py": "sān diǎn jiǔ wàn",
+      "en": "39,000"
+    },
+    {
+      "w": "家",
+      "py": "jiā",
+      "en": "(measure word for businesses)"
+    },
+    {
+      "w": "8.7亿元",
+      "py": "bā diǎn qī yì yuán",
+      "en": "870 million yuan"
+    },
+    {
+      "w": "22.5%",
+      "py": "bǎi fēn zhī èrshí'èr diǎn wǔ",
+      "en": "22.5 percent"
+    },
+    {
+      "w": "12.7%",
+      "py": "bǎi fēn zhī shí'èr diǎn qī",
+      "en": "12.7 percent"
+    },
+    {
+      "w": "为了",
+      "py": "wèile",
+      "en": "in order to"
+    },
+    {
+      "w": "方便",
+      "py": "fāngbiàn",
+      "en": "to make convenient"
+    },
+    {
+      "w": "约",
+      "py": "yuē",
+      "en": "about"
+    },
+    {
+      "w": "5.4万",
+      "py": "wǔ diǎn sì wàn",
+      "en": "54,000"
+    },
+    {
+      "w": "台",
+      "py": "tái",
+      "en": "(measure word for machines)"
+    },
+    {
+      "w": "已经",
+      "py": "yǐjīng",
+      "en": "already"
+    },
+    {
+      "w": "好",
+      "py": "hǎo",
+      "en": "(complement: done well)"
+    },
+    {
+      "w": "1.3万",
+      "py": "yī diǎn sān wàn",
+      "en": "13,000"
+    },
+    {
+      "w": "个",
+      "py": "gè",
+      "en": "(measure word)"
+    },
+    {
+      "w": "另外",
+      "py": "lìngwài",
+      "en": "in addition"
+    },
+    {
+      "w": "还",
+      "py": "hái",
+      "en": "also"
+    },
+    {
+      "w": "为",
+      "py": "wèi",
+      "en": "for"
+    },
+    {
+      "w": "其他",
+      "py": "qítā",
+      "en": "other"
+    },
+    {
+      "w": "活动",
+      "py": "huódòng",
+      "en": "event, activity"
+    },
+    {
+      "w": "提供",
+      "py": "tígōng",
+      "en": "to provide"
+    },
+    {
+      "w": "、",
+      "py": "、",
+      "en": "enumeration comma"
+    },
+    {
+      "w": "。",
+      "py": ".",
+      "en": "period"
+    },
+    {
+      "w": "；",
+      "py": ";",
+      "en": "semicolon"
+    },
+    {
+      "w": "“",
+      "py": "\"",
+      "en": "opening quote"
+    },
+    {
+      "w": "”",
+      "py": "\"",
+      "en": "closing quote"
+    },
+    {
+      "w": "外国银行卡",
+      "py": "wàiguó yínhángkǎ",
+      "en": "foreign bank card"
+    },
+    {
+      "w": "到9月底",
+      "py": "dào jiǔ yuè dǐ",
+      "en": "by the end of September"
+    },
+    {
+      "w": "万",
+      "py": "wàn",
+      "en": "ten thousand"
+    },
+    {
+      "w": "会议",
+      "py": "huìyì",
+      "en": "meeting"
+    },
+    {
+      "w": "亿元",
+      "py": "yì yuán",
+      "en": "hundred million yuan"
+    },
+    {
+      "w": "元",
+      "py": "yuán",
+      "en": "yuan"
+    },
+    {
+      "w": "亿",
+      "py": "yì",
+      "en": "hundred million"
+    },
+    {
+      "w": "%",
+      "py": "%",
+      "en": "percent"
+    }
+  ],
+  "featured": [
+    {
+      "hanzi": "移动支付",
+      "pinyin": "yídòng zhīfù",
+      "pos": "noun",
+      "en": "mobile payment",
+      "note": "Payment made with a phone, e.g. 扫码支付 (QR code payment); also 移动支付平台 (mobile payment platform), 跨境移动支付 (cross-border mobile payment).",
+      "examples": [
+        {
+          "zh": "跨境移动支付让外国游客更方便地付款。",
+          "py": "Kuàjìng yídòng zhīfù ràng wàiguó yóukè gèng fāngbiàn de fùkuǎn.",
+          "en": "Cross-border mobile payment makes it easier for foreign tourists to pay."
+        },
+        {
+          "zh": "在中国，很多小店都能用移动支付。",
+          "py": "Zài Zhōngguó, hěn duō xiǎo diàn dōu néng yòng yídòng zhīfù.",
+          "en": "In China, many small shops accept mobile payment."
+        },
+        {
+          "zh": "我们的平台要看一看每月移动支付的交易笔数。",
+          "py": "Wǒmen de píngtái yào kàn yí kàn měi yuè yídòng zhīfù de jiāoyì bǐ shù.",
+          "en": "Our platform needs to look at the number of mobile payment transactions each month."
+        }
+      ]
+    },
+    {
+      "hanzi": "商户",
+      "pinyin": "shānghù",
+      "pos": "noun",
+      "en": "merchant",
+      "note": "A business that accepts payments; used in 商户收单 (merchant acquiring), 重点商户 (key merchants), 小微商户 (micro merchants).",
+      "examples": [
+        {
+          "zh": "可以刷外国银行卡的商户越来越多。",
+          "py": "Kěyǐ shuā wàiguó yínhángkǎ de shānghù yuè lái yuè duō.",
+          "en": "More and more merchants can accept foreign bank cards."
+        },
+        {
+          "zh": "这家小商户每天用手机收款。",
+          "py": "Zhè jiā xiǎo shānghù měitiān yòng shǒujī shōukuǎn.",
+          "en": "This small merchant collects payments by phone every day."
+        },
+        {
+          "zh": "我们想了解商户每周的活跃情况。",
+          "py": "Wǒmen xiǎng liǎojiě shānghù měi zhōu de huóyuè qíngkuàng.",
+          "en": "We want to understand how active merchants are each week."
+        }
+      ]
+    }
+  ]
+}
