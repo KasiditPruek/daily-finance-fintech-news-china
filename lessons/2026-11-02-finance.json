@@ -1,0 +1,579 @@
+{
+  "date": "2026-11-02",
+  "category": "finance",
+  "title_zh": "央行等部门11月2日开会，讨论股票回购贷款工具",
+  "title_en": "PBOC and other bodies to hold meetings on November 2 about stock-buyback lending tools",
+  "paragraphs": [
+    {
+      "zh": "据上海证券报报道，11月2日，中国证监会和中国人民银行要一起开一个会。一些证券公司和基金公司收到了通知。会议要讨论怎么用好支持资本市场的工具。",
+      "en": "According to the Shanghai Securities News, on November 2 the China Securities Regulatory Commission and the People's Bank of China will hold a meeting together. Some securities and fund companies have received a notice. The meeting will discuss how to make good use of tools that support the capital market."
+    },
+    {
+      "zh": "当天，中国证监会、金融监管总局和中国人民银行还要请各大银行开会。这个会要讨论怎么改进股票回购增持再贷款。",
+      "en": "On that day, the CSRC, the National Financial Regulatory Administration and the People's Bank of China will also invite the major banks to a meeting. That meeting will discuss how to improve the relending facility for stock buybacks and share purchases."
+    },
+    {
+      "zh": "这个工具是2024年10月18日设立的。再贷款是中央银行把钱借给银行，银行再把钱借给企业。有了这个工具，银行可以借钱给上市公司和大股东，让他们买回或者增加持有的本公司股票。",
+      "en": "This tool was set up on October 18, 2024. Relending means the central bank lends money to banks, and the banks then lend it on to companies. With this tool, banks can lend money to listed companies and large shareholders so they can buy back, or add to, the shares of their own company that they hold."
+    },
+    {
+      "zh": "另外，证券时报报道，一家国有大银行打算给中国国新和中国诚通增加贷款额度。每家公司新增的额度最多可能是1000亿元。这只是媒体的报道，官方还没有公布会议的内容。",
+      "en": "In addition, Securities Times reported that a large state-owned bank plans to raise the loan quota for China Reform Holdings and China Chengtong. The new quota for each company could be as much as 100 billion yuan. This is only a media report; officials have not yet announced what was decided at the meetings."
+    }
+  ],
+  "source": {
+    "name": "第一财经",
+    "name_en": "Yicai (China Business Network)",
+    "url": "https://www.yicai.com/news/103420562.html"
+  },
+  "vocab": [
+    {
+      "hanzi": "央行",
+      "pinyin": "yāngháng",
+      "en": "central bank (short for 中央银行)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "部门",
+      "pinyin": "bùmén",
+      "en": "department; government body",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "回购",
+      "pinyin": "huígòu",
+      "en": "to buy back; buyback",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "贷款",
+      "pinyin": "dàikuǎn",
+      "en": "loan; to lend",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "工具",
+      "pinyin": "gōngjù",
+      "en": "tool; instrument",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "据",
+      "pinyin": "jù",
+      "en": "according to",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "报道",
+      "pinyin": "bàodào",
+      "en": "to report; news report",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "证监会",
+      "pinyin": "zhèngjiānhuì",
+      "en": "securities regulator (CSRC)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "证券",
+      "pinyin": "zhèngquàn",
+      "en": "securities",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "基金",
+      "pinyin": "jījīn",
+      "en": "fund",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "资本市场",
+      "pinyin": "zīběn shìchǎng",
+      "en": "capital market",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "金融监管总局",
+      "pinyin": "jīnróng jiānguǎn zǒngjú",
+      "en": "National Financial Regulatory Administration",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "改进",
+      "pinyin": "gǎijìn",
+      "en": "to improve",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "股票",
+      "pinyin": "gǔpiào",
+      "en": "stock; shares",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "增持",
+      "pinyin": "zēngchí",
+      "en": "to increase one's shareholding",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "再贷款",
+      "pinyin": "zàidàikuǎn",
+      "en": "relending (central bank loans to banks)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "设立",
+      "pinyin": "shèlì",
+      "en": "to set up; to establish",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "中央银行",
+      "pinyin": "zhōngyāng yínháng",
+      "en": "central bank",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "上市公司",
+      "pinyin": "shàngshì gōngsī",
+      "en": "listed company",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "股东",
+      "pinyin": "gǔdōng",
+      "en": "shareholder",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "持有",
+      "pinyin": "chíyǒu",
+      "en": "to hold (shares, etc.)",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "国有",
+      "pinyin": "guóyǒu",
+      "en": "state-owned",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "额度",
+      "pinyin": "édù",
+      "en": "quota; limit",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "新增",
+      "pinyin": "xīnzēng",
+      "en": "newly added; to add",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "官方",
+      "pinyin": "guānfāng",
+      "en": "official; authorities",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "公布",
+      "pinyin": "gōngbù",
+      "en": "to announce; to make public",
+      "hsk": "HSK 5"
+    }
+  ],
+  "glossary": [
+    {
+      "w": "等",
+      "py": "děng",
+      "en": "and others"
+    },
+    {
+      "w": "开会",
+      "py": "kāihuì",
+      "en": "hold a meeting"
+    },
+    {
+      "w": "讨论",
+      "py": "tǎolùn",
+      "en": "discuss"
+    },
+    {
+      "w": "上海证券报",
+      "py": "Shànghǎi Zhèngquàn Bào",
+      "en": "Shanghai Securities News"
+    },
+    {
+      "w": "中国人民银行",
+      "py": "Zhōngguó Rénmín Yínháng",
+      "en": "People's Bank of China"
+    },
+    {
+      "w": "和",
+      "py": "hé",
+      "en": "and"
+    },
+    {
+      "w": "中国",
+      "py": "Zhōngguó",
+      "en": "China"
+    },
+    {
+      "w": "要",
+      "py": "yào",
+      "en": "will; to"
+    },
+    {
+      "w": "开",
+      "py": "kāi",
+      "en": "to hold"
+    },
+    {
+      "w": "会",
+      "py": "huì",
+      "en": "meeting"
+    },
+    {
+      "w": "一些",
+      "py": "yìxiē",
+      "en": "some"
+    },
+    {
+      "w": "公司",
+      "py": "gōngsī",
+      "en": "company"
+    },
+    {
+      "w": "收到",
+      "py": "shōudào",
+      "en": "received"
+    },
+    {
+      "w": "了",
+      "py": "le",
+      "en": "(completed action)"
+    },
+    {
+      "w": "通知",
+      "py": "tōngzhī",
+      "en": "notice"
+    },
+    {
+      "w": "会议",
+      "py": "huìyì",
+      "en": "meeting"
+    },
+    {
+      "w": "怎么",
+      "py": "zěnme",
+      "en": "how"
+    },
+    {
+      "w": "用好",
+      "py": "yònghǎo",
+      "en": "make good use of"
+    },
+    {
+      "w": "支持",
+      "py": "zhīchí",
+      "en": "support"
+    },
+    {
+      "w": "的",
+      "py": "de",
+      "en": "(possessive/modifier)"
+    },
+    {
+      "w": "还",
+      "py": "hái",
+      "en": "also"
+    },
+    {
+      "w": "请",
+      "py": "qǐng",
+      "en": "to invite"
+    },
+    {
+      "w": "这个",
+      "py": "zhège",
+      "en": "this"
+    },
+    {
+      "w": "是",
+      "py": "shì",
+      "en": "is"
+    },
+    {
+      "w": "年",
+      "py": "nián",
+      "en": "year"
+    },
+    {
+      "w": "月",
+      "py": "yuè",
+      "en": "month"
+    },
+    {
+      "w": "日",
+      "py": "rì",
+      "en": "day"
+    },
+    {
+      "w": "把",
+      "py": "bǎ",
+      "en": "(object marker)"
+    },
+    {
+      "w": "钱",
+      "py": "qián",
+      "en": "money"
+    },
+    {
+      "w": "借给",
+      "py": "jiègěi",
+      "en": "lend to"
+    },
+    {
+      "w": "银行",
+      "py": "yínháng",
+      "en": "bank"
+    },
+    {
+      "w": "再",
+      "py": "zài",
+      "en": "then; again"
+    },
+    {
+      "w": "借",
+      "py": "jiè",
+      "en": "to lend"
+    },
+    {
+      "w": "企业",
+      "py": "qǐyè",
+      "en": "company; enterprise"
+    },
+    {
+      "w": "可以",
+      "py": "kěyǐ",
+      "en": "can"
+    },
+    {
+      "w": "借钱",
+      "py": "jièqián",
+      "en": "to lend money"
+    },
+    {
+      "w": "给",
+      "py": "gěi",
+      "en": "to"
+    },
+    {
+      "w": "大股东",
+      "py": "dàgǔdōng",
+      "en": "major shareholder"
+    },
+    {
+      "w": "让",
+      "py": "ràng",
+      "en": "to let"
+    },
+    {
+      "w": "他们",
+      "py": "tāmen",
+      "en": "they"
+    },
+    {
+      "w": "买回",
+      "py": "mǎihuí",
+      "en": "buy back"
+    },
+    {
+      "w": "或者",
+      "py": "huòzhě",
+      "en": "or"
+    },
+    {
+      "w": "增加",
+      "py": "zēngjiā",
+      "en": "to increase"
+    },
+    {
+      "w": "另外",
+      "py": "lìngwài",
+      "en": "in addition"
+    },
+    {
+      "w": "证券时报",
+      "py": "Zhèngquàn Shíbào",
+      "en": "Securities Times"
+    },
+    {
+      "w": "大",
+      "py": "dà",
+      "en": "large"
+    },
+    {
+      "w": "打算",
+      "py": "dǎsuàn",
+      "en": "plan to"
+    },
+    {
+      "w": "中国国新",
+      "py": "Zhōngguó Guóxīn",
+      "en": "China Reform Holdings"
+    },
+    {
+      "w": "中国诚通",
+      "py": "Zhōngguó Chéngtōng",
+      "en": "China Chengtong"
+    },
+    {
+      "w": "最多",
+      "py": "zuì duō",
+      "en": "at most"
+    },
+    {
+      "w": "可能",
+      "py": "kěnéng",
+      "en": "may be"
+    },
+    {
+      "w": "亿元",
+      "py": "yì yuán",
+      "en": "hundred million yuan"
+    },
+    {
+      "w": "这",
+      "py": "zhè",
+      "en": "this"
+    },
+    {
+      "w": "只是",
+      "py": "zhǐshì",
+      "en": "only"
+    },
+    {
+      "w": "媒体",
+      "py": "méitǐ",
+      "en": "media"
+    },
+    {
+      "w": "还没有",
+      "py": "hái méiyǒu",
+      "en": "not yet"
+    },
+    {
+      "w": "内容",
+      "py": "nèiróng",
+      "en": "content"
+    },
+    {
+      "w": "同一天",
+      "py": "tóng yì tiān",
+      "en": "the same day"
+    },
+    {
+      "w": "各",
+      "py": "gè",
+      "en": "each; every"
+    },
+    {
+      "w": "一家",
+      "py": "yì jiā",
+      "en": "one (company)"
+    },
+    {
+      "w": "有",
+      "py": "yǒu",
+      "en": "to have"
+    },
+    {
+      "w": "本",
+      "py": "běn",
+      "en": "this; own"
+    },
+    {
+      "w": "每家",
+      "py": "měi jiā",
+      "en": "each"
+    },
+    {
+      "w": "一",
+      "py": "yī",
+      "en": "one"
+    },
+    {
+      "w": "个",
+      "py": "gè",
+      "en": "(measure word)"
+    },
+    {
+      "w": "当天",
+      "py": "dāngtiān",
+      "en": "that day"
+    },
+    {
+      "w": "一起",
+      "py": "yìqǐ",
+      "en": "together"
+    },
+    {
+      "w": "还有",
+      "py": "hái yǒu",
+      "en": "and also"
+    }
+  ],
+  "featured": [
+    {
+      "hanzi": "贷款",
+      "pinyin": "dàikuǎn",
+      "pos": "noun / verb",
+      "en": "loan; to take out a loan",
+      "note": "Common collocations: 申请贷款, 银行贷款, 增加贷款额度.",
+      "examples": [
+        {
+          "zh": "央行要求银行增加对小企业的贷款。",
+          "py": "Yāngháng yāoqiú yínháng zēngjiā duì xiǎo qǐyè de dàikuǎn.",
+          "en": "The central bank asks banks to increase loans to small businesses."
+        },
+        {
+          "zh": "他向银行贷款买了一套房子。",
+          "py": "Tā xiàng yínháng dàikuǎn mǎile yí tào fángzi.",
+          "en": "He took out a bank loan and bought a flat."
+        },
+        {
+          "zh": "这笔贷款的利息不高，每个月还一千块。",
+          "py": "Zhè bǐ dàikuǎn de lìxī bù gāo, měi ge yuè huán yìqiān kuài.",
+          "en": "The interest on this loan is not high; he repays 1,000 yuan every month."
+        }
+      ]
+    },
+    {
+      "hanzi": "回购",
+      "pinyin": "huígòu",
+      "pos": "verb / noun",
+      "en": "to buy back; buyback",
+      "note": "Common collocations: 股票回购, 回购股份, 回购计划.",
+      "examples": [
+        {
+          "zh": "公司今天公布了股票回购的计划。",
+          "py": "Gōngsī jīntiān gōngbùle gǔpiào huígòu de jìhuà.",
+          "en": "The company announced its stock buyback plan today."
+        },
+        {
+          "zh": "这家银行回购了一部分自己发行的债券。",
+          "py": "Zhè jiā yínháng huígòule yíbùfen zìjǐ fāxíng de zhàiquàn.",
+          "en": "This bank bought back part of the bonds it had issued."
+        },
+        {
+          "zh": "这个牌子的旧手机，商店可以回购。",
+          "py": "Zhège páizi de jiù shǒujī, shāngdiàn kěyǐ huígòu.",
+          "en": "The shop can buy back old phones of this brand."
+        }
+      ]
+    }
+  ]
+}
