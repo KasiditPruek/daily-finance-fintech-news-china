@@ -1,0 +1,583 @@
+{
+  "date": "2026-11-03",
+  "category": "fintech",
+  "title_zh": "香港转数快计划年内连接银联国际，支持扫码支付",
+  "title_en": "Hong Kong's FPS plans to link with UnionPay International this year, supporting QR payments",
+  "paragraphs": [
+    {
+      "zh": "香港金融管理局说，香港的转数快计划在今年内和银联国际连接。转数快是香港的即时转账系统。",
+      "en": "The Hong Kong Monetary Authority said that Hong Kong's Faster Payment System (FPS, 转数快) plans to connect with UnionPay International within this year. FPS is Hong Kong's instant transfer system."
+    },
+    {
+      "zh": "连接完成后，香港用户可以扫二维码付款。这项服务会慢慢扩大到40多个市场，覆盖1亿多家商户。第一阶段包括香港、中国内地、澳门、马来西亚和韩国。",
+      "en": "After the connection is finished, Hong Kong users will be able to pay by scanning QR codes. The service will gradually expand to more than 40 markets, covering over 100 million merchants. The first phase includes Hong Kong, mainland China, Macau, Malaysia and South Korea."
+    },
+    {
+      "zh": "金管局的金融科技总监周惠强表示，金管局正在和银联国际做技术对接。各地区的开通顺序，会在未来几个月公布。二维码付款也会有交易限额和防诈骗措施。",
+      "en": "Chow Wai-keung, the HKMA's Chief Fintech Officer, said the HKMA is working with UnionPay International on the technical integration. The order in which each region goes live will be announced in the coming months. QR payments will also come with transaction limits and anti-fraud measures."
+    },
+    {
+      "zh": "金管局副总裁李达志表示，金管局会争取比较好的汇率和手续费标准，具体做法要看各个市场的推广安排。",
+      "en": "Li Dazhi, Deputy Chief Executive of the HKMA, said the HKMA will try to get good exchange rates and fee standards, and the exact approach depends on each market's rollout plans."
+    }
+  ],
+  "source": {
+    "name": "移动支付网",
+    "name_en": "Mpaypass (China Mobile Payment Network)",
+    "url": "https://www.mpaypass.com.cn/news/202611/02200708.html"
+  },
+  "vocab": [
+    {
+      "hanzi": "转数快",
+      "pinyin": "zhuǎnshùkuài",
+      "en": "FPS, Hong Kong's Faster Payment System",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "连接",
+      "pinyin": "liánjiē",
+      "en": "to connect, link",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "扫码",
+      "pinyin": "sǎomǎ",
+      "en": "to scan a code",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "金融",
+      "pinyin": "jīnróng",
+      "en": "finance",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "即时",
+      "pinyin": "jíshí",
+      "en": "instant, real-time",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "转账",
+      "pinyin": "zhuǎnzhàng",
+      "en": "to transfer money",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "系统",
+      "pinyin": "xìtǒng",
+      "en": "system",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "用户",
+      "pinyin": "yònghù",
+      "en": "user",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "二维码",
+      "pinyin": "èrwéimǎ",
+      "en": "QR code",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "扩大",
+      "pinyin": "kuòdà",
+      "en": "to expand",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "市场",
+      "pinyin": "shìchǎng",
+      "en": "market",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "覆盖",
+      "pinyin": "fùgài",
+      "en": "to cover",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "商户",
+      "pinyin": "shānghù",
+      "en": "merchant",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "阶段",
+      "pinyin": "jiēduàn",
+      "en": "phase, stage",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "包括",
+      "pinyin": "bāokuò",
+      "en": "to include",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "金融科技",
+      "pinyin": "jīnróng kējì",
+      "en": "fintech",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "总监",
+      "pinyin": "zǒngjiān",
+      "en": "chief officer, director",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "对接",
+      "pinyin": "duìjiē",
+      "en": "to link up, integrate",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "开通",
+      "pinyin": "kāitōng",
+      "en": "to open, switch on (a service)",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "公布",
+      "pinyin": "gōngbù",
+      "en": "to announce publicly",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "交易",
+      "pinyin": "jiāoyì",
+      "en": "transaction",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "限额",
+      "pinyin": "xiàn'é",
+      "en": "limit, quota",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "诈骗",
+      "pinyin": "zhàpiàn",
+      "en": "fraud",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "措施",
+      "pinyin": "cuòshī",
+      "en": "measure",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "副",
+      "pinyin": "fù",
+      "en": "deputy, vice",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "总裁",
+      "pinyin": "zǒngcái",
+      "en": "chief executive",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "争取",
+      "pinyin": "zhēngqǔ",
+      "en": "to strive for",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "汇率",
+      "pinyin": "huìlǜ",
+      "en": "exchange rate",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "手续费",
+      "pinyin": "shǒuxùfèi",
+      "en": "service fee",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "推广",
+      "pinyin": "tuīguǎng",
+      "en": "to promote, roll out",
+      "hsk": "HSK 5"
+    }
+  ],
+  "glossary": [
+    {
+      "w": "香港",
+      "py": "Xiānggǎng",
+      "en": "Hong Kong"
+    },
+    {
+      "w": "计划",
+      "py": "jìhuà",
+      "en": "to plan"
+    },
+    {
+      "w": "年内",
+      "py": "niánnèi",
+      "en": "within the year"
+    },
+    {
+      "w": "银联国际",
+      "py": "Yínlián Guójì",
+      "en": "UnionPay International"
+    },
+    {
+      "w": "支持",
+      "py": "zhīchí",
+      "en": "to support"
+    },
+    {
+      "w": "支付",
+      "py": "zhīfù",
+      "en": "payment"
+    },
+    {
+      "w": "的",
+      "py": "de",
+      "en": "(particle)"
+    },
+    {
+      "w": "金融管理局",
+      "py": "Jīnróng Guǎnlǐjú",
+      "en": "Monetary Authority"
+    },
+    {
+      "w": "说",
+      "py": "shuō",
+      "en": "to say"
+    },
+    {
+      "w": "在",
+      "py": "zài",
+      "en": "in, at"
+    },
+    {
+      "w": "今年",
+      "py": "jīnnián",
+      "en": "this year"
+    },
+    {
+      "w": "内",
+      "py": "nèi",
+      "en": "within"
+    },
+    {
+      "w": "和",
+      "py": "hé",
+      "en": "and"
+    },
+    {
+      "w": "是",
+      "py": "shì",
+      "en": "is"
+    },
+    {
+      "w": "连接完成后",
+      "py": "liánjiē wánchéng hòu",
+      "en": "after the connection is done"
+    },
+    {
+      "w": "完成",
+      "py": "wánchéng",
+      "en": "to complete"
+    },
+    {
+      "w": "后",
+      "py": "hòu",
+      "en": "after"
+    },
+    {
+      "w": "可以",
+      "py": "kěyǐ",
+      "en": "can"
+    },
+    {
+      "w": "扫",
+      "py": "sǎo",
+      "en": "to scan"
+    },
+    {
+      "w": "付款",
+      "py": "fùkuǎn",
+      "en": "to pay"
+    },
+    {
+      "w": "这",
+      "py": "zhè",
+      "en": "this"
+    },
+    {
+      "w": "项",
+      "py": "xiàng",
+      "en": "(measure word)"
+    },
+    {
+      "w": "服务",
+      "py": "fúwù",
+      "en": "service"
+    },
+    {
+      "w": "会",
+      "py": "huì",
+      "en": "will"
+    },
+    {
+      "w": "慢慢",
+      "py": "mànmàn",
+      "en": "gradually"
+    },
+    {
+      "w": "到",
+      "py": "dào",
+      "en": "to"
+    },
+    {
+      "w": "40",
+      "py": "sìshí",
+      "en": "40"
+    },
+    {
+      "w": "多",
+      "py": "duō",
+      "en": "more than"
+    },
+    {
+      "w": "个",
+      "py": "gè",
+      "en": "(measure word)"
+    },
+    {
+      "w": "1",
+      "py": "yī",
+      "en": "one"
+    },
+    {
+      "w": "亿",
+      "py": "yì",
+      "en": "hundred million"
+    },
+    {
+      "w": "家",
+      "py": "jiā",
+      "en": "(measure word for companies)"
+    },
+    {
+      "w": "第一",
+      "py": "dì-yī",
+      "en": "first"
+    },
+    {
+      "w": "中国内地",
+      "py": "Zhōngguó Nèidì",
+      "en": "mainland China"
+    },
+    {
+      "w": "澳门",
+      "py": "Àomén",
+      "en": "Macau"
+    },
+    {
+      "w": "马来西亚",
+      "py": "Mǎláixīyà",
+      "en": "Malaysia"
+    },
+    {
+      "w": "韩国",
+      "py": "Hánguó",
+      "en": "South Korea"
+    },
+    {
+      "w": "金管局",
+      "py": "Jīnguǎnjú",
+      "en": "HKMA (Hong Kong Monetary Authority)"
+    },
+    {
+      "w": "周惠强",
+      "py": "Zhōu Huìqiáng",
+      "en": "Chow Wai-keung"
+    },
+    {
+      "w": "表示",
+      "py": "biǎoshì",
+      "en": "to say"
+    },
+    {
+      "w": "正在",
+      "py": "zhèngzài",
+      "en": "in the process of"
+    },
+    {
+      "w": "做",
+      "py": "zuò",
+      "en": "to do"
+    },
+    {
+      "w": "技术",
+      "py": "jìshù",
+      "en": "technology"
+    },
+    {
+      "w": "各",
+      "py": "gè",
+      "en": "each"
+    },
+    {
+      "w": "地区",
+      "py": "dìqū",
+      "en": "region"
+    },
+    {
+      "w": "顺序",
+      "py": "shùnxù",
+      "en": "order, sequence"
+    },
+    {
+      "w": "未来",
+      "py": "wèilái",
+      "en": "coming, future"
+    },
+    {
+      "w": "几",
+      "py": "jǐ",
+      "en": "several"
+    },
+    {
+      "w": "月",
+      "py": "yuè",
+      "en": "month"
+    },
+    {
+      "w": "也",
+      "py": "yě",
+      "en": "also"
+    },
+    {
+      "w": "有",
+      "py": "yǒu",
+      "en": "to have"
+    },
+    {
+      "w": "防",
+      "py": "fáng",
+      "en": "to prevent"
+    },
+    {
+      "w": "李达志",
+      "py": "Lǐ Dázhì",
+      "en": "Li Dazhi"
+    },
+    {
+      "w": "比较",
+      "py": "bǐjiào",
+      "en": "fairly"
+    },
+    {
+      "w": "好",
+      "py": "hǎo",
+      "en": "good"
+    },
+    {
+      "w": "标准",
+      "py": "biāozhǔn",
+      "en": "standard"
+    },
+    {
+      "w": "具体",
+      "py": "jùtǐ",
+      "en": "specific"
+    },
+    {
+      "w": "做法",
+      "py": "zuòfǎ",
+      "en": "approach"
+    },
+    {
+      "w": "要",
+      "py": "yào",
+      "en": "to depend on, need"
+    },
+    {
+      "w": "看",
+      "py": "kàn",
+      "en": "to look at, depend on"
+    },
+    {
+      "w": "各个",
+      "py": "gègè",
+      "en": "each"
+    },
+    {
+      "w": "安排",
+      "py": "ānpái",
+      "en": "arrangement"
+    },
+    {
+      "w": "长",
+      "py": "cháng",
+      "en": "long"
+    },
+    {
+      "w": "40多",
+      "py": "sìshí duō",
+      "en": "more than 40"
+    }
+  ],
+  "featured": [
+    {
+      "hanzi": "商户",
+      "pinyin": "shānghù",
+      "pos": "noun",
+      "en": "merchant",
+      "note": "Shops and businesses that accept payments: 商户收款, 商户数量, 特约商户.",
+      "examples": [
+        {
+          "zh": "这个支付平台已经覆盖了一千万家商户。",
+          "py": "Zhège zhīfù píngtái yǐjīng fùgài le yì qiān wàn jiā shānghù.",
+          "en": "This payment platform already covers ten million merchants."
+        },
+        {
+          "zh": "我们要分析商户的月交易额变化。",
+          "py": "Wǒmen yào fēnxī shānghù de yuè jiāoyì'é biànhuà.",
+          "en": "We need to analyse changes in merchants' monthly transaction value."
+        },
+        {
+          "zh": "这家商户可以用二维码收款。",
+          "py": "Zhè jiā shānghù kěyǐ yòng èrwéimǎ shōukuǎn.",
+          "en": "This merchant can accept payment by QR code."
+        }
+      ]
+    },
+    {
+      "hanzi": "对接",
+      "pinyin": "duìjiē",
+      "pos": "verb",
+      "en": "to link up; to integrate",
+      "note": "Used for connecting systems, teams or services: 系统对接, 技术对接, 对接客户.",
+      "examples": [
+        {
+          "zh": "两家支付公司完成了系统对接。",
+          "py": "Liǎng jiā zhīfù gōngsī wánchéng le xìtǒng duìjiē.",
+          "en": "The two payment companies completed their system integration."
+        },
+        {
+          "zh": "请你和技术团队对接一下数据接口。",
+          "py": "Qǐng nǐ hé jìshù tuánduì duìjiē yíxià shùjù jiēkǒu.",
+          "en": "Please link up with the tech team about the data interface."
+        },
+        {
+          "zh": "明天我要和新来的同事对接工作。",
+          "py": "Míngtiān wǒ yào hé xīn lái de tóngshì duìjiē gōngzuò.",
+          "en": "Tomorrow I will hand over and sync work with the new colleague."
+        }
+      ]
+    }
+  ]
+}

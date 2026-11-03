@@ -1,0 +1,653 @@
+{
+  "date": "2026-11-03",
+  "category": "finance",
+  "title_zh": "央行宣布：股票回购增持再贷款利率降到1%，改为长期安排",
+  "title_en": "PBOC announces: relending rate for share buybacks and increases cut to 1%, made a long-term arrangement",
+  "paragraphs": [
+    {
+      "zh": "11月2日，中国人民银行、金融监管总局和证监会开会，讨论两项工具。一项是证券、基金、保险公司互换便利，另一项是股票回购增持再贷款。",
+      "en": "On November 2, the People's Bank of China, the National Financial Regulatory Administration and the CSRC held meetings to discuss two tools. One is the swap facility for securities, fund and insurance companies; the other is the relending facility for share buybacks and increases."
+    },
+    {
+      "zh": "股票回购增持再贷款原来是阶段性的安排，现在改成了长期安排。它的利率也从1.25%降到了1%。央行要求金融机构按照市场原则，在这个利率上加一点利差，再把钱贷给企业。",
+      "en": "The relending facility for share buybacks and increases used to be a temporary arrangement; now it has become a long-term one. Its interest rate also fell from 1.25% to 1%. The central bank asked financial institutions to follow market principles, add a small spread on top of this rate, and then lend the money to companies."
+    },
+    {
+      "zh": "这个工具是2024年10月推出的，当时的利率是1.75%。到10月底，已经签订的合同金额约4400亿元，累计放款超过2800亿元。",
+      "en": "This tool was launched in October 2024, when the rate was 1.75%. By the end of October, the signed contracts amounted to about 440 billion yuan, and total lending was over 280 billion yuan."
+    },
+    {
+      "zh": "互换便利的第三批操作从11月3日开始，期限是一年，可以延期。已有31家证券公司和基金公司申请，金额超过1000亿元。11月2日，A股普遍上涨，上证指数涨了1.08%。",
+      "en": "The third batch of swap facility operations starts on November 3, with a term of one year that can be extended. 31 securities and fund companies have applied, for more than 100 billion yuan. On November 2, A-shares rose broadly, and the Shanghai Composite Index gained 1.08%."
+    }
+  ],
+  "source": {
+    "name": "第一财经",
+    "name_en": "Yicai (China Business Network)",
+    "url": "https://www.yicai.com/news/103422061.html"
+  },
+  "vocab": [
+    {
+      "hanzi": "央行",
+      "pinyin": "yāngháng",
+      "en": "central bank (short for 中国人民银行)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "宣布",
+      "pinyin": "xuānbù",
+      "en": "to announce",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "股票",
+      "pinyin": "gǔpiào",
+      "en": "stock, share",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "回购",
+      "pinyin": "huígòu",
+      "en": "to buy back",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "增持",
+      "pinyin": "zēngchí",
+      "en": "to increase one's holdings (of shares)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "再贷款",
+      "pinyin": "zàidàikuǎn",
+      "en": "relending (central bank loans to banks)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "利率",
+      "pinyin": "lìlǜ",
+      "en": "interest rate",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "长期",
+      "pinyin": "chángqī",
+      "en": "long-term",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "金融",
+      "pinyin": "jīnróng",
+      "en": "finance",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "监管",
+      "pinyin": "jiānguǎn",
+      "en": "to supervise, regulation",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "证监会",
+      "pinyin": "zhèngjiānhuì",
+      "en": "CSRC (China Securities Regulatory Commission)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "工具",
+      "pinyin": "gōngjù",
+      "en": "tool, instrument",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "证券",
+      "pinyin": "zhèngquàn",
+      "en": "securities",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "基金",
+      "pinyin": "jījīn",
+      "en": "fund",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "保险",
+      "pinyin": "bǎoxiǎn",
+      "en": "insurance",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "互换",
+      "pinyin": "hùhuàn",
+      "en": "swap, exchange",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "便利",
+      "pinyin": "biànlì",
+      "en": "facility; convenient",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "阶段性",
+      "pinyin": "jiēduànxìng",
+      "en": "temporary, phased",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "机构",
+      "pinyin": "jīgòu",
+      "en": "institution",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "市场",
+      "pinyin": "shìchǎng",
+      "en": "market",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "原则",
+      "pinyin": "yuánzé",
+      "en": "principle",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "利差",
+      "pinyin": "lìchā",
+      "en": "interest spread",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "贷",
+      "pinyin": "dài",
+      "en": "to lend",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "企业",
+      "pinyin": "qǐyè",
+      "en": "company, enterprise",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "推出",
+      "pinyin": "tuīchū",
+      "en": "to launch, roll out",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "签订",
+      "pinyin": "qiāndìng",
+      "en": "to sign (a contract)",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "合同",
+      "pinyin": "hétong",
+      "en": "contract",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "金额",
+      "pinyin": "jīn'é",
+      "en": "amount of money",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "累计",
+      "pinyin": "lěijì",
+      "en": "cumulative, total so far",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "放款",
+      "pinyin": "fàngkuǎn",
+      "en": "to disburse a loan",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "操作",
+      "pinyin": "cāozuò",
+      "en": "operation",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "期限",
+      "pinyin": "qīxiàn",
+      "en": "term, time limit",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "延期",
+      "pinyin": "yánqī",
+      "en": "to extend, postpone",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "上证指数",
+      "pinyin": "Shàngzhèng zhǐshù",
+      "en": "Shanghai Composite Index",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "涨",
+      "pinyin": "zhǎng",
+      "en": "to rise",
+      "hsk": "HSK 5"
+    }
+  ],
+  "glossary": [
+    {
+      "w": "到",
+      "py": "dào",
+      "en": "down to"
+    },
+    {
+      "w": "降",
+      "py": "jiàng",
+      "en": "to fall"
+    },
+    {
+      "w": "改为",
+      "py": "gǎiwéi",
+      "en": "to change into"
+    },
+    {
+      "w": "安排",
+      "py": "ānpái",
+      "en": "arrangement"
+    },
+    {
+      "w": "11",
+      "py": "shíyī",
+      "en": "eleven"
+    },
+    {
+      "w": "月",
+      "py": "yuè",
+      "en": "month"
+    },
+    {
+      "w": "日",
+      "py": "rì",
+      "en": "day"
+    },
+    {
+      "w": "2",
+      "py": "èr",
+      "en": "two"
+    },
+    {
+      "w": "3",
+      "py": "sān",
+      "en": "three"
+    },
+    {
+      "w": "中国人民银行",
+      "py": "Zhōngguó Rénmín Yínháng",
+      "en": "People's Bank of China"
+    },
+    {
+      "w": "金融监管总局",
+      "py": "Jīnróng Jiānguǎn Zǒngjú",
+      "en": "National Financial Regulatory Administration"
+    },
+    {
+      "w": "和",
+      "py": "hé",
+      "en": "and"
+    },
+    {
+      "w": "开会",
+      "py": "kāihuì",
+      "en": "to hold a meeting"
+    },
+    {
+      "w": "讨论",
+      "py": "tǎolùn",
+      "en": "to discuss"
+    },
+    {
+      "w": "两",
+      "py": "liǎng",
+      "en": "two"
+    },
+    {
+      "w": "项",
+      "py": "xiàng",
+      "en": "(measure word for items)"
+    },
+    {
+      "w": "一",
+      "py": "yī",
+      "en": "one"
+    },
+    {
+      "w": "是",
+      "py": "shì",
+      "en": "is"
+    },
+    {
+      "w": "证券、基金、保险公司互换便利",
+      "py": "zhèngquàn jījīn bǎoxiǎn gōngsī hùhuàn biànlì",
+      "en": "swap facility for securities, fund and insurance firms"
+    },
+    {
+      "w": "另一项",
+      "py": "lìng yí xiàng",
+      "en": "the other item"
+    },
+    {
+      "w": "股票回购增持再贷款",
+      "py": "gǔpiào huígòu zēngchí zàidàikuǎn",
+      "en": "relending for share buybacks and increases"
+    },
+    {
+      "w": "公司",
+      "py": "gōngsī",
+      "en": "company"
+    },
+    {
+      "w": "的",
+      "py": "de",
+      "en": "(particle)"
+    },
+    {
+      "w": "原来",
+      "py": "yuánlái",
+      "en": "originally"
+    },
+    {
+      "w": "现在",
+      "py": "xiànzài",
+      "en": "now"
+    },
+    {
+      "w": "改成",
+      "py": "gǎichéng",
+      "en": "to change into"
+    },
+    {
+      "w": "了",
+      "py": "le",
+      "en": "(particle)"
+    },
+    {
+      "w": "它",
+      "py": "tā",
+      "en": "it"
+    },
+    {
+      "w": "也",
+      "py": "yě",
+      "en": "also"
+    },
+    {
+      "w": "从",
+      "py": "cóng",
+      "en": "from"
+    },
+    {
+      "w": "要求",
+      "py": "yāoqiú",
+      "en": "to ask, require"
+    },
+    {
+      "w": "按照",
+      "py": "ànzhào",
+      "en": "according to"
+    },
+    {
+      "w": "在",
+      "py": "zài",
+      "en": "at, on"
+    },
+    {
+      "w": "这个",
+      "py": "zhège",
+      "en": "this"
+    },
+    {
+      "w": "上",
+      "py": "shàng",
+      "en": "on top of"
+    },
+    {
+      "w": "加",
+      "py": "jiā",
+      "en": "to add"
+    },
+    {
+      "w": "一点",
+      "py": "yìdiǎn",
+      "en": "a little"
+    },
+    {
+      "w": "再",
+      "py": "zài",
+      "en": "then, again"
+    },
+    {
+      "w": "把",
+      "py": "bǎ",
+      "en": "(particle marking object)"
+    },
+    {
+      "w": "钱",
+      "py": "qián",
+      "en": "money"
+    },
+    {
+      "w": "给",
+      "py": "gěi",
+      "en": "to"
+    },
+    {
+      "w": "年",
+      "py": "nián",
+      "en": "year"
+    },
+    {
+      "w": "当时",
+      "py": "dāngshí",
+      "en": "at that time"
+    },
+    {
+      "w": "底",
+      "py": "dǐ",
+      "en": "end (of a period)"
+    },
+    {
+      "w": "已经",
+      "py": "yǐjīng",
+      "en": "already"
+    },
+    {
+      "w": "约",
+      "py": "yuē",
+      "en": "about"
+    },
+    {
+      "w": "亿",
+      "py": "yì",
+      "en": "hundred million"
+    },
+    {
+      "w": "元",
+      "py": "yuán",
+      "en": "yuan"
+    },
+    {
+      "w": "超过",
+      "py": "chāoguò",
+      "en": "to exceed"
+    },
+    {
+      "w": "4400",
+      "py": "sìqiān sìbǎi",
+      "en": "4,400"
+    },
+    {
+      "w": "2800",
+      "py": "liǎngqiān bā bǎi",
+      "en": "2,800"
+    },
+    {
+      "w": "1000",
+      "py": "yìqiān",
+      "en": "1,000"
+    },
+    {
+      "w": "31",
+      "py": "sānshíyī",
+      "en": "31"
+    },
+    {
+      "w": "2024",
+      "py": "èr líng èr sì",
+      "en": "2024"
+    },
+    {
+      "w": "1.75",
+      "py": "yī diǎn qī wǔ",
+      "en": "1.75"
+    },
+    {
+      "w": "第三",
+      "py": "dì-sān",
+      "en": "third"
+    },
+    {
+      "w": "批",
+      "py": "pī",
+      "en": "batch"
+    },
+    {
+      "w": "开始",
+      "py": "kāishǐ",
+      "en": "to start"
+    },
+    {
+      "w": "可以",
+      "py": "kěyǐ",
+      "en": "can"
+    },
+    {
+      "w": "已有",
+      "py": "yǐ yǒu",
+      "en": "already there are"
+    },
+    {
+      "w": "家",
+      "py": "jiā",
+      "en": "(measure word for companies)"
+    },
+    {
+      "w": "证券公司",
+      "py": "zhèngquàn gōngsī",
+      "en": "securities company"
+    },
+    {
+      "w": "基金公司",
+      "py": "jījīn gōngsī",
+      "en": "fund company"
+    },
+    {
+      "w": "申请",
+      "py": "shēnqǐng",
+      "en": "to apply"
+    },
+    {
+      "w": "A股",
+      "py": "A gǔ",
+      "en": "A-shares"
+    },
+    {
+      "w": "普遍",
+      "py": "pǔbiàn",
+      "en": "widely"
+    },
+    {
+      "w": "上涨",
+      "py": "shàngzhǎng",
+      "en": "to rise"
+    },
+    {
+      "w": "涨了",
+      "py": "zhǎngle",
+      "en": "rose"
+    },
+    {
+      "w": "1.08",
+      "py": "yī diǎn líng bā",
+      "en": "1.08"
+    },
+    {
+      "w": "1.25",
+      "py": "yī diǎn èr wǔ",
+      "en": "1.25"
+    },
+    {
+      "w": "1",
+      "py": "yī",
+      "en": "one"
+    },
+    {
+      "w": "100",
+      "py": "yìbǎi",
+      "en": "100"
+    }
+  ],
+  "featured": [
+    {
+      "hanzi": "利率",
+      "pinyin": "lìlǜ",
+      "pos": "noun",
+      "en": "interest rate",
+      "note": "Common collocations: 下调利率 / 上调利率, 贷款利率, 存款利率, 政策利率.",
+      "examples": [
+        {
+          "zh": "央行下调了政策利率。",
+          "py": "Yāngháng xiàtiáo le zhèngcè lìlǜ.",
+          "en": "The central bank lowered the policy rate."
+        },
+        {
+          "zh": "这家银行的贷款利率比别家低。",
+          "py": "Zhè jiā yínháng de dàikuǎn lìlǜ bǐ bié jiā dī.",
+          "en": "This bank's loan rate is lower than other banks'."
+        },
+        {
+          "zh": "我想把钱存起来，先问问存款利率是多少。",
+          "py": "Wǒ xiǎng bǎ qián cún qǐlái, xiān wènwen cúnkuǎn lìlǜ shì duōshao.",
+          "en": "I want to save my money, so I'll first ask what the deposit rate is."
+        }
+      ]
+    },
+    {
+      "hanzi": "回购",
+      "pinyin": "huígòu",
+      "pos": "verb / noun",
+      "en": "to buy back; buyback",
+      "note": "Used for companies buying back their own shares: 股票回购, 回购股份; also in 逆回购 (reverse repo).",
+      "examples": [
+        {
+          "zh": "这家公司宣布回购自己的股票。",
+          "py": "Zhè jiā gōngsī xuānbù huígòu zìjǐ de gǔpiào.",
+          "en": "This company announced it will buy back its own shares."
+        },
+        {
+          "zh": "央行每天都会做逆回购操作。",
+          "py": "Yāngháng měitiān dōu huì zuò nìhuígòu cāozuò.",
+          "en": "The central bank carries out reverse repo operations every day."
+        },
+        {
+          "zh": "这个旧手机，厂家可以回购吗？",
+          "py": "Zhège jiù shǒujī, chǎngjiā kěyǐ huígòu ma?",
+          "en": "Can the maker buy back this old phone?"
+        }
+      ]
+    }
+  ]
+}
