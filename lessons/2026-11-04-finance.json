@@ -1,0 +1,524 @@
+{
+  "date": "2026-11-04",
+  "category": "finance",
+  "title_zh": "央行进行第三次互换便利操作，规模1000亿元",
+  "title_en": "The central bank carries out its third swap facility operation, worth 100 billion yuan",
+  "paragraphs": [
+    {
+      "zh": "11月2日，中国人民银行宣布，将进行第三次“证券、基金、保险公司互换便利”操作。这次操作的规模是1000亿元，期限是一年，到期后可以延长。",
+      "en": "On November 2, the People's Bank of China announced it would carry out its third \"Securities, Fund and Insurance Company Swap Facility\" operation. This operation is worth 100 billion yuan, has a term of one year, and can be extended when it matures."
+    },
+    {
+      "zh": "一共有31家证券和基金公司提出申请，申请的金额比前两次都多。",
+      "en": "In total, 31 securities and fund companies applied, and the amount applied for was larger than in either of the previous two rounds."
+    },
+    {
+      "zh": "国泰海通、招商证券、国金证券、国联民生证券和东吴证券中标，费率是10个基点。国泰海通表示，前两次拿到的资金已经全部用来买A股和股票ETF。",
+      "en": "Guotai Haitong, China Merchants Securities, Guojin Securities, Guolian Minsheng Securities and Soochow Securities won bids, at a rate of 10 basis points. Guotai Haitong said the funds it got in the first two rounds have all been used to buy A-shares and stock ETFs."
+    },
+    {
+      "zh": "互换便利是央行的一种工具。符合条件的公司可以用手里的债券和股票ETF，向央行换国债等容易变现的资产，再用这些资金买股票。第一次和第二次分别在2024年10月和2025年1月进行，规模是500亿元和550亿元。",
+      "en": "The swap facility is a tool of the central bank. Qualifying companies can use the bonds and stock ETFs they hold to exchange for government bonds and other assets that are easy to turn into cash, and then use those funds to buy stocks. The first and second rounds took place in October 2024 and January 2025, worth 50 billion and 55 billion yuan respectively."
+    }
+  ],
+  "source": {
+    "name": "第一财经",
+    "name_en": "Yicai (China Business Network)",
+    "url": "https://www.yicai.com/news/103423932.html"
+  },
+  "vocab": [
+    {
+      "hanzi": "央行",
+      "pinyin": "yāngháng",
+      "en": "central bank (PBOC)",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "互换",
+      "pinyin": "hùhuàn",
+      "en": "swap, exchange",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "便利",
+      "pinyin": "biànlì",
+      "en": "facility; convenient",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "操作",
+      "pinyin": "cāozuò",
+      "en": "operation",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "规模",
+      "pinyin": "guīmó",
+      "en": "scale, size",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "宣布",
+      "pinyin": "xuānbù",
+      "en": "to announce",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "证券",
+      "pinyin": "zhèngquàn",
+      "en": "securities",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "基金",
+      "pinyin": "jījīn",
+      "en": "fund",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "保险",
+      "pinyin": "bǎoxiǎn",
+      "en": "insurance",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "期限",
+      "pinyin": "qīxiàn",
+      "en": "term, time limit",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "到期",
+      "pinyin": "dàoqī",
+      "en": "to mature, to expire",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "延长",
+      "pinyin": "yáncháng",
+      "en": "to extend",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "金额",
+      "pinyin": "jīn'é",
+      "en": "amount of money",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "中标",
+      "pinyin": "zhòngbiāo",
+      "en": "to win a bid",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "费率",
+      "pinyin": "fèilǜ",
+      "en": "rate, fee rate",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "基点",
+      "pinyin": "jīdiǎn",
+      "en": "basis point",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "资金",
+      "pinyin": "zījīn",
+      "en": "funds",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "A股",
+      "pinyin": "A gǔ",
+      "en": "A-shares (mainland-listed stocks)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "股票",
+      "pinyin": "gǔpiào",
+      "en": "stock",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "ETF",
+      "pinyin": "ETF",
+      "en": "exchange-traded fund",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "工具",
+      "pinyin": "gōngjù",
+      "en": "tool, instrument",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "债券",
+      "pinyin": "zhàiquàn",
+      "en": "bond",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "国债",
+      "pinyin": "guózhài",
+      "en": "government bond",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "变现",
+      "pinyin": "biànxiàn",
+      "en": "to turn into cash",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "资产",
+      "pinyin": "zīchǎn",
+      "en": "assets",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "分别",
+      "pinyin": "fēnbié",
+      "en": "respectively",
+      "hsk": "HSK 5"
+    }
+  ],
+  "glossary": [
+    {
+      "w": "进行",
+      "py": "jìnxíng",
+      "en": "to carry out"
+    },
+    {
+      "w": "第三次",
+      "py": "dì-sān cì",
+      "en": "the third time"
+    },
+    {
+      "w": "1000亿元",
+      "py": "yīqiān yì yuán",
+      "en": "100 billion yuan"
+    },
+    {
+      "w": "11月",
+      "py": "shíyī yuè",
+      "en": "November"
+    },
+    {
+      "w": "2日",
+      "py": "èr rì",
+      "en": "the 2nd (day)"
+    },
+    {
+      "w": "中国人民银行",
+      "py": "Zhōngguó Rénmín Yínháng",
+      "en": "People's Bank of China"
+    },
+    {
+      "w": "将",
+      "py": "jiāng",
+      "en": "will"
+    },
+    {
+      "w": "公司",
+      "py": "gōngsī",
+      "en": "company"
+    },
+    {
+      "w": "这次",
+      "py": "zhè cì",
+      "en": "this time"
+    },
+    {
+      "w": "的",
+      "py": "de",
+      "en": "(possessive particle)"
+    },
+    {
+      "w": "是",
+      "py": "shì",
+      "en": "is"
+    },
+    {
+      "w": "一年",
+      "py": "yì nián",
+      "en": "one year"
+    },
+    {
+      "w": "后",
+      "py": "hòu",
+      "en": "after"
+    },
+    {
+      "w": "可以",
+      "py": "kěyǐ",
+      "en": "can"
+    },
+    {
+      "w": "一共",
+      "py": "yígòng",
+      "en": "altogether"
+    },
+    {
+      "w": "有",
+      "py": "yǒu",
+      "en": "to have"
+    },
+    {
+      "w": "31家",
+      "py": "sānshíyī jiā",
+      "en": "31 (firms)"
+    },
+    {
+      "w": "和",
+      "py": "hé",
+      "en": "and"
+    },
+    {
+      "w": "提出",
+      "py": "tíchū",
+      "en": "to put forward"
+    },
+    {
+      "w": "申请",
+      "py": "shēnqǐng",
+      "en": "application; to apply"
+    },
+    {
+      "w": "比",
+      "py": "bǐ",
+      "en": "than"
+    },
+    {
+      "w": "前",
+      "py": "qián",
+      "en": "previous"
+    },
+    {
+      "w": "两次",
+      "py": "liǎng cì",
+      "en": "two times"
+    },
+    {
+      "w": "都",
+      "py": "dōu",
+      "en": "all"
+    },
+    {
+      "w": "多",
+      "py": "duō",
+      "en": "more"
+    },
+    {
+      "w": "国泰海通",
+      "py": "Guótài Hǎitōng",
+      "en": "Guotai Haitong (securities firm)"
+    },
+    {
+      "w": "招商证券",
+      "py": "Zhāoshāng Zhèngquàn",
+      "en": "China Merchants Securities"
+    },
+    {
+      "w": "国金证券",
+      "py": "Guójīn Zhèngquàn",
+      "en": "Guojin Securities"
+    },
+    {
+      "w": "国联民生证券",
+      "py": "Guólián Mínshēng Zhèngquàn",
+      "en": "Guolian Minsheng Securities"
+    },
+    {
+      "w": "东吴证券",
+      "py": "Dōngwú Zhèngquàn",
+      "en": "Soochow Securities"
+    },
+    {
+      "w": "10个",
+      "py": "shí ge",
+      "en": "10 (units)"
+    },
+    {
+      "w": "表示",
+      "py": "biǎoshì",
+      "en": "to say, to state"
+    },
+    {
+      "w": "拿到",
+      "py": "nádào",
+      "en": "to get"
+    },
+    {
+      "w": "已经",
+      "py": "yǐjīng",
+      "en": "already"
+    },
+    {
+      "w": "全部",
+      "py": "quánbù",
+      "en": "all"
+    },
+    {
+      "w": "用来",
+      "py": "yònglái",
+      "en": "to use for"
+    },
+    {
+      "w": "买",
+      "py": "mǎi",
+      "en": "to buy"
+    },
+    {
+      "w": "一种",
+      "py": "yì zhǒng",
+      "en": "a kind of"
+    },
+    {
+      "w": "符合",
+      "py": "fúhé",
+      "en": "to meet, to fit"
+    },
+    {
+      "w": "条件",
+      "py": "tiáojiàn",
+      "en": "conditions"
+    },
+    {
+      "w": "用",
+      "py": "yòng",
+      "en": "to use"
+    },
+    {
+      "w": "手里",
+      "py": "shǒu lǐ",
+      "en": "in hand"
+    },
+    {
+      "w": "向",
+      "py": "xiàng",
+      "en": "from, to"
+    },
+    {
+      "w": "换",
+      "py": "huàn",
+      "en": "to exchange"
+    },
+    {
+      "w": "等",
+      "py": "děng",
+      "en": "and so on"
+    },
+    {
+      "w": "容易",
+      "py": "róngyì",
+      "en": "easy"
+    },
+    {
+      "w": "再",
+      "py": "zài",
+      "en": "then"
+    },
+    {
+      "w": "这些",
+      "py": "zhèxiē",
+      "en": "these"
+    },
+    {
+      "w": "第一次",
+      "py": "dì-yī cì",
+      "en": "the first time"
+    },
+    {
+      "w": "第二次",
+      "py": "dì-èr cì",
+      "en": "the second time"
+    },
+    {
+      "w": "在",
+      "py": "zài",
+      "en": "in, at"
+    },
+    {
+      "w": "2024年",
+      "py": "èr líng èr sì nián",
+      "en": "the year 2024"
+    },
+    {
+      "w": "10月",
+      "py": "shí yuè",
+      "en": "October"
+    },
+    {
+      "w": "2025年",
+      "py": "èr líng èr wǔ nián",
+      "en": "the year 2025"
+    },
+    {
+      "w": "1月",
+      "py": "yī yuè",
+      "en": "January"
+    },
+    {
+      "w": "500亿元",
+      "py": "wǔbǎi yì yuán",
+      "en": "50 billion yuan"
+    },
+    {
+      "w": "550亿元",
+      "py": "wǔbǎi wǔshí yì yuán",
+      "en": "55 billion yuan"
+    }
+  ],
+  "featured": [
+    {
+      "hanzi": "债券",
+      "pinyin": "zhàiquàn",
+      "pos": "noun",
+      "en": "bond",
+      "note": "国债 / 公司债券 / 发行债券 / 买债券 (government bond / corporate bond / issue bonds / buy bonds).",
+      "examples": [
+        {
+          "zh": "这家公司下个月要发行债券。",
+          "py": "Zhè jiā gōngsī xià ge yuè yào fāxíng zhàiquàn.",
+          "en": "This company will issue bonds next month."
+        },
+        {
+          "zh": "银行里有很多人在买国债和债券基金。",
+          "py": "Yínháng lǐ yǒu hěn duō rén zài mǎi guózhài hé zhàiquàn jījīn.",
+          "en": "Many people at the bank are buying government bonds and bond funds."
+        },
+        {
+          "zh": "我爸爸不喜欢股票，只买债券。",
+          "py": "Wǒ bàba bù xǐhuan gǔpiào, zhǐ mǎi zhàiquàn.",
+          "en": "My dad doesn't like stocks and only buys bonds."
+        }
+      ]
+    },
+    {
+      "hanzi": "到期",
+      "pinyin": "dàoqī",
+      "pos": "verb",
+      "en": "to mature; to expire",
+      "note": "债券到期 / 贷款到期 / 合同到期 / 到期日 (bond matures / loan due / contract expires / due date).",
+      "examples": [
+        {
+          "zh": "这笔一年期的贷款下个月到期。",
+          "py": "Zhè bǐ yì nián qī de dàikuǎn xià ge yuè dàoqī.",
+          "en": "This one-year loan comes due next month."
+        },
+        {
+          "zh": "我的护照快到期了，要去办新的。",
+          "py": "Wǒ de hùzhào kuài dàoqī le, yào qù bàn xīn de.",
+          "en": "My passport is about to expire; I need to get a new one."
+        },
+        {
+          "zh": "牛奶已经到期了，不能喝了。",
+          "py": "Niúnǎi yǐjīng dàoqī le, bù néng hē le.",
+          "en": "The milk has expired and can't be drunk."
+        }
+      ]
+    }
+  ]
+}

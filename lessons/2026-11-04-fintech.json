@@ -1,0 +1,533 @@
+{
+  "date": "2026-11-04",
+  "category": "fintech",
+  "title_zh": "蚂蚁数科在香港推出KYA方案，给AI智能体做身份认证",
+  "title_en": "Ant Digital Technologies launches KYA in Hong Kong, an identity check for AI agents",
+  "paragraphs": [
+    {
+      "zh": "2026年香港金融科技周从11月2日开始。蚂蚁数科在展会上推出了KYA方案。KYA的意思是“认识你的智能体”，英文是Know Your Agent。",
+      "en": "Hong Kong Fintech Week 2026 began on November 2. At the event, Ant Digital Technologies launched a KYA solution. KYA means \"Know Your Agent\" in English."
+    },
+    {
+      "zh": "KYA是为AI智能体设计的身份信任方案，属于蚂蚁数科的安全品牌ZOLOZ。ZOLOZ以前已经有KYC（了解客户）和KYB（了解企业）的能力，KYA是在这个基础上增加的。",
+      "en": "KYA is an identity-and-trust solution designed for AI agents, and it belongs to Ant Digital's security brand ZOLOZ. ZOLOZ already had KYC (know your customer) and KYB (know your business) capabilities, and KYA was added on top of this foundation."
+    },
+    {
+      "zh": "香港特首李家超去蚂蚁数科的展位参观了。蚂蚁数科还展示了智能体平台Agentar，它有通用版，也有金融、能源和医疗等行业版。",
+      "en": "Hong Kong's Chief Executive John Lee visited Ant Digital's booth. The company also showed its agent platform Agentar, which has a general edition as well as industry editions for finance, energy, healthcare and more."
+    },
+    {
+      "zh": "蚂蚁数科把海外总部设在香港，计划以香港为中心，向东南亚、欧洲和中东发展。公司说，它在全球有300多个合作伙伴和3万多家企业客户。",
+      "en": "Ant Digital has put its overseas headquarters in Hong Kong and plans to use Hong Kong as a hub to expand into Southeast Asia, Europe and the Middle East. The company said it has more than 300 partners and over 30,000 enterprise clients worldwide."
+    }
+  ],
+  "source": {
+    "name": "移动支付网",
+    "name_en": "Mpaypass (China Mobile Payment Network)",
+    "url": "https://www.mpaypass.com.cn/news/202611/03201149.html"
+  },
+  "vocab": [
+    {
+      "hanzi": "推出",
+      "pinyin": "tuīchū",
+      "en": "to launch",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "KYA",
+      "pinyin": "KYA",
+      "en": "Know Your Agent (identity check for AI agents)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "方案",
+      "pinyin": "fāng'àn",
+      "en": "solution, plan",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "智能体",
+      "pinyin": "zhìnéngtǐ",
+      "en": "AI agent",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "身份",
+      "pinyin": "shēnfèn",
+      "en": "identity",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "认证",
+      "pinyin": "rènzhèng",
+      "en": "authentication, verification",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "金融科技周",
+      "pinyin": "Jīnróng Kējì Zhōu",
+      "en": "Fintech Week",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "展会",
+      "pinyin": "zhǎnhuì",
+      "en": "exhibition, trade show",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "设计",
+      "pinyin": "shèjì",
+      "en": "to design",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "信任",
+      "pinyin": "xìnrèn",
+      "en": "trust",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "属于",
+      "pinyin": "shǔyú",
+      "en": "to belong to",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "品牌",
+      "pinyin": "pǐnpái",
+      "en": "brand",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "ZOLOZ",
+      "pinyin": "ZOLOZ",
+      "en": "ZOLOZ (Ant's security brand)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "KYC",
+      "pinyin": "KYC",
+      "en": "Know Your Customer",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "客户",
+      "pinyin": "kèhù",
+      "en": "customer, client",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "KYB",
+      "pinyin": "KYB",
+      "en": "Know Your Business",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "企业",
+      "pinyin": "qǐyè",
+      "en": "business, enterprise",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "特首",
+      "pinyin": "tèshǒu",
+      "en": "Chief Executive (of Hong Kong)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "展位",
+      "pinyin": "zhǎnwèi",
+      "en": "exhibition booth",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "展示",
+      "pinyin": "zhǎnshì",
+      "en": "to display, to showcase",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "平台",
+      "pinyin": "píngtái",
+      "en": "platform",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "通用版",
+      "pinyin": "tōngyòngbǎn",
+      "en": "general edition",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "能源",
+      "pinyin": "néngyuán",
+      "en": "energy",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "医疗",
+      "pinyin": "yīliáo",
+      "en": "healthcare",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "行业版",
+      "pinyin": "hángyèbǎn",
+      "en": "industry editions",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "海外",
+      "pinyin": "hǎiwài",
+      "en": "overseas",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "总部",
+      "pinyin": "zǒngbù",
+      "en": "headquarters",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "设在",
+      "pinyin": "shè zài",
+      "en": "to be set up in",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "全球",
+      "pinyin": "quánqiú",
+      "en": "worldwide",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "伙伴",
+      "pinyin": "huǒbàn",
+      "en": "partner",
+      "hsk": "HSK 5"
+    }
+  ],
+  "glossary": [
+    {
+      "w": "蚂蚁数科",
+      "py": "Mǎyǐ Shùkē",
+      "en": "Ant Digital Technologies"
+    },
+    {
+      "w": "在",
+      "py": "zài",
+      "en": "in, at"
+    },
+    {
+      "w": "香港",
+      "py": "Xiānggǎng",
+      "en": "Hong Kong"
+    },
+    {
+      "w": "给",
+      "py": "gěi",
+      "en": "for, to"
+    },
+    {
+      "w": "AI",
+      "py": "AI",
+      "en": "artificial intelligence"
+    },
+    {
+      "w": "做",
+      "py": "zuò",
+      "en": "to do"
+    },
+    {
+      "w": "2026年",
+      "py": "èr líng èr liù nián",
+      "en": "the year 2026"
+    },
+    {
+      "w": "从",
+      "py": "cóng",
+      "en": "from"
+    },
+    {
+      "w": "11月",
+      "py": "shíyī yuè",
+      "en": "November"
+    },
+    {
+      "w": "2日",
+      "py": "èr rì",
+      "en": "the 2nd (day)"
+    },
+    {
+      "w": "开始",
+      "py": "kāishǐ",
+      "en": "to begin"
+    },
+    {
+      "w": "上",
+      "py": "shàng",
+      "en": "on, at"
+    },
+    {
+      "w": "了",
+      "py": "le",
+      "en": "(completed-action particle)"
+    },
+    {
+      "w": "的",
+      "py": "de",
+      "en": "(possessive particle)"
+    },
+    {
+      "w": "意思",
+      "py": "yìsi",
+      "en": "meaning"
+    },
+    {
+      "w": "是",
+      "py": "shì",
+      "en": "is"
+    },
+    {
+      "w": "认识",
+      "py": "rènshi",
+      "en": "to know"
+    },
+    {
+      "w": "你",
+      "py": "nǐ",
+      "en": "you"
+    },
+    {
+      "w": "英文",
+      "py": "Yīngwén",
+      "en": "English (language)"
+    },
+    {
+      "w": "Know Your Agent",
+      "py": "Know Your Agent",
+      "en": "\"Know Your Agent\""
+    },
+    {
+      "w": "为",
+      "py": "wèi",
+      "en": "as"
+    },
+    {
+      "w": "安全",
+      "py": "ānquán",
+      "en": "security"
+    },
+    {
+      "w": "以前",
+      "py": "yǐqián",
+      "en": "before"
+    },
+    {
+      "w": "已经",
+      "py": "yǐjīng",
+      "en": "already"
+    },
+    {
+      "w": "有",
+      "py": "yǒu",
+      "en": "to have"
+    },
+    {
+      "w": "了解",
+      "py": "liǎojiě",
+      "en": "to understand"
+    },
+    {
+      "w": "和",
+      "py": "hé",
+      "en": "and"
+    },
+    {
+      "w": "能力",
+      "py": "nénglì",
+      "en": "ability"
+    },
+    {
+      "w": "这个",
+      "py": "zhège",
+      "en": "this"
+    },
+    {
+      "w": "基础",
+      "py": "jīchǔ",
+      "en": "foundation"
+    },
+    {
+      "w": "增加",
+      "py": "zēngjiā",
+      "en": "to add"
+    },
+    {
+      "w": "李家超",
+      "py": "Lǐ Jiāchāo",
+      "en": "John Lee"
+    },
+    {
+      "w": "去",
+      "py": "qù",
+      "en": "to go"
+    },
+    {
+      "w": "参观",
+      "py": "cānguān",
+      "en": "to visit, to tour"
+    },
+    {
+      "w": "还",
+      "py": "hái",
+      "en": "also"
+    },
+    {
+      "w": "Agentar",
+      "py": "Agentar",
+      "en": "Agentar (Ant Digital's agent platform)"
+    },
+    {
+      "w": "它",
+      "py": "tā",
+      "en": "it"
+    },
+    {
+      "w": "也",
+      "py": "yě",
+      "en": "also"
+    },
+    {
+      "w": "金融",
+      "py": "jīnróng",
+      "en": "finance"
+    },
+    {
+      "w": "等",
+      "py": "děng",
+      "en": "and so on"
+    },
+    {
+      "w": "把",
+      "py": "bǎ",
+      "en": "(object marker)"
+    },
+    {
+      "w": "计划",
+      "py": "jìhuà",
+      "en": "to plan"
+    },
+    {
+      "w": "以",
+      "py": "yǐ",
+      "en": "with, taking"
+    },
+    {
+      "w": "中心",
+      "py": "zhōngxīn",
+      "en": "center, hub"
+    },
+    {
+      "w": "向",
+      "py": "xiàng",
+      "en": "toward"
+    },
+    {
+      "w": "东南亚",
+      "py": "Dōngnányà",
+      "en": "Southeast Asia"
+    },
+    {
+      "w": "欧洲",
+      "py": "Ōuzhōu",
+      "en": "Europe"
+    },
+    {
+      "w": "中东",
+      "py": "Zhōngdōng",
+      "en": "Middle East"
+    },
+    {
+      "w": "发展",
+      "py": "fāzhǎn",
+      "en": "to expand, to develop"
+    },
+    {
+      "w": "公司",
+      "py": "gōngsī",
+      "en": "company"
+    },
+    {
+      "w": "说",
+      "py": "shuō",
+      "en": "to say"
+    },
+    {
+      "w": "300多个",
+      "py": "sānbǎi duō ge",
+      "en": "more than 300"
+    },
+    {
+      "w": "合作",
+      "py": "hézuò",
+      "en": "cooperation"
+    },
+    {
+      "w": "3万多家",
+      "py": "sān wàn duō jiā",
+      "en": "more than 30,000 (firms)"
+    }
+  ],
+  "featured": [
+    {
+      "hanzi": "平台",
+      "pinyin": "píngtái",
+      "pos": "noun",
+      "en": "platform",
+      "note": "移动支付平台 / 电商平台 / 数据平台 / 搭建平台 (mobile payment platform / e-commerce platform / data platform / build a platform).",
+      "examples": [
+        {
+          "zh": "很多商家在这个支付平台上收款。",
+          "py": "Hěn duō shāngjiā zài zhège zhīfù píngtái shàng shōukuǎn.",
+          "en": "Many merchants receive payments on this payment platform."
+        },
+        {
+          "zh": "我们的平台每天有几十万人登录。",
+          "py": "Wǒmen de píngtái měi tiān yǒu jǐ shí wàn rén dēnglù.",
+          "en": "Several hundred thousand people log in to our platform every day."
+        },
+        {
+          "zh": "他在一个学习平台上学中文。",
+          "py": "Tā zài yí ge xuéxí píngtái shàng xué Zhōngwén.",
+          "en": "He studies Chinese on a learning platform."
+        }
+      ]
+    },
+    {
+      "hanzi": "客户",
+      "pinyin": "kèhù",
+      "pos": "noun",
+      "en": "customer, client",
+      "note": "企业客户 / 新客户 / 客户经理 / 客户服务 (business client / new customer / relationship manager / customer service).",
+      "examples": [
+        {
+          "zh": "这家银行今年增加了很多小企业客户。",
+          "py": "Zhè jiā yínháng jīnnián zēngjiā le hěn duō xiǎo qǐyè kèhù.",
+          "en": "This bank added many small-business clients this year."
+        },
+        {
+          "zh": "我想分析一下新客户第一个月的使用情况。",
+          "py": "Wǒ xiǎng fēnxī yíxià xīn kèhù dì-yī ge yuè de shǐyòng qíngkuàng.",
+          "en": "I want to analyze how new customers use the product in their first month."
+        },
+        {
+          "zh": "明天下午我要去见一个客户。",
+          "py": "Míngtiān xiàwǔ wǒ yào qù jiàn yí ge kèhù.",
+          "en": "Tomorrow afternoon I am going to meet a client."
+        }
+      ]
+    }
+  ]
+}
