@@ -1,0 +1,677 @@
+{
+  "date": "2026-11-06",
+  "category": "fintech",
+  "title_zh": "12月1日起，微信支付限制个体工商户新建预充值优惠",
+  "title_en": "From December 1, WeChat Pay Limits Sole Proprietors from Creating New Prepaid Offers",
+  "paragraphs": [
+    {
+      "zh": "财付通支付科技公司在11月3日发了一份通知。通知说，为了管理业务风险，微信支付要对个体工商户的商户号做一些调整，涉及部分营销功能。",
+      "en": "Tenpay Payment Technology Co. issued a notice on November 3. The notice said that, in order to manage business risk, WeChat Pay will make some adjustments to the merchant accounts of sole proprietors, involving some marketing features."
+    },
+    {
+      "zh": "这些是预充值类产品，包括预充值代金券、预充值立减和银行营销活动。调整从12月1日零点开始，只对自己创建批次的个体工商户商户号有效。",
+      "en": "These are prepaid-type products, including prepaid vouchers, prepaid instant discounts and bank marketing campaigns. The change starts at 00:00 on December 1 and applies only to sole-proprietor merchant accounts that create the batches themselves."
+    },
+    {
+      "zh": "12月1日以后，商户不能再新开通这几种产品，也不能创建新的批次。12月1日以前已经创建、但还没有启用的批次，之后也不能启用。",
+      "en": "After December 1, merchants cannot newly activate these products or create new batches. Batches created before December 1 but not yet enabled cannot be enabled afterwards either."
+    },
+    {
+      "zh": "不受影响的有这些：12月1日以前已经创建并启用的批次，可以继续发放到过期；用户已经领取的优惠，也可以用到过期。免充值的批次仍然可以创建，个体工商户作为核销方，也可以继续接受第三方创建的活动。",
+      "en": "Not affected are these: batches already created and enabled before December 1 can continue to be issued until they expire; offers users have already claimed can also be used until they expire. No-top-up batches can still be created, and sole proprietors acting as the redeeming party can continue to accept campaigns created by third parties."
+    }
+  ],
+  "source": {
+    "name": "移动支付网",
+    "name_en": "Mpaypass (China Mobile Payment Network)",
+    "url": "https://www.mpaypass.com.cn/news/202611/05174547.html"
+  },
+  "vocab": [
+    {
+      "hanzi": "个体工商户",
+      "pinyin": "gètǐ gōngshānghù",
+      "en": "sole proprietor, self-employed business",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "商户号",
+      "pinyin": "shānghùhào",
+      "en": "merchant account number (merchant ID)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "预充值",
+      "pinyin": "yùchōngzhí",
+      "en": "prepaid, prepaid top-up",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "营销",
+      "pinyin": "yíngxiāo",
+      "en": "marketing",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "产品",
+      "pinyin": "chǎnpǐn",
+      "en": "product",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "风险",
+      "pinyin": "fēngxiǎn",
+      "en": "risk",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "调整",
+      "pinyin": "tiáozhěng",
+      "en": "to adjust",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "功能",
+      "pinyin": "gōngnéng",
+      "en": "function, feature",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "代金券",
+      "pinyin": "dàijīnquàn",
+      "en": "voucher, coupon",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "立减",
+      "pinyin": "lìjiǎn",
+      "en": "instant discount",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "商户",
+      "pinyin": "shānghù",
+      "en": "merchant",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "批次",
+      "pinyin": "pīcì",
+      "en": "batch",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "开通",
+      "pinyin": "kāitōng",
+      "en": "to activate, to open (a service)",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "创建",
+      "pinyin": "chuàngjiàn",
+      "en": "to create, to set up",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "启用",
+      "pinyin": "qǐyòng",
+      "en": "to enable, to put into use",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "发放",
+      "pinyin": "fāfàng",
+      "en": "to issue, to distribute",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "过期",
+      "pinyin": "guòqī",
+      "en": "to expire",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "领取",
+      "pinyin": "lǐngqǔ",
+      "en": "to claim, to collect",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "优惠",
+      "pinyin": "yōuhuì",
+      "en": "discount, special offer",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "免充值",
+      "pinyin": "miǎn chōngzhí",
+      "en": "no top-up required",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "核销",
+      "pinyin": "héxiāo",
+      "en": "to redeem (a coupon), to write off",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "第三方",
+      "pinyin": "dìsānfāng",
+      "en": "third party",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "有效",
+      "pinyin": "yǒuxiào",
+      "en": "valid, effective",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "业务",
+      "pinyin": "yèwù",
+      "en": "business, operations",
+      "hsk": "HSK 5"
+    }
+  ],
+  "glossary": [
+    {
+      "w": "财付通支付科技公司",
+      "py": "Cáifùtōng Zhīfù Kējì Gōngsī",
+      "en": "Tenpay Payment Technology Co. (operator of WeChat Pay)"
+    },
+    {
+      "w": "微信支付",
+      "py": "Wēixìn Zhīfù",
+      "en": "WeChat Pay"
+    },
+    {
+      "w": "将",
+      "py": "jiāng",
+      "en": "will"
+    },
+    {
+      "w": "部分",
+      "py": "bùfen",
+      "en": "some, part of"
+    },
+    {
+      "w": "在",
+      "py": "zài",
+      "en": "on, in"
+    },
+    {
+      "w": "发",
+      "py": "fā",
+      "en": "to issue"
+    },
+    {
+      "w": "了",
+      "py": "le",
+      "en": "(particle)"
+    },
+    {
+      "w": "一份",
+      "py": "yí fèn",
+      "en": "one (copy)"
+    },
+    {
+      "w": "通知",
+      "py": "tōngzhī",
+      "en": "notice"
+    },
+    {
+      "w": "通知说",
+      "py": "tōngzhī shuō",
+      "en": "the notice said"
+    },
+    {
+      "w": "说",
+      "py": "shuō",
+      "en": "to say"
+    },
+    {
+      "w": "为了",
+      "py": "wèile",
+      "en": "in order to"
+    },
+    {
+      "w": "管理",
+      "py": "guǎnlǐ",
+      "en": "to manage"
+    },
+    {
+      "w": "的",
+      "py": "de",
+      "en": "(particle)"
+    },
+    {
+      "w": "这些",
+      "py": "zhèxiē",
+      "en": "these"
+    },
+    {
+      "w": "是",
+      "py": "shì",
+      "en": "is"
+    },
+    {
+      "w": "类",
+      "py": "lèi",
+      "en": "type, kind"
+    },
+    {
+      "w": "包括",
+      "py": "bāokuò",
+      "en": "to include"
+    },
+    {
+      "w": "和",
+      "py": "hé",
+      "en": "and"
+    },
+    {
+      "w": "银行",
+      "py": "yínháng",
+      "en": "bank"
+    },
+    {
+      "w": "活动",
+      "py": "huódòng",
+      "en": "activity, campaign"
+    },
+    {
+      "w": "从",
+      "py": "cóng",
+      "en": "from"
+    },
+    {
+      "w": "开始",
+      "py": "kāishǐ",
+      "en": "to begin"
+    },
+    {
+      "w": "零点",
+      "py": "língdiǎn",
+      "en": "midnight, 00:00"
+    },
+    {
+      "w": "只",
+      "py": "zhǐ",
+      "en": "only"
+    },
+    {
+      "w": "对",
+      "py": "duì",
+      "en": "for, towards"
+    },
+    {
+      "w": "自己",
+      "py": "zìjǐ",
+      "en": "oneself"
+    },
+    {
+      "w": "以后",
+      "py": "yǐhòu",
+      "en": "after"
+    },
+    {
+      "w": "不能",
+      "py": "bù néng",
+      "en": "cannot"
+    },
+    {
+      "w": "再",
+      "py": "zài",
+      "en": "again, any more"
+    },
+    {
+      "w": "新",
+      "py": "xīn",
+      "en": "new"
+    },
+    {
+      "w": "这几种",
+      "py": "zhè jǐ zhǒng",
+      "en": "these several kinds"
+    },
+    {
+      "w": "也",
+      "py": "yě",
+      "en": "also"
+    },
+    {
+      "w": "以前",
+      "py": "yǐqián",
+      "en": "before"
+    },
+    {
+      "w": "已经",
+      "py": "yǐjīng",
+      "en": "already"
+    },
+    {
+      "w": "但",
+      "py": "dàn",
+      "en": "but"
+    },
+    {
+      "w": "还",
+      "py": "hái",
+      "en": "still"
+    },
+    {
+      "w": "没有",
+      "py": "méiyǒu",
+      "en": "not yet"
+    },
+    {
+      "w": "之后",
+      "py": "zhīhòu",
+      "en": "afterwards"
+    },
+    {
+      "w": "并",
+      "py": "bìng",
+      "en": "and"
+    },
+    {
+      "w": "可以",
+      "py": "kěyǐ",
+      "en": "can"
+    },
+    {
+      "w": "继续",
+      "py": "jìxù",
+      "en": "to continue"
+    },
+    {
+      "w": "到",
+      "py": "dào",
+      "en": "until"
+    },
+    {
+      "w": "不受影响",
+      "py": "bú shòu yǐngxiǎng",
+      "en": "not affected"
+    },
+    {
+      "w": "受",
+      "py": "shòu",
+      "en": "to be subject to"
+    },
+    {
+      "w": "影响",
+      "py": "yǐngxiǎng",
+      "en": "influence, impact"
+    },
+    {
+      "w": "用户",
+      "py": "yònghù",
+      "en": "user"
+    },
+    {
+      "w": "已",
+      "py": "yǐ",
+      "en": "already"
+    },
+    {
+      "w": "可以用",
+      "py": "kěyǐ yòng",
+      "en": "can use"
+    },
+    {
+      "w": "用",
+      "py": "yòng",
+      "en": "to use"
+    },
+    {
+      "w": "年",
+      "py": "nián",
+      "en": "year"
+    },
+    {
+      "w": "月",
+      "py": "yuè",
+      "en": "month"
+    },
+    {
+      "w": "日",
+      "py": "rì",
+      "en": "day"
+    },
+    {
+      "w": "号",
+      "py": "hào",
+      "en": "(day of month)"
+    },
+    {
+      "w": "批",
+      "py": "pī",
+      "en": "batch"
+    },
+    {
+      "w": "作为",
+      "py": "zuòwéi",
+      "en": "as, in the role of"
+    },
+    {
+      "w": "方",
+      "py": "fāng",
+      "en": "party, side"
+    },
+    {
+      "w": "接受",
+      "py": "jiēshòu",
+      "en": "to accept"
+    },
+    {
+      "w": "创建的",
+      "py": "chuàngjiàn de",
+      "en": "created (by)"
+    },
+    {
+      "w": "仍然",
+      "py": "réngrán",
+      "en": "still"
+    },
+    {
+      "w": "或",
+      "py": "huò",
+      "en": "or"
+    },
+    {
+      "w": "个体",
+      "py": "gètǐ",
+      "en": "individual"
+    },
+    {
+      "w": "时",
+      "py": "shí",
+      "en": "when"
+    },
+    {
+      "w": "银行营销",
+      "py": "yínháng yíngxiāo",
+      "en": "bank marketing"
+    },
+    {
+      "w": "前",
+      "py": "qián",
+      "en": "before"
+    },
+    {
+      "w": "时候",
+      "py": "shíhou",
+      "en": "time"
+    },
+    {
+      "w": "不",
+      "py": "bù",
+      "en": "not"
+    },
+    {
+      "w": "能",
+      "py": "néng",
+      "en": "can"
+    },
+    {
+      "w": "领取的",
+      "py": "lǐngqǔ de",
+      "en": "claimed"
+    },
+    {
+      "w": "的优惠",
+      "py": "de yōuhuì",
+      "en": "of offers"
+    },
+    {
+      "w": "自己创建",
+      "py": "zìjǐ chuàngjiàn",
+      "en": "created by oneself"
+    },
+    {
+      "w": "充值",
+      "py": "chōngzhí",
+      "en": "to top up"
+    },
+    {
+      "w": "有",
+      "py": "yǒu",
+      "en": "there are, to have"
+    },
+    {
+      "w": "它",
+      "py": "tā",
+      "en": "it"
+    },
+    {
+      "w": "他们",
+      "py": "tāmen",
+      "en": "they"
+    },
+    {
+      "w": "上",
+      "py": "shàng",
+      "en": "on"
+    },
+    {
+      "w": "完",
+      "py": "wán",
+      "en": "finish"
+    },
+    {
+      "w": "会",
+      "py": "huì",
+      "en": "will"
+    },
+    {
+      "w": "个",
+      "py": "gè",
+      "en": "(measure word)"
+    },
+    {
+      "w": "两",
+      "py": "liǎng",
+      "en": "two"
+    },
+    {
+      "w": "起",
+      "py": "qǐ",
+      "en": "(start)"
+    },
+    {
+      "w": "为",
+      "py": "wèi",
+      "en": "for"
+    },
+    {
+      "w": "中",
+      "py": "zhōng",
+      "en": "in"
+    },
+    {
+      "w": "来",
+      "py": "lái",
+      "en": "come"
+    },
+    {
+      "w": "要",
+      "py": "yào",
+      "en": "will, is going to"
+    },
+    {
+      "w": "涉及",
+      "py": "shèjí",
+      "en": "to involve"
+    },
+    {
+      "w": "做",
+      "py": "zuò",
+      "en": "to make"
+    },
+    {
+      "w": "一些",
+      "py": "yìxiē",
+      "en": "some"
+    },
+    {
+      "w": "限制",
+      "py": "xiànzhì",
+      "en": "to limit, to restrict"
+    },
+    {
+      "w": "新建",
+      "py": "xīnjiàn",
+      "en": "to newly create"
+    }
+  ],
+  "featured": [
+    {
+      "hanzi": "商户",
+      "pinyin": "shānghù",
+      "pos": "noun",
+      "en": "merchant (a business that accepts payments)",
+      "note": "Common collocations: 商户号 (merchant ID), 商户收款 (merchant collection), 小微商户 (micro-merchants), 入驻商户 (onboarded merchants).",
+      "examples": [
+        {
+          "zh": "这家商户支持微信支付和支付宝。",
+          "py": "Zhè jiā shānghù zhīchí Wēixìn Zhīfù hé Zhīfùbǎo.",
+          "en": "This merchant accepts both WeChat Pay and Alipay."
+        },
+        {
+          "zh": "我常去的小店是一家小商户，只收扫码支付。",
+          "py": "Wǒ cháng qù de xiǎo diàn shì yì jiā xiǎo shānghù, zhǐ shōu sǎomǎ zhīfù.",
+          "en": "The little shop I often go to is a small merchant and only takes QR payments."
+        },
+        {
+          "zh": "我们的平台上个月新增了两千个商户。",
+          "py": "Wǒmen de píngtái shàng gè yuè xīnzēng le liǎng qiān gè shānghù.",
+          "en": "Our platform added two thousand new merchants last month."
+        }
+      ]
+    },
+    {
+      "hanzi": "营销",
+      "pinyin": "yíngxiāo",
+      "pos": "noun / verb",
+      "en": "marketing; to market",
+      "note": "Common collocations: 营销活动 (marketing campaign), 精准营销 (targeted marketing), 营销费用 (marketing cost).",
+      "examples": [
+        {
+          "zh": "平台推出了新的营销活动，给用户发优惠券。",
+          "py": "Píngtái tuīchū le xīn de yíngxiāo huódòng, gěi yònghù fā yōuhuìquàn.",
+          "en": "The platform launched a new marketing campaign that gives users coupons."
+        },
+        {
+          "zh": "这家饭店的营销做得很好，每天都有很多人排队。",
+          "py": "Zhè jiā fàndiàn de yíngxiāo zuò de hěn hǎo, měitiān dōu yǒu hěn duō rén páiduì.",
+          "en": "This restaurant does its marketing very well; many people queue every day."
+        },
+        {
+          "zh": "我想看看这次营销活动带来了多少新用户。",
+          "py": "Wǒ xiǎng kànkan zhè cì yíngxiāo huódòng dàilái le duōshao xīn yònghù.",
+          "en": "I want to see how many new users this marketing campaign brought in."
+        }
+      ]
+    }
+  ]
+}
