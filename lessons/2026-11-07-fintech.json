@@ -1,0 +1,592 @@
+{
+  "date": "2026-11-07",
+  "category": "fintech",
+  "title_zh": "建设银行上海分行完成首笔NRA钱包数币达跨境汇款",
+  "title_en": "CCB Shanghai Branch completes first NRA-wallet cross-border remittance on the Shuzida platform",
+  "paragraphs": [
+    {
+      "zh": "近日，建设银行上海分行为一家客户开立了NRA钱包，并用数字人民币跨境数字支付平台完成了一笔跨境汇款。移动支付网报道说，这是全国第一笔基于NRA钱包的此类业务。",
+      "en": "Recently, China Construction Bank's Shanghai Branch opened an NRA wallet for a client and used the digital yuan cross-border digital payment platform to complete a cross-border remittance. Mpaypass reports that this is the first business of its kind in China based on an NRA wallet."
+    },
+    {
+      "zh": "这家客户是国际大宗商品贸易公司OPEN MINERAL AG。钱从客户的NRA钱包发出，直接到达瑞士苏黎世。报道没有公布金额，也没有写具体日期。",
+      "en": "The client is an international commodity trading company, OPEN MINERAL AG. The money was sent from the client's NRA wallet directly to Zurich, Switzerland. The report gives neither the amount nor the exact date."
+    },
+    {
+      "zh": "这个平台是“数币达”的三个子系统之一。数字人民币是中国人民银行发行的数字货币，数币达用它来办理跨境支付，覆盖跨境业务的整个过程。",
+      "en": "This platform is one of the three subsystems of “Shuzida”. The digital yuan is a digital currency issued by the People's Bank of China; Shuzida uses it to handle cross-border payments and covers the whole process of cross-border business."
+    },
+    {
+      "zh": "报道还说，NRA钱包在合规的前提下可以点对点清算，让智能合约自动执行，成本也比较低。银行通过这笔业务积累了经验，将来可以用在跨境资金管理和自动付款上。",
+      "en": "The report adds that, within a compliance framework, an NRA wallet can settle directly between two parties, let smart contracts run automatically, and cost relatively little. The bank gained experience from this transaction and can use it in future for cross-border fund management and automatic payments."
+    }
+  ],
+  "source": {
+    "name": "移动支付网",
+    "name_en": "Mpaypass (China Mobile Payment Network)",
+    "url": "https://www.mpaypass.com.cn/news/202611/06174956.html"
+  },
+  "vocab": [
+    {
+      "hanzi": "近日",
+      "pinyin": "jìnrì",
+      "en": "recently, in recent days",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "建设银行",
+      "pinyin": "Jiànshè Yínháng",
+      "en": "China Construction Bank (CCB)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "开立",
+      "pinyin": "kāilì",
+      "en": "to open (an account)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "钱包",
+      "pinyin": "qiánbāo",
+      "en": "wallet",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "数字人民币",
+      "pinyin": "shùzì rénmínbì",
+      "en": "digital yuan (e-CNY)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "跨境",
+      "pinyin": "kuàjìng",
+      "en": "cross-border",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "平台",
+      "pinyin": "píngtái",
+      "en": "platform",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "汇款",
+      "pinyin": "huìkuǎn",
+      "en": "remittance; to remit money",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "报道",
+      "pinyin": "bàodào",
+      "en": "to report; news report",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "客户",
+      "pinyin": "kèhù",
+      "en": "client, customer",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "大宗商品",
+      "pinyin": "dàzōng shāngpǐn",
+      "en": "bulk commodities",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "贸易",
+      "pinyin": "màoyì",
+      "en": "trade",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "苏黎世",
+      "pinyin": "Sūlíshì",
+      "en": "Zurich",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "公布",
+      "pinyin": "gōngbù",
+      "en": "to announce, make public",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "金额",
+      "pinyin": "jīn'é",
+      "en": "amount of money",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "具体",
+      "pinyin": "jùtǐ",
+      "en": "specific, concrete",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "子系统",
+      "pinyin": "zǐxìtǒng",
+      "en": "subsystem",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "发行",
+      "pinyin": "fāxíng",
+      "en": "to issue (currency, bonds)",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "覆盖",
+      "pinyin": "fùgài",
+      "en": "to cover",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "业务",
+      "pinyin": "yèwù",
+      "en": "business, operations",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "合规",
+      "pinyin": "héguī",
+      "en": "compliant; compliance",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "前提",
+      "pinyin": "qiántí",
+      "en": "premise, precondition",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "点对点",
+      "pinyin": "diǎn duì diǎn",
+      "en": "peer-to-peer",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "清算",
+      "pinyin": "qīngsuàn",
+      "en": "to settle, clear (payments)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "智能合约",
+      "pinyin": "zhìnéng héyuē",
+      "en": "smart contract",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "自动",
+      "pinyin": "zìdòng",
+      "en": "automatic",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "执行",
+      "pinyin": "zhíxíng",
+      "en": "to carry out, execute",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "成本",
+      "pinyin": "chéngběn",
+      "en": "cost",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "资金",
+      "pinyin": "zījīn",
+      "en": "funds, capital",
+      "hsk": "HSK 6"
+    }
+  ],
+  "glossary": [
+    {
+      "w": "上海",
+      "py": "Shànghǎi",
+      "en": "Shanghai"
+    },
+    {
+      "w": "分行",
+      "py": "fēnháng",
+      "en": "branch (of a bank)"
+    },
+    {
+      "w": "为",
+      "py": "wèi",
+      "en": "for"
+    },
+    {
+      "w": "一",
+      "py": "yī",
+      "en": "one"
+    },
+    {
+      "w": "家",
+      "py": "jiā",
+      "en": "(measure word for companies)"
+    },
+    {
+      "w": "了",
+      "py": "le",
+      "en": "(completed-action particle)"
+    },
+    {
+      "w": "并",
+      "py": "bìng",
+      "en": "and"
+    },
+    {
+      "w": "用",
+      "py": "yòng",
+      "en": "to use"
+    },
+    {
+      "w": "完成",
+      "py": "wánchéng",
+      "en": "to complete"
+    },
+    {
+      "w": "一笔",
+      "py": "yì bǐ",
+      "en": "one (transaction)"
+    },
+    {
+      "w": "移动支付网",
+      "py": "Yídòng Zhīfù Wǎng",
+      "en": "Mpaypass"
+    },
+    {
+      "w": "说",
+      "py": "shuō",
+      "en": "to say"
+    },
+    {
+      "w": "这",
+      "py": "zhè",
+      "en": "this"
+    },
+    {
+      "w": "是",
+      "py": "shì",
+      "en": "is"
+    },
+    {
+      "w": "全国",
+      "py": "quánguó",
+      "en": "nationwide"
+    },
+    {
+      "w": "第一",
+      "py": "dìyī",
+      "en": "first"
+    },
+    {
+      "w": "笔",
+      "py": "bǐ",
+      "en": "(measure word for transactions)"
+    },
+    {
+      "w": "基于",
+      "py": "jīyú",
+      "en": "based on"
+    },
+    {
+      "w": "此类",
+      "py": "cǐ lèi",
+      "en": "of this kind"
+    },
+    {
+      "w": "这家",
+      "py": "zhè jiā",
+      "en": "this (company)"
+    },
+    {
+      "w": "国际",
+      "py": "guójì",
+      "en": "international"
+    },
+    {
+      "w": "公司",
+      "py": "gōngsī",
+      "en": "company"
+    },
+    {
+      "w": "的",
+      "py": "de",
+      "en": "(possessive particle)"
+    },
+    {
+      "w": "钱",
+      "py": "qián",
+      "en": "money"
+    },
+    {
+      "w": "从",
+      "py": "cóng",
+      "en": "from"
+    },
+    {
+      "w": "发出",
+      "py": "fāchū",
+      "en": "to send out"
+    },
+    {
+      "w": "直接",
+      "py": "zhíjiē",
+      "en": "directly"
+    },
+    {
+      "w": "到达",
+      "py": "dàodá",
+      "en": "to arrive at"
+    },
+    {
+      "w": "瑞士",
+      "py": "Ruìshì",
+      "en": "Switzerland"
+    },
+    {
+      "w": "没有",
+      "py": "méiyǒu",
+      "en": "not have"
+    },
+    {
+      "w": "也",
+      "py": "yě",
+      "en": "also"
+    },
+    {
+      "w": "写",
+      "py": "xiě",
+      "en": "to write"
+    },
+    {
+      "w": "日期",
+      "py": "rìqī",
+      "en": "date"
+    },
+    {
+      "w": "这个",
+      "py": "zhège",
+      "en": "this"
+    },
+    {
+      "w": "数币达",
+      "py": "Shùbìdá",
+      "en": "Shuzida (cross-border digital yuan platform)"
+    },
+    {
+      "w": "三",
+      "py": "sān",
+      "en": "three"
+    },
+    {
+      "w": "个",
+      "py": "gè",
+      "en": "(measure word)"
+    },
+    {
+      "w": "之一",
+      "py": "zhī yī",
+      "en": "one of"
+    },
+    {
+      "w": "中国人民银行",
+      "py": "Zhōngguó Rénmín Yínháng",
+      "en": "People's Bank of China"
+    },
+    {
+      "w": "数字货币",
+      "py": "shùzì huòbì",
+      "en": "digital currency"
+    },
+    {
+      "w": "它",
+      "py": "tā",
+      "en": "it"
+    },
+    {
+      "w": "来",
+      "py": "lái",
+      "en": "(in order) to"
+    },
+    {
+      "w": "办理",
+      "py": "bànlǐ",
+      "en": "to handle"
+    },
+    {
+      "w": "支付",
+      "py": "zhīfù",
+      "en": "payment"
+    },
+    {
+      "w": "整个",
+      "py": "zhěnggè",
+      "en": "whole"
+    },
+    {
+      "w": "过程",
+      "py": "guòchéng",
+      "en": "process"
+    },
+    {
+      "w": "还",
+      "py": "hái",
+      "en": "also"
+    },
+    {
+      "w": "在",
+      "py": "zài",
+      "en": "under, at"
+    },
+    {
+      "w": "下",
+      "py": "xià",
+      "en": "under"
+    },
+    {
+      "w": "可以",
+      "py": "kěyǐ",
+      "en": "can"
+    },
+    {
+      "w": "让",
+      "py": "ràng",
+      "en": "to let"
+    },
+    {
+      "w": "比较",
+      "py": "bǐjiào",
+      "en": "relatively"
+    },
+    {
+      "w": "低",
+      "py": "dī",
+      "en": "low"
+    },
+    {
+      "w": "银行",
+      "py": "yínháng",
+      "en": "bank"
+    },
+    {
+      "w": "通过",
+      "py": "tōngguò",
+      "en": "through"
+    },
+    {
+      "w": "这笔",
+      "py": "zhè bǐ",
+      "en": "this (transaction)"
+    },
+    {
+      "w": "积累",
+      "py": "jīlěi",
+      "en": "to accumulate"
+    },
+    {
+      "w": "经验",
+      "py": "jīngyàn",
+      "en": "experience"
+    },
+    {
+      "w": "将来",
+      "py": "jiānglái",
+      "en": "in the future"
+    },
+    {
+      "w": "和",
+      "py": "hé",
+      "en": "and"
+    },
+    {
+      "w": "上",
+      "py": "shàng",
+      "en": "(on, regarding)"
+    },
+    {
+      "w": "管理",
+      "py": "guǎnlǐ",
+      "en": "management"
+    },
+    {
+      "w": "付款",
+      "py": "fùkuǎn",
+      "en": "to pay"
+    },
+    {
+      "w": "首笔",
+      "py": "shǒu bǐ",
+      "en": "first (transaction)"
+    },
+    {
+      "w": "数字",
+      "py": "shùzì",
+      "en": "digital"
+    },
+    {
+      "w": "NRA",
+      "py": "NRA",
+      "en": "NRA (non-resident account)"
+    },
+    {
+      "w": "OPEN MINERAL AG",
+      "py": "OPEN MINERAL AG",
+      "en": "(company name)"
+    }
+  ],
+  "featured": [
+    {
+      "hanzi": "跨境",
+      "pinyin": "kuàjìng",
+      "pos": "adjective / modifier",
+      "en": "cross-border",
+      "note": "Used before nouns: 跨境支付, 跨境汇款, 跨境电商. Key term for payments between countries.",
+      "examples": [
+        {
+          "zh": "这家银行推出了新的跨境汇款服务。",
+          "py": "Zhè jiā yínháng tuīchū le xīn de kuàjìng huìkuǎn fúwù.",
+          "en": "This bank launched a new cross-border remittance service."
+        },
+        {
+          "zh": "我朋友在做跨境电商，经常寄东西到国外。",
+          "py": "Wǒ péngyou zài zuò kuàjìng diànshāng, jīngcháng jì dōngxi dào guówài.",
+          "en": "My friend does cross-border e-commerce and often sends goods abroad."
+        },
+        {
+          "zh": "我们在分析跨境支付的用户数量。",
+          "py": "Wǒmen zài fēnxī kuàjìng zhīfù de yònghù shùliàng.",
+          "en": "We are analysing the number of users of cross-border payments."
+        }
+      ]
+    },
+    {
+      "hanzi": "清算",
+      "pinyin": "qīngsuàn",
+      "pos": "verb / noun",
+      "en": "to settle, clear (payments); clearing, settlement",
+      "note": "Collocations: 跨境清算, 清算系统, 实时清算. In finance it means transferring funds between banks to finish a payment.",
+      "examples": [
+        {
+          "zh": "银行之间每天都要清算很多笔款项。",
+          "py": "Yínháng zhījiān měitiān dōu yào qīngsuàn hěn duō bǐ kuǎnxiàng.",
+          "en": "Banks settle many payments with each other every day."
+        },
+        {
+          "zh": "这个系统可以实时清算。",
+          "py": "Zhège xìtǒng kěyǐ shíshí qīngsuàn.",
+          "en": "This system can settle payments in real time."
+        },
+        {
+          "zh": "商店关门以后，老板要清算当天的收入。",
+          "py": "Shāngdiàn guānmén yǐhòu, lǎobǎn yào qīngsuàn dàngtiān de shōurù.",
+          "en": "After the shop closes, the owner has to tally up the day's income."
+        }
+      ]
+    }
+  ]
+}

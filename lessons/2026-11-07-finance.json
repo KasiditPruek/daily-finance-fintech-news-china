@@ -1,0 +1,520 @@
+{
+  "date": "2026-11-07",
+  "category": "finance",
+  "title_zh": "美国10月新增就业16.5万人，高于预期",
+  "title_en": "US adds 165,000 jobs in October, above expectations",
+  "paragraphs": [
+    {
+      "zh": "美国劳工统计局11月6日（星期五）公布了10月的就业数据。10月非农就业新增16.5万人，经济学家事先预测的数字是6.5万人。",
+      "en": "On November 6 (Friday), the US Bureau of Labor Statistics released its October jobs data. Nonfarm employment rose by 165,000 in October; the number economists had predicted beforehand was 65,000."
+    },
+    {
+      "zh": "美国10月的失业率是4.1%，比上个月低0.1个百分点。工人的平均时薪比上个月增长0.4%，比去年同期增长3.1%。",
+      "en": "The US unemployment rate in October was 4.1%, 0.1 percentage points lower than the month before. Workers' average hourly pay rose 0.4% from the previous month and 3.1% from a year earlier."
+    },
+    {
+      "zh": "8月和9月的数据也有调整：8月上调到18.6万人，9月上调到6万人。两个月合计比原来多了8.4万人。",
+      "en": "The August and September figures were also revised: August was raised to 186,000 and September to 60,000. Together, the two months are 84,000 higher than before."
+    },
+    {
+      "zh": "美联储上周把基准利率保持在3.75%到4.00%。数据公布后，期货市场显示，12月加息25个基点的概率约为80%，公布前约为75%。美国10月的消费者物价指数将在下周二（10日）公布。",
+      "en": "Last week the Federal Reserve kept its benchmark interest rate at 3.75% to 4.00%. After the data came out, futures markets showed about an 80% probability of a 25-basis-point rate hike in December, versus about 75% before the release. The US consumer price index for October will be released next Tuesday (the 10th)."
+    }
+  ],
+  "source": {
+    "name": "第一财经",
+    "name_en": "Yicai (China Business Network)",
+    "url": "https://www.yicai.com/news/103430479.html"
+  },
+  "vocab": [
+    {
+      "hanzi": "劳工统计局",
+      "pinyin": "láogōng tǒngjìjú",
+      "en": "Bureau of Labor Statistics",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "公布",
+      "pinyin": "gōngbù",
+      "en": "to announce, release publicly",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "非农就业",
+      "pinyin": "fēinóng jiùyè",
+      "en": "nonfarm employment (payrolls)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "新增",
+      "pinyin": "xīnzēng",
+      "en": "newly added; to increase by",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "经济学家",
+      "pinyin": "jīngjìxuéjiā",
+      "en": "economist",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "事先",
+      "pinyin": "shìxiān",
+      "en": "beforehand, in advance",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "预测",
+      "pinyin": "yùcè",
+      "en": "to forecast; forecast",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "失业率",
+      "pinyin": "shīyèlǜ",
+      "en": "unemployment rate",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "百分点",
+      "pinyin": "bǎifēndiǎn",
+      "en": "percentage point",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "工人",
+      "pinyin": "gōngrén",
+      "en": "worker",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "平均",
+      "pinyin": "píngjūn",
+      "en": "average",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "时薪",
+      "pinyin": "shíxīn",
+      "en": "hourly pay",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "增长",
+      "pinyin": "zēngzhǎng",
+      "en": "to grow; growth",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "同期",
+      "pinyin": "tóngqī",
+      "en": "the same period",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "调整",
+      "pinyin": "tiáozhěng",
+      "en": "to adjust, revise",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "上调",
+      "pinyin": "shàngtiáo",
+      "en": "to raise, revise upward",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "合计",
+      "pinyin": "héjì",
+      "en": "in total; to add up",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "美联储",
+      "pinyin": "Měiliánchǔ",
+      "en": "US Federal Reserve",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "基准利率",
+      "pinyin": "jīzhǔn lìlǜ",
+      "en": "benchmark interest rate",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "保持",
+      "pinyin": "bǎochí",
+      "en": "to keep, maintain",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "数据",
+      "pinyin": "shùjù",
+      "en": "data",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "显示",
+      "pinyin": "xiǎnshì",
+      "en": "to show, display",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "期货",
+      "pinyin": "qīhuò",
+      "en": "futures",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "加息",
+      "pinyin": "jiāxī",
+      "en": "to raise interest rates",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "基点",
+      "pinyin": "jīdiǎn",
+      "en": "basis point",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "概率",
+      "pinyin": "gàilǜ",
+      "en": "probability",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "消费者物价指数",
+      "pinyin": "xiāofèizhě wùjià zhǐshù",
+      "en": "consumer price index (CPI)",
+      "hsk": "超纲"
+    }
+  ],
+  "glossary": [
+    {
+      "w": "美国",
+      "py": "Měiguó",
+      "en": "the United States"
+    },
+    {
+      "w": "10月",
+      "py": "shí yuè",
+      "en": "October"
+    },
+    {
+      "w": "就业",
+      "py": "jiùyè",
+      "en": "employment"
+    },
+    {
+      "w": "16.5万",
+      "py": "shíliù diǎn wǔ wàn",
+      "en": "165,000"
+    },
+    {
+      "w": "人",
+      "py": "rén",
+      "en": "people"
+    },
+    {
+      "w": "高于",
+      "py": "gāoyú",
+      "en": "higher than"
+    },
+    {
+      "w": "预期",
+      "py": "yùqī",
+      "en": "expectation"
+    },
+    {
+      "w": "11月",
+      "py": "shíyī yuè",
+      "en": "November"
+    },
+    {
+      "w": "6日",
+      "py": "liù rì",
+      "en": "the 6th"
+    },
+    {
+      "w": "星期五",
+      "py": "xīngqīwǔ",
+      "en": "Friday"
+    },
+    {
+      "w": "了",
+      "py": "le",
+      "en": "(completed-action particle)"
+    },
+    {
+      "w": "的",
+      "py": "de",
+      "en": "(possessive particle)"
+    },
+    {
+      "w": "6.5万",
+      "py": "liù diǎn wǔ wàn",
+      "en": "65,000"
+    },
+    {
+      "w": "是",
+      "py": "shì",
+      "en": "is"
+    },
+    {
+      "w": "数字",
+      "py": "shùzì",
+      "en": "number"
+    },
+    {
+      "w": "4.1%",
+      "py": "sì diǎn yī bǎifēnzhī",
+      "en": "4.1%"
+    },
+    {
+      "w": "比",
+      "py": "bǐ",
+      "en": "than"
+    },
+    {
+      "w": "上个月",
+      "py": "shàng gè yuè",
+      "en": "last month"
+    },
+    {
+      "w": "低",
+      "py": "dī",
+      "en": "lower"
+    },
+    {
+      "w": "0.1",
+      "py": "líng diǎn yī",
+      "en": "0.1"
+    },
+    {
+      "w": "个",
+      "py": "gè",
+      "en": "(measure word)"
+    },
+    {
+      "w": "0.4%",
+      "py": "líng diǎn sì bǎifēnzhī",
+      "en": "0.4%"
+    },
+    {
+      "w": "3.1%",
+      "py": "sān diǎn yī bǎifēnzhī",
+      "en": "3.1%"
+    },
+    {
+      "w": "去年",
+      "py": "qùnián",
+      "en": "last year"
+    },
+    {
+      "w": "和",
+      "py": "hé",
+      "en": "and"
+    },
+    {
+      "w": "8月",
+      "py": "bā yuè",
+      "en": "August"
+    },
+    {
+      "w": "9月",
+      "py": "jiǔ yuè",
+      "en": "September"
+    },
+    {
+      "w": "也",
+      "py": "yě",
+      "en": "also"
+    },
+    {
+      "w": "有",
+      "py": "yǒu",
+      "en": "to have"
+    },
+    {
+      "w": "18.6万",
+      "py": "shíbā diǎn liù wàn",
+      "en": "186,000"
+    },
+    {
+      "w": "6万",
+      "py": "liù wàn",
+      "en": "60,000"
+    },
+    {
+      "w": "到",
+      "py": "dào",
+      "en": "to, up to"
+    },
+    {
+      "w": "两",
+      "py": "liǎng",
+      "en": "two"
+    },
+    {
+      "w": "月",
+      "py": "yuè",
+      "en": "month"
+    },
+    {
+      "w": "原来",
+      "py": "yuánlái",
+      "en": "originally"
+    },
+    {
+      "w": "多",
+      "py": "duō",
+      "en": "more"
+    },
+    {
+      "w": "8.4万",
+      "py": "bā diǎn sì wàn",
+      "en": "84,000"
+    },
+    {
+      "w": "上周",
+      "py": "shàng zhōu",
+      "en": "last week"
+    },
+    {
+      "w": "把",
+      "py": "bǎ",
+      "en": "(object-marking particle)"
+    },
+    {
+      "w": "3.75%",
+      "py": "sān diǎn qī wǔ bǎifēnzhī",
+      "en": "3.75%"
+    },
+    {
+      "w": "4.00%",
+      "py": "sì diǎn líng líng bǎifēnzhī",
+      "en": "4.00%"
+    },
+    {
+      "w": "后",
+      "py": "hòu",
+      "en": "after"
+    },
+    {
+      "w": "市场",
+      "py": "shìchǎng",
+      "en": "market"
+    },
+    {
+      "w": "12月",
+      "py": "shí'èr yuè",
+      "en": "December"
+    },
+    {
+      "w": "25",
+      "py": "èrshíwǔ",
+      "en": "25"
+    },
+    {
+      "w": "约为",
+      "py": "yuēwéi",
+      "en": "is about"
+    },
+    {
+      "w": "80%",
+      "py": "bāshí bǎifēnzhī",
+      "en": "80%"
+    },
+    {
+      "w": "前",
+      "py": "qián",
+      "en": "before"
+    },
+    {
+      "w": "75%",
+      "py": "qīshíwǔ bǎifēnzhī",
+      "en": "75%"
+    },
+    {
+      "w": "将",
+      "py": "jiāng",
+      "en": "will"
+    },
+    {
+      "w": "在",
+      "py": "zài",
+      "en": "on, at"
+    },
+    {
+      "w": "下周二",
+      "py": "xià zhōu'èr",
+      "en": "next Tuesday"
+    },
+    {
+      "w": "10日",
+      "py": "shí rì",
+      "en": "the 10th"
+    },
+    {
+      "w": "上",
+      "py": "shàng",
+      "en": "last, previous"
+    },
+    {
+      "w": "美国劳工统计局",
+      "py": "Měiguó láogōng tǒngjìjú",
+      "en": "US Bureau of Labor Statistics"
+    }
+  ],
+  "featured": [
+    {
+      "hanzi": "加息",
+      "pinyin": "jiāxī",
+      "pos": "verb / noun",
+      "en": "to raise interest rates; a rate hike",
+      "note": "Opposite of 降息 (cut rates). Common: 加息25个基点, 美联储加息, 暂停加息.",
+      "examples": [
+        {
+          "zh": "市场预计美联储12月会加息。",
+          "py": "Shìchǎng yùjì Měiliánchǔ shí'èr yuè huì jiāxī.",
+          "en": "The market expects the Fed to raise rates in December."
+        },
+        {
+          "zh": "银行加息以后，存款利息变高了。",
+          "py": "Yínháng jiāxī yǐhòu, cúnkuǎn lìxī biàn gāo le.",
+          "en": "After the bank raised rates, deposit interest became higher."
+        },
+        {
+          "zh": "房贷利率上升，家人不想再加息买房。",
+          "py": "Fángdài lìlǜ shàngshēng, jiārén bù xiǎng zài jiāxī mǎi fáng.",
+          "en": "Mortgage rates are rising, so my family does not want to buy a house at the higher rate."
+        }
+      ]
+    },
+    {
+      "hanzi": "失业率",
+      "pinyin": "shīyèlǜ",
+      "pos": "noun",
+      "en": "unemployment rate",
+      "note": "Often with 下降 / 上升 / 保持在…: 失业率下降到4.1%. Reported monthly in macro data.",
+      "examples": [
+        {
+          "zh": "10月的失业率下降了0.1个百分点。",
+          "py": "Shí yuè de shīyèlǜ xiàjiàng le líng diǎn yī gè bǎifēndiǎn.",
+          "en": "The unemployment rate fell by 0.1 percentage points in October."
+        },
+        {
+          "zh": "我们的报告里有每个月的失业率数据。",
+          "py": "Wǒmen de bàogào lǐ yǒu měi gè yuè de shīyèlǜ shùjù.",
+          "en": "Our report has the unemployment rate data for every month."
+        },
+        {
+          "zh": "城市的失业率高，找工作很不容易。",
+          "py": "Chéngshì de shīyèlǜ gāo, zhǎo gōngzuò hěn bù róngyì.",
+          "en": "When a city's unemployment rate is high, finding a job is not easy."
+        }
+      ]
+    }
+  ]
+}
