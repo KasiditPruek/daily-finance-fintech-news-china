@@ -1,0 +1,502 @@
+{
+  "date": "2026-11-08",
+  "category": "finance",
+  "title_zh": "中国10月底外汇储备约3.4万亿美元，央行连续24个月买黄金",
+  "title_en": "China's FX reserves were about $3.4 trillion at end-October; central bank added gold for a 24th straight month",
+  "paragraphs": [
+    {
+      "zh": "11月7日，国家外汇管理局公布了最新数据。到10月底，中国的外汇储备是34052亿美元，比9月底多了49亿美元，增加了0.14%。这是外汇储备连续第七个月高于3.4万亿美元。",
+      "en": "On November 7, the State Administration of Foreign Exchange released the latest data. At the end of October, China's foreign exchange reserves stood at 3,405.2 billion US dollars, 4.9 billion dollars more than at the end of September, a rise of 0.14%. This is the seventh month in a row that the reserves have been above 3.4 trillion dollars."
+    },
+    {
+      "zh": "外汇储备是国家持有的外国货币和外国资产，比如美元。外汇管理局说，10月储备增加，是因为汇率折算和资产价格发生了变化。",
+      "en": "Foreign exchange reserves are the foreign currencies and foreign assets that a country holds, such as US dollars. The administration said the reserves rose in October because of exchange-rate conversion and changes in asset prices."
+    },
+    {
+      "zh": "10月，美元指数上涨0.4%，升到101.9。欧元对美元下跌1.5%，日元下跌0.1%，英镑上涨1.0%。美国的标普500指数下跌了0.9%。",
+      "en": "In October, the US dollar index rose 0.4% to 101.9. The euro fell 1.5% against the dollar, the yen fell 0.1%, and the pound rose 1.0%. The US S&P 500 index fell 0.9%."
+    },
+    {
+      "zh": "中国人民银行也公布了黄金储备的数字。10月底，中国的黄金储备是7830万盎司，比9月底多了83万盎司。这是央行连续第24个月增加黄金。",
+      "en": "The People's Bank of China also released its gold reserve figure. At the end of October, China's gold reserves were 78.3 million ounces, 830,000 ounces more than at the end of September. This is the 24th month in a row that the central bank has added gold."
+    }
+  ],
+  "source": {
+    "name": "第一财经",
+    "name_en": "Yicai (China Business Network)",
+    "url": "https://www.yicai.com/news/103430741.html"
+  },
+  "vocab": [
+    {
+      "hanzi": "外汇储备",
+      "pinyin": "wàihuì chǔbèi",
+      "en": "foreign exchange reserves",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "约",
+      "pinyin": "yuē",
+      "en": "about; approximately",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "万亿",
+      "pinyin": "wàn yì",
+      "en": "trillion",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "美元",
+      "pinyin": "měiyuán",
+      "en": "US dollar",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "央行",
+      "pinyin": "yāngháng",
+      "en": "central bank (short for 中央银行)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "连续",
+      "pinyin": "liánxù",
+      "en": "consecutive; in a row",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "黄金",
+      "pinyin": "huángjīn",
+      "en": "gold",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "国家外汇管理局",
+      "pinyin": "Guójiā Wàihuì Guǎnlǐ Jú",
+      "en": "State Administration of Foreign Exchange (SAFE)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "公布",
+      "pinyin": "gōngbù",
+      "en": "announce; publish",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "最新",
+      "pinyin": "zuìxīn",
+      "en": "latest",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "数据",
+      "pinyin": "shùjù",
+      "en": "data",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "高于",
+      "pinyin": "gāoyú",
+      "en": "higher than",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "持有",
+      "pinyin": "chíyǒu",
+      "en": "hold; own",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "货币",
+      "pinyin": "huòbì",
+      "en": "currency; money",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "资产",
+      "pinyin": "zīchǎn",
+      "en": "assets",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "外汇管理局",
+      "pinyin": "Wàihuì Guǎnlǐ Jú",
+      "en": "SAFE (the foreign exchange administration)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "储备",
+      "pinyin": "chǔbèi",
+      "en": "reserve(s); stockpile",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "汇率",
+      "pinyin": "huìlǜ",
+      "en": "exchange rate",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "折算",
+      "pinyin": "zhésuàn",
+      "en": "convert (at a rate)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "美元指数",
+      "pinyin": "měiyuán zhǐshù",
+      "en": "US dollar index",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "上涨",
+      "pinyin": "shàngzhǎng",
+      "en": "rise; go up (prices)",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "升",
+      "pinyin": "shēng",
+      "en": "rise; go up",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "欧元",
+      "pinyin": "Ōuyuán",
+      "en": "euro",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "下跌",
+      "pinyin": "xiàdiē",
+      "en": "fall; drop (prices)",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "日元",
+      "pinyin": "rìyuán",
+      "en": "Japanese yen",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "英镑",
+      "pinyin": "yīngbàng",
+      "en": "pound sterling",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "标普500指数",
+      "pinyin": "Biāopǔ wǔbǎi zhǐshù",
+      "en": "S&P 500 index",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "黄金储备",
+      "pinyin": "huángjīn chǔbèi",
+      "en": "gold reserves",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "盎司",
+      "pinyin": "àngsī",
+      "en": "ounce (troy ounce)",
+      "hsk": "超纲"
+    }
+  ],
+  "glossary": [
+    {
+      "w": "中国",
+      "py": "Zhōngguó",
+      "en": "China"
+    },
+    {
+      "w": "10",
+      "py": "shí",
+      "en": "10"
+    },
+    {
+      "w": "月",
+      "py": "yuè",
+      "en": "month"
+    },
+    {
+      "w": "底",
+      "py": "dǐ",
+      "en": "end (of a month)"
+    },
+    {
+      "w": "3.4",
+      "py": "sān diǎn sì",
+      "en": "3.4"
+    },
+    {
+      "w": "24",
+      "py": "èrshísì",
+      "en": "24"
+    },
+    {
+      "w": "个月",
+      "py": "gè yuè",
+      "en": "months"
+    },
+    {
+      "w": "买",
+      "py": "mǎi",
+      "en": "buy"
+    },
+    {
+      "w": "11",
+      "py": "shíyī",
+      "en": "11"
+    },
+    {
+      "w": "7",
+      "py": "qī",
+      "en": "7"
+    },
+    {
+      "w": "日",
+      "py": "rì",
+      "en": "day (of the month)"
+    },
+    {
+      "w": "了",
+      "py": "le",
+      "en": "(particle: completed action)"
+    },
+    {
+      "w": "到",
+      "py": "dào",
+      "en": "to; reach"
+    },
+    {
+      "w": "的",
+      "py": "de",
+      "en": "(particle: of)"
+    },
+    {
+      "w": "是",
+      "py": "shì",
+      "en": "is"
+    },
+    {
+      "w": "34052",
+      "py": "sān wàn sì qiān líng wǔshí'èr",
+      "en": "34,052"
+    },
+    {
+      "w": "亿",
+      "py": "yì",
+      "en": "hundred million"
+    },
+    {
+      "w": "比",
+      "py": "bǐ",
+      "en": "compared with"
+    },
+    {
+      "w": "9",
+      "py": "jiǔ",
+      "en": "9"
+    },
+    {
+      "w": "多",
+      "py": "duō",
+      "en": "more"
+    },
+    {
+      "w": "49",
+      "py": "sìshíjiǔ",
+      "en": "49"
+    },
+    {
+      "w": "增加",
+      "py": "zēngjiā",
+      "en": "increase"
+    },
+    {
+      "w": "0.14%",
+      "py": "bǎi fēn zhī líng diǎn yī sì",
+      "en": "0.14%"
+    },
+    {
+      "w": "这",
+      "py": "zhè",
+      "en": "this"
+    },
+    {
+      "w": "第七",
+      "py": "dì qī",
+      "en": "seventh"
+    },
+    {
+      "w": "国家",
+      "py": "guójiā",
+      "en": "country; state"
+    },
+    {
+      "w": "外国",
+      "py": "wàiguó",
+      "en": "foreign"
+    },
+    {
+      "w": "和",
+      "py": "hé",
+      "en": "and"
+    },
+    {
+      "w": "比如",
+      "py": "bǐrú",
+      "en": "for example"
+    },
+    {
+      "w": "说",
+      "py": "shuō",
+      "en": "say"
+    },
+    {
+      "w": "因为",
+      "py": "yīnwèi",
+      "en": "because"
+    },
+    {
+      "w": "价格",
+      "py": "jiàgé",
+      "en": "price"
+    },
+    {
+      "w": "发生",
+      "py": "fāshēng",
+      "en": "happen"
+    },
+    {
+      "w": "变化",
+      "py": "biànhuà",
+      "en": "change"
+    },
+    {
+      "w": "0.4%",
+      "py": "bǎi fēn zhī líng diǎn sì",
+      "en": "0.4%"
+    },
+    {
+      "w": "101.9",
+      "py": "yī líng yī diǎn jiǔ",
+      "en": "101.9"
+    },
+    {
+      "w": "对",
+      "py": "duì",
+      "en": "against; to"
+    },
+    {
+      "w": "1.5%",
+      "py": "bǎi fēn zhī yī diǎn wǔ",
+      "en": "1.5%"
+    },
+    {
+      "w": "0.1%",
+      "py": "bǎi fēn zhī líng diǎn yī",
+      "en": "0.1%"
+    },
+    {
+      "w": "1.0%",
+      "py": "bǎi fēn zhī yī diǎn líng",
+      "en": "1.0%"
+    },
+    {
+      "w": "美国",
+      "py": "Měiguó",
+      "en": "the United States"
+    },
+    {
+      "w": "0.9%",
+      "py": "bǎi fēn zhī líng diǎn jiǔ",
+      "en": "0.9%"
+    },
+    {
+      "w": "中国人民银行",
+      "py": "Zhōngguó Rénmín Yínháng",
+      "en": "People's Bank of China"
+    },
+    {
+      "w": "也",
+      "py": "yě",
+      "en": "also"
+    },
+    {
+      "w": "数字",
+      "py": "shùzì",
+      "en": "figure; number"
+    },
+    {
+      "w": "7830",
+      "py": "qī qiān bā bǎi sān shí",
+      "en": "7,830"
+    },
+    {
+      "w": "万",
+      "py": "wàn",
+      "en": "ten thousand"
+    },
+    {
+      "w": "83",
+      "py": "bāshísān",
+      "en": "83"
+    },
+    {
+      "w": "第24",
+      "py": "dì èrshísì",
+      "en": "24th"
+    }
+  ],
+  "featured": [
+    {
+      "hanzi": "外汇储备",
+      "pinyin": "wàihuì chǔbèi",
+      "pos": "noun",
+      "en": "foreign exchange reserves",
+      "note": "Usually 外汇储备规模 / 外汇储备增加 / 外汇储备减少; 外汇 means foreign currency, 储备 means reserve.",
+      "examples": [
+        {
+          "zh": "中国的外汇储备连续七个月超过3.4万亿美元。",
+          "py": "Zhōngguó de wàihuì chǔbèi liánxù qī gè yuè chāoguò sān diǎn sì wàn yì měiyuán.",
+          "en": "China's foreign exchange reserves have been above 3.4 trillion US dollars for seven months in a row."
+        },
+        {
+          "zh": "外汇储备可以帮助国家应对风险。",
+          "py": "Wàihuì chǔbèi kěyǐ bāngzhù guójiā yìngduì fēngxiǎn.",
+          "en": "Foreign exchange reserves can help a country deal with risks."
+        },
+        {
+          "zh": "你知道你们国家的外汇储备有多少吗？",
+          "py": "Nǐ zhīdào nǐmen guójiā de wàihuì chǔbèi yǒu duōshao ma?",
+          "en": "Do you know how large your country's foreign exchange reserves are?"
+        }
+      ]
+    },
+    {
+      "hanzi": "汇率",
+      "pinyin": "huìlǜ",
+      "pos": "noun",
+      "en": "exchange rate",
+      "note": "Common collocations: 汇率上升 / 汇率下降, 人民币汇率, 按汇率折算 (convert at the exchange rate).",
+      "examples": [
+        {
+          "zh": "银行按今天的汇率把泰铢换成人民币。",
+          "py": "Yínháng àn jīntiān de huìlǜ bǎ tàizhū huànchéng rénmínbì.",
+          "en": "The bank changes Thai baht into renminbi at today's exchange rate."
+        },
+        {
+          "zh": "去旅行以前，我先查了一下汇率。",
+          "py": "Qù lǚxíng yǐqián, wǒ xiān chále yíxià huìlǜ.",
+          "en": "Before going on the trip, I first checked the exchange rate."
+        },
+        {
+          "zh": "报告里的海外收入要按月底的汇率折算。",
+          "py": "Bàogào lǐ de hǎiwài shōurù yào àn yuèdǐ de huìlǜ zhésuàn.",
+          "en": "Overseas income in the report must be converted at the month-end exchange rate."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,754 @@
+{
+  "date": "2026-11-08",
+  "category": "fintech",
+  "title_zh": "蚂蚁起诉易小满和百度：“花呗”被用作搜索广告关键词",
+  "title_en": "Ant Group sues Yixiaoman and Baidu: \"Huabei\" used as a search-ad keyword",
+  "paragraphs": [
+    {
+      "zh": "据北京市海淀区人民法院的公告，蚂蚁集团和蚂蚁消费金融公司（蚂蚁消金）起诉了两家公司：深圳的易小满投资咨询公司和北京的百度网讯公司。蚂蚁说，对方侵犯了商标权，还有不正当竞争的行为。",
+      "en": "According to a notice from the Haidian District People's Court in Beijing, Ant Group and Ant Consumer Finance (Ant Xiaojin) have sued two companies: Yixiaoman Investment Consulting in Shenzhen and Baidu Netcom in Beijing. Ant says the other side infringed its trademark rights and engaged in unfair competition."
+    },
+    {
+      "zh": "易小满是2023年开的公司，它的注册资本有150万元，在深圳注册。它的网页主要推广汽车抵押贷款、房产抵押贷款和信用贷款。蚂蚁认为，易小满把“花呗”和“花贝”“呗花”等相近的词设成了百度的竞价关键词。",
+      "en": "Yixiaoman is a company set up in 2023, with registered capital of 1.5 million yuan, registered in Shenzhen. Its web pages mainly promote car-mortgage loans, property-mortgage loans and credit loans. Ant claims that Yixiaoman set \"Huabei\" and similar words such as \"Huabei\" with a different character and \"Beihua\" as bidding keywords on Baidu."
+    },
+    {
+      "zh": "花呗是蚂蚁先消费、后还款的服务，用户搜索它时，可能看到贷款中介的广告。蚂蚁要求百度网讯一起承担连带责任，不再让对方使用这些词，并且在系统里拦截别人投放这些词。",
+      "en": "Huabei is Ant's service that lets people spend first and repay later, and when users search for it they may see ads from loan intermediaries. Ant is asking Baidu Netcom to share liability, to stop letting the other side use these words, and to block others in its system from placing ads on these words."
+    },
+    {
+      "zh": "另外，中国互联网金融协会10月31日发布了文件。文件规定，第三方互联网平台帮金融机构做网络宣传时，要清楚地写出金融机构的名字，不能误导用户。“花呗”和“借呗”应当只作为金融机构的产品来宣传。",
+      "en": "Separately, the China Internet Finance Association issued a document on October 31. It says that when third-party internet platforms promote financial institutions online, they must state the institution's name clearly and must not mislead users. Huabei and Jiebei should be promoted only as products of financial institutions."
+    }
+  ],
+  "source": {
+    "name": "移动支付网",
+    "name_en": "Mpaypass (China Mobile Payment Network)",
+    "url": "https://www.mpaypass.com.cn/news/202611/06184227.html"
+  },
+  "vocab": [
+    {
+      "hanzi": "起诉",
+      "pinyin": "qǐsù",
+      "en": "sue; bring a lawsuit",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "花呗",
+      "pinyin": "Huābei",
+      "en": "Huabei (Ant's buy-now-pay-later product)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "用作",
+      "pinyin": "yòngzuò",
+      "en": "use as",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "搜索",
+      "pinyin": "sōusuǒ",
+      "en": "search",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "关键词",
+      "pinyin": "guānjiàncí",
+      "en": "keyword",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "据",
+      "pinyin": "jù",
+      "en": "according to (据…公告)",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "法院",
+      "pinyin": "fǎyuàn",
+      "en": "court",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "公告",
+      "pinyin": "gōnggào",
+      "en": "public notice; announcement",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "消费金融",
+      "pinyin": "xiāofèi jīnróng",
+      "en": "consumer finance",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "投资",
+      "pinyin": "tóuzī",
+      "en": "investment; invest",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "咨询",
+      "pinyin": "zīxún",
+      "en": "consulting; consult",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "对方",
+      "pinyin": "duìfāng",
+      "en": "the other party",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "侵犯",
+      "pinyin": "qīnfàn",
+      "en": "infringe; violate",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "商标权",
+      "pinyin": "shāngbiāoquán",
+      "en": "trademark rights",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "不正当竞争",
+      "pinyin": "bú zhèngdàng jìngzhēng",
+      "en": "unfair competition",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "行为",
+      "pinyin": "xíngwéi",
+      "en": "conduct; behaviour",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "注册资本",
+      "pinyin": "zhùcè zīběn",
+      "en": "registered capital",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "注册",
+      "pinyin": "zhùcè",
+      "en": "register (a company)",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "网页",
+      "pinyin": "wǎngyè",
+      "en": "web page",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "推广",
+      "pinyin": "tuīguǎng",
+      "en": "promote; roll out",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "抵押",
+      "pinyin": "dǐyā",
+      "en": "mortgage; collateral",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "贷款",
+      "pinyin": "dàikuǎn",
+      "en": "loan",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "房产",
+      "pinyin": "fángchǎn",
+      "en": "real estate; property",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "信用",
+      "pinyin": "xìnyòng",
+      "en": "credit; trust",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "相近",
+      "pinyin": "xiāngjìn",
+      "en": "similar; close",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "设",
+      "pinyin": "shè",
+      "en": "set up; set as",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "竞价",
+      "pinyin": "jìngjià",
+      "en": "bidding (for ad placement)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "消费",
+      "pinyin": "xiāofèi",
+      "en": "consumption; spend",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "还款",
+      "pinyin": "huánkuǎn",
+      "en": "repay a loan",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "用户",
+      "pinyin": "yònghù",
+      "en": "user",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "中介",
+      "pinyin": "zhōngjiè",
+      "en": "intermediary; agent",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "要求",
+      "pinyin": "yāoqiú",
+      "en": "demand; ask for",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "承担",
+      "pinyin": "chéngdān",
+      "en": "bear; take on (responsibility)",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "连带责任",
+      "pinyin": "liándài zérèn",
+      "en": "joint liability",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "系统",
+      "pinyin": "xìtǒng",
+      "en": "system",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "拦截",
+      "pinyin": "lánjié",
+      "en": "block; intercept",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "投放",
+      "pinyin": "tóufàng",
+      "en": "place (ads); put in",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "金融",
+      "pinyin": "jīnróng",
+      "en": "finance",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "协会",
+      "pinyin": "xiéhuì",
+      "en": "association",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "发布",
+      "pinyin": "fābù",
+      "en": "issue; release",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "文件",
+      "pinyin": "wénjiàn",
+      "en": "document",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "第三方",
+      "pinyin": "dìsānfāng",
+      "en": "third party",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "平台",
+      "pinyin": "píngtái",
+      "en": "platform",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "金融机构",
+      "pinyin": "jīnróng jīgòu",
+      "en": "financial institution",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "网络",
+      "pinyin": "wǎngluò",
+      "en": "network; online",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "宣传",
+      "pinyin": "xuānchuán",
+      "en": "publicize; promote",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "误导",
+      "pinyin": "wùdǎo",
+      "en": "mislead",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "借呗",
+      "pinyin": "Jièbei",
+      "en": "Jiebei (Ant's cash-loan product)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "应当",
+      "pinyin": "yīngdāng",
+      "en": "should",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "作为",
+      "pinyin": "zuòwéi",
+      "en": "as; serve as",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "产品",
+      "pinyin": "chǎnpǐn",
+      "en": "product",
+      "hsk": "HSK 5"
+    }
+  ],
+  "glossary": [
+    {
+      "w": "蚂蚁",
+      "py": "Mǎyǐ",
+      "en": "Ant (Group)"
+    },
+    {
+      "w": "易小满",
+      "py": "Yìxiǎomǎn",
+      "en": "Yixiaoman (company name)"
+    },
+    {
+      "w": "和",
+      "py": "hé",
+      "en": "and"
+    },
+    {
+      "w": "百度",
+      "py": "Bǎidù",
+      "en": "Baidu"
+    },
+    {
+      "w": "被",
+      "py": "bèi",
+      "en": "(passive marker)"
+    },
+    {
+      "w": "广告",
+      "py": "guǎnggào",
+      "en": "advertisement"
+    },
+    {
+      "w": "北京市",
+      "py": "Běijīng Shì",
+      "en": "Beijing (city)"
+    },
+    {
+      "w": "海淀区",
+      "py": "Hǎidiàn Qū",
+      "en": "Haidian District"
+    },
+    {
+      "w": "人民",
+      "py": "rénmín",
+      "en": "people"
+    },
+    {
+      "w": "的",
+      "py": "de",
+      "en": "(particle: of)"
+    },
+    {
+      "w": "蚂蚁集团",
+      "py": "Mǎyǐ Jítuán",
+      "en": "Ant Group"
+    },
+    {
+      "w": "公司",
+      "py": "gōngsī",
+      "en": "company"
+    },
+    {
+      "w": "蚂蚁消金",
+      "py": "Mǎyǐ Xiāojīn",
+      "en": "Ant Consumer Finance (short name)"
+    },
+    {
+      "w": "了",
+      "py": "le",
+      "en": "(particle: completed action)"
+    },
+    {
+      "w": "两",
+      "py": "liǎng",
+      "en": "two"
+    },
+    {
+      "w": "家",
+      "py": "jiā",
+      "en": "(measure word for companies)"
+    },
+    {
+      "w": "深圳",
+      "py": "Shēnzhèn",
+      "en": "Shenzhen"
+    },
+    {
+      "w": "北京",
+      "py": "Běijīng",
+      "en": "Beijing"
+    },
+    {
+      "w": "百度网讯",
+      "py": "Bǎidù Wǎngxùn",
+      "en": "Baidu Netcom (company)"
+    },
+    {
+      "w": "说",
+      "py": "shuō",
+      "en": "say"
+    },
+    {
+      "w": "还",
+      "py": "hái",
+      "en": "also"
+    },
+    {
+      "w": "有",
+      "py": "yǒu",
+      "en": "have"
+    },
+    {
+      "w": "是",
+      "py": "shì",
+      "en": "is"
+    },
+    {
+      "w": "2023",
+      "py": "èr líng èr sān",
+      "en": "2023"
+    },
+    {
+      "w": "年",
+      "py": "nián",
+      "en": "year"
+    },
+    {
+      "w": "开",
+      "py": "kāi",
+      "en": "open; set up"
+    },
+    {
+      "w": "它",
+      "py": "tā",
+      "en": "it"
+    },
+    {
+      "w": "150",
+      "py": "yī bǎi wǔshí",
+      "en": "150"
+    },
+    {
+      "w": "万",
+      "py": "wàn",
+      "en": "ten thousand"
+    },
+    {
+      "w": "元",
+      "py": "yuán",
+      "en": "yuan"
+    },
+    {
+      "w": "在",
+      "py": "zài",
+      "en": "in; at"
+    },
+    {
+      "w": "主要",
+      "py": "zhǔyào",
+      "en": "mainly"
+    },
+    {
+      "w": "汽车",
+      "py": "qìchē",
+      "en": "car"
+    },
+    {
+      "w": "认为",
+      "py": "rènwéi",
+      "en": "think; claim"
+    },
+    {
+      "w": "把",
+      "py": "bǎ",
+      "en": "(object marker)"
+    },
+    {
+      "w": "花贝",
+      "py": "Huābèi",
+      "en": "\"Huabei\" with a different character (variant)"
+    },
+    {
+      "w": "呗花",
+      "py": "Bèihuā",
+      "en": "\"Huabei\" reversed (variant)"
+    },
+    {
+      "w": "等",
+      "py": "děng",
+      "en": "and so on"
+    },
+    {
+      "w": "词",
+      "py": "cí",
+      "en": "word"
+    },
+    {
+      "w": "成",
+      "py": "chéng",
+      "en": "into; as"
+    },
+    {
+      "w": "先",
+      "py": "xiān",
+      "en": "first"
+    },
+    {
+      "w": "后",
+      "py": "hòu",
+      "en": "after; then"
+    },
+    {
+      "w": "服务",
+      "py": "fúwù",
+      "en": "service"
+    },
+    {
+      "w": "时",
+      "py": "shí",
+      "en": "when"
+    },
+    {
+      "w": "可能",
+      "py": "kěnéng",
+      "en": "may; possibly"
+    },
+    {
+      "w": "看到",
+      "py": "kàndào",
+      "en": "see"
+    },
+    {
+      "w": "一起",
+      "py": "yìqǐ",
+      "en": "together"
+    },
+    {
+      "w": "不",
+      "py": "bù",
+      "en": "not"
+    },
+    {
+      "w": "再",
+      "py": "zài",
+      "en": "again; any more"
+    },
+    {
+      "w": "让",
+      "py": "ràng",
+      "en": "let; make"
+    },
+    {
+      "w": "使用",
+      "py": "shǐyòng",
+      "en": "use"
+    },
+    {
+      "w": "这些",
+      "py": "zhèxiē",
+      "en": "these"
+    },
+    {
+      "w": "并且",
+      "py": "bìngqiě",
+      "en": "and; also"
+    },
+    {
+      "w": "里",
+      "py": "lǐ",
+      "en": "inside"
+    },
+    {
+      "w": "别人",
+      "py": "biérén",
+      "en": "other people"
+    },
+    {
+      "w": "另外",
+      "py": "lìngwài",
+      "en": "in addition"
+    },
+    {
+      "w": "中国",
+      "py": "Zhōngguó",
+      "en": "China"
+    },
+    {
+      "w": "互联网",
+      "py": "hùliánwǎng",
+      "en": "internet"
+    },
+    {
+      "w": "10",
+      "py": "shí",
+      "en": "10"
+    },
+    {
+      "w": "月",
+      "py": "yuè",
+      "en": "month"
+    },
+    {
+      "w": "31",
+      "py": "sānshíyī",
+      "en": "31"
+    },
+    {
+      "w": "日",
+      "py": "rì",
+      "en": "day (of the month)"
+    },
+    {
+      "w": "规定",
+      "py": "guīdìng",
+      "en": "stipulate; rule"
+    },
+    {
+      "w": "帮",
+      "py": "bāng",
+      "en": "help"
+    },
+    {
+      "w": "做",
+      "py": "zuò",
+      "en": "do; make"
+    },
+    {
+      "w": "要",
+      "py": "yào",
+      "en": "must; need to"
+    },
+    {
+      "w": "清楚",
+      "py": "qīngchu",
+      "en": "clear"
+    },
+    {
+      "w": "地",
+      "py": "de",
+      "en": "(adverb marker)"
+    },
+    {
+      "w": "写出",
+      "py": "xiěchū",
+      "en": "write out; state"
+    },
+    {
+      "w": "名字",
+      "py": "míngzi",
+      "en": "name"
+    },
+    {
+      "w": "不能",
+      "py": "bù néng",
+      "en": "must not; cannot"
+    },
+    {
+      "w": "只",
+      "py": "zhǐ",
+      "en": "only"
+    },
+    {
+      "w": "来",
+      "py": "lái",
+      "en": "(used before a verb: in order to)"
+    }
+  ],
+  "featured": [
+    {
+      "hanzi": "贷款",
+      "pinyin": "dàikuǎn",
+      "pos": "noun / verb",
+      "en": "loan; to take out a loan",
+      "note": "Collocations: 申请贷款, 信用贷款 (unsecured loan), 抵押贷款 (mortgage loan), 小微企业贷款; verb 向银行贷款.",
+      "examples": [
+        {
+          "zh": "这家平台主要提供信用贷款。",
+          "py": "Zhè jiā píngtái zhǔyào tígōng xìnyòng dàikuǎn.",
+          "en": "This platform mainly offers unsecured credit loans."
+        },
+        {
+          "zh": "我们打算向银行贷款买房子。",
+          "py": "Wǒmen dǎsuàn xiàng yínháng dàikuǎn mǎi fángzi.",
+          "en": "We plan to take out a bank loan to buy a house."
+        },
+        {
+          "zh": "我们的数据显示，申请贷款的商户在逐月增加。",
+          "py": "Wǒmen de shùjù xiǎnshì, shēnqǐng dàikuǎn de shānghù zài zhúyuè zēngjiā.",
+          "en": "Our data show that the number of merchants applying for loans is rising month by month."
+        }
+      ]
+    },
+    {
+      "hanzi": "投放",
+      "pinyin": "tóufàng",
+      "pos": "verb",
+      "en": "to place (ads); to put into the market",
+      "note": "Collocations: 投放广告 / 广告投放, 精准投放 (targeted placement), 投放资金; often used for online advertising.",
+      "examples": [
+        {
+          "zh": "公司在搜索平台上投放了很多广告。",
+          "py": "Gōngsī zài sōusuǒ píngtái shàng tóufàngle hěn duō guǎnggào.",
+          "en": "The company has placed many ads on search platforms."
+        },
+        {
+          "zh": "这个月商店在地铁站投放了新的海报。",
+          "py": "Zhège yuè shāngdiàn zài dìtiězhàn tóufàngle xīn de hǎibào.",
+          "en": "This month the shop put up new posters in subway stations."
+        },
+        {
+          "zh": "我们要看一下广告投放以后，新用户有没有增加。",
+          "py": "Wǒmen yào kàn yíxià guǎnggào tóufàng yǐhòu, xīn yònghù yǒu méiyǒu zēngjiā.",
+          "en": "We need to check whether new users increased after the ads were placed."
+        }
+      ]
+    }
+  ]
+}
