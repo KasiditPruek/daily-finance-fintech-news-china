@@ -1,0 +1,555 @@
+{
+  "date": "2026-11-09",
+  "category": "finance",
+  "title_zh": "上海银行等三家银行成为利率定价自律的核心成员",
+  "title_en": "Three banks including Bank of Shanghai become core members of the interest-rate pricing self-discipline mechanism",
+  "paragraphs": [
+    {
+      "zh": "11月6日，中国货币网公布了今年的名单，名单上是参加市场利率定价自律机制的各家银行。这个机制由银行共同参加，银行要按照规则给存款和贷款定价。核心成员从去年的15家增加到了18家。",
+      "en": "On November 6, China Money Network published this year's list, which names the banks taking part in the market interest-rate pricing self-discipline mechanism. Banks take part in this mechanism together, and they price deposits and loans according to its rules. Core members rose from 15 last year to 18."
+    },
+    {
+      "zh": "新加入的三家是上海银行、杭州银行和宁波银行，它们都是城市商业银行。2023年修改评估办法以后，城市商业银行还是第一次进入核心成员名单。",
+      "en": "The three new ones are Bank of Shanghai, Bank of Hangzhou and Bank of Ningbo, all of which are city commercial banks. Since the evaluation method was revised in 2023, this is the first time city commercial banks have entered the core member list."
+    },
+    {
+      "zh": "成员分为核心、基础和观察三类。今年基础成员有1459家，比去年少了77家。观察成员有227家，比去年少了86家。",
+      "en": "Members are divided into three types: core, basic and observer. This year there are 1,459 basic members, 77 fewer than last year. There are 227 observer members, 86 fewer than last year."
+    },
+    {
+      "zh": "评估一共看金融约束、定价能力、定价行为和定价影响力四个方面。如果存款利率调整得比目标少，最多会被扣20分。",
+      "en": "The evaluation looks at four areas in total: financial constraints, pricing ability, pricing behavior and pricing influence. If a bank adjusts its deposit rates by less than the target, up to 20 points can be deducted."
+    }
+  ],
+  "source": {
+    "name": "第一财经",
+    "name_en": "Yicai (China Business Network)",
+    "url": "https://www.yicai.com/news/103431407.html"
+  },
+  "vocab": [
+    {
+      "hanzi": "利率",
+      "pinyin": "lìlǜ",
+      "en": "interest rate",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "定价",
+      "pinyin": "dìngjià",
+      "en": "to set a price; pricing",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "自律",
+      "pinyin": "zìlǜ",
+      "en": "self-discipline; self-regulation",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "核心",
+      "pinyin": "héxīn",
+      "en": "core",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "公布",
+      "pinyin": "gōngbù",
+      "en": "to publish; to announce",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "机制",
+      "pinyin": "jīzhì",
+      "en": "mechanism",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "成员",
+      "pinyin": "chéngyuán",
+      "en": "member",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "名单",
+      "pinyin": "míngdān",
+      "en": "list of names",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "存款",
+      "pinyin": "cúnkuǎn",
+      "en": "deposit; savings",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "贷款",
+      "pinyin": "dàikuǎn",
+      "en": "loan",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "规则",
+      "pinyin": "guīzé",
+      "en": "rule",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "加入",
+      "pinyin": "jiārù",
+      "en": "to join",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "城市商业银行",
+      "pinyin": "chéngshì shāngyè yínháng",
+      "en": "city commercial bank",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "评估",
+      "pinyin": "pínggū",
+      "en": "to evaluate; evaluation",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "修改",
+      "pinyin": "xiūgǎi",
+      "en": "to revise; to modify",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "观察",
+      "pinyin": "guānchá",
+      "en": "to observe",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "金融",
+      "pinyin": "jīnróng",
+      "en": "finance",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "约束",
+      "pinyin": "yuēshù",
+      "en": "constraint; to restrict",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "行为",
+      "pinyin": "xíngwéi",
+      "en": "behavior",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "目标",
+      "pinyin": "mùbiāo",
+      "en": "target; goal",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "调整",
+      "pinyin": "tiáozhěng",
+      "en": "to adjust",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "扣",
+      "pinyin": "kòu",
+      "en": "to deduct",
+      "hsk": "HSK 6"
+    }
+  ],
+  "glossary": [
+    {
+      "w": "各",
+      "py": "gè",
+      "en": "each; every"
+    },
+    {
+      "w": "上",
+      "py": "shàng",
+      "en": "on"
+    },
+    {
+      "w": "上海银行",
+      "py": "Shànghǎi Yínháng",
+      "en": "Bank of Shanghai"
+    },
+    {
+      "w": "等",
+      "py": "děng",
+      "en": "and others, etc."
+    },
+    {
+      "w": "三",
+      "py": "sān",
+      "en": "three"
+    },
+    {
+      "w": "家",
+      "py": "jiā",
+      "en": "(measure word for companies)"
+    },
+    {
+      "w": "成为",
+      "py": "chéngwéi",
+      "en": "to become"
+    },
+    {
+      "w": "的",
+      "py": "de",
+      "en": "(possessive particle)"
+    },
+    {
+      "w": "11",
+      "py": "shíyī",
+      "en": "11"
+    },
+    {
+      "w": "月",
+      "py": "yuè",
+      "en": "month"
+    },
+    {
+      "w": "6",
+      "py": "liù",
+      "en": "6"
+    },
+    {
+      "w": "日",
+      "py": "rì",
+      "en": "day (of the month)"
+    },
+    {
+      "w": "中国货币网",
+      "py": "Zhōngguó Huòbì Wǎng",
+      "en": "China Money Network"
+    },
+    {
+      "w": "了",
+      "py": "le",
+      "en": "(completed-action particle)"
+    },
+    {
+      "w": "今年",
+      "py": "jīnnián",
+      "en": "this year"
+    },
+    {
+      "w": "市场",
+      "py": "shìchǎng",
+      "en": "market"
+    },
+    {
+      "w": "这个",
+      "py": "zhège",
+      "en": "this"
+    },
+    {
+      "w": "由",
+      "py": "yóu",
+      "en": "by"
+    },
+    {
+      "w": "银行",
+      "py": "yínháng",
+      "en": "bank"
+    },
+    {
+      "w": "共同",
+      "py": "gòngtóng",
+      "en": "together; jointly"
+    },
+    {
+      "w": "参加",
+      "py": "cānjiā",
+      "en": "to take part in"
+    },
+    {
+      "w": "要",
+      "py": "yào",
+      "en": "must; to need to"
+    },
+    {
+      "w": "按照",
+      "py": "ànzhào",
+      "en": "according to"
+    },
+    {
+      "w": "给",
+      "py": "gěi",
+      "en": "to; for"
+    },
+    {
+      "w": "和",
+      "py": "hé",
+      "en": "and"
+    },
+    {
+      "w": "从",
+      "py": "cóng",
+      "en": "from"
+    },
+    {
+      "w": "去年",
+      "py": "qùnián",
+      "en": "last year"
+    },
+    {
+      "w": "15",
+      "py": "shíwǔ",
+      "en": "15"
+    },
+    {
+      "w": "增加",
+      "py": "zēngjiā",
+      "en": "to increase"
+    },
+    {
+      "w": "到",
+      "py": "dào",
+      "en": "to; up to"
+    },
+    {
+      "w": "18",
+      "py": "shíbā",
+      "en": "18"
+    },
+    {
+      "w": "新",
+      "py": "xīn",
+      "en": "new"
+    },
+    {
+      "w": "是",
+      "py": "shì",
+      "en": "is; are"
+    },
+    {
+      "w": "杭州银行",
+      "py": "Hángzhōu Yínháng",
+      "en": "Bank of Hangzhou"
+    },
+    {
+      "w": "宁波银行",
+      "py": "Níngbō Yínháng",
+      "en": "Bank of Ningbo"
+    },
+    {
+      "w": "它们",
+      "py": "tāmen",
+      "en": "they; them"
+    },
+    {
+      "w": "都",
+      "py": "dōu",
+      "en": "all; both"
+    },
+    {
+      "w": "2023",
+      "py": "èr líng èr sān",
+      "en": "2023"
+    },
+    {
+      "w": "年",
+      "py": "nián",
+      "en": "year"
+    },
+    {
+      "w": "办法",
+      "py": "bànfǎ",
+      "en": "method"
+    },
+    {
+      "w": "以后",
+      "py": "yǐhòu",
+      "en": "after"
+    },
+    {
+      "w": "还是",
+      "py": "háishi",
+      "en": "still; (here) it is still"
+    },
+    {
+      "w": "第一次",
+      "py": "dì-yī cì",
+      "en": "the first time"
+    },
+    {
+      "w": "进入",
+      "py": "jìnrù",
+      "en": "to enter"
+    },
+    {
+      "w": "分为",
+      "py": "fēnwéi",
+      "en": "to be divided into"
+    },
+    {
+      "w": "基础",
+      "py": "jīchǔ",
+      "en": "basic; foundation"
+    },
+    {
+      "w": "类",
+      "py": "lèi",
+      "en": "type; kind"
+    },
+    {
+      "w": "有",
+      "py": "yǒu",
+      "en": "to have; there are"
+    },
+    {
+      "w": "1459",
+      "py": "yī qiān sì bǎi wǔshíjiǔ",
+      "en": "1,459"
+    },
+    {
+      "w": "比",
+      "py": "bǐ",
+      "en": "than; compared with"
+    },
+    {
+      "w": "少",
+      "py": "shǎo",
+      "en": "fewer; less"
+    },
+    {
+      "w": "77",
+      "py": "qīshíqī",
+      "en": "77"
+    },
+    {
+      "w": "227",
+      "py": "èr bǎi èrshíqī",
+      "en": "227"
+    },
+    {
+      "w": "86",
+      "py": "bāshíliù",
+      "en": "86"
+    },
+    {
+      "w": "一共",
+      "py": "yígòng",
+      "en": "in total"
+    },
+    {
+      "w": "看",
+      "py": "kàn",
+      "en": "to look at"
+    },
+    {
+      "w": "能力",
+      "py": "nénglì",
+      "en": "ability"
+    },
+    {
+      "w": "影响力",
+      "py": "yǐngxiǎnglì",
+      "en": "influence"
+    },
+    {
+      "w": "四",
+      "py": "sì",
+      "en": "four"
+    },
+    {
+      "w": "个",
+      "py": "gè",
+      "en": "(general measure word)"
+    },
+    {
+      "w": "方面",
+      "py": "fāngmiàn",
+      "en": "aspect; area"
+    },
+    {
+      "w": "如果",
+      "py": "rúguǒ",
+      "en": "if"
+    },
+    {
+      "w": "得",
+      "py": "de",
+      "en": "(complement particle)"
+    },
+    {
+      "w": "最多",
+      "py": "zuìduō",
+      "en": "at most"
+    },
+    {
+      "w": "会",
+      "py": "huì",
+      "en": "will; can"
+    },
+    {
+      "w": "被",
+      "py": "bèi",
+      "en": "(passive marker)"
+    },
+    {
+      "w": "20",
+      "py": "èrshí",
+      "en": "20"
+    },
+    {
+      "w": "分",
+      "py": "fēn",
+      "en": "point (score)"
+    }
+  ],
+  "featured": [
+    {
+      "hanzi": "利率",
+      "pinyin": "lìlǜ",
+      "pos": "noun",
+      "en": "interest rate",
+      "note": "Common collocations: 下调利率 / 上调利率, 存款利率, 贷款利率, 利率水平.",
+      "examples": [
+        {
+          "zh": "央行下调了贷款利率。",
+          "py": "Yāngháng xiàtiáo le dàikuǎn lìlǜ.",
+          "en": "The central bank lowered loan interest rates."
+        },
+        {
+          "zh": "这家银行的存款利率比别家高。",
+          "py": "Zhè jiā yínháng de cúnkuǎn lìlǜ bǐ bié jiā gāo.",
+          "en": "This bank's deposit rate is higher than other banks'."
+        },
+        {
+          "zh": "买房子以前，我先问了银行的利率。",
+          "py": "Mǎi fángzi yǐqián, wǒ xiān wèn le yínháng de lìlǜ.",
+          "en": "Before buying a home, I first asked the bank about the interest rate."
+        }
+      ]
+    },
+    {
+      "hanzi": "定价",
+      "pinyin": "dìngjià",
+      "pos": "verb / noun",
+      "en": "to set a price; pricing",
+      "note": "Used as 给…定价 (set a price for…), 产品定价, 定价能力; often with loans, deposits and products.",
+      "examples": [
+        {
+          "zh": "银行按照规则给贷款定价。",
+          "py": "Yínháng ànzhào guīzé gěi dàikuǎn dìngjià.",
+          "en": "Banks set loan prices according to the rules."
+        },
+        {
+          "zh": "这个产品的定价太高了，很多人不买。",
+          "py": "Zhège chǎnpǐn de dìngjià tài gāo le, hěn duō rén bù mǎi.",
+          "en": "This product's price is too high, so many people don't buy it."
+        },
+        {
+          "zh": "我们的平台正在研究新服务怎么定价。",
+          "py": "Wǒmen de píngtái zhèngzài yánjiū xīn fúwù zěnme dìngjià.",
+          "en": "Our platform is studying how to price the new service."
+        }
+      ]
+    }
+  ]
+}
