@@ -1,0 +1,446 @@
+{
+  "date": "2026-11-10",
+  "category": "finance",
+  "title_zh": "中国10月消费价格涨0.7%，工厂出厂价格涨5.7%",
+  "title_en": "China's October consumer prices rise 0.7%, factory-gate prices rise 5.7%",
+  "paragraphs": [
+    {
+      "zh": "11月9日，国家统计局公布了10月的物价数据。居民消费价格指数（CPI）表示居民买商品和服务的价格变化。和去年同期相比，CPI上涨0.7%，涨幅比9月小0.2个百分点。和9月相比，CPI没有变化。",
+      "en": "On November 9, the National Bureau of Statistics published October's price data. The Consumer Price Index (CPI) shows how the prices of goods and services that residents buy change. Compared with the same period last year, CPI rose 0.7%, an increase 0.2 percentage points smaller than September's. Compared with September, CPI did not change."
+    },
+    {
+      "zh": "工业生产者出厂价格指数（PPI）表示工厂卖出产品的价格变化。和去年同期相比，PPI上涨5.7%，涨幅比9月大0.7个百分点，是2022年7月以来的最高水平。和9月相比，PPI上涨0.7%，涨幅比9月小0.5个百分点。",
+      "en": "The Producer Price Index (PPI) shows how the prices of products sold by factories change. Compared with the same period last year, PPI rose 5.7%, an increase 0.7 percentage points larger than September's and the highest level since July 2022. Compared with September, PPI rose 0.7%, an increase 0.5 percentage points smaller than September's."
+    },
+    {
+      "zh": "在消费方面，食品价格比去年同期下降2.9%。汽油价格上涨22.4%，能源价格整体上涨9.9%。服务价格上涨0.7%，手机、电脑等电子产品的价格也涨得比较多。",
+      "en": "On the consumer side, food prices fell 2.9% from the same period last year. Gasoline prices rose 22.4%, and energy prices overall rose 9.9%. Service prices rose 0.7%, and prices of electronic products such as phones and computers also rose quite a lot."
+    },
+    {
+      "zh": "在工业方面，煤炭开采价格上涨36.6%，石油和天然气开采价格上涨35.0%，石油和煤炭加工价格上涨29.9%。这样，PPI和CPI的涨幅差距扩大到了5个百分点。",
+      "en": "On the industrial side, coal mining prices rose 36.6%, oil and natural gas extraction prices rose 35.0%, and oil and coal processing prices rose 29.9%. As a result, the gap between the PPI and CPI increases widened to 5 percentage points."
+    }
+  ],
+  "source": {
+    "name": "第一财经",
+    "name_en": "Yicai (China Business Network)",
+    "url": "https://www.yicai.com/news/103433122.html"
+  },
+  "vocab": [
+    {
+      "hanzi": "消费",
+      "pinyin": "xiāofèi",
+      "en": "to consume; consumption",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "涨",
+      "pinyin": "zhǎng",
+      "en": "to rise (of prices)",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "工厂",
+      "pinyin": "gōngchǎng",
+      "en": "factory",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "出厂",
+      "pinyin": "chūchǎng",
+      "en": "to leave the factory; ex-factory",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "国家统计局",
+      "pinyin": "Guójiā Tǒngjìjú",
+      "en": "National Bureau of Statistics",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "公布",
+      "pinyin": "gōngbù",
+      "en": "to publish; to announce",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "物价",
+      "pinyin": "wùjià",
+      "en": "prices (of goods)",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "数据",
+      "pinyin": "shùjù",
+      "en": "data",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "居民",
+      "pinyin": "jūmín",
+      "en": "resident",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "指数",
+      "pinyin": "zhǐshù",
+      "en": "index",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "商品",
+      "pinyin": "shāngpǐn",
+      "en": "goods; commodity",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "服务",
+      "pinyin": "fúwù",
+      "en": "service; to serve",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "同期",
+      "pinyin": "tóngqī",
+      "en": "the same period",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "涨幅",
+      "pinyin": "zhǎngfú",
+      "en": "rate of increase",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "百分点",
+      "pinyin": "bǎifēndiǎn",
+      "en": "percentage point",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "上涨",
+      "pinyin": "shàngzhǎng",
+      "en": "to rise; to go up",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "工业",
+      "pinyin": "gōngyè",
+      "en": "industry",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "生产者",
+      "pinyin": "shēngchǎnzhě",
+      "en": "producer",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "水平",
+      "pinyin": "shuǐpíng",
+      "en": "level; standard",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "以来",
+      "pinyin": "yǐlái",
+      "en": "since",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "食品",
+      "pinyin": "shípǐn",
+      "en": "food",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "下降",
+      "pinyin": "xiàjiàng",
+      "en": "to fall; to decline",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "汽油",
+      "pinyin": "qìyóu",
+      "en": "gasoline",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "能源",
+      "pinyin": "néngyuán",
+      "en": "energy resources",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "整体",
+      "pinyin": "zhěngtǐ",
+      "en": "overall; as a whole",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "电子产品",
+      "pinyin": "diànzǐ chǎnpǐn",
+      "en": "electronic products",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "煤炭",
+      "pinyin": "méitàn",
+      "en": "coal",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "开采",
+      "pinyin": "kāicǎi",
+      "en": "to mine; to extract",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "石油",
+      "pinyin": "shíyóu",
+      "en": "oil; petroleum",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "天然气",
+      "pinyin": "tiānránqì",
+      "en": "natural gas",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "加工",
+      "pinyin": "jiāgōng",
+      "en": "to process; processing",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "差距",
+      "pinyin": "chājù",
+      "en": "gap; disparity",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "扩大",
+      "pinyin": "kuòdà",
+      "en": "to widen; to expand",
+      "hsk": "HSK 5"
+    }
+  ],
+  "glossary": [
+    {
+      "w": "中国",
+      "py": "Zhōngguó",
+      "en": "China"
+    },
+    {
+      "w": "月",
+      "py": "yuè",
+      "en": "month"
+    },
+    {
+      "w": "价格",
+      "py": "jiàgé",
+      "en": "price"
+    },
+    {
+      "w": "日",
+      "py": "rì",
+      "en": "day (of the month)"
+    },
+    {
+      "w": "的",
+      "py": "de",
+      "en": "(particle)"
+    },
+    {
+      "w": "了",
+      "py": "le",
+      "en": "(completed action)"
+    },
+    {
+      "w": "表示",
+      "py": "biǎoshì",
+      "en": "to show; to indicate"
+    },
+    {
+      "w": "买",
+      "py": "mǎi",
+      "en": "to buy"
+    },
+    {
+      "w": "和",
+      "py": "hé",
+      "en": "and; with"
+    },
+    {
+      "w": "去年",
+      "py": "qùnián",
+      "en": "last year"
+    },
+    {
+      "w": "相比",
+      "py": "xiāngbǐ",
+      "en": "compared with"
+    },
+    {
+      "w": "比",
+      "py": "bǐ",
+      "en": "than; compared with"
+    },
+    {
+      "w": "小",
+      "py": "xiǎo",
+      "en": "small; smaller"
+    },
+    {
+      "w": "个",
+      "py": "gè",
+      "en": "(measure word)"
+    },
+    {
+      "w": "没有",
+      "py": "méiyǒu",
+      "en": "not have"
+    },
+    {
+      "w": "变化",
+      "py": "biànhuà",
+      "en": "change"
+    },
+    {
+      "w": "是",
+      "py": "shì",
+      "en": "is"
+    },
+    {
+      "w": "卖出",
+      "py": "màichū",
+      "en": "to sell"
+    },
+    {
+      "w": "产品",
+      "py": "chǎnpǐn",
+      "en": "product"
+    },
+    {
+      "w": "年",
+      "py": "nián",
+      "en": "year"
+    },
+    {
+      "w": "大",
+      "py": "dà",
+      "en": "big; larger"
+    },
+    {
+      "w": "最高",
+      "py": "zuìgāo",
+      "en": "highest"
+    },
+    {
+      "w": "在",
+      "py": "zài",
+      "en": "in; on"
+    },
+    {
+      "w": "方面",
+      "py": "fāngmiàn",
+      "en": "aspect; side"
+    },
+    {
+      "w": "也",
+      "py": "yě",
+      "en": "also"
+    },
+    {
+      "w": "得",
+      "py": "de",
+      "en": "(complement particle)"
+    },
+    {
+      "w": "比较",
+      "py": "bǐjiào",
+      "en": "fairly; quite"
+    },
+    {
+      "w": "多",
+      "py": "duō",
+      "en": "many; much"
+    },
+    {
+      "w": "等",
+      "py": "děng",
+      "en": "such as; etc."
+    },
+    {
+      "w": "手机",
+      "py": "shǒujī",
+      "en": "mobile phone"
+    },
+    {
+      "w": "电脑",
+      "py": "diànnǎo",
+      "en": "computer"
+    },
+    {
+      "w": "这样",
+      "py": "zhèyàng",
+      "en": "in this way; as a result"
+    },
+    {
+      "w": "到",
+      "py": "dào",
+      "en": "to; reaching"
+    }
+  ],
+  "featured": [
+    {
+      "hanzi": "涨幅",
+      "pinyin": "zhǎngfú",
+      "pos": "noun",
+      "en": "rate of increase; size of a rise",
+      "note": "Used for prices, stocks and data: 涨幅扩大 / 涨幅收窄 / 涨幅超过…",
+      "examples": [
+        {
+          "zh": "10月CPI的涨幅比9月小。",
+          "py": "Shí yuè CPI de zhǎngfú bǐ jiǔ yuè xiǎo.",
+          "en": "October's CPI increase was smaller than September's."
+        },
+        {
+          "zh": "这只股票今天的涨幅超过5%。",
+          "py": "Zhè zhī gǔpiào jīntiān de zhǎngfú chāoguò bǎi fēn zhī wǔ.",
+          "en": "This stock's rise today was over 5%."
+        },
+        {
+          "zh": "这个月房租涨幅不小，我想换一个便宜的房子。",
+          "py": "Zhège yuè fángzū zhǎngfú bù xiǎo, wǒ xiǎng huàn yí ge piányi de fángzi.",
+          "en": "Rent rose quite a bit this month, so I want to move to a cheaper place."
+        }
+      ]
+    },
+    {
+      "hanzi": "指数",
+      "pinyin": "zhǐshù",
+      "pos": "noun",
+      "en": "index (a number that tracks change)",
+      "note": "Common in 消费价格指数 (CPI), 股票指数, 指数上涨 / 指数下跌",
+      "examples": [
+        {
+          "zh": "上证指数今天上涨了1%。",
+          "py": "Shàngzhèng zhǐshù jīntiān shàngzhǎng le bǎi fēn zhī yī.",
+          "en": "The Shanghai Composite Index rose 1% today."
+        },
+        {
+          "zh": "我们每个月看一次用户活跃指数的变化。",
+          "py": "Wǒmen měi ge yuè kàn yí cì yònghù huóyuè zhǐshù de biànhuà.",
+          "en": "We check the change in the user activity index once a month."
+        },
+        {
+          "zh": "今天的紫外线指数很高，出门要擦防晒霜。",
+          "py": "Jīntiān de zǐwàixiàn zhǐshù hěn gāo, chūmén yào cā fángshàishuāng.",
+          "en": "The UV index is high today, so wear sunscreen when you go out."
+        }
+      ]
+    }
+  ]
+}

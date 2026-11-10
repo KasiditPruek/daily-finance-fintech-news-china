@@ -1,0 +1,444 @@
+{
+  "date": "2026-11-10",
+  "category": "fintech",
+  "title_zh": "CIPS第三季度增加4家直接参与者，共有214家",
+  "title_en": "CIPS adds 4 direct participants in Q3, bringing the total to 214",
+  "paragraphs": [
+    {
+      "zh": "11月9日，移动支付网报道了CIPS的最新数据。CIPS是人民币跨境支付系统，银行用它处理人民币的跨境付款。直接参与者可以直接连接这个系统，间接参与者要通过直接参与者来使用。",
+      "en": "On November 9, Mpaypass reported the latest data on CIPS. CIPS is the RMB cross-border payment system, which banks use to handle cross-border payments in RMB. Direct participants can connect to the system directly, while indirect participants have to use it through direct participants."
+    },
+    {
+      "zh": "2026年第三季度，CIPS新增了4家直接参与者和53家间接参与者。这53家间接参与者中，2家在中国境内，51家在境外。同一时期，也有17家间接参与者退出。",
+      "en": "In the third quarter of 2026, CIPS added 4 direct participants and 53 indirect participants. Of these 53 indirect participants, 2 are in mainland China and 51 are overseas. In the same period, 17 indirect participants also left."
+    },
+    {
+      "zh": "到9月底，CIPS一共有214家直接参与者和1651家间接参与者。间接参与者中，亚洲有1176家，其中528家在中国境内。欧洲有271家，非洲有112家，北美洲有35家，南美洲有32家，大洋洲有25家。",
+      "en": "By the end of September, CIPS had 214 direct participants and 1,651 indirect participants in total. Among the indirect participants, Asia has 1,176, of which 528 are in mainland China. Europe has 271, Africa 112, North America 35, South America 32 and Oceania 25."
+    },
+    {
+      "zh": "CIPS的参与者分布在133个国家和地区。通过5300多家法人银行，它的服务可以到达192个国家和地区。",
+      "en": "CIPS participants are spread across 133 countries and regions. Through more than 5,300 legal-entity banks, its services can reach 192 countries and regions."
+    }
+  ],
+  "source": {
+    "name": "移动支付网",
+    "name_en": "Mpaypass (China Mobile Payment Network)",
+    "url": "https://www.mpaypass.com.cn/news/202611/09165735.html"
+  },
+  "vocab": [
+    {
+      "hanzi": "季度",
+      "pinyin": "jìdù",
+      "en": "quarter (of a year)",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "新增",
+      "pinyin": "xīnzēng",
+      "en": "newly added; to add",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "参与者",
+      "pinyin": "cānyùzhě",
+      "en": "participant",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "移动支付",
+      "pinyin": "yídòng zhīfù",
+      "en": "mobile payment",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "报道",
+      "pinyin": "bàodào",
+      "en": "to report; a news report",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "数据",
+      "pinyin": "shùjù",
+      "en": "data",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "人民币",
+      "pinyin": "rénmínbì",
+      "en": "renminbi (RMB)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "跨境",
+      "pinyin": "kuàjìng",
+      "en": "cross-border",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "支付",
+      "pinyin": "zhīfù",
+      "en": "to pay; payment",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "系统",
+      "pinyin": "xìtǒng",
+      "en": "system",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "处理",
+      "pinyin": "chǔlǐ",
+      "en": "to handle; to process",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "连接",
+      "pinyin": "liánjiē",
+      "en": "to connect",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "间接",
+      "pinyin": "jiànjiē",
+      "en": "indirect",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "境内",
+      "pinyin": "jìngnèi",
+      "en": "within the country's borders",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "境外",
+      "pinyin": "jìngwài",
+      "en": "outside the country's borders; overseas",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "时期",
+      "pinyin": "shíqī",
+      "en": "period (of time)",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "退出",
+      "pinyin": "tuìchū",
+      "en": "to withdraw; to leave",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "欧洲",
+      "pinyin": "Ōuzhōu",
+      "en": "Europe",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "非洲",
+      "pinyin": "Fēizhōu",
+      "en": "Africa",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "北美洲",
+      "pinyin": "Běiměizhōu",
+      "en": "North America",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "南美洲",
+      "pinyin": "Nánměizhōu",
+      "en": "South America",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "大洋洲",
+      "pinyin": "Dàyángzhōu",
+      "en": "Oceania",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "分布",
+      "pinyin": "fēnbù",
+      "en": "to be distributed; distribution",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "地区",
+      "pinyin": "dìqū",
+      "en": "region; area",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "法人",
+      "pinyin": "fǎrén",
+      "en": "legal person; legal entity",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "到达",
+      "pinyin": "dàodá",
+      "en": "to reach; to arrive at",
+      "hsk": "HSK 5"
+    }
+  ],
+  "glossary": [
+    {
+      "w": "月",
+      "py": "yuè",
+      "en": "month"
+    },
+    {
+      "w": "日",
+      "py": "rì",
+      "en": "day (of the month)"
+    },
+    {
+      "w": "网",
+      "py": "wǎng",
+      "en": "network; website"
+    },
+    {
+      "w": "的",
+      "py": "de",
+      "en": "(particle)"
+    },
+    {
+      "w": "最新",
+      "py": "zuìxīn",
+      "en": "latest"
+    },
+    {
+      "w": "是",
+      "py": "shì",
+      "en": "is"
+    },
+    {
+      "w": "银行",
+      "py": "yínháng",
+      "en": "bank"
+    },
+    {
+      "w": "用",
+      "py": "yòng",
+      "en": "to use"
+    },
+    {
+      "w": "它",
+      "py": "tā",
+      "en": "it"
+    },
+    {
+      "w": "直接",
+      "py": "zhíjiē",
+      "en": "direct"
+    },
+    {
+      "w": "可以",
+      "py": "kěyǐ",
+      "en": "can"
+    },
+    {
+      "w": "这个",
+      "py": "zhège",
+      "en": "this"
+    },
+    {
+      "w": "要",
+      "py": "yào",
+      "en": "have to"
+    },
+    {
+      "w": "通过",
+      "py": "tōngguò",
+      "en": "through; by means of"
+    },
+    {
+      "w": "来",
+      "py": "lái",
+      "en": "in order to"
+    },
+    {
+      "w": "使用",
+      "py": "shǐyòng",
+      "en": "to use"
+    },
+    {
+      "w": "付款",
+      "py": "fùkuǎn",
+      "en": "payment; to pay"
+    },
+    {
+      "w": "年",
+      "py": "nián",
+      "en": "year"
+    },
+    {
+      "w": "第",
+      "py": "dì",
+      "en": "(ordinal prefix)"
+    },
+    {
+      "w": "三",
+      "py": "sān",
+      "en": "three"
+    },
+    {
+      "w": "了",
+      "py": "le",
+      "en": "(completed action)"
+    },
+    {
+      "w": "家",
+      "py": "jiā",
+      "en": "(measure word for companies)"
+    },
+    {
+      "w": "和",
+      "py": "hé",
+      "en": "and"
+    },
+    {
+      "w": "这",
+      "py": "zhè",
+      "en": "this"
+    },
+    {
+      "w": "中",
+      "py": "zhōng",
+      "en": "among; in"
+    },
+    {
+      "w": "在",
+      "py": "zài",
+      "en": "in; at"
+    },
+    {
+      "w": "中国",
+      "py": "Zhōngguó",
+      "en": "China"
+    },
+    {
+      "w": "同一",
+      "py": "tóngyī",
+      "en": "the same"
+    },
+    {
+      "w": "也",
+      "py": "yě",
+      "en": "also"
+    },
+    {
+      "w": "有",
+      "py": "yǒu",
+      "en": "to have"
+    },
+    {
+      "w": "到",
+      "py": "dào",
+      "en": "by; until"
+    },
+    {
+      "w": "底",
+      "py": "dǐ",
+      "en": "end (of a period)"
+    },
+    {
+      "w": "一共",
+      "py": "yígòng",
+      "en": "in total"
+    },
+    {
+      "w": "亚洲",
+      "py": "Yàzhōu",
+      "en": "Asia"
+    },
+    {
+      "w": "其中",
+      "py": "qízhōng",
+      "en": "of which"
+    },
+    {
+      "w": "多",
+      "py": "duō",
+      "en": "more than"
+    },
+    {
+      "w": "国家",
+      "py": "guójiā",
+      "en": "country"
+    },
+    {
+      "w": "服务",
+      "py": "fúwù",
+      "en": "service"
+    },
+    {
+      "w": "个",
+      "py": "gè",
+      "en": "(measure word)"
+    },
+    {
+      "w": "共",
+      "py": "gòng",
+      "en": "in total"
+    },
+    {
+      "w": "增加",
+      "py": "zēngjiā",
+      "en": "to add; to increase"
+    }
+  ],
+  "featured": [
+    {
+      "hanzi": "跨境",
+      "pinyin": "kuàjìng",
+      "pos": "adjective / verb",
+      "en": "cross-border; to cross borders",
+      "note": "Used before nouns: 跨境支付 / 跨境电商 / 跨境汇款",
+      "examples": [
+        {
+          "zh": "这家银行提供人民币跨境支付服务。",
+          "py": "Zhè jiā yínháng tígōng Rénmínbì kuàjìng zhīfù fúwù.",
+          "en": "This bank provides RMB cross-border payment services."
+        },
+        {
+          "zh": "我们的平台想帮小企业做跨境生意。",
+          "py": "Wǒmen de píngtái xiǎng bāng xiǎo qǐyè zuò kuàjìng shēngyi.",
+          "en": "Our platform wants to help small businesses do cross-border trade."
+        },
+        {
+          "zh": "她在网上买了一件跨境商品，一周后才到。",
+          "py": "Tā zài wǎngshàng mǎi le yí jiàn kuàjìng shāngpǐn, yì zhōu hòu cái dào.",
+          "en": "She bought a cross-border item online, and it only arrived a week later."
+        }
+      ]
+    },
+    {
+      "hanzi": "支付",
+      "pinyin": "zhīfù",
+      "pos": "verb / noun",
+      "en": "to pay; payment",
+      "note": "Often 移动支付 / 支付方式 / 支付成功 / 扫码支付",
+      "examples": [
+        {
+          "zh": "现在很多商店都可以用手机支付。",
+          "py": "Xiànzài hěn duō shāngdiàn dōu kěyǐ yòng shǒujī zhīfù.",
+          "en": "Now many shops accept payment by mobile phone."
+        },
+        {
+          "zh": "这个月的线上支付成功率比上个月高。",
+          "py": "Zhège yuè de xiànshàng zhīfù chénggōnglǜ bǐ shàng ge yuè gāo.",
+          "en": "This month's online payment success rate is higher than last month's."
+        },
+        {
+          "zh": "请在三天内支付房租。",
+          "py": "Qǐng zài sān tiān nèi zhīfù fángzū.",
+          "en": "Please pay the rent within three days."
+        }
+      ]
+    }
+  ]
+}
