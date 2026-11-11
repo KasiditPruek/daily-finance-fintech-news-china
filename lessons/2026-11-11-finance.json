@@ -1,0 +1,583 @@
+{
+  "date": "2026-11-11",
+  "category": "finance",
+  "title_zh": "美国10月物价涨0.4%，比预期高",
+  "title_en": "US prices rose 0.4% in October, higher than expected",
+  "paragraphs": [
+    {
+      "zh": "美国劳工部11月10日公布了10月的消费者价格指数，也就是CPI。CPI是用来看物价变化的一个重要数字。数据显示，10月CPI比9月上涨了0.4%，市场原来估计只涨0.3%。9月的涨幅是0.6%。",
+      "en": "On November 10, the US Department of Labor released the consumer price index for October, also known as the CPI. The CPI is an important number used to track changes in prices. The data showed that the October CPI rose 0.4% from September, while the market had expected a rise of only 0.3%. The increase in September was 0.6%."
+    },
+    {
+      "zh": "去掉食品和能源以后，核心CPI上涨了0.3%，也比预期的0.2%高。这个数字和8月、9月一样。去年美国政府停摆，2025年10月的数据不够，所以这次没有公布和去年同期相比的涨幅。",
+      "en": "Leaving out food and energy, core CPI rose 0.3%, also higher than the expected 0.2%. This number was the same as in August and September. Because of the US government shutdown last year, there was not enough data for October 2025, so this time no year-on-year increase was published."
+    },
+    {
+      "zh": "分类来看，能源价格涨了0.7%，其中汽油涨了1%。食品价格涨了0.5%，牛肉涨了0.9%。二手车和卡车的价格下降了1.2%。",
+      "en": "By category, energy prices rose 0.7%, with gasoline up 1%. Food prices rose 0.5%, and beef rose 0.9%. Prices of used cars and trucks fell 1.2%."
+    },
+    {
+      "zh": "美联储10月没有改变利率，目前利率是3.75%到4%。美联储理事沃勒在数据公布前一天表示，如果数据没有变好，12月的会议应该考虑一次加息50个基点。一个基点是0.01%。数据公布后，两年期美国国债收益率上升了13个基点，到了4.68%。",
+      "en": "The Federal Reserve did not change interest rates in October; the rate is currently 3.75% to 4%. Fed Governor Waller said the day before the data release that if the data do not improve, the December meeting should consider a single 50-basis-point rate hike. One basis point is 0.01%. After the data came out, the yield on 2-year US Treasury bonds rose 13 basis points to 4.68%."
+    }
+  ],
+  "source": {
+    "name": "第一财经",
+    "name_en": "Yicai (China Business Network)",
+    "url": "https://www.yicai.com/news/103435204.html"
+  },
+  "vocab": [
+    {
+      "hanzi": "物价",
+      "pinyin": "wùjià",
+      "en": "prices; price level",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "预期",
+      "pinyin": "yùqī",
+      "en": "expectation; to expect",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "劳工部",
+      "pinyin": "Láogōngbù",
+      "en": "Department of Labor",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "公布",
+      "pinyin": "gōngbù",
+      "en": "to announce; to release",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "消费者",
+      "pinyin": "xiāofèizhě",
+      "en": "consumer",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "指数",
+      "pinyin": "zhǐshù",
+      "en": "index",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "数据",
+      "pinyin": "shùjù",
+      "en": "data",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "显示",
+      "pinyin": "xiǎnshì",
+      "en": "to show",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "上涨",
+      "pinyin": "shàngzhǎng",
+      "en": "to rise (prices)",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "市场",
+      "pinyin": "shìchǎng",
+      "en": "market",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "涨幅",
+      "pinyin": "zhǎngfú",
+      "en": "size of an increase",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "食品",
+      "pinyin": "shípǐn",
+      "en": "food (products)",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "能源",
+      "pinyin": "néngyuán",
+      "en": "energy",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "核心",
+      "pinyin": "héxīn",
+      "en": "core",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "政府",
+      "pinyin": "zhèngfǔ",
+      "en": "government",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "停摆",
+      "pinyin": "tíngbǎi",
+      "en": "(government) shutdown; to stop working",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "同期",
+      "pinyin": "tóngqī",
+      "en": "the same period",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "相比",
+      "pinyin": "xiāngbǐ",
+      "en": "to compare with",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "分类",
+      "pinyin": "fēnlèi",
+      "en": "category; to classify",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "汽油",
+      "pinyin": "qìyóu",
+      "en": "gasoline; petrol",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "牛肉",
+      "pinyin": "niúròu",
+      "en": "beef",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "二手车",
+      "pinyin": "èrshǒuchē",
+      "en": "used car",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "卡车",
+      "pinyin": "kǎchē",
+      "en": "truck",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "下降",
+      "pinyin": "xiàjiàng",
+      "en": "to fall; to drop",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "美联储",
+      "pinyin": "Měiliánchǔ",
+      "en": "the US Federal Reserve (Fed)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "利率",
+      "pinyin": "lìlǜ",
+      "en": "interest rate",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "目前",
+      "pinyin": "mùqián",
+      "en": "currently; at present",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "理事",
+      "pinyin": "lǐshì",
+      "en": "governor; board member",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "沃勒",
+      "pinyin": "Wòlè",
+      "en": "Waller (Fed Governor Christopher Waller)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "加息",
+      "pinyin": "jiāxī",
+      "en": "to raise interest rates",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "基点",
+      "pinyin": "jīdiǎn",
+      "en": "basis point (0.01%)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "两年期",
+      "pinyin": "liǎngniánqī",
+      "en": "two-year (term)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "国债",
+      "pinyin": "guózhài",
+      "en": "government bond; treasury",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "收益率",
+      "pinyin": "shōuyìlǜ",
+      "en": "yield; rate of return",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "上升",
+      "pinyin": "shàngshēng",
+      "en": "to rise; to go up",
+      "hsk": "HSK 7–9"
+    }
+  ],
+  "glossary": [
+    {
+      "w": "美国",
+      "py": "Měiguó",
+      "en": "the United States"
+    },
+    {
+      "w": "10",
+      "py": "shí",
+      "en": "ten"
+    },
+    {
+      "w": "月",
+      "py": "yuè",
+      "en": "month"
+    },
+    {
+      "w": "涨",
+      "py": "zhǎng",
+      "en": "to rise (prices)"
+    },
+    {
+      "w": "0.4%",
+      "py": "líng diǎn sì",
+      "en": "0.4 percent"
+    },
+    {
+      "w": "，",
+      "py": "，",
+      "en": "comma"
+    },
+    {
+      "w": "比",
+      "py": "bǐ",
+      "en": "than; compared with"
+    },
+    {
+      "w": "高",
+      "py": "gāo",
+      "en": "high"
+    },
+    {
+      "w": "11",
+      "py": "shíyī",
+      "en": "eleven"
+    },
+    {
+      "w": "日",
+      "py": "rì",
+      "en": "day (of the month)"
+    },
+    {
+      "w": "了",
+      "py": "le",
+      "en": "(completed action)"
+    },
+    {
+      "w": "的",
+      "py": "de",
+      "en": "(possessive / modifier particle)"
+    },
+    {
+      "w": "也就是",
+      "py": "yě jiù shì",
+      "en": "that is; also known as"
+    },
+    {
+      "w": "是",
+      "py": "shì",
+      "en": "to be"
+    },
+    {
+      "w": "用来",
+      "py": "yònglái",
+      "en": "used to"
+    },
+    {
+      "w": "看",
+      "py": "kàn",
+      "en": "to look at; to track"
+    },
+    {
+      "w": "变化",
+      "py": "biànhuà",
+      "en": "change"
+    },
+    {
+      "w": "一个",
+      "py": "yí gè",
+      "en": "one; a"
+    },
+    {
+      "w": "重要",
+      "py": "zhòngyào",
+      "en": "important"
+    },
+    {
+      "w": "数字",
+      "py": "shùzì",
+      "en": "number"
+    },
+    {
+      "w": "9",
+      "py": "jiǔ",
+      "en": "nine"
+    },
+    {
+      "w": "只",
+      "py": "zhǐ",
+      "en": "only"
+    },
+    {
+      "w": "原来",
+      "py": "yuánlái",
+      "en": "originally; had (expected)"
+    },
+    {
+      "w": "估计",
+      "py": "gūjì",
+      "en": "to estimate; to expect"
+    },
+    {
+      "w": "去掉",
+      "py": "qùdiào",
+      "en": "to remove; to leave out"
+    },
+    {
+      "w": "和",
+      "py": "hé",
+      "en": "and"
+    },
+    {
+      "w": "以后",
+      "py": "yǐhòu",
+      "en": "after"
+    },
+    {
+      "w": "也",
+      "py": "yě",
+      "en": "also"
+    },
+    {
+      "w": "这个",
+      "py": "zhège",
+      "en": "this"
+    },
+    {
+      "w": "8",
+      "py": "bā",
+      "en": "eight"
+    },
+    {
+      "w": "一样",
+      "py": "yíyàng",
+      "en": "the same"
+    },
+    {
+      "w": "去年",
+      "py": "qùnián",
+      "en": "last year"
+    },
+    {
+      "w": "年",
+      "py": "nián",
+      "en": "year"
+    },
+    {
+      "w": "不够",
+      "py": "bú gòu",
+      "en": "not enough"
+    },
+    {
+      "w": "所以",
+      "py": "suǒyǐ",
+      "en": "so; therefore"
+    },
+    {
+      "w": "这次",
+      "py": "zhè cì",
+      "en": "this time"
+    },
+    {
+      "w": "没有",
+      "py": "méiyǒu",
+      "en": "did not; not"
+    },
+    {
+      "w": "来看",
+      "py": "lái kàn",
+      "en": "looking at it (by)"
+    },
+    {
+      "w": "价格",
+      "py": "jiàgé",
+      "en": "price"
+    },
+    {
+      "w": "其中",
+      "py": "qízhōng",
+      "en": "among them"
+    },
+    {
+      "w": "食品价格",
+      "py": "shípǐn jiàgé",
+      "en": "food prices"
+    },
+    {
+      "w": "没有改变",
+      "py": "méiyǒu gǎibiàn",
+      "en": "did not change"
+    },
+    {
+      "w": "改变",
+      "py": "gǎibiàn",
+      "en": "to change"
+    },
+    {
+      "w": "到",
+      "py": "dào",
+      "en": "to; up to; reached"
+    },
+    {
+      "w": "在",
+      "py": "zài",
+      "en": "at; in"
+    },
+    {
+      "w": "前一天",
+      "py": "qián yì tiān",
+      "en": "the day before"
+    },
+    {
+      "w": "表示",
+      "py": "biǎoshì",
+      "en": "to say; to state"
+    },
+    {
+      "w": "如果",
+      "py": "rúguǒ",
+      "en": "if"
+    },
+    {
+      "w": "变好",
+      "py": "biàn hǎo",
+      "en": "to get better"
+    },
+    {
+      "w": "会议",
+      "py": "huìyì",
+      "en": "meeting"
+    },
+    {
+      "w": "应该",
+      "py": "yīnggāi",
+      "en": "should"
+    },
+    {
+      "w": "考虑",
+      "py": "kǎolǜ",
+      "en": "to consider"
+    },
+    {
+      "w": "一次",
+      "py": "yí cì",
+      "en": "one time; a single"
+    },
+    {
+      "w": "个",
+      "py": "gè",
+      "en": "(measure word)"
+    },
+    {
+      "w": "公布后",
+      "py": "gōngbù hòu",
+      "en": "after the release"
+    },
+    {
+      "w": "后",
+      "py": "hòu",
+      "en": "after"
+    },
+    {
+      "w": "到了",
+      "py": "dào le",
+      "en": "reached"
+    },
+    {
+      "w": "一",
+      "py": "yī",
+      "en": "one"
+    }
+  ],
+  "featured": [
+    {
+      "hanzi": "加息",
+      "pinyin": "jiāxī",
+      "pos": "verb (verb-object)",
+      "en": "to raise interest rates",
+      "note": "Opposite: 降息 jiàngxī (to cut rates). Common patterns: 加息25个基点 (raise rates by 25 bp), 加息预期 (expectations of a rate hike), 暂停加息 (pause rate hikes).",
+      "examples": [
+        {
+          "zh": "美联储可能在12月加息25个基点。",
+          "py": "Měiliánchǔ kěnéng zài shí'èr yuè jiāxī èrshíwǔ gè jīdiǎn.",
+          "en": "The Fed may raise rates by 25 basis points in December."
+        },
+        {
+          "zh": "银行一加息，我的房贷每个月就要多还一些钱。",
+          "py": "Yínháng yì jiāxī, wǒ de fángdài měi gè yuè jiù yào duō huán yìxiē qián.",
+          "en": "As soon as the bank raises rates, I have to pay a bit more on my mortgage every month."
+        },
+        {
+          "zh": "加息以后，很多人更愿意把钱存进银行。",
+          "py": "Jiāxī yǐhòu, hěn duō rén gèng yuànyì bǎ qián cún jìn yínháng.",
+          "en": "After a rate hike, many people are more willing to put their money in the bank."
+        }
+      ]
+    },
+    {
+      "hanzi": "预期",
+      "pinyin": "yùqī",
+      "pos": "noun / verb",
+      "en": "expectation; to expect",
+      "note": "Very common in market news: 超预期 / 高于预期 (above expectations), 低于预期 (below expectations), 市场预期 (market expectations), 符合预期 (in line with expectations).",
+      "examples": [
+        {
+          "zh": "这家公司的利润高于市场预期。",
+          "py": "Zhè jiā gōngsī de lìrùn gāoyú shìchǎng yùqī.",
+          "en": "This company's profit was higher than market expectations."
+        },
+        {
+          "zh": "这次考试的结果比我预期的好。",
+          "py": "Zhè cì kǎoshì de jiéguǒ bǐ wǒ yùqī de hǎo.",
+          "en": "The result of this exam was better than I expected."
+        },
+        {
+          "zh": "上个月的用户增长没有达到预期，我们要找出原因。",
+          "py": "Shàng gè yuè de yònghù zēngzhǎng méiyǒu dádào yùqī, wǒmen yào zhǎo chū yuányīn.",
+          "en": "Last month's user growth didn't meet expectations, so we need to find out why."
+        }
+      ]
+    }
+  ]
+}

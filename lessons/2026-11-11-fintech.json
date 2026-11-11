@@ -1,0 +1,573 @@
+{
+  "date": "2026-11-11",
+  "category": "fintech",
+  "title_zh": "谷歌钱包上线新功能，可以用Alipay+在海外扫码付款",
+  "title_en": "Google Wallet launches a new feature to scan and pay abroad through Alipay+",
+  "paragraphs": [
+    {
+      "zh": "11月10日，移动支付网报道，谷歌钱包推出了一个叫“Traveler QR”的新功能。安卓手机用户把Google Play服务更新到26.44版本以后，就能用这个功能。",
+      "en": "On November 10, Mpaypass reported that Google Wallet has launched a new feature called \"Traveler QR\". Android phone users can use the feature after updating Google Play services to version 26.44."
+    },
+    {
+      "zh": "有了这个功能，用户在国外旅行时可以扫二维码付款。它用的是蚂蚁国际的Alipay+跨境支付网络。Alipay+把很多国家和地区的电子钱包和商户连接在一起。",
+      "en": "With this feature, users can pay by scanning QR codes while travelling abroad. It uses Ant International's Alipay+ cross-border payment network. Alipay+ links e-wallets and merchants in many countries and regions."
+    },
+    {
+      "zh": "报道说，第一批可以用的地方是东南亚几个热门旅游国家，比如马来西亚、菲律宾和印度尼西亚。用户可以扫商户的码，商户也可以扫用户的码。",
+      "en": "According to the report, the first places where it can be used are several popular travel countries in Southeast Asia, such as Malaysia, the Philippines and Indonesia. Users can scan a merchant's code, and merchants can also scan the user's code."
+    },
+    {
+      "zh": "手机发现用户到了支持的国家或地区以后，用户可以在钱包的设置里自己打开这个功能，并给它需要的权限。这样，用户不用下载当地的支付App，也能在数百万家Alipay+合作商户付款。",
+      "en": "Once the phone detects that the user has arrived in a supported country or region, the user can turn on the feature themselves in the wallet's settings and give it the permissions it needs. This way, users can pay at millions of Alipay+ partner merchants without downloading a local payment app."
+    }
+  ],
+  "source": {
+    "name": "移动支付网",
+    "name_en": "Mpaypass (China Mobile Payment Network)",
+    "url": "https://www.mpaypass.com.cn/news/202611/10124937.html"
+  },
+  "vocab": [
+    {
+      "hanzi": "谷歌",
+      "pinyin": "Gǔgē",
+      "en": "Google",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "钱包",
+      "pinyin": "qiánbāo",
+      "en": "wallet",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "上线",
+      "pinyin": "shàngxiàn",
+      "en": "to go live; to launch (online)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "功能",
+      "pinyin": "gōngnéng",
+      "en": "function; feature",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "海外",
+      "pinyin": "hǎiwài",
+      "en": "overseas; abroad",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "扫码",
+      "pinyin": "sǎomǎ",
+      "en": "to scan a (QR) code",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "移动支付",
+      "pinyin": "yídòng zhīfù",
+      "en": "mobile payment",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "报道",
+      "pinyin": "bàodào",
+      "en": "to report; a news report",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "推出",
+      "pinyin": "tuīchū",
+      "en": "to launch; to roll out",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "安卓",
+      "pinyin": "Ānzhuó",
+      "en": "Android",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "用户",
+      "pinyin": "yònghù",
+      "en": "user",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "服务",
+      "pinyin": "fúwù",
+      "en": "service",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "更新",
+      "pinyin": "gēngxīn",
+      "en": "to update",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "版本",
+      "pinyin": "bǎnběn",
+      "en": "version",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "二维码",
+      "pinyin": "èrwéimǎ",
+      "en": "QR code",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "蚂蚁国际",
+      "pinyin": "Mǎyǐ Guójì",
+      "en": "Ant International",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "跨境",
+      "pinyin": "kuàjìng",
+      "en": "cross-border",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "支付",
+      "pinyin": "zhīfù",
+      "en": "to pay; payment",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "网络",
+      "pinyin": "wǎngluò",
+      "en": "network",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "地区",
+      "pinyin": "dìqū",
+      "en": "region; area",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "电子钱包",
+      "pinyin": "diànzǐ qiánbāo",
+      "en": "e-wallet; digital wallet",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "商户",
+      "pinyin": "shānghù",
+      "en": "merchant",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "连接",
+      "pinyin": "liánjiē",
+      "en": "to connect; to link",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "批",
+      "pinyin": "pī",
+      "en": "batch (measure word)",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "东南亚",
+      "pinyin": "Dōngnányà",
+      "en": "Southeast Asia",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "热门",
+      "pinyin": "rèmén",
+      "en": "popular; in demand",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "马来西亚",
+      "pinyin": "Mǎláixīyà",
+      "en": "Malaysia",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "菲律宾",
+      "pinyin": "Fēilǜbīn",
+      "en": "the Philippines",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "印度尼西亚",
+      "pinyin": "Yìndùníxīyà",
+      "en": "Indonesia",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "设置",
+      "pinyin": "shèzhì",
+      "en": "settings; to set up",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "权限",
+      "pinyin": "quánxiàn",
+      "en": "permission (on a phone/app)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "下载",
+      "pinyin": "xiàzài",
+      "en": "to download",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "当地",
+      "pinyin": "dāngdì",
+      "en": "local",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "数百万",
+      "pinyin": "shù bǎiwàn",
+      "en": "several million",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "合作",
+      "pinyin": "hézuò",
+      "en": "to cooperate; partner",
+      "hsk": "HSK 5"
+    }
+  ],
+  "glossary": [
+    {
+      "w": "新",
+      "py": "xīn",
+      "en": "new"
+    },
+    {
+      "w": "，",
+      "py": "，",
+      "en": "comma"
+    },
+    {
+      "w": "可以",
+      "py": "kěyǐ",
+      "en": "can"
+    },
+    {
+      "w": "用",
+      "py": "yòng",
+      "en": "to use"
+    },
+    {
+      "w": "在",
+      "py": "zài",
+      "en": "in; at"
+    },
+    {
+      "w": "付款",
+      "py": "fùkuǎn",
+      "en": "to pay"
+    },
+    {
+      "w": "11",
+      "py": "shíyī",
+      "en": "eleven"
+    },
+    {
+      "w": "月",
+      "py": "yuè",
+      "en": "month"
+    },
+    {
+      "w": "10",
+      "py": "shí",
+      "en": "ten"
+    },
+    {
+      "w": "日",
+      "py": "rì",
+      "en": "day (of the month)"
+    },
+    {
+      "w": "网",
+      "py": "wǎng",
+      "en": "network; website"
+    },
+    {
+      "w": "了",
+      "py": "le",
+      "en": "(completed action)"
+    },
+    {
+      "w": "一个",
+      "py": "yí gè",
+      "en": "one; a"
+    },
+    {
+      "w": "叫",
+      "py": "jiào",
+      "en": "to be called"
+    },
+    {
+      "w": "的",
+      "py": "de",
+      "en": "(possessive / modifier particle)"
+    },
+    {
+      "w": "手机",
+      "py": "shǒujī",
+      "en": "mobile phone"
+    },
+    {
+      "w": "把",
+      "py": "bǎ",
+      "en": "(marks the object)"
+    },
+    {
+      "w": "到",
+      "py": "dào",
+      "en": "to"
+    },
+    {
+      "w": "以后",
+      "py": "yǐhòu",
+      "en": "after"
+    },
+    {
+      "w": "就",
+      "py": "jiù",
+      "en": "then"
+    },
+    {
+      "w": "能",
+      "py": "néng",
+      "en": "can"
+    },
+    {
+      "w": "这个",
+      "py": "zhège",
+      "en": "this"
+    },
+    {
+      "w": "有了",
+      "py": "yǒu le",
+      "en": "with; having"
+    },
+    {
+      "w": "国外",
+      "py": "guówài",
+      "en": "abroad"
+    },
+    {
+      "w": "旅行",
+      "py": "lǚxíng",
+      "en": "to travel"
+    },
+    {
+      "w": "时",
+      "py": "shí",
+      "en": "when; while"
+    },
+    {
+      "w": "扫",
+      "py": "sǎo",
+      "en": "to scan"
+    },
+    {
+      "w": "它",
+      "py": "tā",
+      "en": "it"
+    },
+    {
+      "w": "用的是",
+      "py": "yòng de shì",
+      "en": "what it uses is"
+    },
+    {
+      "w": "很多",
+      "py": "hěn duō",
+      "en": "many"
+    },
+    {
+      "w": "国家",
+      "py": "guójiā",
+      "en": "country"
+    },
+    {
+      "w": "和",
+      "py": "hé",
+      "en": "and"
+    },
+    {
+      "w": "在一起",
+      "py": "zài yìqǐ",
+      "en": "together"
+    },
+    {
+      "w": "说",
+      "py": "shuō",
+      "en": "to say"
+    },
+    {
+      "w": "第一",
+      "py": "dì-yī",
+      "en": "first"
+    },
+    {
+      "w": "地方",
+      "py": "dìfang",
+      "en": "place"
+    },
+    {
+      "w": "是",
+      "py": "shì",
+      "en": "to be"
+    },
+    {
+      "w": "几个",
+      "py": "jǐ gè",
+      "en": "several"
+    },
+    {
+      "w": "旅游",
+      "py": "lǚyóu",
+      "en": "travel; tourism"
+    },
+    {
+      "w": "比如",
+      "py": "bǐrú",
+      "en": "for example"
+    },
+    {
+      "w": "码",
+      "py": "mǎ",
+      "en": "code"
+    },
+    {
+      "w": "也",
+      "py": "yě",
+      "en": "also"
+    },
+    {
+      "w": "发现",
+      "py": "fāxiàn",
+      "en": "to detect; to find"
+    },
+    {
+      "w": "用户到了",
+      "py": "yònghù dào le",
+      "en": "the user has arrived"
+    },
+    {
+      "w": "到了",
+      "py": "dào le",
+      "en": "arrived (at)"
+    },
+    {
+      "w": "支持",
+      "py": "zhīchí",
+      "en": "to support"
+    },
+    {
+      "w": "或",
+      "py": "huò",
+      "en": "or"
+    },
+    {
+      "w": "里",
+      "py": "lǐ",
+      "en": "in; inside"
+    },
+    {
+      "w": "自己",
+      "py": "zìjǐ",
+      "en": "oneself"
+    },
+    {
+      "w": "打开",
+      "py": "dǎkāi",
+      "en": "to turn on; to open"
+    },
+    {
+      "w": "并",
+      "py": "bìng",
+      "en": "and"
+    },
+    {
+      "w": "给",
+      "py": "gěi",
+      "en": "to give"
+    },
+    {
+      "w": "需要",
+      "py": "xūyào",
+      "en": "to need"
+    },
+    {
+      "w": "这样",
+      "py": "zhèyàng",
+      "en": "this way"
+    },
+    {
+      "w": "不用",
+      "py": "búyòng",
+      "en": "no need to"
+    },
+    {
+      "w": "家",
+      "py": "jiā",
+      "en": "(measure word for businesses)"
+    }
+  ],
+  "featured": [
+    {
+      "hanzi": "扫码",
+      "pinyin": "sǎomǎ",
+      "pos": "verb (verb-object)",
+      "en": "to scan a (QR) code",
+      "note": "Short for 扫二维码. Common phrases: 扫码支付 (scan-to-pay), 扫码付款, 主扫 / 被扫 (customer scans merchant code / merchant scans customer code), 扫码点餐 (order food by scanning).",
+      "examples": [
+        {
+          "zh": "在中国，很多小店只支持扫码支付。",
+          "py": "Zài Zhōngguó, hěn duō xiǎo diàn zhǐ zhīchí sǎomǎ zhīfù.",
+          "en": "In China, many small shops only accept scan-to-pay."
+        },
+        {
+          "zh": "服务员说，扫码就可以点菜了。",
+          "py": "Fúwùyuán shuō, sǎomǎ jiù kěyǐ diǎn cài le.",
+          "en": "The waiter said you can order just by scanning the code."
+        },
+        {
+          "zh": "我们要看看上周有多少商户每天都有扫码交易。",
+          "py": "Wǒmen yào kànkan shàng zhōu yǒu duōshao shānghù měi tiān dōu yǒu sǎomǎ jiāoyì.",
+          "en": "We need to check how many merchants had scan-to-pay transactions every day last week."
+        }
+      ]
+    },
+    {
+      "hanzi": "商户",
+      "pinyin": "shānghù",
+      "pos": "noun",
+      "en": "merchant; business (that accepts payments)",
+      "note": "Key payments term: 合作商户 (partner merchants), 商户数量 (number of merchants), 小微商户 (micro and small merchants), 商户收单 (merchant acquiring).",
+      "examples": [
+        {
+          "zh": "这家支付公司在东南亚有几十万家合作商户。",
+          "py": "Zhè jiā zhīfù gōngsī zài Dōngnányà yǒu jǐ shí wàn jiā hézuò shānghù.",
+          "en": "This payment company has hundreds of thousands of partner merchants in Southeast Asia."
+        },
+        {
+          "zh": "楼下的水果店也是这个平台的商户。",
+          "py": "Lóuxià de shuǐguǒ diàn yě shì zhège píngtái de shānghù.",
+          "en": "The fruit shop downstairs is also a merchant on this platform."
+        },
+        {
+          "zh": "这个月新开户的商户比上个月多了百分之十五。",
+          "py": "Zhège yuè xīn kāihù de shānghù bǐ shàng gè yuè duō le bǎifēn zhī shíwǔ.",
+          "en": "Merchants who opened accounts this month were 15 percent more than last month."
+        }
+      ]
+    }
+  ]
+}
