@@ -1,0 +1,470 @@
+{
+  "date": "2026-11-13",
+  "category": "fintech",
+  "title_zh": "央行公布三季度支付数据：移动支付超过620亿笔",
+  "title_en": "PBOC releases Q3 payment data: mobile payments top 62 billion transactions",
+  "paragraphs": [
+    {
+      "zh": "11月11日，中国人民银行发布了今年第三季度全国支付体系的运行情况。央行每个季度都会公布一次这样的数据，说明全国银行卡、电子支付和支付系统的使用情况。",
+      "en": "On November 11, the People's Bank of China released information on how the national payment system ran in the third quarter of this year. The central bank publishes this kind of data once every quarter, showing how bank cards, electronic payments and payment systems are used across the country."
+    },
+    {
+      "zh": "数据显示，三季度银行处理的电子支付约为855亿笔，金额约995万亿元。其中，移动支付约624亿笔，金额约138万亿元；网上支付约199亿笔，金额约844万亿元。",
+      "en": "The data show that in the third quarter banks handled about 85.5 billion electronic payments, worth about 995 trillion yuan. Of these, mobile payments were about 62.4 billion transactions worth about 138 trillion yuan, and online payments were about 19.9 billion transactions worth about 844 trillion yuan."
+    },
+    {
+      "zh": "支付宝、微信支付等非银行支付机构在三季度一共处理网络支付约3234亿笔，金额约78万亿元。网联是连接支付机构和银行的清算平台，三季度它平均每天处理约36.7亿笔交易。",
+      "en": "Non-bank payment institutions such as Alipay and WeChat Pay handled about 323.4 billion online payments in total in the third quarter, worth about 78 trillion yuan. NetsUnion is the clearing platform that connects payment institutions with banks; in the third quarter it handled about 3.67 billion transactions a day on average."
+    },
+    {
+      "zh": "到三季度末，全国一共有约103亿张银行卡，其中借记卡约96亿张。三季度银行卡消费业务约1084亿笔，金额约32万亿元。",
+      "en": "By the end of the third quarter, there were about 10.3 billion bank cards in the country, of which about 9.6 billion were debit cards. In the third quarter, bank card spending transactions numbered about 108.4 billion, worth about 32 trillion yuan."
+    }
+  ],
+  "source": {
+    "name": "移动支付网",
+    "name_en": "Mpaypass (China Mobile Payment Network)",
+    "url": "https://www.mpaypass.com.cn/news/202611/12134724.html"
+  },
+  "vocab": [
+    {
+      "hanzi": "央行",
+      "pinyin": "yāngháng",
+      "en": "central bank (short for 中央银行)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "公布",
+      "pinyin": "gōngbù",
+      "en": "to announce; to make public",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "季度",
+      "pinyin": "jìdù",
+      "en": "quarter (of a year)",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "支付",
+      "pinyin": "zhīfù",
+      "en": "to pay; payment",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "数据",
+      "pinyin": "shùjù",
+      "en": "data",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "移动支付",
+      "pinyin": "yídòng zhīfù",
+      "en": "mobile payment",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "亿",
+      "pinyin": "yì",
+      "en": "hundred million",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "笔",
+      "pinyin": "bǐ",
+      "en": "measure word for transactions / sums of money",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "中国人民银行",
+      "pinyin": "Zhōngguó Rénmín Yínháng",
+      "en": "People's Bank of China (PBOC)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "发布",
+      "pinyin": "fābù",
+      "en": "to release; to publish",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "全国",
+      "pinyin": "quánguó",
+      "en": "the whole country; nationwide",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "体系",
+      "pinyin": "tǐxì",
+      "en": "system",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "运行",
+      "pinyin": "yùnxíng",
+      "en": "to run; operation",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "银行卡",
+      "pinyin": "yínhángkǎ",
+      "en": "bank card",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "电子支付",
+      "pinyin": "diànzǐ zhīfù",
+      "en": "electronic payment",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "系统",
+      "pinyin": "xìtǒng",
+      "en": "system",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "显示",
+      "pinyin": "xiǎnshì",
+      "en": "to show",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "处理",
+      "pinyin": "chǔlǐ",
+      "en": "to handle; to process",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "金额",
+      "pinyin": "jīn'é",
+      "en": "amount of money",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "万亿",
+      "pinyin": "wànyì",
+      "en": "trillion",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "网上支付",
+      "pinyin": "wǎngshàng zhīfù",
+      "en": "online payment (via online banking)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "支付宝",
+      "pinyin": "Zhīfùbǎo",
+      "en": "Alipay",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "微信支付",
+      "pinyin": "Wēixìn Zhīfù",
+      "en": "WeChat Pay",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "非银行",
+      "pinyin": "fēi yínháng",
+      "en": "non-bank",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "支付机构",
+      "pinyin": "zhīfù jīgòu",
+      "en": "payment institution",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "网络支付",
+      "pinyin": "wǎngluò zhīfù",
+      "en": "online / internet payment",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "网联",
+      "pinyin": "Wǎnglián",
+      "en": "NetsUnion (non-bank payment clearing platform)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "连接",
+      "pinyin": "liánjiē",
+      "en": "to connect",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "机构",
+      "pinyin": "jīgòu",
+      "en": "institution; organisation",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "清算",
+      "pinyin": "qīngsuàn",
+      "en": "clearing (of payments); to settle",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "平台",
+      "pinyin": "píngtái",
+      "en": "platform",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "平均",
+      "pinyin": "píngjūn",
+      "en": "average; on average",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "交易",
+      "pinyin": "jiāoyì",
+      "en": "transaction; trade",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "末",
+      "pinyin": "mò",
+      "en": "end (of a period)",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "借记卡",
+      "pinyin": "jièjìkǎ",
+      "en": "debit card",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "消费",
+      "pinyin": "xiāofèi",
+      "en": "consumption; spending",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "业务",
+      "pinyin": "yèwù",
+      "en": "business; service",
+      "hsk": "HSK 5"
+    }
+  ],
+  "featured": [
+    {
+      "hanzi": "移动支付",
+      "pinyin": "yídòng zhīfù",
+      "pos": "noun",
+      "en": "mobile payment",
+      "note": "Common phrases: 移动支付平台 (mobile payment platform), 移动支付笔数 / 金额 (number / value of mobile payments), 用手机移动支付, 跨境移动支付 (cross-border mobile payment).",
+      "examples": [
+        {
+          "zh": "三季度，银行处理的移动支付超过六百亿笔。",
+          "py": "Sān jìdù, yínháng chǔlǐ de yídòng zhīfù chāoguò liùbǎi yì bǐ.",
+          "en": "In the third quarter, banks handled more than 60 billion mobile payments."
+        },
+        {
+          "zh": "我们每周看一次移动支付的用户数据。",
+          "py": "Wǒmen měi zhōu kàn yí cì yídòng zhīfù de yònghù shùjù.",
+          "en": "We look at our mobile payment user data once a week."
+        },
+        {
+          "zh": "在中国，买一杯咖啡也可以用移动支付。",
+          "py": "Zài Zhōngguó, mǎi yì bēi kāfēi yě kěyǐ yòng yídòng zhīfù.",
+          "en": "In China, you can even buy a cup of coffee with mobile payment."
+        }
+      ]
+    },
+    {
+      "hanzi": "清算",
+      "pinyin": "qīngsuàn",
+      "pos": "verb / noun",
+      "en": "clearing (of payments); to settle accounts",
+      "note": "Common phrases: 清算平台 (clearing platform), 清算机构 (clearing house), 跨境清算 (cross-border clearing), 资金清算 (fund clearing). In company law it can also mean liquidation (破产清算).",
+      "examples": [
+        {
+          "zh": "网联负责支付机构和银行之间的清算。",
+          "py": "Wǎnglián fùzé zhīfù jīgòu hé yínháng zhījiān de qīngsuàn.",
+          "en": "NetsUnion handles clearing between payment institutions and banks."
+        },
+        {
+          "zh": "如果清算系统出问题，商户可能要晚一天收到钱。",
+          "py": "Rúguǒ qīngsuàn xìtǒng chū wèntí, shānghù kěnéng yào wǎn yì tiān shōudào qián.",
+          "en": "If the clearing system has a problem, merchants may get their money a day late."
+        },
+        {
+          "zh": "旅行回来以后，我们几个朋友把费用清算了一下。",
+          "py": "Lǚxíng huílái yǐhòu, wǒmen jǐ gè péngyou bǎ fèiyòng qīngsuàn le yíxià.",
+          "en": "After the trip, a few of us friends settled up the costs."
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "w": "三季度",
+      "py": "sān jìdù",
+      "en": "the third quarter"
+    },
+    {
+      "w": "一共",
+      "py": "yígòng",
+      "en": "in total"
+    },
+    {
+      "w": "今年",
+      "py": "jīnnián",
+      "en": "this year"
+    },
+    {
+      "w": "超过",
+      "py": "chāoguò",
+      "en": "to exceed"
+    },
+    {
+      "w": "620",
+      "py": "liùbǎi èrshí",
+      "en": "620"
+    },
+    {
+      "w": "11月",
+      "py": "shíyī yuè",
+      "en": "November"
+    },
+    {
+      "w": "11日",
+      "py": "shíyī rì",
+      "en": "11th (day)"
+    },
+    {
+      "w": "2026年",
+      "py": "èr líng èr liù nián",
+      "en": "the year 2026"
+    },
+    {
+      "w": "了",
+      "py": "le",
+      "en": "(completed action)"
+    },
+    {
+      "w": "第三",
+      "py": "dì-sān",
+      "en": "third"
+    },
+    {
+      "w": "的",
+      "py": "de",
+      "en": "(possessive / modifier particle)"
+    },
+    {
+      "w": "情况",
+      "py": "qíngkuàng",
+      "en": "situation"
+    },
+    {
+      "w": "每个",
+      "py": "měi gè",
+      "en": "every"
+    },
+    {
+      "w": "都",
+      "py": "dōu",
+      "en": "all; always"
+    },
+    {
+      "w": "会",
+      "py": "huì",
+      "en": "will"
+    },
+    {
+      "w": "一次",
+      "py": "yí cì",
+      "en": "once"
+    },
+    {
+      "w": "这样",
+      "py": "zhèyàng",
+      "en": "this kind of"
+    },
+    {
+      "w": "说明",
+      "py": "shuōmíng",
+      "en": "to explain; to show"
+    },
+    {
+      "w": "和",
+      "py": "hé",
+      "en": "and"
+    },
+    {
+      "w": "使用",
+      "py": "shǐyòng",
+      "en": "use"
+    },
+    {
+      "w": "银行",
+      "py": "yínháng",
+      "en": "bank"
+    },
+    {
+      "w": "约",
+      "py": "yuē",
+      "en": "about"
+    },
+    {
+      "w": "为",
+      "py": "wéi",
+      "en": "to be"
+    },
+    {
+      "w": "元",
+      "py": "yuán",
+      "en": "yuan"
+    },
+    {
+      "w": "其中",
+      "py": "qízhōng",
+      "en": "among them"
+    },
+    {
+      "w": "等",
+      "py": "děng",
+      "en": "and other; such as"
+    },
+    {
+      "w": "在",
+      "py": "zài",
+      "en": "in"
+    },
+    {
+      "w": "是",
+      "py": "shì",
+      "en": "to be"
+    },
+    {
+      "w": "它",
+      "py": "tā",
+      "en": "it"
+    },
+    {
+      "w": "每天",
+      "py": "měi tiān",
+      "en": "every day"
+    },
+    {
+      "w": "到",
+      "py": "dào",
+      "en": "by; up to"
+    },
+    {
+      "w": "有",
+      "py": "yǒu",
+      "en": "to have; there are"
+    },
+    {
+      "w": "张",
+      "py": "zhāng",
+      "en": "measure word for cards"
+    }
+  ]
+}

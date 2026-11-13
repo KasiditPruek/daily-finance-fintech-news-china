@@ -1,0 +1,682 @@
+{
+  "date": "2026-11-13",
+  "category": "finance",
+  "title_zh": "证监会：今年上市公司回购创新高，将进一步稳定股市",
+  "title_en": "CSRC: Share buybacks by listed companies hit a record this year; it will do more to keep the stock market stable",
+  "paragraphs": [
+    {
+      "zh": "11月12日，2026年上海证券交易所国际投资者大会在上海举行。中国证监会有关负责人在会上发言，介绍了稳定股票市场的一些做法。",
+      "en": "On November 12, the 2026 Shanghai Stock Exchange International Investor Conference was held in Shanghai. An official from the China Securities Regulatory Commission (CSRC) spoke at the meeting and described some of the steps taken to keep the stock market stable."
+    },
+    {
+      "zh": "这位负责人说，证监会和其他部门一起，使用了央行的两项结构性货币政策工具。到现在，证券公司和基金公司已经做了第三批“互换便利”操作，金额为1000亿元，用来支持上市公司回购和增持自己的股票。互换便利是央行在2024年推出的工具，证券、基金和保险公司可以用手里的资产从央行换来国债等更容易卖出的资产。",
+      "en": "The official said the CSRC, together with other departments, has used two of the central bank's structural monetary policy tools. So far, securities companies and fund companies have carried out a third batch of \"swap facility\" operations worth 100 billion yuan, used to support listed companies in buying back and increasing holdings of their own shares. The swap facility is a tool the central bank launched in 2024: securities, fund and insurance companies can use assets they hold to swap for assets that are easier to sell, such as government bonds, from the central bank."
+    },
+    {
+      "zh": "他还表示，今年新公布的回购计划、实际回购的金额，以及回购后注销的股份，都达到了历史最高水平。",
+      "en": "He also said that this year the newly announced buyback plans, the actual amount bought back, and the shares cancelled after buybacks have all reached their highest levels in history."
+    },
+    {
+      "zh": "下一步，证监会将完善稳定市场的机制，增加股票类产品，引导主动管理的ETF更快买入股票，并让更多中长期资金进入市场。",
+      "en": "Next, the CSRC will improve its mechanism for keeping the market stable, add more stock-based products, guide actively managed ETFs to buy shares faster, and let more medium- and long-term money enter the market."
+    }
+  ],
+  "source": {
+    "name": "澎湃新闻（转载自央视新闻）",
+    "name_en": "The Paper (republished from CCTV News)",
+    "url": "https://www.thepaper.cn/newsDetail_forward_34458880"
+  },
+  "vocab": [
+    {
+      "hanzi": "证监会",
+      "pinyin": "Zhèngjiānhuì",
+      "en": "China Securities Regulatory Commission (CSRC)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "上市公司",
+      "pinyin": "shàngshì gōngsī",
+      "en": "listed company",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "回购",
+      "pinyin": "huígòu",
+      "en": "(share) buyback; to buy back",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "创新高",
+      "pinyin": "chuàng xīngāo",
+      "en": "to hit a record high",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "进一步",
+      "pinyin": "jìnyíbù",
+      "en": "further; to go a step further",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "稳定",
+      "pinyin": "wěndìng",
+      "en": "to stabilise; stable",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "股市",
+      "pinyin": "gǔshì",
+      "en": "stock market",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "证券交易所",
+      "pinyin": "zhèngquàn jiāoyìsuǒ",
+      "en": "stock exchange",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "投资者",
+      "pinyin": "tóuzīzhě",
+      "en": "investor",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "大会",
+      "pinyin": "dàhuì",
+      "en": "conference; general assembly",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "有关",
+      "pinyin": "yǒuguān",
+      "en": "relevant; concerned",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "负责人",
+      "pinyin": "fùzérén",
+      "en": "person in charge; official",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "发言",
+      "pinyin": "fāyán",
+      "en": "to speak (at a meeting); speech",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "股票",
+      "pinyin": "gǔpiào",
+      "en": "stock; share",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "做法",
+      "pinyin": "zuòfǎ",
+      "en": "way of doing things; method",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "部门",
+      "pinyin": "bùmén",
+      "en": "department; government body",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "央行",
+      "pinyin": "yāngháng",
+      "en": "central bank (short for 中央银行)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "结构性",
+      "pinyin": "jiégòuxìng",
+      "en": "structural",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "货币政策",
+      "pinyin": "huòbì zhèngcè",
+      "en": "monetary policy",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "工具",
+      "pinyin": "gōngjù",
+      "en": "tool; instrument",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "证券公司",
+      "pinyin": "zhèngquàn gōngsī",
+      "en": "securities company; brokerage",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "基金",
+      "pinyin": "jījīn",
+      "en": "fund",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "批",
+      "pinyin": "pī",
+      "en": "batch (measure word)",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "互换便利",
+      "pinyin": "hùhuàn biànlì",
+      "en": "swap facility (central bank tool)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "操作",
+      "pinyin": "cāozuò",
+      "en": "operation; to operate",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "金额",
+      "pinyin": "jīn'é",
+      "en": "amount of money",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "亿",
+      "pinyin": "yì",
+      "en": "hundred million",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "增持",
+      "pinyin": "zēngchí",
+      "en": "to increase one's shareholding",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "推出",
+      "pinyin": "tuīchū",
+      "en": "to launch; to introduce",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "保险",
+      "pinyin": "bǎoxiǎn",
+      "en": "insurance",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "资产",
+      "pinyin": "zīchǎn",
+      "en": "asset(s)",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "国债",
+      "pinyin": "guózhài",
+      "en": "government bond",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "公布",
+      "pinyin": "gōngbù",
+      "en": "to announce; to make public",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "注销",
+      "pinyin": "zhùxiāo",
+      "en": "to cancel (shares, an account)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "股份",
+      "pinyin": "gǔfèn",
+      "en": "share; stock",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "达到",
+      "pinyin": "dádào",
+      "en": "to reach; to achieve",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "完善",
+      "pinyin": "wánshàn",
+      "en": "to improve; to perfect",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "机制",
+      "pinyin": "jīzhì",
+      "en": "mechanism",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "产品",
+      "pinyin": "chǎnpǐn",
+      "en": "product",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "引导",
+      "pinyin": "yǐndǎo",
+      "en": "to guide; to lead",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "主动",
+      "pinyin": "zhǔdòng",
+      "en": "active; on one's own initiative",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "中长期",
+      "pinyin": "zhōng-chángqī",
+      "en": "medium- and long-term",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "资金",
+      "pinyin": "zījīn",
+      "en": "funds; capital",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "市场",
+      "pinyin": "shìchǎng",
+      "en": "market",
+      "hsk": "HSK 5"
+    }
+  ],
+  "featured": [
+    {
+      "hanzi": "回购",
+      "pinyin": "huígòu",
+      "pos": "verb / noun",
+      "en": "to buy back; (share) buyback",
+      "note": "Common phrases: 股票回购 (share buyback), 回购计划 (buyback plan), 回购股份 (to buy back shares), 回购后注销 (cancel after buyback). In bond markets, 逆回购 means reverse repo.",
+      "examples": [
+        {
+          "zh": "这家公司宣布回购五亿元的股票。",
+          "py": "Zhè jiā gōngsī xuānbù huígòu wǔ yì yuán de gǔpiào.",
+          "en": "This company announced it will buy back 500 million yuan of its shares."
+        },
+        {
+          "zh": "今年很多上市公司都公布了回购计划。",
+          "py": "Jīnnián hěn duō shàngshì gōngsī dōu gōngbù le huígòu jìhuà.",
+          "en": "Many listed companies announced buyback plans this year."
+        },
+        {
+          "zh": "这家店说，旧手机可以按八折回购。",
+          "py": "Zhè jiā diàn shuō, jiù shǒujī kěyǐ àn bā zhé huígòu.",
+          "en": "This shop says it will buy back old phones at 80% of the price."
+        }
+      ]
+    },
+    {
+      "hanzi": "货币政策",
+      "pinyin": "huòbì zhèngcè",
+      "pos": "noun",
+      "en": "monetary policy",
+      "note": "Often used with 宽松的货币政策 (loose monetary policy), 稳健的货币政策 (prudent monetary policy), 货币政策工具 (monetary policy tool), 货币政策报告 (monetary policy report).",
+      "examples": [
+        {
+          "zh": "央行每个季度都会发布货币政策报告。",
+          "py": "Yāngháng měi gè jìdù dōu huì fābù huòbì zhèngcè bàogào.",
+          "en": "The central bank publishes a monetary policy report every quarter."
+        },
+        {
+          "zh": "降低利率是一种常用的货币政策工具。",
+          "py": "Jiàngdī lìlǜ shì yì zhǒng chángyòng de huòbì zhèngcè gōngjù.",
+          "en": "Cutting interest rates is a commonly used monetary policy tool."
+        },
+        {
+          "zh": "我在大学里学过货币政策，可是现在都忘了。",
+          "py": "Wǒ zài dàxué lǐ xué guo huòbì zhèngcè, kěshì xiànzài dōu wàng le.",
+          "en": "I studied monetary policy at university, but I've forgotten it all now."
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "w": "今年",
+      "py": "jīnnián",
+      "en": "this year"
+    },
+    {
+      "w": "将",
+      "py": "jiāng",
+      "en": "will"
+    },
+    {
+      "w": "11月",
+      "py": "shíyī yuè",
+      "en": "November"
+    },
+    {
+      "w": "12日",
+      "py": "shí'èr rì",
+      "en": "12th (day)"
+    },
+    {
+      "w": "2026年",
+      "py": "èr líng èr liù nián",
+      "en": "the year 2026"
+    },
+    {
+      "w": "2024年",
+      "py": "èr líng èr sì nián",
+      "en": "the year 2024"
+    },
+    {
+      "w": "上海",
+      "py": "Shànghǎi",
+      "en": "Shanghai"
+    },
+    {
+      "w": "国际",
+      "py": "guójì",
+      "en": "international"
+    },
+    {
+      "w": "在",
+      "py": "zài",
+      "en": "at; in"
+    },
+    {
+      "w": "举行",
+      "py": "jǔxíng",
+      "en": "to be held"
+    },
+    {
+      "w": "中国",
+      "py": "Zhōngguó",
+      "en": "China"
+    },
+    {
+      "w": "会上",
+      "py": "huì shàng",
+      "en": "at the meeting"
+    },
+    {
+      "w": "介绍",
+      "py": "jièshào",
+      "en": "to introduce; to describe"
+    },
+    {
+      "w": "了",
+      "py": "le",
+      "en": "(completed action)"
+    },
+    {
+      "w": "一些",
+      "py": "yìxiē",
+      "en": "some"
+    },
+    {
+      "w": "的",
+      "py": "de",
+      "en": "(possessive / modifier particle)"
+    },
+    {
+      "w": "这位",
+      "py": "zhè wèi",
+      "en": "this (person)"
+    },
+    {
+      "w": "说",
+      "py": "shuō",
+      "en": "to say"
+    },
+    {
+      "w": "和",
+      "py": "hé",
+      "en": "and; with"
+    },
+    {
+      "w": "其他",
+      "py": "qítā",
+      "en": "other"
+    },
+    {
+      "w": "一起",
+      "py": "yìqǐ",
+      "en": "together"
+    },
+    {
+      "w": "使用",
+      "py": "shǐyòng",
+      "en": "to use"
+    },
+    {
+      "w": "两项",
+      "py": "liǎng xiàng",
+      "en": "two (items)"
+    },
+    {
+      "w": "到现在",
+      "py": "dào xiànzài",
+      "en": "up to now"
+    },
+    {
+      "w": "已经",
+      "py": "yǐjīng",
+      "en": "already"
+    },
+    {
+      "w": "做",
+      "py": "zuò",
+      "en": "to do"
+    },
+    {
+      "w": "第三",
+      "py": "dì-sān",
+      "en": "third"
+    },
+    {
+      "w": "为",
+      "py": "wéi",
+      "en": "to be; as"
+    },
+    {
+      "w": "1000",
+      "py": "yìqiān",
+      "en": "one thousand"
+    },
+    {
+      "w": "元",
+      "py": "yuán",
+      "en": "yuan"
+    },
+    {
+      "w": "用来",
+      "py": "yònglái",
+      "en": "to be used for"
+    },
+    {
+      "w": "支持",
+      "py": "zhīchí",
+      "en": "to support"
+    },
+    {
+      "w": "自己",
+      "py": "zìjǐ",
+      "en": "oneself; own"
+    },
+    {
+      "w": "是",
+      "py": "shì",
+      "en": "to be"
+    },
+    {
+      "w": "证券",
+      "py": "zhèngquàn",
+      "en": "securities"
+    },
+    {
+      "w": "可以",
+      "py": "kěyǐ",
+      "en": "can"
+    },
+    {
+      "w": "用",
+      "py": "yòng",
+      "en": "to use"
+    },
+    {
+      "w": "手里",
+      "py": "shǒu lǐ",
+      "en": "in one's hands"
+    },
+    {
+      "w": "从",
+      "py": "cóng",
+      "en": "from"
+    },
+    {
+      "w": "换来",
+      "py": "huànlái",
+      "en": "to get in exchange"
+    },
+    {
+      "w": "等",
+      "py": "děng",
+      "en": "and so on; such as"
+    },
+    {
+      "w": "更",
+      "py": "gèng",
+      "en": "more"
+    },
+    {
+      "w": "容易",
+      "py": "róngyì",
+      "en": "easy"
+    },
+    {
+      "w": "卖出",
+      "py": "màichū",
+      "en": "to sell"
+    },
+    {
+      "w": "他",
+      "py": "tā",
+      "en": "he"
+    },
+    {
+      "w": "还",
+      "py": "hái",
+      "en": "also"
+    },
+    {
+      "w": "表示",
+      "py": "biǎoshì",
+      "en": "to state"
+    },
+    {
+      "w": "新",
+      "py": "xīn",
+      "en": "newly"
+    },
+    {
+      "w": "计划",
+      "py": "jìhuà",
+      "en": "plan"
+    },
+    {
+      "w": "实际",
+      "py": "shíjì",
+      "en": "actual"
+    },
+    {
+      "w": "以及",
+      "py": "yǐjí",
+      "en": "as well as"
+    },
+    {
+      "w": "后",
+      "py": "hòu",
+      "en": "after"
+    },
+    {
+      "w": "都",
+      "py": "dōu",
+      "en": "all"
+    },
+    {
+      "w": "历史",
+      "py": "lìshǐ",
+      "en": "history"
+    },
+    {
+      "w": "最高",
+      "py": "zuì gāo",
+      "en": "highest"
+    },
+    {
+      "w": "水平",
+      "py": "shuǐpíng",
+      "en": "level"
+    },
+    {
+      "w": "下一步",
+      "py": "xià yí bù",
+      "en": "next step"
+    },
+    {
+      "w": "增加",
+      "py": "zēngjiā",
+      "en": "to increase"
+    },
+    {
+      "w": "类",
+      "py": "lèi",
+      "en": "type; category"
+    },
+    {
+      "w": "管理",
+      "py": "guǎnlǐ",
+      "en": "management; managed"
+    },
+    {
+      "w": "快",
+      "py": "kuài",
+      "en": "fast"
+    },
+    {
+      "w": "买入",
+      "py": "mǎirù",
+      "en": "to buy"
+    },
+    {
+      "w": "并",
+      "py": "bìng",
+      "en": "and also"
+    },
+    {
+      "w": "让",
+      "py": "ràng",
+      "en": "to let"
+    },
+    {
+      "w": "更多",
+      "py": "gèng duō",
+      "en": "more"
+    },
+    {
+      "w": "进入",
+      "py": "jìnrù",
+      "en": "to enter"
+    },
+    {
+      "w": "公司",
+      "py": "gōngsī",
+      "en": "company"
+    }
+  ]
+}
