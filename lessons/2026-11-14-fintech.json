@@ -1,0 +1,581 @@
+{
+  "date": "2026-11-14",
+  "category": "fintech",
+  "title_zh": "工商银行完成中国和泰国之间第一笔“数币达”汇款",
+  "title_en": "ICBC completes the first \"Shubida\" remittance between China and Thailand",
+  "paragraphs": [
+    {
+      "zh": "11月13日，有消息说，中国工商银行重庆市分行和工商银行（泰国）一起，完成了中国和泰国之间第一笔通过“数币达”平台的数字人民币跨境汇款。",
+      "en": "On November 13, it was reported that ICBC's Chongqing branch, together with ICBC (Thai), completed the first cross-border digital yuan remittance between China and Thailand made through the \"Shubida\" platform."
+    },
+    {
+      "zh": "数字人民币是中国人民银行发行的数字形式的人民币。“数币达”是一个处理跨境结算的平台，由央行数字货币研究所下面的数字人民币国际运营中心负责。",
+      "en": "The digital yuan is a digital form of the renminbi issued by the People's Bank of China. \"Shubida\" is a platform that handles cross-border settlement, run by the Digital Yuan International Operations Center under the central bank's Digital Currency Research Institute."
+    },
+    {
+      "zh": "这次汇款的客户叫陆海新通道运营有限公司。这家公司常常要给国外的合作伙伴付铁路运输的费用。用传统方式结算的时候，钱到得慢，花费也比较高。",
+      "en": "The customer for this remittance is called Land-Sea New Corridor Operation Co., Ltd. The company often has to pay railway transport fees to partners abroad. When it settled payments the traditional way, the money arrived slowly and the cost was also fairly high."
+    },
+    {
+      "zh": "这一次，所有的钱都用数字人民币支付，泰国的收款方在同一天就收到了。据介绍，这个平台可以直接清算，不用经过好几层银行。",
+      "en": "This time, all of the money was paid in digital yuan, and the payee in Thailand received it on the same day. According to the report, the platform can clear payments directly, without going through several layers of banks."
+    }
+  ],
+  "source": {
+    "name": "移动支付网",
+    "name_en": "Mpaypass (China Mobile Payment Network)",
+    "url": "https://www.mpaypass.com.cn/news/202611/13174036.html"
+  },
+  "vocab": [
+    {
+      "hanzi": "工商银行",
+      "pinyin": "Gōngshāng Yínháng",
+      "en": "Industrial and Commercial Bank of China (ICBC)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "之间",
+      "pinyin": "zhījiān",
+      "en": "between",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "笔",
+      "pinyin": "bǐ",
+      "en": "(measure word for sums of money / transactions)",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "数币达",
+      "pinyin": "Shùbìdá",
+      "en": "\"Shubida\", the PBOC's digital yuan cross-border settlement platform",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "汇款",
+      "pinyin": "huìkuǎn",
+      "en": "remittance; to send money",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "分行",
+      "pinyin": "fēnháng",
+      "en": "branch (of a bank)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "平台",
+      "pinyin": "píngtái",
+      "en": "platform",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "数字人民币",
+      "pinyin": "shùzì rénmínbì",
+      "en": "digital yuan (e-CNY)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "跨境",
+      "pinyin": "kuàjìng",
+      "en": "cross-border",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "发行",
+      "pinyin": "fāxíng",
+      "en": "to issue (currency, cards, shares)",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "形式",
+      "pinyin": "xíngshì",
+      "en": "form",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "处理",
+      "pinyin": "chǔlǐ",
+      "en": "to handle; to process",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "结算",
+      "pinyin": "jiésuàn",
+      "en": "settlement; to settle (payments)",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "央行",
+      "pinyin": "yāngháng",
+      "en": "central bank (short for 中央银行)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "数字货币",
+      "pinyin": "shùzì huòbì",
+      "en": "digital currency",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "研究所",
+      "pinyin": "yánjiūsuǒ",
+      "en": "research institute",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "运营",
+      "pinyin": "yùnyíng",
+      "en": "operation; to operate",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "中心",
+      "pinyin": "zhōngxīn",
+      "en": "center",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "客户",
+      "pinyin": "kèhù",
+      "en": "customer; client",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "陆海新通道",
+      "pinyin": "Lù-Hǎi Xīn Tōngdào",
+      "en": "New International Land-Sea Trade Corridor",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "有限公司",
+      "pinyin": "yǒuxiàn gōngsī",
+      "en": "limited company (Co., Ltd.)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "合作伙伴",
+      "pinyin": "hézuò huǒbàn",
+      "en": "partner (business)",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "铁路",
+      "pinyin": "tiělù",
+      "en": "railway",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "运输",
+      "pinyin": "yùnshū",
+      "en": "transport",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "费用",
+      "pinyin": "fèiyòng",
+      "en": "fee; cost",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "传统",
+      "pinyin": "chuántǒng",
+      "en": "traditional",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "方式",
+      "pinyin": "fāngshì",
+      "en": "way; method",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "花费",
+      "pinyin": "huāfèi",
+      "en": "cost; expense",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "支付",
+      "pinyin": "zhīfù",
+      "en": "to pay; payment",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "收款方",
+      "pinyin": "shōukuǎnfāng",
+      "en": "payee; receiving party",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "据介绍",
+      "pinyin": "jù jièshào",
+      "en": "according to the report / information given",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "清算",
+      "pinyin": "qīngsuàn",
+      "en": "to clear (payments); clearing",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "层",
+      "pinyin": "céng",
+      "en": "layer; level",
+      "hsk": "HSK 5"
+    }
+  ],
+  "glossary": [
+    {
+      "w": "完成",
+      "py": "wánchéng",
+      "en": "to complete"
+    },
+    {
+      "w": "中国",
+      "py": "Zhōngguó",
+      "en": "China"
+    },
+    {
+      "w": "和",
+      "py": "hé",
+      "en": "and; with"
+    },
+    {
+      "w": "泰国",
+      "py": "Tàiguó",
+      "en": "Thailand"
+    },
+    {
+      "w": "第一",
+      "py": "dì-yī",
+      "en": "first"
+    },
+    {
+      "w": "11",
+      "py": "shíyī",
+      "en": "eleven"
+    },
+    {
+      "w": "月",
+      "py": "yuè",
+      "en": "month"
+    },
+    {
+      "w": "13",
+      "py": "shísān",
+      "en": "thirteen"
+    },
+    {
+      "w": "日",
+      "py": "rì",
+      "en": "day (date)"
+    },
+    {
+      "w": "有",
+      "py": "yǒu",
+      "en": "there is"
+    },
+    {
+      "w": "消息",
+      "py": "xiāoxi",
+      "en": "news; report"
+    },
+    {
+      "w": "说",
+      "py": "shuō",
+      "en": "to say"
+    },
+    {
+      "w": "中国工商银行",
+      "py": "Zhōngguó Gōngshāng Yínháng",
+      "en": "Industrial and Commercial Bank of China"
+    },
+    {
+      "w": "重庆市",
+      "py": "Chóngqìng Shì",
+      "en": "Chongqing city"
+    },
+    {
+      "w": "一起",
+      "py": "yìqǐ",
+      "en": "together"
+    },
+    {
+      "w": "了",
+      "py": "le",
+      "en": "(completed action)"
+    },
+    {
+      "w": "通过",
+      "py": "tōngguò",
+      "en": "through"
+    },
+    {
+      "w": "的",
+      "py": "de",
+      "en": "(modifier particle)"
+    },
+    {
+      "w": "是",
+      "py": "shì",
+      "en": "is"
+    },
+    {
+      "w": "中国人民银行",
+      "py": "Zhōngguó Rénmín Yínháng",
+      "en": "People's Bank of China"
+    },
+    {
+      "w": "人民币",
+      "py": "rénmínbì",
+      "en": "renminbi (RMB)"
+    },
+    {
+      "w": "一个",
+      "py": "yí gè",
+      "en": "a; one"
+    },
+    {
+      "w": "由",
+      "py": "yóu",
+      "en": "by"
+    },
+    {
+      "w": "下面",
+      "py": "xiàmiàn",
+      "en": "under; below"
+    },
+    {
+      "w": "国际",
+      "py": "guójì",
+      "en": "international"
+    },
+    {
+      "w": "负责",
+      "py": "fùzé",
+      "en": "to be in charge of"
+    },
+    {
+      "w": "这次",
+      "py": "zhè cì",
+      "en": "this time"
+    },
+    {
+      "w": "叫",
+      "py": "jiào",
+      "en": "to be called"
+    },
+    {
+      "w": "这家",
+      "py": "zhè jiā",
+      "en": "this (company)"
+    },
+    {
+      "w": "公司",
+      "py": "gōngsī",
+      "en": "company"
+    },
+    {
+      "w": "常常",
+      "py": "chángcháng",
+      "en": "often"
+    },
+    {
+      "w": "要",
+      "py": "yào",
+      "en": "to need to"
+    },
+    {
+      "w": "给",
+      "py": "gěi",
+      "en": "to; for"
+    },
+    {
+      "w": "国外",
+      "py": "guówài",
+      "en": "abroad; foreign"
+    },
+    {
+      "w": "付",
+      "py": "fù",
+      "en": "to pay"
+    },
+    {
+      "w": "用",
+      "py": "yòng",
+      "en": "to use; with"
+    },
+    {
+      "w": "时候",
+      "py": "shíhou",
+      "en": "time; when"
+    },
+    {
+      "w": "钱",
+      "py": "qián",
+      "en": "money"
+    },
+    {
+      "w": "到",
+      "py": "dào",
+      "en": "to arrive"
+    },
+    {
+      "w": "得",
+      "py": "de",
+      "en": "(complement particle)"
+    },
+    {
+      "w": "慢",
+      "py": "màn",
+      "en": "slow"
+    },
+    {
+      "w": "也",
+      "py": "yě",
+      "en": "also"
+    },
+    {
+      "w": "比较",
+      "py": "bǐjiào",
+      "en": "fairly; relatively"
+    },
+    {
+      "w": "高",
+      "py": "gāo",
+      "en": "high"
+    },
+    {
+      "w": "这",
+      "py": "zhè",
+      "en": "this"
+    },
+    {
+      "w": "一次",
+      "py": "yí cì",
+      "en": "once; one time"
+    },
+    {
+      "w": "所有",
+      "py": "suǒyǒu",
+      "en": "all"
+    },
+    {
+      "w": "都",
+      "py": "dōu",
+      "en": "all"
+    },
+    {
+      "w": "在",
+      "py": "zài",
+      "en": "on; at"
+    },
+    {
+      "w": "同一天",
+      "py": "tóng yì tiān",
+      "en": "the same day"
+    },
+    {
+      "w": "就",
+      "py": "jiù",
+      "en": "already; right away"
+    },
+    {
+      "w": "收到",
+      "py": "shōudào",
+      "en": "to receive"
+    },
+    {
+      "w": "这个",
+      "py": "zhège",
+      "en": "this"
+    },
+    {
+      "w": "可以",
+      "py": "kěyǐ",
+      "en": "can"
+    },
+    {
+      "w": "直接",
+      "py": "zhíjiē",
+      "en": "directly"
+    },
+    {
+      "w": "不用",
+      "py": "búyòng",
+      "en": "no need to"
+    },
+    {
+      "w": "经过",
+      "py": "jīngguò",
+      "en": "to go through"
+    },
+    {
+      "w": "好几",
+      "py": "hǎojǐ",
+      "en": "several"
+    },
+    {
+      "w": "银行",
+      "py": "yínháng",
+      "en": "bank"
+    },
+    {
+      "w": "数字",
+      "py": "shùzì",
+      "en": "digital"
+    }
+  ],
+  "featured": [
+    {
+      "hanzi": "汇款",
+      "pinyin": "huìkuǎn",
+      "pos": "noun / verb",
+      "en": "remittance; to send money (by bank transfer)",
+      "note": "Common phrases: 跨境汇款 (cross-border remittance), 汇款给… (send money to…), 收到汇款 (receive a remittance), 汇款手续费 (remittance fee).",
+      "examples": [
+        {
+          "zh": "这笔跨境汇款当天就到了泰国的收款方。",
+          "py": "Zhè bǐ kuàjìng huìkuǎn dàngtiān jiù dào le Tàiguó de shōukuǎnfāng.",
+          "en": "This cross-border remittance reached the payee in Thailand the same day."
+        },
+        {
+          "zh": "我每个月都给在国外读书的弟弟汇款。",
+          "py": "Wǒ měi gè yuè dōu gěi zài guówài dúshū de dìdi huìkuǎn.",
+          "en": "Every month I send money to my younger brother who is studying abroad."
+        },
+        {
+          "zh": "我们可以看看平台上每天有多少企业客户用手机汇款。",
+          "py": "Wǒmen kěyǐ kànkan píngtái shang měi tiān yǒu duōshao qǐyè kèhù yòng shǒujī huìkuǎn.",
+          "en": "We can look at how many business customers on the platform send money by phone each day."
+        }
+      ]
+    },
+    {
+      "hanzi": "结算",
+      "pinyin": "jiésuàn",
+      "pos": "verb / noun",
+      "en": "to settle (accounts or payments); settlement",
+      "note": "Common phrases: 跨境结算 (cross-border settlement), 人民币结算 (settlement in RMB), 结算方式 (settlement method), 结算周期 (settlement cycle).",
+      "examples": [
+        {
+          "zh": "越来越多的外贸公司开始用人民币结算。",
+          "py": "Yuè lái yuè duō de wàimào gōngsī kāishǐ yòng rénmínbì jiésuàn.",
+          "en": "More and more foreign-trade companies are starting to settle in RMB."
+        },
+        {
+          "zh": "我们和这家饭店说好了，每个月月底结算一次。",
+          "py": "Wǒmen hé zhè jiā fàndiàn shuō hǎo le, měi gè yuè yuèdǐ jiésuàn yí cì.",
+          "en": "We agreed with this restaurant to settle the bill once at the end of every month."
+        },
+        {
+          "zh": "报告显示，商户的平均结算时间从两天降低到了一天。",
+          "py": "Bàogào xiǎnshì, shānghù de píngjūn jiésuàn shíjiān cóng liǎng tiān jiàngdī dào le yì tiān.",
+          "en": "The report shows that merchants' average settlement time fell from two days to one day."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,490 @@
+{
+  "date": "2026-11-14",
+  "category": "finance",
+  "title_zh": "央行：10月底M2增长7.1%，企业贷款利率约2.9%",
+  "title_en": "PBOC: M2 up 7.1% at end-October; corporate loan rates about 2.9%",
+  "paragraphs": [
+    {
+      "zh": "11月13日，中国人民银行公布了10月的金融数据。到10月底，广义货币M2的余额是359.06万亿元，比去年同期增长7.1%。M2是一个常用的指标，用来看社会上一共有多少钱。",
+      "en": "On November 13, the People's Bank of China released its financial data for October. At the end of October, the balance of broad money (M2) was 359.06 trillion yuan, up 7.1% from the same period last year. M2 is a commonly used indicator for seeing how much money there is in society in total."
+    },
+    {
+      "zh": "社会融资规模说明企业和个人一共从金融体系得到了多少资金。10月底，它的存量是469.16万亿元，同比增长7.2%。今年前10个月，社会融资规模一共增加了28.61万亿元，比去年同期少2.29万亿元。",
+      "en": "Total social financing shows how much funding companies and individuals have received from the financial system altogether. At the end of October its outstanding stock was 469.16 trillion yuan, up 7.2% year on year. In the first 10 months of this year, social financing increased by a total of 28.61 trillion yuan, 2.29 trillion yuan less than in the same period last year."
+    },
+    {
+      "zh": "在这些新增的资金里，通过发债券和股票得到的钱约占53%，贷款约占39%。人民币贷款的余额是283.33万亿元，同比增长4.7%。",
+      "en": "Of this new funding, money raised by issuing bonds and stocks made up about 53%, and loans about 39%. The balance of RMB loans was 283.33 trillion yuan, up 4.7% year on year."
+    },
+    {
+      "zh": "央行数据还显示，10月新发放的企业贷款平均利率约为2.9%，比去年同期低约0.2个百分点；新发放的个人房贷平均利率约为3.1%，和去年差不多。",
+      "en": "The central bank's data also show that the average interest rate on new corporate loans issued in October was about 2.9%, about 0.2 percentage points lower than a year earlier; the average rate on new personal mortgages was about 3.1%, about the same as last year."
+    }
+  ],
+  "source": {
+    "name": "第一财经",
+    "name_en": "Yicai (China Business Network)",
+    "url": "https://www.yicai.com/news/103440147.html"
+  },
+  "vocab": [
+    {
+      "hanzi": "央行",
+      "pinyin": "yāngháng",
+      "en": "central bank (short for 中央银行)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "增长",
+      "pinyin": "zēngzhǎng",
+      "en": "to grow; growth",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "企业",
+      "pinyin": "qǐyè",
+      "en": "company; enterprise",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "贷款",
+      "pinyin": "dàikuǎn",
+      "en": "loan; to lend/borrow money",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "利率",
+      "pinyin": "lìlǜ",
+      "en": "interest rate",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "约",
+      "pinyin": "yuē",
+      "en": "about; approximately",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "公布",
+      "pinyin": "gōngbù",
+      "en": "to announce; to make public",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "金融",
+      "pinyin": "jīnróng",
+      "en": "finance; financial",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "数据",
+      "pinyin": "shùjù",
+      "en": "data",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "广义货币",
+      "pinyin": "guǎngyì huòbì",
+      "en": "broad money (M2)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "余额",
+      "pinyin": "yú'é",
+      "en": "balance (of an account or loans)",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "万亿",
+      "pinyin": "wànyì",
+      "en": "trillion",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "同期",
+      "pinyin": "tóngqī",
+      "en": "the same period",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "常用",
+      "pinyin": "chángyòng",
+      "en": "commonly used",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "指标",
+      "pinyin": "zhǐbiāo",
+      "en": "indicator; target",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "融资",
+      "pinyin": "róngzī",
+      "en": "financing; to raise funds",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "规模",
+      "pinyin": "guīmó",
+      "en": "scale; size",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "个人",
+      "pinyin": "gèrén",
+      "en": "individual; personal",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "体系",
+      "pinyin": "tǐxì",
+      "en": "system",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "资金",
+      "pinyin": "zījīn",
+      "en": "funds; capital",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "存量",
+      "pinyin": "cúnliàng",
+      "en": "stock; outstanding amount",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "同比",
+      "pinyin": "tóngbǐ",
+      "en": "year on year (compared with the same period)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "新增",
+      "pinyin": "xīnzēng",
+      "en": "newly added",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "债券",
+      "pinyin": "zhàiquàn",
+      "en": "bond",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "股票",
+      "pinyin": "gǔpiào",
+      "en": "stock; share",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "占",
+      "pinyin": "zhàn",
+      "en": "to make up (a share of)",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "人民币",
+      "pinyin": "rénmínbì",
+      "en": "renminbi (RMB), China's currency",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "显示",
+      "pinyin": "xiǎnshì",
+      "en": "to show",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "发放",
+      "pinyin": "fāfàng",
+      "en": "to issue; to grant (loans)",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "平均",
+      "pinyin": "píngjūn",
+      "en": "average",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "百分点",
+      "pinyin": "bǎifēndiǎn",
+      "en": "percentage point",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "房贷",
+      "pinyin": "fángdài",
+      "en": "home loan; mortgage",
+      "hsk": "超纲"
+    }
+  ],
+  "glossary": [
+    {
+      "w": "10",
+      "py": "shí",
+      "en": "ten"
+    },
+    {
+      "w": "月",
+      "py": "yuè",
+      "en": "month"
+    },
+    {
+      "w": "底",
+      "py": "dǐ",
+      "en": "end (of a month)"
+    },
+    {
+      "w": "中国人民银行",
+      "py": "Zhōngguó Rénmín Yínháng",
+      "en": "People's Bank of China (central bank)"
+    },
+    {
+      "w": "11",
+      "py": "shíyī",
+      "en": "eleven"
+    },
+    {
+      "w": "13",
+      "py": "shísān",
+      "en": "thirteen"
+    },
+    {
+      "w": "日",
+      "py": "rì",
+      "en": "day (date)"
+    },
+    {
+      "w": "了",
+      "py": "le",
+      "en": "(completed action)"
+    },
+    {
+      "w": "的",
+      "py": "de",
+      "en": "(possessive / modifier particle)"
+    },
+    {
+      "w": "到",
+      "py": "dào",
+      "en": "by; up to"
+    },
+    {
+      "w": "是",
+      "py": "shì",
+      "en": "is"
+    },
+    {
+      "w": "元",
+      "py": "yuán",
+      "en": "yuan"
+    },
+    {
+      "w": "比",
+      "py": "bǐ",
+      "en": "compared with"
+    },
+    {
+      "w": "去年",
+      "py": "qùnián",
+      "en": "last year"
+    },
+    {
+      "w": "一个",
+      "py": "yí gè",
+      "en": "a; one"
+    },
+    {
+      "w": "用来",
+      "py": "yònglái",
+      "en": "used to"
+    },
+    {
+      "w": "看",
+      "py": "kàn",
+      "en": "to see; to look at"
+    },
+    {
+      "w": "社会",
+      "py": "shèhuì",
+      "en": "society"
+    },
+    {
+      "w": "上",
+      "py": "shang",
+      "en": "in; on"
+    },
+    {
+      "w": "一共",
+      "py": "yígòng",
+      "en": "in total"
+    },
+    {
+      "w": "有",
+      "py": "yǒu",
+      "en": "to have; there is"
+    },
+    {
+      "w": "多少",
+      "py": "duōshao",
+      "en": "how much"
+    },
+    {
+      "w": "钱",
+      "py": "qián",
+      "en": "money"
+    },
+    {
+      "w": "说明",
+      "py": "shuōmíng",
+      "en": "to show; to explain"
+    },
+    {
+      "w": "和",
+      "py": "hé",
+      "en": "and"
+    },
+    {
+      "w": "从",
+      "py": "cóng",
+      "en": "from"
+    },
+    {
+      "w": "得到",
+      "py": "dédào",
+      "en": "to get; to receive"
+    },
+    {
+      "w": "它",
+      "py": "tā",
+      "en": "it"
+    },
+    {
+      "w": "今年",
+      "py": "jīnnián",
+      "en": "this year"
+    },
+    {
+      "w": "前",
+      "py": "qián",
+      "en": "first; previous"
+    },
+    {
+      "w": "个",
+      "py": "gè",
+      "en": "(measure word)"
+    },
+    {
+      "w": "增加",
+      "py": "zēngjiā",
+      "en": "to increase"
+    },
+    {
+      "w": "少",
+      "py": "shǎo",
+      "en": "less"
+    },
+    {
+      "w": "在",
+      "py": "zài",
+      "en": "in; at"
+    },
+    {
+      "w": "这些",
+      "py": "zhèxiē",
+      "en": "these"
+    },
+    {
+      "w": "里",
+      "py": "lǐ",
+      "en": "in; inside"
+    },
+    {
+      "w": "通过",
+      "py": "tōngguò",
+      "en": "by means of; through"
+    },
+    {
+      "w": "发",
+      "py": "fā",
+      "en": "to issue"
+    },
+    {
+      "w": "还",
+      "py": "hái",
+      "en": "also"
+    },
+    {
+      "w": "新",
+      "py": "xīn",
+      "en": "newly"
+    },
+    {
+      "w": "为",
+      "py": "wéi",
+      "en": "to be"
+    },
+    {
+      "w": "低",
+      "py": "dī",
+      "en": "low; lower"
+    },
+    {
+      "w": "差不多",
+      "py": "chàbuduō",
+      "en": "about the same"
+    }
+  ],
+  "featured": [
+    {
+      "hanzi": "融资",
+      "pinyin": "róngzī",
+      "pos": "verb / noun",
+      "en": "to raise funds; financing",
+      "note": "Common phrases: 社会融资规模 (total social financing), 直接融资 (direct financing), 融资成本 (financing cost), 融资难 (hard to get financing).",
+      "examples": [
+        {
+          "zh": "今年前10个月，企业通过发债券得到的融资比去年多。",
+          "py": "Jīnnián qián shí gè yuè, qǐyè tōngguò fā zhàiquàn dédào de róngzī bǐ qùnián duō.",
+          "en": "In the first 10 months of this year, companies raised more financing through bonds than last year."
+        },
+        {
+          "zh": "我朋友开了一家小咖啡店，现在正在找融资。",
+          "py": "Wǒ péngyou kāi le yì jiā xiǎo kāfēidiàn, xiànzài zhèngzài zhǎo róngzī.",
+          "en": "My friend opened a small café and is now looking for funding."
+        },
+        {
+          "zh": "很多小企业说，融资难是他们最大的问题。",
+          "py": "Hěn duō xiǎo qǐyè shuō, róngzī nán shì tāmen zuì dà de wèntí.",
+          "en": "Many small businesses say that difficulty getting financing is their biggest problem."
+        }
+      ]
+    },
+    {
+      "hanzi": "同比",
+      "pinyin": "tóngbǐ",
+      "pos": "adverb / noun",
+      "en": "year on year; compared with the same period last year",
+      "note": "Used before 增长/下降: 同比增长7% (up 7% year on year), 同比下降 (down year on year). Compare 环比 (month on month).",
+      "examples": [
+        {
+          "zh": "10月底，人民币贷款余额同比增长4.7%。",
+          "py": "Shí yuè dǐ, rénmínbì dàikuǎn yú'é tóngbǐ zēngzhǎng bǎi fēn zhī sì diǎn qī.",
+          "en": "At the end of October, the balance of RMB loans was up 4.7% year on year."
+        },
+        {
+          "zh": "我们店这个月的收入同比增加了一倍。",
+          "py": "Wǒmen diàn zhège yuè de shōurù tóngbǐ zēngjiā le yí bèi.",
+          "en": "Our shop's income this month doubled compared with the same month last year."
+        },
+        {
+          "zh": "这份报告里的数字都是同比数据，不是环比数据。",
+          "py": "Zhè fèn bàogào lǐ de shùzì dōu shì tóngbǐ shùjù, bú shì huánbǐ shùjù.",
+          "en": "The numbers in this report are all year-on-year figures, not month-on-month figures."
+        }
+      ]
+    }
+  ]
+}
