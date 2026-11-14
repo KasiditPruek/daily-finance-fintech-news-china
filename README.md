@@ -10,8 +10,10 @@ Site: https://kasiditpruek.github.io/daily-finance-fintech-news-china/
 - Each lesson is a JSON file in `lessons/`, named `YYYY-MM-DD-finance.json` or `YYYY-MM-DD-fintech.json`.
 - `scripts/publish.py lesson.json --source source.txt` validates a lesson, writes it to `lessons/`, and deletes that category's lessons older than 7 days.
 - `vocab` is the 生词 list (words above HSK 4); `glossary` defines every other word, so readers can tap any word in the article. `publish.py` refuses a lesson where any Chinese character in the title or paragraphs has no definition.
+- `publish.py` also adds each lesson's 生词 to `lessons/vocab-all.json`, a permanent word list (word, pinyin, meaning, level, dates seen; no article text). It is never trimmed, so commit it together with the lesson file. `python3 scripts/publish.py --backfill` rebuilds it from the lessons currently in `lessons/`.
+- **Study loop.** Tap a word and mark it 学习中 (learning) or 认识 (known). Known words stop being highlighted; learning words come back on the 复习 page as flashcards after 1, 3, 7, 14, 30 and 60 days. English translations stay hidden until you ask for them, paragraph by paragraph. All of this is saved in the reader's browser (`localStorage`), nothing is sent anywhere.
 - The lesson page reads the article aloud with the device's built-in Chinese voice (no audio files, no cost).
-- The pages (`index.html`, `lesson.html`, `vocab.html`) are plain HTML + `assets/app.js`, which loads the last 7 days of lesson files in the browser. No build step; `.nojekyll` tells GitHub Pages to serve files as they are.
+- The pages (`index.html`, `lesson.html`, `vocab.html`, `review.html`) are plain HTML + `assets/app.js`, which loads the last 7 days of lesson files in the browser. No build step; `.nojekyll` tells GitHub Pages to serve files as they are.
 
 ## Legal safeguards
 

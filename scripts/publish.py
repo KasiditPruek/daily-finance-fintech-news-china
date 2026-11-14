@@ -22,6 +22,11 @@ Safeguards (the lesson is refused if any fails):
     (not a homepage, search page, redirect, cache or archive mirror), with the
     outlet named in Chinese and English
 
+It also adds the lesson's 生词 to lessons/vocab-all.json, the permanent word list
+(word, pinyin, meaning, level and the dates it appeared — no article text), which is
+never trimmed. `python3 scripts/publish.py --backfill` rebuilds that list's entries
+for every lesson currently in lessons/.
+
 It writes lessons/<date>-<category>.json and removes lessons/*-<category>.json whose
 date is more than 6 days before <date> (so 7 days are kept). Only standard library.
 """
@@ -36,6 +41,7 @@ KEEP_DAYS = 7
 CATEGORIES = {"finance", "fintech"}
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 LESSONS = ROOT / "lessons"
+ARCHIVE = LESSONS / "vocab-all.json"
 NAME_RE = re.compile(r"^(\d{4}-\d{2}-\d{2})-(finance|fintech)\.json$")
 
 
@@ -196,8 +202,50 @@ def validate(d):
     return d
 
 
+def load_archive():
+    try:
+        data = json.loads(ARCHIVE.read_text(encoding="utf-8"))
+        if isinstance(data.get("words"), dict):
+            return data
+    except (OSError, ValueError):
+        pass
+    return {"words": {}}
+
+
+def archive_lesson(data, lesson):
+    """Record a lesson's 生词 in the permanent word list. Safe to run twice for the same lesson."""
+    key = f"{lesson['date']}-{lesson['category']}"
+    for v in lesson.get("vocab", []):
+        h = v.get("hanzi")
+        if not h or "…" in h or "..." in h:
+            continue
+        w = data["words"].setdefault(h, {"py": v.get("pinyin", ""), "en": v.get("en", ""), "hsk": v.get("hsk", ""), "seen": []})
+        if key not in w["seen"]:
+            w["seen"].append(key)
+            w["seen"].sort()
+        if key == w["seen"][-1]:  # the newest lesson's wording wins
+            w.update(py=v.get("pinyin", w["py"]), en=v.get("en", w["en"]), hsk=v.get("hsk", w["hsk"]))
+
+
+def save_archive(data):
+    data["words"] = dict(sorted(data["words"].items()))
+    ARCHIVE.write_text(json.dumps(data, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+    print(f"word list: {len(data['words'])} words in {ARCHIVE.relative_to(ROOT)}")
+
+
+def backfill():
+    data = load_archive()
+    for f in sorted(LESSONS.glob("*.json")):
+        if NAME_RE.match(f.name):
+            archive_lesson(data, json.loads(f.read_text(encoding="utf-8")))
+    save_archive(data)
+
+
 def main():
     args = sys.argv[1:]
+    if args == ["--backfill"]:
+        backfill()
+        return
     source = None
     if "--source" in args:
         i = args.index("--source")
@@ -219,6 +267,10 @@ def main():
     out = LESSONS / f"{lesson['date']}-{lesson['category']}.json"
     out.write_text(json.dumps(lesson, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     print(f"wrote {out.relative_to(ROOT)}")
+
+    data = load_archive()
+    archive_lesson(data, lesson)
+    save_archive(data)
 
     cutoff = dt.date.fromisoformat(lesson["date"]) - dt.timedelta(days=KEEP_DAYS - 1)
     for f in sorted(LESSONS.glob(f"*-{lesson['category']}.json")):
