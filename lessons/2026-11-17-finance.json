@@ -1,0 +1,543 @@
+{
+  "date": "2026-11-17",
+  "category": "finance",
+  "title_zh": "统计局：10月工业生产增长4.8%，消费增长0.4%",
+  "title_en": "Statistics bureau: October industrial output up 4.8%, consumption up 0.4%",
+  "paragraphs": [
+    {
+      "zh": "11月16日，国家统计局公布了中国10月份的经济数据。10月，规模以上工业企业的增加值比去年同期增长了4.8%，比9月慢了0.7个百分点。规模以上工业企业是指一年收入在2000万元以上的工业企业。另外，服务业生产指数增长了4.6%。",
+      "en": "On November 16, the National Bureau of Statistics released China's economic data for October. In October, value added at industrial companies above designated size grew 4.8% from the same period last year, 0.7 percentage points slower than in September. \"Industrial companies above designated size\" means industrial companies with annual revenue of 20 million yuan or more. In addition, the services production index rose 4.6%."
+    },
+    {
+      "zh": "在消费方面，10月社会消费品零售总额是46463亿元，比去年同期只增长了0.4%。把前10个月加在一起，这个数字增长了1.0%。",
+      "en": "On the consumption side, total retail sales of consumer goods in October were 4.6463 trillion yuan, up only 0.4% from the same period last year. Adding the first 10 months together, this figure grew 1.0%."
+    },
+    {
+      "zh": "在投资方面，1到10月全国固定资产投资一共是364824亿元，比去年同期下降了8.1%。其中，房地产开发投资下降了21.6%。",
+      "en": "On the investment side, national fixed-asset investment from January to October totalled 36.4824 trillion yuan, down 8.1% from the same period last year. Within this, property development investment fell 21.6%."
+    },
+    {
+      "zh": "在就业方面，10月全国城镇调查失业率是5.1%，比9月低0.1个百分点。国家统计局发言人付凌晖表示，10月中国经济总体平稳。他还说，10月消费增长变慢，主要是因为今年的中秋节和去年不在同一个月，而且一些耐用消费品卖得比以前慢。",
+      "en": "On the employment side, the national surveyed urban unemployment rate in October was 5.1%, 0.1 percentage points lower than in September. NBS spokesperson Fu Linghui said China's economy was generally stable in October. He also said consumption growth slowed in October mainly because this year's Mid-Autumn Festival was not in the same month as last year's, and because some durable consumer goods sold more slowly than before."
+    }
+  ],
+  "source": {
+    "name": "第一财经",
+    "name_en": "Yicai (China Business Network)",
+    "url": "https://www.yicai.com/news/103442422.html"
+  },
+  "vocab": [
+    {
+      "hanzi": "统计局",
+      "pinyin": "tǒngjìjú",
+      "en": "statistics bureau",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "工业",
+      "pinyin": "gōngyè",
+      "en": "industry; industrial",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "生产",
+      "pinyin": "shēngchǎn",
+      "en": "production; to produce",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "增长",
+      "pinyin": "zēngzhǎng",
+      "en": "to grow; growth",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "消费",
+      "pinyin": "xiāofèi",
+      "en": "consumption; to consume",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "国家统计局",
+      "pinyin": "Guójiā Tǒngjìjú",
+      "en": "National Bureau of Statistics (NBS)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "公布",
+      "pinyin": "gōngbù",
+      "en": "to announce; to release (publicly)",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "数据",
+      "pinyin": "shùjù",
+      "en": "data",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "规模",
+      "pinyin": "guīmó",
+      "en": "scale; size",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "以上",
+      "pinyin": "yǐshàng",
+      "en": "above; or more",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "企业",
+      "pinyin": "qǐyè",
+      "en": "company; enterprise",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "增加值",
+      "pinyin": "zēngjiāzhí",
+      "en": "value added",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "去年同期",
+      "pinyin": "qùnián tóngqī",
+      "en": "the same period last year",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "百分点",
+      "pinyin": "bǎifēndiǎn",
+      "en": "percentage point",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "服务业",
+      "pinyin": "fúwùyè",
+      "en": "service industry; services sector",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "指数",
+      "pinyin": "zhǐshù",
+      "en": "index",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "消费品",
+      "pinyin": "xiāofèipǐn",
+      "en": "consumer goods",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "零售",
+      "pinyin": "língshòu",
+      "en": "retail; to sell retail",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "总额",
+      "pinyin": "zǒng'é",
+      "en": "total amount",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "亿",
+      "pinyin": "yì",
+      "en": "hundred million (100,000,000)",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "投资",
+      "pinyin": "tóuzī",
+      "en": "investment; to invest",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "固定",
+      "pinyin": "gùdìng",
+      "en": "fixed",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "资产",
+      "pinyin": "zīchǎn",
+      "en": "assets",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "下降",
+      "pinyin": "xiàjiàng",
+      "en": "to fall; to decline",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "房地产",
+      "pinyin": "fángdìchǎn",
+      "en": "real estate; property",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "开发",
+      "pinyin": "kāifā",
+      "en": "to develop",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "就业",
+      "pinyin": "jiùyè",
+      "en": "employment; to get a job",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "城镇",
+      "pinyin": "chéngzhèn",
+      "en": "cities and towns; urban",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "失业率",
+      "pinyin": "shīyèlǜ",
+      "en": "unemployment rate",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "发言人",
+      "pinyin": "fāyánrén",
+      "en": "spokesperson",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "付凌晖",
+      "pinyin": "Fù Línghuī",
+      "en": "Fu Linghui (NBS spokesperson)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "总体",
+      "pinyin": "zǒngtǐ",
+      "en": "overall; generally",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "平稳",
+      "pinyin": "píngwěn",
+      "en": "stable; steady",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "中秋节",
+      "pinyin": "Zhōngqiū Jié",
+      "en": "Mid-Autumn Festival",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "耐用",
+      "pinyin": "nàiyòng",
+      "en": "durable; long-lasting",
+      "hsk": "超纲"
+    }
+  ],
+  "glossary": [
+    {
+      "w": "月",
+      "py": "yuè",
+      "en": "month"
+    },
+    {
+      "w": "日",
+      "py": "rì",
+      "en": "day (of the month)"
+    },
+    {
+      "w": "了",
+      "py": "le",
+      "en": "(completed-action particle)"
+    },
+    {
+      "w": "中国",
+      "py": "Zhōngguó",
+      "en": "China"
+    },
+    {
+      "w": "份",
+      "py": "fèn",
+      "en": "(used in 月份: month)"
+    },
+    {
+      "w": "的",
+      "py": "de",
+      "en": "(possessive/modifier particle)"
+    },
+    {
+      "w": "经济",
+      "py": "jīngjì",
+      "en": "economy; economic"
+    },
+    {
+      "w": "比",
+      "py": "bǐ",
+      "en": "compared with; than"
+    },
+    {
+      "w": "慢",
+      "py": "màn",
+      "en": "slow"
+    },
+    {
+      "w": "个",
+      "py": "gè",
+      "en": "(measure word)"
+    },
+    {
+      "w": "是",
+      "py": "shì",
+      "en": "to be"
+    },
+    {
+      "w": "指",
+      "py": "zhǐ",
+      "en": "to refer to; to mean"
+    },
+    {
+      "w": "一年",
+      "py": "yì nián",
+      "en": "one year; a year"
+    },
+    {
+      "w": "在",
+      "py": "zài",
+      "en": "at; in; on"
+    },
+    {
+      "w": "万",
+      "py": "wàn",
+      "en": "ten thousand"
+    },
+    {
+      "w": "元",
+      "py": "yuán",
+      "en": "yuan (Chinese currency unit)"
+    },
+    {
+      "w": "另外",
+      "py": "lìngwài",
+      "en": "in addition"
+    },
+    {
+      "w": "方面",
+      "py": "fāngmiàn",
+      "en": "aspect; side"
+    },
+    {
+      "w": "社会",
+      "py": "shèhuì",
+      "en": "society; social"
+    },
+    {
+      "w": "只",
+      "py": "zhǐ",
+      "en": "only"
+    },
+    {
+      "w": "把",
+      "py": "bǎ",
+      "en": "(particle that brings the object forward)"
+    },
+    {
+      "w": "前",
+      "py": "qián",
+      "en": "the first; before"
+    },
+    {
+      "w": "加在一起",
+      "py": "jiā zài yìqǐ",
+      "en": "to add together"
+    },
+    {
+      "w": "这个",
+      "py": "zhège",
+      "en": "this"
+    },
+    {
+      "w": "数字",
+      "py": "shùzì",
+      "en": "number; figure"
+    },
+    {
+      "w": "到",
+      "py": "dào",
+      "en": "to; until"
+    },
+    {
+      "w": "全国",
+      "py": "quánguó",
+      "en": "nationwide; national"
+    },
+    {
+      "w": "一共",
+      "py": "yígòng",
+      "en": "in total"
+    },
+    {
+      "w": "其中",
+      "py": "qízhōng",
+      "en": "among them; within this"
+    },
+    {
+      "w": "调查",
+      "py": "diàochá",
+      "en": "survey; to survey"
+    },
+    {
+      "w": "低",
+      "py": "dī",
+      "en": "low; lower"
+    },
+    {
+      "w": "表示",
+      "py": "biǎoshì",
+      "en": "to say; to state"
+    },
+    {
+      "w": "他",
+      "py": "tā",
+      "en": "he"
+    },
+    {
+      "w": "还",
+      "py": "hái",
+      "en": "also"
+    },
+    {
+      "w": "说",
+      "py": "shuō",
+      "en": "to say"
+    },
+    {
+      "w": "变",
+      "py": "biàn",
+      "en": "to become"
+    },
+    {
+      "w": "主要",
+      "py": "zhǔyào",
+      "en": "mainly"
+    },
+    {
+      "w": "因为",
+      "py": "yīnwèi",
+      "en": "because"
+    },
+    {
+      "w": "今年",
+      "py": "jīnnián",
+      "en": "this year"
+    },
+    {
+      "w": "和",
+      "py": "hé",
+      "en": "and; with"
+    },
+    {
+      "w": "去年",
+      "py": "qùnián",
+      "en": "last year"
+    },
+    {
+      "w": "不",
+      "py": "bù",
+      "en": "not"
+    },
+    {
+      "w": "同",
+      "py": "tóng",
+      "en": "same"
+    },
+    {
+      "w": "一个",
+      "py": "yí gè",
+      "en": "one; a"
+    },
+    {
+      "w": "而且",
+      "py": "érqiě",
+      "en": "and also; moreover"
+    },
+    {
+      "w": "一些",
+      "py": "yìxiē",
+      "en": "some"
+    },
+    {
+      "w": "卖",
+      "py": "mài",
+      "en": "to sell"
+    },
+    {
+      "w": "得",
+      "py": "de",
+      "en": "(particle linking a verb to a description of how it is done)"
+    },
+    {
+      "w": "以前",
+      "py": "yǐqián",
+      "en": "before; in the past"
+    },
+    {
+      "w": "收入",
+      "py": "shōurù",
+      "en": "income; revenue"
+    }
+  ],
+  "featured": [
+    {
+      "hanzi": "投资",
+      "pinyin": "tóuzī",
+      "pos": "noun / verb",
+      "en": "investment; to invest",
+      "note": "Common collocations: 固定资产投资 (fixed-asset investment), 房地产投资 (property investment), 投资者 (investor), 投资股票 (to invest in stocks).",
+      "examples": [
+        {
+          "zh": "今年前十个月，全国的固定资产投资比去年少了。",
+          "py": "Jīnnián qián shí gè yuè, quánguó de gùdìng zīchǎn tóuzī bǐ qùnián shǎo le.",
+          "en": "In the first ten months of this year, national fixed-asset investment was lower than last year."
+        },
+        {
+          "zh": "我哥哥把一部分工资拿来投资基金。",
+          "py": "Wǒ gēge bǎ yí bùfen gōngzī ná lái tóuzī jījīn.",
+          "en": "My older brother uses part of his salary to invest in funds."
+        },
+        {
+          "zh": "投资以前，最好先了解风险。",
+          "py": "Tóuzī yǐqián, zuìhǎo xiān liǎojiě fēngxiǎn.",
+          "en": "Before investing, it's best to understand the risks first."
+        }
+      ]
+    },
+    {
+      "hanzi": "失业率",
+      "pinyin": "shīyèlǜ",
+      "pos": "noun",
+      "en": "unemployment rate",
+      "note": "Often used as 城镇调查失业率 (surveyed urban unemployment rate), 失业率上升 / 失业率下降 (the unemployment rate rises / falls), 青年失业率 (youth unemployment rate).",
+      "examples": [
+        {
+          "zh": "统计局说，上个月的城镇调查失业率下降了0.1个百分点。",
+          "py": "Tǒngjìjú shuō, shàng gè yuè de chéngzhèn diàochá shīyèlǜ xiàjiàng le líng diǎn yī gè bǎifēndiǎn.",
+          "en": "The statistics bureau said last month's surveyed urban unemployment rate fell by 0.1 percentage points."
+        },
+        {
+          "zh": "很多大学生毕业以后找不到工作，所以青年失业率比较高。",
+          "py": "Hěn duō dàxuéshēng bìyè yǐhòu zhǎo bu dào gōngzuò, suǒyǐ qīngnián shīyèlǜ bǐjiào gāo.",
+          "en": "Many university students can't find work after graduating, so the youth unemployment rate is fairly high."
+        },
+        {
+          "zh": "经济好的时候，失业率一般比较低。",
+          "py": "Jīngjì hǎo de shíhou, shīyèlǜ yìbān bǐjiào dī.",
+          "en": "When the economy is good, the unemployment rate is usually fairly low."
+        }
+      ]
+    }
+  ]
+}
