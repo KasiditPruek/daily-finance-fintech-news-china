@@ -1,0 +1,704 @@
+{
+  "date": "2026-11-18",
+  "category": "fintech",
+  "title_zh": "交行在深圳推出三款数字人民币产品，方便外国人付款",
+  "title_en": "Bank of Communications launches three digital yuan products in Shenzhen to make paying easier for foreigners",
+  "paragraphs": [
+    {
+      "zh": "11月17日，交通银行深圳分行在深圳开了一场发布会，推出了三款和数字人民币有关的新产品，主要给来中国的外国人使用。数字人民币是中国人民银行发行的数字形式的人民币。中国移动下面的金融科技公司中移金科，还有银联国际和中国银联深圳分公司，也参加了这次活动。",
+      "en": "On November 17, the Shenzhen branch of Bank of Communications held a launch event in Shenzhen and introduced three new products related to the digital yuan, mainly for foreigners who come to China. The digital yuan is a digital form of the renminbi issued by the People's Bank of China. China Mobile's fintech company CMFT (China Mobile Fintech), together with UnionPay International and China UnionPay's Shenzhen branch, also took part in the event."
+    },
+    {
+      "zh": "第一款产品是一种SIM卡“硬钱包”，是中移金科和交通银行一起开发的。外国人拿着护照，就能在指定的中国移动营业厅开通、充值和退款。有了这张手机卡，可以直接刷手机坐地铁和公交；就算手机没电、没有网络，碰一下也能付款。",
+      "en": "The first product is a SIM-card \"hard wallet\", developed jointly by CMFT and Bank of Communications. With their passport, foreigners can activate it, top it up and get refunds at designated China Mobile service halls. With this SIM card, they can tap their phone to take the metro and buses directly; even if the phone has no battery or no network, they can still pay with a tap."
+    },
+    {
+      "zh": "第二款产品让外国人可以用境外发行的银联国际卡，在网上给数字人民币钱包充值。他们不用换中国的手机号，也不用去银行网点。这项服务很快就会正式上线。在发布会上，交行深圳分行还和银联国际签了合作协议。",
+      "en": "The second product lets foreigners use UnionPay International cards issued outside China to top up their digital yuan wallets online. They don't need to switch to a Chinese phone number or go to a bank branch. This service will officially go live soon. At the launch event, the Bank of Communications Shenzhen branch also signed a cooperation agreement with UnionPay International."
+    },
+    {
+      "zh": "第三款产品是一种十二星座主题的硬钱包，看起来像一个小饰品。用户不用打开手机，碰一下就能付钱。",
+      "en": "The third product is a hard wallet with a twelve-zodiac-signs theme that looks like a small accessory. Users don't need to open their phone — they can pay with just a tap."
+    }
+  ],
+  "source": {
+    "name": "移动支付网",
+    "name_en": "Mpaypass (China Mobile Payment Network)",
+    "url": "https://www.mpaypass.com.cn/news/202611/17182352.html"
+  },
+  "vocab": [
+    {
+      "hanzi": "交行",
+      "pinyin": "Jiāoháng",
+      "en": "Bank of Communications (short for 交通银行)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "推出",
+      "pinyin": "tuīchū",
+      "en": "to launch; to roll out",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "款",
+      "pinyin": "kuǎn",
+      "en": "measure word for products/models; type",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "数字人民币",
+      "pinyin": "shùzì rénmínbì",
+      "en": "digital yuan (e-CNY)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "产品",
+      "pinyin": "chǎnpǐn",
+      "en": "product",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "交通银行",
+      "pinyin": "Jiāotōng Yínháng",
+      "en": "Bank of Communications (a major Chinese state-owned bank)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "分行",
+      "pinyin": "fēnháng",
+      "en": "branch (of a bank)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "发布会",
+      "pinyin": "fābùhuì",
+      "en": "launch event; press conference",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "有关",
+      "pinyin": "yǒuguān",
+      "en": "related to; concerning",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "中国人民银行",
+      "pinyin": "Zhōngguó Rénmín Yínháng",
+      "en": "People's Bank of China (the central bank)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "发行",
+      "pinyin": "fāxíng",
+      "en": "to issue (money, cards, shares)",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "形式",
+      "pinyin": "xíngshì",
+      "en": "form; shape",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "人民币",
+      "pinyin": "rénmínbì",
+      "en": "renminbi (RMB), China's currency",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "中国移动",
+      "pinyin": "Zhōngguó Yídòng",
+      "en": "China Mobile (telecom operator)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "金融科技",
+      "pinyin": "jīnróng kējì",
+      "en": "fintech; financial technology",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "中移金科",
+      "pinyin": "Zhōngyí Jīnkē",
+      "en": "CMFT (China Mobile Fintech), China Mobile's fintech arm",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "银联",
+      "pinyin": "Yínlián",
+      "en": "UnionPay (China's bank card network)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "分公司",
+      "pinyin": "fēngōngsī",
+      "en": "branch company; branch office",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "硬钱包",
+      "pinyin": "yìng qiánbāo",
+      "en": "hard wallet (a physical card/chip wallet for the digital yuan)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "开发",
+      "pinyin": "kāifā",
+      "en": "to develop",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "指定",
+      "pinyin": "zhǐdìng",
+      "en": "designated; to designate",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "营业厅",
+      "pinyin": "yíngyètīng",
+      "en": "service hall; customer service store",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "开通",
+      "pinyin": "kāitōng",
+      "en": "to activate; to open (a service)",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "充值",
+      "pinyin": "chōngzhí",
+      "en": "to top up; to add money (to a card or account)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "退款",
+      "pinyin": "tuìkuǎn",
+      "en": "to refund; refund",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "刷",
+      "pinyin": "shuā",
+      "en": "to swipe; to tap (a card or phone)",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "公交",
+      "pinyin": "gōngjiāo",
+      "en": "public bus; public transport",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "就算",
+      "pinyin": "jiùsuàn",
+      "en": "even if",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "网络",
+      "pinyin": "wǎngluò",
+      "en": "network; internet",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "碰",
+      "pinyin": "pèng",
+      "en": "to touch; to tap",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "境外",
+      "pinyin": "jìngwài",
+      "en": "outside the country; overseas",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "钱包",
+      "pinyin": "qiánbāo",
+      "en": "wallet",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "网点",
+      "pinyin": "wǎngdiǎn",
+      "en": "branch outlet; service point",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "上线",
+      "pinyin": "shàngxiàn",
+      "en": "to go live; to go online",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "签",
+      "pinyin": "qiān",
+      "en": "to sign",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "合作",
+      "pinyin": "hézuò",
+      "en": "cooperation; to cooperate",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "协议",
+      "pinyin": "xiéyì",
+      "en": "agreement",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "星座",
+      "pinyin": "xīngzuò",
+      "en": "star sign; zodiac sign",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "主题",
+      "pinyin": "zhǔtí",
+      "en": "theme",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "饰品",
+      "pinyin": "shìpǐn",
+      "en": "accessory; ornament",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "用户",
+      "pinyin": "yònghù",
+      "en": "user",
+      "hsk": "HSK 5"
+    }
+  ],
+  "glossary": [
+    {
+      "w": "在",
+      "py": "zài",
+      "en": "in; at"
+    },
+    {
+      "w": "深圳",
+      "py": "Shēnzhèn",
+      "en": "Shenzhen (a city in southern China)"
+    },
+    {
+      "w": "三",
+      "py": "sān",
+      "en": "three"
+    },
+    {
+      "w": "方便",
+      "py": "fāngbiàn",
+      "en": "to make convenient; convenient"
+    },
+    {
+      "w": "外国人",
+      "py": "wàiguórén",
+      "en": "foreigner"
+    },
+    {
+      "w": "付款",
+      "py": "fùkuǎn",
+      "en": "to pay"
+    },
+    {
+      "w": "月",
+      "py": "yuè",
+      "en": "month"
+    },
+    {
+      "w": "日",
+      "py": "rì",
+      "en": "day (of the month)"
+    },
+    {
+      "w": "开",
+      "py": "kāi",
+      "en": "to hold (a meeting)"
+    },
+    {
+      "w": "了",
+      "py": "le",
+      "en": "(completed action particle)"
+    },
+    {
+      "w": "一",
+      "py": "yī",
+      "en": "one; a"
+    },
+    {
+      "w": "场",
+      "py": "chǎng",
+      "en": "measure word for events"
+    },
+    {
+      "w": "和",
+      "py": "hé",
+      "en": "and; with"
+    },
+    {
+      "w": "的",
+      "py": "de",
+      "en": "(modifying particle)"
+    },
+    {
+      "w": "新",
+      "py": "xīn",
+      "en": "new"
+    },
+    {
+      "w": "主要",
+      "py": "zhǔyào",
+      "en": "mainly"
+    },
+    {
+      "w": "给",
+      "py": "gěi",
+      "en": "for; to"
+    },
+    {
+      "w": "来",
+      "py": "lái",
+      "en": "to come"
+    },
+    {
+      "w": "中国",
+      "py": "Zhōngguó",
+      "en": "China"
+    },
+    {
+      "w": "使用",
+      "py": "shǐyòng",
+      "en": "to use"
+    },
+    {
+      "w": "是",
+      "py": "shì",
+      "en": "to be"
+    },
+    {
+      "w": "数字",
+      "py": "shùzì",
+      "en": "digital; number"
+    },
+    {
+      "w": "下面",
+      "py": "xiàmian",
+      "en": "under (here: owned by)"
+    },
+    {
+      "w": "公司",
+      "py": "gōngsī",
+      "en": "company"
+    },
+    {
+      "w": "还有",
+      "py": "hái yǒu",
+      "en": "and also"
+    },
+    {
+      "w": "国际",
+      "py": "guójì",
+      "en": "international"
+    },
+    {
+      "w": "也",
+      "py": "yě",
+      "en": "also"
+    },
+    {
+      "w": "参加",
+      "py": "cānjiā",
+      "en": "to take part in"
+    },
+    {
+      "w": "这次",
+      "py": "zhè cì",
+      "en": "this time"
+    },
+    {
+      "w": "活动",
+      "py": "huódòng",
+      "en": "event; activity"
+    },
+    {
+      "w": "第一",
+      "py": "dì-yī",
+      "en": "first"
+    },
+    {
+      "w": "种",
+      "py": "zhǒng",
+      "en": "kind; type"
+    },
+    {
+      "w": "卡",
+      "py": "kǎ",
+      "en": "card"
+    },
+    {
+      "w": "一起",
+      "py": "yìqǐ",
+      "en": "together"
+    },
+    {
+      "w": "拿着",
+      "py": "ná zhe",
+      "en": "holding; with"
+    },
+    {
+      "w": "护照",
+      "py": "hùzhào",
+      "en": "passport"
+    },
+    {
+      "w": "就",
+      "py": "jiù",
+      "en": "then; just"
+    },
+    {
+      "w": "能",
+      "py": "néng",
+      "en": "can"
+    },
+    {
+      "w": "有",
+      "py": "yǒu",
+      "en": "to have"
+    },
+    {
+      "w": "这",
+      "py": "zhè",
+      "en": "this"
+    },
+    {
+      "w": "张",
+      "py": "zhāng",
+      "en": "measure word for flat things (cards)"
+    },
+    {
+      "w": "手机卡",
+      "py": "shǒujī kǎ",
+      "en": "SIM card; phone card"
+    },
+    {
+      "w": "可以",
+      "py": "kěyǐ",
+      "en": "can; may"
+    },
+    {
+      "w": "直接",
+      "py": "zhíjiē",
+      "en": "directly"
+    },
+    {
+      "w": "手机",
+      "py": "shǒujī",
+      "en": "mobile phone"
+    },
+    {
+      "w": "坐",
+      "py": "zuò",
+      "en": "to take (a vehicle)"
+    },
+    {
+      "w": "地铁",
+      "py": "dìtiě",
+      "en": "metro; subway"
+    },
+    {
+      "w": "没电",
+      "py": "méi diàn",
+      "en": "out of battery"
+    },
+    {
+      "w": "没有",
+      "py": "méiyǒu",
+      "en": "to not have"
+    },
+    {
+      "w": "一下",
+      "py": "yí xià",
+      "en": "once; a little (a quick tap)"
+    },
+    {
+      "w": "第二",
+      "py": "dì-èr",
+      "en": "second"
+    },
+    {
+      "w": "让",
+      "py": "ràng",
+      "en": "to let; to allow"
+    },
+    {
+      "w": "用",
+      "py": "yòng",
+      "en": "to use"
+    },
+    {
+      "w": "网上",
+      "py": "wǎng shang",
+      "en": "online"
+    },
+    {
+      "w": "他们",
+      "py": "tāmen",
+      "en": "they"
+    },
+    {
+      "w": "不用",
+      "py": "búyòng",
+      "en": "don't need to"
+    },
+    {
+      "w": "换",
+      "py": "huàn",
+      "en": "to change; to switch"
+    },
+    {
+      "w": "手机号",
+      "py": "shǒujī hào",
+      "en": "mobile phone number"
+    },
+    {
+      "w": "去",
+      "py": "qù",
+      "en": "to go"
+    },
+    {
+      "w": "银行",
+      "py": "yínháng",
+      "en": "bank"
+    },
+    {
+      "w": "项",
+      "py": "xiàng",
+      "en": "measure word for services/items"
+    },
+    {
+      "w": "服务",
+      "py": "fúwù",
+      "en": "service"
+    },
+    {
+      "w": "很快",
+      "py": "hěn kuài",
+      "en": "soon; very quickly"
+    },
+    {
+      "w": "会",
+      "py": "huì",
+      "en": "will"
+    },
+    {
+      "w": "正式",
+      "py": "zhèngshì",
+      "en": "officially"
+    },
+    {
+      "w": "上",
+      "py": "shang",
+      "en": "at; on"
+    },
+    {
+      "w": "还",
+      "py": "hái",
+      "en": "also"
+    },
+    {
+      "w": "第三",
+      "py": "dì-sān",
+      "en": "third"
+    },
+    {
+      "w": "十二",
+      "py": "shí'èr",
+      "en": "twelve"
+    },
+    {
+      "w": "看起来",
+      "py": "kàn qǐlái",
+      "en": "to look (like)"
+    },
+    {
+      "w": "像",
+      "py": "xiàng",
+      "en": "like; to resemble"
+    },
+    {
+      "w": "个",
+      "py": "gè",
+      "en": "(general measure word)"
+    },
+    {
+      "w": "小",
+      "py": "xiǎo",
+      "en": "small"
+    },
+    {
+      "w": "打开",
+      "py": "dǎkāi",
+      "en": "to open; to unlock"
+    },
+    {
+      "w": "付钱",
+      "py": "fù qián",
+      "en": "to pay money"
+    }
+  ],
+  "featured": [
+    {
+      "hanzi": "充值",
+      "pinyin": "chōngzhí",
+      "pos": "verb",
+      "en": "to top up; to add money to (a card, wallet or account)",
+      "note": "Common collocations: 给钱包充值 / 给手机充值 (to top up a wallet / phone), 在线充值 (online top-up), 充值金额 (top-up amount), 充值卡 (prepaid card).",
+      "examples": [
+        {
+          "zh": "外国游客可以用境外银行卡给数字钱包充值。",
+          "py": "Wàiguó yóukè kěyǐ yòng jìngwài yínhángkǎ gěi shùzì qiánbāo chōngzhí.",
+          "en": "Foreign tourists can top up digital wallets with bank cards issued abroad."
+        },
+        {
+          "zh": "我的地铁卡没钱了，要先去充值。",
+          "py": "Wǒ de dìtiě kǎ méi qián le, yào xiān qù chōngzhí.",
+          "en": "My metro card has no money left; I need to go top it up first."
+        },
+        {
+          "zh": "这个月平台上的充值用户比上个月增加了百分之十。",
+          "py": "Zhège yuè píngtái shang de chōngzhí yònghù bǐ shàng ge yuè zēngjiā le bǎi fēn zhī shí.",
+          "en": "This month the number of users who topped up on the platform rose 10% from last month."
+        }
+      ]
+    },
+    {
+      "hanzi": "上线",
+      "pinyin": "shàngxiàn",
+      "pos": "verb",
+      "en": "to go live; to launch (online)",
+      "note": "Used for apps, features and services. Common collocations: 正式上线 (to officially go live), 新功能上线 (a new feature goes live), 上线时间 (launch date), 上线以后 (after launch).",
+      "examples": [
+        {
+          "zh": "这家银行的新手机银行App下个月正式上线。",
+          "py": "Zhè jiā yínháng de xīn shǒujī yínháng App xià ge yuè zhèngshì shàngxiàn.",
+          "en": "This bank's new mobile banking app will officially go live next month."
+        },
+        {
+          "zh": "新功能上线一周后，我们要看看用户用得多不多。",
+          "py": "Xīn gōngnéng shàngxiàn yì zhōu hòu, wǒmen yào kànkan yònghù yòng de duō bu duō.",
+          "en": "A week after the new feature goes live, we need to check how much users are using it."
+        },
+        {
+          "zh": "我喜欢的那个游戏终于上线了，我马上下载了。",
+          "py": "Wǒ xǐhuan de nàge yóuxì zhōngyú shàngxiàn le, wǒ mǎshàng xiàzài le.",
+          "en": "The game I like has finally launched, and I downloaded it right away."
+        }
+      ]
+    }
+  ]
+}
