@@ -1,0 +1,635 @@
+{
+  "date": "2026-11-22",
+  "category": "finance",
+  "title_zh": "金价一周大跌，几家大银行提醒客户注意风险",
+  "title_en": "Gold prices plunge in one week; several big banks remind customers to watch the risks",
+  "paragraphs": [
+    {
+      "zh": "这个星期，国际金价下跌得很快。11月21日，现货黄金的价格降到了每盎司3500美元左右，是大约14个月以来最低的价格。盎司是一种重量单位，人们常用它来计算黄金的价格。",
+      "en": "This week, international gold prices fell fast. On November 21, the spot gold price dropped to about 3,500 US dollars per ounce, the lowest price in about 14 months. The ounce is a unit of weight that people often use to calculate the price of gold."
+    },
+    {
+      "zh": "因为金价变化很大，建设银行、工商银行和招商银行都向客户发出了提醒。这几家银行表示，最近贵金属价格的波动越来越厉害。它们建议投资者合理安排，不要拿太多钱买贵金属，也不要跟着别人一起买卖。",
+      "en": "Because gold prices have changed so much, China Construction Bank, ICBC and China Merchants Bank all sent reminders to their customers. These banks said that the fluctuations in precious metal prices have recently become more and more severe. They advised investors to plan sensibly, not to spend too much money on precious metals, and not to buy and sell just because others are doing so."
+    },
+    {
+      "zh": "国内的金首饰也跟着便宜了。11月21日，一些品牌把足金首饰的价格降到每克1056元到1068元，比前一天低了20元到34元。和今年的最高价比，品牌金首饰每克已经便宜了600多元。",
+      "en": "Gold jewellery in China has also become cheaper. On November 21, some brands lowered the price of pure gold jewellery to 1,056–1,068 yuan per gram, 20 to 34 yuan lower than the day before. Compared with this year's highest price, brand-name gold jewellery is now more than 600 yuan per gram cheaper."
+    },
+    {
+      "zh": "世界黄金协会的数据显示，今年第三季度，全球金首饰的需求比去年同一时间下降了17%。",
+      "en": "Data from the World Gold Council show that in the third quarter of this year, global demand for gold jewellery fell by 17% compared with the same period last year."
+    }
+  ],
+  "source": {
+    "name": "澎湃新闻（转载自中国新闻社）",
+    "name_en": "The Paper (republished from China News Service)",
+    "url": "https://www.thepaper.cn/newsDetail_forward_34532520"
+  },
+  "vocab": [
+    {
+      "hanzi": "金价",
+      "pinyin": "jīnjià",
+      "en": "gold price",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "大跌",
+      "pinyin": "dàdiē",
+      "en": "to fall sharply, to plunge",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "客户",
+      "pinyin": "kèhù",
+      "en": "client, customer",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "风险",
+      "pinyin": "fēngxiǎn",
+      "en": "risk",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "下跌",
+      "pinyin": "xiàdiē",
+      "en": "to fall, to drop (of prices)",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "现货",
+      "pinyin": "xiànhuò",
+      "en": "spot (market); goods for immediate delivery",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "黄金",
+      "pinyin": "huángjīn",
+      "en": "gold",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "降",
+      "pinyin": "jiàng",
+      "en": "to fall, to drop; to lower",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "盎司",
+      "pinyin": "àngsī",
+      "en": "ounce",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "美元",
+      "pinyin": "Měiyuán",
+      "en": "US dollar",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "以来",
+      "pinyin": "yǐlái",
+      "en": "since",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "重量",
+      "pinyin": "zhòngliàng",
+      "en": "weight",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "单位",
+      "pinyin": "dānwèi",
+      "en": "unit (of measurement); work unit",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "计算",
+      "pinyin": "jìsuàn",
+      "en": "to calculate",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "建设银行",
+      "pinyin": "Jiànshè Yínháng",
+      "en": "China Construction Bank (CCB)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "工商银行",
+      "pinyin": "Gōngshāng Yínháng",
+      "en": "Industrial and Commercial Bank of China (ICBC)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "招商银行",
+      "pinyin": "Zhāoshāng Yínháng",
+      "en": "China Merchants Bank (CMB)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "发出",
+      "pinyin": "fāchū",
+      "en": "to send out, to issue",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "贵金属",
+      "pinyin": "guìjīnshǔ",
+      "en": "precious metals",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "波动",
+      "pinyin": "bōdòng",
+      "en": "fluctuation; to fluctuate",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "投资者",
+      "pinyin": "tóuzīzhě",
+      "en": "investor",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "合理",
+      "pinyin": "hélǐ",
+      "en": "reasonable; sensibly",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "买卖",
+      "pinyin": "mǎimài",
+      "en": "to buy and sell, to trade; business",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "国内",
+      "pinyin": "guónèi",
+      "en": "domestic, in the country",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "首饰",
+      "pinyin": "shǒushi",
+      "en": "jewellery",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "品牌",
+      "pinyin": "pǐnpái",
+      "en": "brand",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "足金",
+      "pinyin": "zújīn",
+      "en": "pure gold (at least 99.9% gold)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "克",
+      "pinyin": "kè",
+      "en": "gram",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "最高价",
+      "pinyin": "zuìgāojià",
+      "en": "highest price",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "世界黄金协会",
+      "pinyin": "Shìjiè Huángjīn Xiéhuì",
+      "en": "World Gold Council",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "数据",
+      "pinyin": "shùjù",
+      "en": "data",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "显示",
+      "pinyin": "xiǎnshì",
+      "en": "to show",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "季度",
+      "pinyin": "jìdù",
+      "en": "quarter (of a year)",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "全球",
+      "pinyin": "quánqiú",
+      "en": "global, worldwide",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "需求",
+      "pinyin": "xūqiú",
+      "en": "demand",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "同一",
+      "pinyin": "tóngyī",
+      "en": "the same",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "下降",
+      "pinyin": "xiàjiàng",
+      "en": "to decline, to go down",
+      "hsk": "HSK 5"
+    }
+  ],
+  "glossary": [
+    {
+      "w": "一周",
+      "py": "yì zhōu",
+      "en": "one week"
+    },
+    {
+      "w": "几",
+      "py": "jǐ",
+      "en": "several"
+    },
+    {
+      "w": "家",
+      "py": "jiā",
+      "en": "(measure word for companies)"
+    },
+    {
+      "w": "大",
+      "py": "dà",
+      "en": "big"
+    },
+    {
+      "w": "银行",
+      "py": "yínháng",
+      "en": "bank"
+    },
+    {
+      "w": "提醒",
+      "py": "tíxǐng",
+      "en": "to remind; reminder"
+    },
+    {
+      "w": "注意",
+      "py": "zhùyì",
+      "en": "to pay attention to"
+    },
+    {
+      "w": "这个",
+      "py": "zhège",
+      "en": "this"
+    },
+    {
+      "w": "星期",
+      "py": "xīngqī",
+      "en": "week"
+    },
+    {
+      "w": "国际",
+      "py": "guójì",
+      "en": "international"
+    },
+    {
+      "w": "得",
+      "py": "de",
+      "en": "(links a verb to how it is done)"
+    },
+    {
+      "w": "很",
+      "py": "hěn",
+      "en": "very"
+    },
+    {
+      "w": "快",
+      "py": "kuài",
+      "en": "fast"
+    },
+    {
+      "w": "月",
+      "py": "yuè",
+      "en": "month"
+    },
+    {
+      "w": "日",
+      "py": "rì",
+      "en": "day (of the month)"
+    },
+    {
+      "w": "的",
+      "py": "de",
+      "en": "(possessive / descriptive particle)"
+    },
+    {
+      "w": "价格",
+      "py": "jiàgé",
+      "en": "price"
+    },
+    {
+      "w": "到",
+      "py": "dào",
+      "en": "to (reach)"
+    },
+    {
+      "w": "了",
+      "py": "le",
+      "en": "(marks a completed action or change)"
+    },
+    {
+      "w": "每",
+      "py": "měi",
+      "en": "per, each"
+    },
+    {
+      "w": "左右",
+      "py": "zuǒyòu",
+      "en": "about, around"
+    },
+    {
+      "w": "是",
+      "py": "shì",
+      "en": "to be"
+    },
+    {
+      "w": "大约",
+      "py": "dàyuē",
+      "en": "about, roughly"
+    },
+    {
+      "w": "个",
+      "py": "gè",
+      "en": "(measure word)"
+    },
+    {
+      "w": "最低",
+      "py": "zuì dī",
+      "en": "lowest"
+    },
+    {
+      "w": "一种",
+      "py": "yì zhǒng",
+      "en": "a kind of"
+    },
+    {
+      "w": "人们",
+      "py": "rénmen",
+      "en": "people"
+    },
+    {
+      "w": "常用",
+      "py": "cháng yòng",
+      "en": "to often use"
+    },
+    {
+      "w": "它",
+      "py": "tā",
+      "en": "it"
+    },
+    {
+      "w": "来",
+      "py": "lái",
+      "en": "to (do something)"
+    },
+    {
+      "w": "因为",
+      "py": "yīnwèi",
+      "en": "because"
+    },
+    {
+      "w": "变化",
+      "py": "biànhuà",
+      "en": "change"
+    },
+    {
+      "w": "都",
+      "py": "dōu",
+      "en": "all"
+    },
+    {
+      "w": "向",
+      "py": "xiàng",
+      "en": "to, towards"
+    },
+    {
+      "w": "和",
+      "py": "hé",
+      "en": "and; with"
+    },
+    {
+      "w": "这",
+      "py": "zhè",
+      "en": "this"
+    },
+    {
+      "w": "表示",
+      "py": "biǎoshì",
+      "en": "to say, to state"
+    },
+    {
+      "w": "最近",
+      "py": "zuìjìn",
+      "en": "recently"
+    },
+    {
+      "w": "越来越",
+      "py": "yuè lái yuè",
+      "en": "more and more"
+    },
+    {
+      "w": "厉害",
+      "py": "lìhai",
+      "en": "severe, intense"
+    },
+    {
+      "w": "它们",
+      "py": "tāmen",
+      "en": "they (for things)"
+    },
+    {
+      "w": "建议",
+      "py": "jiànyì",
+      "en": "to advise, to suggest"
+    },
+    {
+      "w": "安排",
+      "py": "ānpái",
+      "en": "to plan, to arrange"
+    },
+    {
+      "w": "不要",
+      "py": "búyào",
+      "en": "don't"
+    },
+    {
+      "w": "拿",
+      "py": "ná",
+      "en": "to take"
+    },
+    {
+      "w": "太多",
+      "py": "tài duō",
+      "en": "too much"
+    },
+    {
+      "w": "钱",
+      "py": "qián",
+      "en": "money"
+    },
+    {
+      "w": "买",
+      "py": "mǎi",
+      "en": "to buy"
+    },
+    {
+      "w": "也",
+      "py": "yě",
+      "en": "also"
+    },
+    {
+      "w": "跟着",
+      "py": "gēnzhe",
+      "en": "to follow"
+    },
+    {
+      "w": "别人",
+      "py": "biérén",
+      "en": "other people"
+    },
+    {
+      "w": "一起",
+      "py": "yìqǐ",
+      "en": "together"
+    },
+    {
+      "w": "金",
+      "py": "jīn",
+      "en": "gold"
+    },
+    {
+      "w": "便宜",
+      "py": "piányi",
+      "en": "cheap"
+    },
+    {
+      "w": "一些",
+      "py": "yìxiē",
+      "en": "some"
+    },
+    {
+      "w": "把",
+      "py": "bǎ",
+      "en": "(moves the object before the verb)"
+    },
+    {
+      "w": "元",
+      "py": "yuán",
+      "en": "yuan (Chinese currency)"
+    },
+    {
+      "w": "比",
+      "py": "bǐ",
+      "en": "than; compared with"
+    },
+    {
+      "w": "前一天",
+      "py": "qián yì tiān",
+      "en": "the day before"
+    },
+    {
+      "w": "低",
+      "py": "dī",
+      "en": "low"
+    },
+    {
+      "w": "今年",
+      "py": "jīnnián",
+      "en": "this year"
+    },
+    {
+      "w": "已经",
+      "py": "yǐjīng",
+      "en": "already"
+    },
+    {
+      "w": "多",
+      "py": "duō",
+      "en": "more than"
+    },
+    {
+      "w": "第三",
+      "py": "dì-sān",
+      "en": "third"
+    },
+    {
+      "w": "去年",
+      "py": "qùnián",
+      "en": "last year"
+    },
+    {
+      "w": "时间",
+      "py": "shíjiān",
+      "en": "time, period"
+    }
+  ],
+  "featured": [
+    {
+      "hanzi": "波动",
+      "pinyin": "bōdòng",
+      "pos": "verb / noun",
+      "en": "to fluctuate; fluctuation",
+      "note": "Used for prices and markets going up and down: 价格波动、市场波动、汇率波动、波动加大、波动很大.",
+      "examples": [
+        {
+          "zh": "最近股市波动很大，很多人不敢买股票。",
+          "py": "Zuìjìn gǔshì bōdòng hěn dà, hěn duō rén bù gǎn mǎi gǔpiào.",
+          "en": "The stock market has been fluctuating a lot recently, so many people don't dare to buy shares."
+        },
+        {
+          "zh": "这个月人民币汇率的波动不大。",
+          "py": "Zhège yuè Rénmínbì huìlǜ de bōdòng bú dà.",
+          "en": "This month the RMB exchange rate did not fluctuate much."
+        },
+        {
+          "zh": "这几天气温波动大，出门要多带一件衣服。",
+          "py": "Zhè jǐ tiān qìwēn bōdòng dà, chūmén yào duō dài yí jiàn yīfu.",
+          "en": "The temperature has been going up and down a lot these days, so take an extra layer when you go out."
+        }
+      ]
+    },
+    {
+      "hanzi": "风险",
+      "pinyin": "fēngxiǎn",
+      "pos": "noun",
+      "en": "risk",
+      "note": "Very common in finance: 投资风险、风险提示 (risk warning)、降低风险、控制风险、风控 (short for 风险控制, risk control). 有风险 = it is risky.",
+      "examples": [
+        {
+          "zh": "银行提醒客户：投资有风险，买之前要想清楚。",
+          "py": "Yínháng tíxǐng kèhù: tóuzī yǒu fēngxiǎn, mǎi zhīqián yào xiǎng qīngchu.",
+          "en": "The bank reminds customers: investing is risky, so think it over before you buy."
+        },
+        {
+          "zh": "把钱放在不同的地方，可以降低风险。",
+          "py": "Bǎ qián fàng zài bù tóng de dìfang, kěyǐ jiàngdī fēngxiǎn.",
+          "en": "Putting your money in different places can lower the risk."
+        },
+        {
+          "zh": "晚上一个人去爬山风险太大，还是白天去吧。",
+          "py": "Wǎnshang yí ge rén qù pá shān fēngxiǎn tài dà, háishi báitiān qù ba.",
+          "en": "Climbing a mountain alone at night is too risky; better go during the day."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,534 @@
+{
+  "date": "2026-11-22",
+  "category": "fintech",
+  "title_zh": "央行注销吉林一家公司的支付牌照，今年已有10张",
+  "title_en": "The central bank cancels a Jilin company's payment licence — 10 cancelled so far this year",
+  "paragraphs": [
+    {
+      "zh": "据移动支付网11月20日报道，中国人民银行（央行）在11月12日注销了吉林通卡支付公司的《支付业务许可证》，也就是大家常说的支付牌照。这家公司一般被简称为“吉林通”。",
+      "en": "According to a November 20 report by Mpaypass, the People's Bank of China (the central bank) cancelled the Payment Business Licence of Jilin Tongka Payment Company on November 12 — what people usually call a payment licence. The company is usually known by the short name \"Jilin Tong\"."
+    },
+    {
+      "zh": "吉林通成立于2004年，2012年拿到支付牌照，是吉林省里唯一有这种牌照的第三方支付公司。它发行的卡主要用在公共交通上。",
+      "en": "Jilin Tong was founded in 2004 and got its payment licence in 2012. It was the only third-party payment company in Jilin Province with this kind of licence. The cards it issued were mainly used on public transport."
+    },
+    {
+      "zh": "预付卡就是先把钱存进卡里，以后再用卡付款。多用途预付卡可以在很多不同的商户使用，单用途预付卡一般只能在一家公司使用。从2025年12月31日起，吉林通已经停止了多用途预付卡业务，所以现在它的卡不能再到合作商户那里买东西，只能用来坐公交。",
+      "en": "A prepaid card means you first put money onto the card and then pay with the card later. A multi-purpose prepaid card can be used at many different merchants, while a single-purpose prepaid card can usually only be used at one company. Since December 31, 2025, Jilin Tong has stopped its multi-purpose prepaid card business, so its cards can no longer be used to buy things at partner merchants — they can only be used to ride public transport."
+    },
+    {
+      "zh": "移动支付网统计，今年央行一共注销了10张支付牌照。到现在为止，被注销的支付牌照一共有118张。",
+      "en": "According to Mpaypass's count, the central bank has cancelled 10 payment licences in total this year. Up to now, 118 payment licences have been cancelled altogether."
+    }
+  ],
+  "source": {
+    "name": "移动支付网",
+    "name_en": "Mpaypass (China Mobile Payment Network)",
+    "url": "https://www.mpaypass.com.cn/news/202611/20202905.html"
+  },
+  "vocab": [
+    {
+      "hanzi": "央行",
+      "pinyin": "yāngháng",
+      "en": "central bank (short for 中央银行; here the People's Bank of China)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "注销",
+      "pinyin": "zhùxiāo",
+      "en": "to cancel, to revoke (a licence or registration)",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "吉林",
+      "pinyin": "Jílín",
+      "en": "Jilin (a province in northeast China)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "支付",
+      "pinyin": "zhīfù",
+      "en": "to pay; payment",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "牌照",
+      "pinyin": "páizhào",
+      "en": "licence (official permit to run a business)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "据",
+      "pinyin": "jù",
+      "en": "according to",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "报道",
+      "pinyin": "bàodào",
+      "en": "to report; news report",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "中国人民银行",
+      "pinyin": "Zhōngguó Rénmín Yínháng",
+      "en": "People's Bank of China (PBOC)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "业务",
+      "pinyin": "yèwù",
+      "en": "business, operations",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "许可证",
+      "pinyin": "xǔkězhèng",
+      "en": "licence, permit",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "简称",
+      "pinyin": "jiǎnchēng",
+      "en": "to be called for short; short name",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "成立",
+      "pinyin": "chénglì",
+      "en": "to found, to set up",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "于",
+      "pinyin": "yú",
+      "en": "in, at (formal)",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "唯一",
+      "pinyin": "wéiyī",
+      "en": "only, sole",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "第三方支付",
+      "pinyin": "dì-sān fāng zhīfù",
+      "en": "third-party payment",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "发行",
+      "pinyin": "fāxíng",
+      "en": "to issue (cards, bonds, money)",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "公共",
+      "pinyin": "gōnggòng",
+      "en": "public",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "预付卡",
+      "pinyin": "yùfùkǎ",
+      "en": "prepaid card",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "多用途",
+      "pinyin": "duō yòngtú",
+      "en": "multi-purpose",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "商户",
+      "pinyin": "shānghù",
+      "en": "merchant, business (that accepts payments)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "单用途",
+      "pinyin": "dān yòngtú",
+      "en": "single-purpose",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "停止",
+      "pinyin": "tíngzhǐ",
+      "en": "to stop",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "合作",
+      "pinyin": "hézuò",
+      "en": "to cooperate; partner (as in 合作商户)",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "公交",
+      "pinyin": "gōngjiāo",
+      "en": "public transport, city bus",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "统计",
+      "pinyin": "tǒngjì",
+      "en": "to count, to compile statistics; statistics",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "为止",
+      "pinyin": "wéizhǐ",
+      "en": "up to, until (到…为止)",
+      "hsk": "HSK 7–9"
+    }
+  ],
+  "glossary": [
+    {
+      "w": "今年",
+      "py": "jīnnián",
+      "en": "this year"
+    },
+    {
+      "w": "已",
+      "py": "yǐ",
+      "en": "already"
+    },
+    {
+      "w": "有",
+      "py": "yǒu",
+      "en": "to have; there are"
+    },
+    {
+      "w": "张",
+      "py": "zhāng",
+      "en": "(measure word for licences, cards, paper)"
+    },
+    {
+      "w": "一家",
+      "py": "yì jiā",
+      "en": "one, a (company)"
+    },
+    {
+      "w": "公司",
+      "py": "gōngsī",
+      "en": "company"
+    },
+    {
+      "w": "的",
+      "py": "de",
+      "en": "(possessive / descriptive particle)"
+    },
+    {
+      "w": "移动支付网",
+      "py": "Yídòng Zhīfùwǎng",
+      "en": "Mpaypass (China Mobile Payment Network)"
+    },
+    {
+      "w": "月",
+      "py": "yuè",
+      "en": "month"
+    },
+    {
+      "w": "日",
+      "py": "rì",
+      "en": "day (of the month)"
+    },
+    {
+      "w": "在",
+      "py": "zài",
+      "en": "on, at"
+    },
+    {
+      "w": "了",
+      "py": "le",
+      "en": "(marks a completed action)"
+    },
+    {
+      "w": "吉林通卡支付公司",
+      "py": "Jílín Tōngkǎ Zhīfù Gōngsī",
+      "en": "Jilin Tongka Payment Company"
+    },
+    {
+      "w": "也就是",
+      "py": "yě jiù shì",
+      "en": "that is, in other words"
+    },
+    {
+      "w": "大家",
+      "py": "dàjiā",
+      "en": "everyone"
+    },
+    {
+      "w": "常说",
+      "py": "cháng shuō",
+      "en": "often say"
+    },
+    {
+      "w": "这家",
+      "py": "zhè jiā",
+      "en": "this (company)"
+    },
+    {
+      "w": "一般",
+      "py": "yìbān",
+      "en": "usually, generally"
+    },
+    {
+      "w": "被",
+      "py": "bèi",
+      "en": "(marks the passive)"
+    },
+    {
+      "w": "为",
+      "py": "wéi",
+      "en": "as"
+    },
+    {
+      "w": "吉林通",
+      "py": "Jílín Tōng",
+      "en": "Jilin Tong (the company's short name)"
+    },
+    {
+      "w": "年",
+      "py": "nián",
+      "en": "year"
+    },
+    {
+      "w": "拿到",
+      "py": "nádào",
+      "en": "to get, to obtain"
+    },
+    {
+      "w": "是",
+      "py": "shì",
+      "en": "to be"
+    },
+    {
+      "w": "省",
+      "py": "shěng",
+      "en": "province"
+    },
+    {
+      "w": "里",
+      "py": "lǐ",
+      "en": "in"
+    },
+    {
+      "w": "这种",
+      "py": "zhè zhǒng",
+      "en": "this kind of"
+    },
+    {
+      "w": "它",
+      "py": "tā",
+      "en": "it"
+    },
+    {
+      "w": "卡",
+      "py": "kǎ",
+      "en": "card"
+    },
+    {
+      "w": "主要",
+      "py": "zhǔyào",
+      "en": "mainly"
+    },
+    {
+      "w": "用",
+      "py": "yòng",
+      "en": "to use"
+    },
+    {
+      "w": "上",
+      "py": "shang",
+      "en": "on"
+    },
+    {
+      "w": "交通",
+      "py": "jiāotōng",
+      "en": "transport, traffic"
+    },
+    {
+      "w": "就是",
+      "py": "jiù shì",
+      "en": "is, means"
+    },
+    {
+      "w": "先",
+      "py": "xiān",
+      "en": "first"
+    },
+    {
+      "w": "把",
+      "py": "bǎ",
+      "en": "(moves the object before the verb)"
+    },
+    {
+      "w": "钱",
+      "py": "qián",
+      "en": "money"
+    },
+    {
+      "w": "存进",
+      "py": "cún jìn",
+      "en": "to deposit into"
+    },
+    {
+      "w": "以后",
+      "py": "yǐhòu",
+      "en": "later, afterwards"
+    },
+    {
+      "w": "再",
+      "py": "zài",
+      "en": "then; again"
+    },
+    {
+      "w": "付款",
+      "py": "fùkuǎn",
+      "en": "to pay"
+    },
+    {
+      "w": "可以",
+      "py": "kěyǐ",
+      "en": "can"
+    },
+    {
+      "w": "很多",
+      "py": "hěn duō",
+      "en": "many"
+    },
+    {
+      "w": "不同",
+      "py": "bù tóng",
+      "en": "different"
+    },
+    {
+      "w": "使用",
+      "py": "shǐyòng",
+      "en": "to use"
+    },
+    {
+      "w": "只能",
+      "py": "zhǐ néng",
+      "en": "can only"
+    },
+    {
+      "w": "从",
+      "py": "cóng",
+      "en": "from"
+    },
+    {
+      "w": "起",
+      "py": "qǐ",
+      "en": "starting (from)"
+    },
+    {
+      "w": "已经",
+      "py": "yǐjīng",
+      "en": "already"
+    },
+    {
+      "w": "所以",
+      "py": "suǒyǐ",
+      "en": "so, therefore"
+    },
+    {
+      "w": "现在",
+      "py": "xiànzài",
+      "en": "now"
+    },
+    {
+      "w": "不能",
+      "py": "bù néng",
+      "en": "cannot"
+    },
+    {
+      "w": "到",
+      "py": "dào",
+      "en": "to (go to)"
+    },
+    {
+      "w": "那里",
+      "py": "nàlǐ",
+      "en": "there"
+    },
+    {
+      "w": "买",
+      "py": "mǎi",
+      "en": "to buy"
+    },
+    {
+      "w": "东西",
+      "py": "dōngxi",
+      "en": "things"
+    },
+    {
+      "w": "来",
+      "py": "lái",
+      "en": "to (do something)"
+    },
+    {
+      "w": "坐",
+      "py": "zuò",
+      "en": "to ride, to take (transport)"
+    },
+    {
+      "w": "一共",
+      "py": "yígòng",
+      "en": "in total"
+    }
+  ],
+  "featured": [
+    {
+      "hanzi": "牌照",
+      "pinyin": "páizhào",
+      "pos": "noun",
+      "en": "licence (an official permit to run a regulated business)",
+      "note": "In fintech news, 支付牌照 = payment licence. Common verbs: 拿到/获得牌照 (get a licence)、注销牌照 (cancel a licence)、申请牌照 (apply for a licence)、持牌机构 (licensed institution).",
+      "examples": [
+        {
+          "zh": "这家公司去年拿到了支付牌照，开始给商户提供收款服务。",
+          "py": "Zhè jiā gōngsī qùnián nádào le zhīfù páizhào, kāishǐ gěi shānghù tígōng shōukuǎn fúwù.",
+          "en": "This company got a payment licence last year and started providing payment-collection services to merchants."
+        },
+        {
+          "zh": "没有牌照的公司不能做支付业务。",
+          "py": "Méiyǒu páizhào de gōngsī bù néng zuò zhīfù yèwù.",
+          "en": "A company without a licence cannot run a payment business."
+        },
+        {
+          "zh": "我朋友想开出租车，先要去办一张牌照。",
+          "py": "Wǒ péngyou xiǎng kāi chūzūchē, xiān yào qù bàn yì zhāng páizhào.",
+          "en": "My friend wants to drive a taxi, so first he has to get a licence."
+        }
+      ]
+    },
+    {
+      "hanzi": "第三方支付",
+      "pinyin": "dì-sān fāng zhīfù",
+      "pos": "noun",
+      "en": "third-party payment (payments handled by a non-bank company)",
+      "note": "Refers to non-bank payment companies such as 支付宝 and 微信支付 (财付通). Often seen as 第三方支付机构 (third-party payment institution)、第三方支付平台、第三方支付市场.",
+      "examples": [
+        {
+          "zh": "在中国，很多人用第三方支付平台买东西。",
+          "py": "Zài Zhōngguó, hěn duō rén yòng dì-sān fāng zhīfù píngtái mǎi dōngxi.",
+          "en": "In China, many people use third-party payment platforms to buy things."
+        },
+        {
+          "zh": "我们分析了上个月客户通过第三方支付付款的比例。",
+          "py": "Wǒmen fēnxī le shàng ge yuè kèhù tōngguò dì-sān fāng zhīfù fùkuǎn de bǐlì.",
+          "en": "We analysed the share of customers who paid through third-party payment last month."
+        },
+        {
+          "zh": "这家小饭馆只能用现金，不支持第三方支付。",
+          "py": "Zhè jiā xiǎo fànguǎn zhǐ néng yòng xiànjīn, bù zhīchí dì-sān fāng zhīfù.",
+          "en": "This small restaurant only takes cash and doesn't support third-party payment."
+        }
+      ]
+    }
+  ]
+}
