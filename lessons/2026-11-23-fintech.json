@@ -1,0 +1,676 @@
+{
+  "date": "2026-11-23",
+  "category": "fintech",
+  "title_zh": "鲲鹏支付：商户刷卡的钱晚到账，争取12月底前全部结算",
+  "title_en": "Kunpeng Payment: merchants' card payments arrived late; it aims to settle everything before the end of December",
+  "paragraphs": [
+    {
+      "zh": "重庆一家支付公司“鲲鹏支付”11月20日发布公告说，一些商户用它的POS机刷卡收款以后，钱没有按时到账。这已经是这家公司第三次公开说明这件事。",
+      "en": "Kunpeng Payment, a payment company in Chongqing, said in an announcement on November 20 that after some merchants took card payments on its POS terminals, the money did not arrive in their accounts on time. This is the third time the company has publicly explained the matter."
+    },
+    {
+      "zh": "11月4日，鲲鹏支付第一次承认结算推迟了，并向商户道歉。公司说，原因是自己在清算、出款和风险管理上做得不够。11月7日，公司又说，有关部门已经成立了专门的工作组，监督公司把每一笔交易都检查一遍。",
+      "en": "On November 4, Kunpeng Payment first admitted that settlement had been delayed and apologised to merchants. The company said the reason was that it had not done enough in clearing, payouts and risk management. On November 7, the company said the relevant authorities had set up a special working group to supervise it as it checked every single transaction."
+    },
+    {
+      "zh": "公司这次表示，从11月9日起，真实、合法的交易已经开始结算，很多商户已经陆续收到钱。从11月20日开始，公司会检查还没有结算的其他资金，争取在12月底以前全部完成。",
+      "en": "This time the company said that since November 9, real and legal transactions have started to be settled, and many merchants have gradually received their money. Starting November 20, the company will check the other funds that have not yet been settled, and it aims to finish everything before the end of December."
+    },
+    {
+      "zh": "鲲鹏支付在2011年从中国人民银行拿到支付牌照，提供银行卡收单、移动支付和网络支付等服务，牌照的有效期到2026年12月21日。公司还提醒商户：结算不收任何费用，如果有人说交钱就能更快拿到钱，不要相信。",
+      "en": "Kunpeng Payment received its payment licence from the People's Bank of China in 2011. It provides bank card acquiring, mobile payment and online payment services, and its licence is valid until December 21, 2026. The company also reminded merchants that settlement is free of charge: if someone says paying money will get your funds faster, don't believe them."
+    }
+  ],
+  "source": {
+    "name": "澎湃新闻",
+    "name_en": "The Paper",
+    "url": "https://www.thepaper.cn/newsDetail_forward_34518838"
+  },
+  "vocab": [
+    {
+      "hanzi": "鲲鹏支付",
+      "pinyin": "Kūnpéng Zhīfù",
+      "en": "Kunpeng Payment (a payment company in Chongqing)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "商户",
+      "pinyin": "shānghù",
+      "en": "merchant",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "刷卡",
+      "pinyin": "shuā kǎ",
+      "en": "to swipe a card, to pay by card",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "到账",
+      "pinyin": "dào zhàng",
+      "en": "(of money) to arrive in an account",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "争取",
+      "pinyin": "zhēngqǔ",
+      "en": "to strive for, to aim to",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "结算",
+      "pinyin": "jiésuàn",
+      "en": "to settle (payments); settlement",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "支付",
+      "pinyin": "zhīfù",
+      "en": "to pay; payment",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "公告",
+      "pinyin": "gōnggào",
+      "en": "announcement, public notice",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "POS机",
+      "pinyin": "POS jī",
+      "en": "POS terminal, card machine",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "收款",
+      "pinyin": "shōu kuǎn",
+      "en": "to receive payment",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "公开",
+      "pinyin": "gōngkāi",
+      "en": "publicly; open",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "承认",
+      "pinyin": "chéngrèn",
+      "en": "to admit",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "清算",
+      "pinyin": "qīngsuàn",
+      "en": "clearing (of payments)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "出款",
+      "pinyin": "chū kuǎn",
+      "en": "to pay out funds; payout",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "风险",
+      "pinyin": "fēngxiǎn",
+      "en": "risk",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "有关",
+      "pinyin": "yǒuguān",
+      "en": "relevant, related",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "部门",
+      "pinyin": "bùmén",
+      "en": "department; (here) authority",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "成立",
+      "pinyin": "chénglì",
+      "en": "to set up, to establish",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "工作组",
+      "pinyin": "gōngzuòzǔ",
+      "en": "working group, task force",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "监督",
+      "pinyin": "jiāndū",
+      "en": "to supervise",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "笔",
+      "pinyin": "bǐ",
+      "en": "measure word for sums of money or transactions",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "交易",
+      "pinyin": "jiāoyì",
+      "en": "transaction",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "真实",
+      "pinyin": "zhēnshí",
+      "en": "real, genuine",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "合法",
+      "pinyin": "héfǎ",
+      "en": "legal, lawful",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "陆续",
+      "pinyin": "lùxù",
+      "en": "one after another, gradually",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "资金",
+      "pinyin": "zījīn",
+      "en": "funds",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "牌照",
+      "pinyin": "páizhào",
+      "en": "licence",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "收单",
+      "pinyin": "shōudān",
+      "en": "(card) acquiring — processing card payments for merchants",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "移动支付",
+      "pinyin": "yídòng zhīfù",
+      "en": "mobile payment",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "网络",
+      "pinyin": "wǎngluò",
+      "en": "network; online",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "服务",
+      "pinyin": "fúwù",
+      "en": "service",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "有效期",
+      "pinyin": "yǒuxiàoqī",
+      "en": "period of validity",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "费用",
+      "pinyin": "fèiyòng",
+      "en": "fee, charge",
+      "hsk": "HSK 5"
+    }
+  ],
+  "glossary": [
+    {
+      "w": "的",
+      "py": "de",
+      "en": "structural particle"
+    },
+    {
+      "w": "钱",
+      "py": "qián",
+      "en": "money"
+    },
+    {
+      "w": "晚",
+      "py": "wǎn",
+      "en": "late"
+    },
+    {
+      "w": "底",
+      "py": "dǐ",
+      "en": "end (of a month)"
+    },
+    {
+      "w": "前",
+      "py": "qián",
+      "en": "before"
+    },
+    {
+      "w": "全部",
+      "py": "quánbù",
+      "en": "all"
+    },
+    {
+      "w": "月",
+      "py": "yuè",
+      "en": "month"
+    },
+    {
+      "w": "日",
+      "py": "rì",
+      "en": "day (of the month)"
+    },
+    {
+      "w": "年",
+      "py": "nián",
+      "en": "year"
+    },
+    {
+      "w": "重庆",
+      "py": "Chóngqìng",
+      "en": "Chongqing"
+    },
+    {
+      "w": "一家",
+      "py": "yì jiā",
+      "en": "one (company)"
+    },
+    {
+      "w": "公司",
+      "py": "gōngsī",
+      "en": "company"
+    },
+    {
+      "w": "发布",
+      "py": "fābù",
+      "en": "to issue"
+    },
+    {
+      "w": "说",
+      "py": "shuō",
+      "en": "to say"
+    },
+    {
+      "w": "一些",
+      "py": "yìxiē",
+      "en": "some"
+    },
+    {
+      "w": "用",
+      "py": "yòng",
+      "en": "to use"
+    },
+    {
+      "w": "它",
+      "py": "tā",
+      "en": "it"
+    },
+    {
+      "w": "以后",
+      "py": "yǐhòu",
+      "en": "after"
+    },
+    {
+      "w": "没有",
+      "py": "méiyǒu",
+      "en": "did not"
+    },
+    {
+      "w": "按时",
+      "py": "ànshí",
+      "en": "on time"
+    },
+    {
+      "w": "这",
+      "py": "zhè",
+      "en": "this"
+    },
+    {
+      "w": "已经",
+      "py": "yǐjīng",
+      "en": "already"
+    },
+    {
+      "w": "是",
+      "py": "shì",
+      "en": "is"
+    },
+    {
+      "w": "这家",
+      "py": "zhè jiā",
+      "en": "this (company)"
+    },
+    {
+      "w": "第三次",
+      "py": "dì sān cì",
+      "en": "the third time"
+    },
+    {
+      "w": "说明",
+      "py": "shuōmíng",
+      "en": "to explain"
+    },
+    {
+      "w": "这件事",
+      "py": "zhè jiàn shì",
+      "en": "this matter"
+    },
+    {
+      "w": "第一次",
+      "py": "dì yī cì",
+      "en": "for the first time"
+    },
+    {
+      "w": "推迟",
+      "py": "tuīchí",
+      "en": "to delay"
+    },
+    {
+      "w": "了",
+      "py": "le",
+      "en": "particle (completion)"
+    },
+    {
+      "w": "并",
+      "py": "bìng",
+      "en": "and"
+    },
+    {
+      "w": "向",
+      "py": "xiàng",
+      "en": "to, towards"
+    },
+    {
+      "w": "道歉",
+      "py": "dàoqiàn",
+      "en": "to apologise"
+    },
+    {
+      "w": "原因",
+      "py": "yuányīn",
+      "en": "reason"
+    },
+    {
+      "w": "自己",
+      "py": "zìjǐ",
+      "en": "oneself"
+    },
+    {
+      "w": "在",
+      "py": "zài",
+      "en": "in, at"
+    },
+    {
+      "w": "和",
+      "py": "hé",
+      "en": "and"
+    },
+    {
+      "w": "管理",
+      "py": "guǎnlǐ",
+      "en": "management"
+    },
+    {
+      "w": "上",
+      "py": "shang",
+      "en": "in (an area)"
+    },
+    {
+      "w": "做",
+      "py": "zuò",
+      "en": "to do"
+    },
+    {
+      "w": "得",
+      "py": "de",
+      "en": "particle (degree complement)"
+    },
+    {
+      "w": "不够",
+      "py": "bú gòu",
+      "en": "not enough"
+    },
+    {
+      "w": "又",
+      "py": "yòu",
+      "en": "again"
+    },
+    {
+      "w": "专门",
+      "py": "zhuānmén",
+      "en": "special"
+    },
+    {
+      "w": "把",
+      "py": "bǎ",
+      "en": "particle (puts object before verb)"
+    },
+    {
+      "w": "每",
+      "py": "měi",
+      "en": "every"
+    },
+    {
+      "w": "一",
+      "py": "yī",
+      "en": "one"
+    },
+    {
+      "w": "都",
+      "py": "dōu",
+      "en": "all"
+    },
+    {
+      "w": "检查",
+      "py": "jiǎnchá",
+      "en": "to check"
+    },
+    {
+      "w": "一遍",
+      "py": "yí biàn",
+      "en": "once (all the way through)"
+    },
+    {
+      "w": "这次",
+      "py": "zhè cì",
+      "en": "this time"
+    },
+    {
+      "w": "表示",
+      "py": "biǎoshì",
+      "en": "to state"
+    },
+    {
+      "w": "从",
+      "py": "cóng",
+      "en": "from"
+    },
+    {
+      "w": "起",
+      "py": "qǐ",
+      "en": "starting from"
+    },
+    {
+      "w": "开始",
+      "py": "kāishǐ",
+      "en": "to start"
+    },
+    {
+      "w": "很多",
+      "py": "hěn duō",
+      "en": "many"
+    },
+    {
+      "w": "收到",
+      "py": "shōudào",
+      "en": "to receive"
+    },
+    {
+      "w": "会",
+      "py": "huì",
+      "en": "will"
+    },
+    {
+      "w": "还",
+      "py": "hái",
+      "en": "still"
+    },
+    {
+      "w": "其他",
+      "py": "qítā",
+      "en": "other"
+    },
+    {
+      "w": "以前",
+      "py": "yǐqián",
+      "en": "before"
+    },
+    {
+      "w": "完成",
+      "py": "wánchéng",
+      "en": "to finish"
+    },
+    {
+      "w": "中国人民银行",
+      "py": "Zhōngguó Rénmín Yínháng",
+      "en": "People's Bank of China (the central bank)"
+    },
+    {
+      "w": "拿到",
+      "py": "ná dào",
+      "en": "to get, to obtain"
+    },
+    {
+      "w": "提供",
+      "py": "tígōng",
+      "en": "to provide"
+    },
+    {
+      "w": "银行卡",
+      "py": "yínhángkǎ",
+      "en": "bank card"
+    },
+    {
+      "w": "等",
+      "py": "děng",
+      "en": "etc."
+    },
+    {
+      "w": "到",
+      "py": "dào",
+      "en": "until"
+    },
+    {
+      "w": "提醒",
+      "py": "tíxǐng",
+      "en": "to remind"
+    },
+    {
+      "w": "不收",
+      "py": "bù shōu",
+      "en": "not charge"
+    },
+    {
+      "w": "任何",
+      "py": "rènhé",
+      "en": "any"
+    },
+    {
+      "w": "如果",
+      "py": "rúguǒ",
+      "en": "if"
+    },
+    {
+      "w": "有人",
+      "py": "yǒu rén",
+      "en": "someone"
+    },
+    {
+      "w": "交钱",
+      "py": "jiāo qián",
+      "en": "to pay money"
+    },
+    {
+      "w": "就",
+      "py": "jiù",
+      "en": "then"
+    },
+    {
+      "w": "能",
+      "py": "néng",
+      "en": "can"
+    },
+    {
+      "w": "更快",
+      "py": "gèng kuài",
+      "en": "faster"
+    },
+    {
+      "w": "不要",
+      "py": "búyào",
+      "en": "don't"
+    },
+    {
+      "w": "相信",
+      "py": "xiāngxìn",
+      "en": "to believe"
+    }
+  ],
+  "featured": [
+    {
+      "hanzi": "商户",
+      "pinyin": "shānghù",
+      "pos": "noun",
+      "en": "merchant; business that accepts payments",
+      "note": "Common collocations: 小微商户 (small and micro merchants), 商户收款 (merchant collection), 商户入驻 (merchant onboarding), 活跃商户 (active merchants), 商户服务 (merchant services).",
+      "examples": [
+        {
+          "zh": "很多小商户用手机扫码收款。",
+          "py": "Hěn duō xiǎo shānghù yòng shǒujī sǎomǎ shōukuǎn.",
+          "en": "Many small merchants use their phones to take QR-code payments."
+        },
+        {
+          "zh": "这个月我们平台的活跃商户比上个月多了百分之五。",
+          "py": "Zhège yuè wǒmen píngtái de huóyuè shānghù bǐ shàng ge yuè duō le bǎi fēn zhī wǔ.",
+          "en": "This month our platform's active merchants grew 5% compared with last month."
+        },
+        {
+          "zh": "我家楼下的水果店也是这家支付公司的商户。",
+          "py": "Wǒ jiā lóuxià de shuǐguǒdiàn yě shì zhè jiā zhīfù gōngsī de shānghù.",
+          "en": "The fruit shop downstairs is also a merchant of this payment company."
+        }
+      ]
+    },
+    {
+      "hanzi": "结算",
+      "pinyin": "jiésuàn",
+      "pos": "verb / noun",
+      "en": "to settle (accounts or payments); settlement",
+      "note": "Common collocations: 资金结算 (fund settlement), 结算周期 (settlement cycle), T+1结算 (next-day settlement), 跨境结算 (cross-border settlement), 结算账户 (settlement account).",
+      "examples": [
+        {
+          "zh": "这家支付公司的结算推迟了，很多商户很着急。",
+          "py": "Zhè jiā zhīfù gōngsī de jiésuàn tuīchí le, hěn duō shānghù hěn zháojí.",
+          "en": "This payment company's settlement was delayed, and many merchants are worried."
+        },
+        {
+          "zh": "我们要每天检查有多少笔交易没有按时结算。",
+          "py": "Wǒmen yào měitiān jiǎnchá yǒu duōshao bǐ jiāoyì méiyǒu ànshí jiésuàn.",
+          "en": "We need to check every day how many transactions were not settled on time."
+        },
+        {
+          "zh": "吃完饭，我们用手机一起结算吧。",
+          "py": "Chī wán fàn, wǒmen yòng shǒujī yìqǐ jiésuàn ba.",
+          "en": "After dinner, let's settle the bill together on our phones."
+        }
+      ]
+    }
+  ]
+}

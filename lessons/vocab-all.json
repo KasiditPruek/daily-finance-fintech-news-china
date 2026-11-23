@@ -9,6 +9,14 @@
     "2026-11-18-finance"
    ]
   },
+  "POS机": {
+   "py": "POS jī",
+   "en": "POS terminal, card machine",
+   "hsk": "超纲",
+   "seen": [
+    "2026-11-23-fintech"
+   ]
+  },
   "一般公共预算支出": {
    "py": "yìbān gōnggòng yùsuàn zhīchū",
    "en": "general public budget expenditure",
@@ -278,6 +286,14 @@
     "2026-11-18-fintech"
    ]
   },
+  "中国证监会": {
+   "py": "Zhōngguó Zhèngjiānhuì",
+   "en": "China Securities Regulatory Commission (CSRC)",
+   "hsk": "超纲",
+   "seen": [
+    "2026-11-23-finance"
+   ]
+  },
   "中央银行": {
    "py": "zhōngyāng yínháng",
    "en": "central bank",
@@ -391,6 +407,14 @@
     "2026-11-16-finance"
    ]
   },
+  "争取": {
+   "py": "zhēngqǔ",
+   "en": "to strive for, to aim to",
+   "hsk": "HSK 5",
+   "seen": [
+    "2026-11-23-fintech"
+   ]
+  },
   "二手车": {
    "py": "èrshǒuchē",
    "en": "used car",
@@ -451,20 +475,23 @@
   },
   "交易": {
    "py": "jiāoyì",
-   "en": "transaction; to trade",
+   "en": "transaction",
    "hsk": "HSK 5",
    "seen": [
     "2026-11-13-fintech",
     "2026-11-18-finance",
-    "2026-11-21-fintech"
+    "2026-11-21-fintech",
+    "2026-11-23-finance",
+    "2026-11-23-fintech"
    ]
   },
   "交易所": {
    "py": "jiāoyìsuǒ",
-   "en": "stock exchange",
+   "en": "exchange (e.g. stock exchange)",
    "hsk": "超纲",
    "seen": [
-    "2026-11-18-finance"
+    "2026-11-18-finance",
+    "2026-11-23-finance"
    ]
   },
   "交易日": {
@@ -540,7 +567,8 @@
     "2026-11-17-finance",
     "2026-11-19-fintech",
     "2026-11-20-fintech",
-    "2026-11-21-finance"
+    "2026-11-21-finance",
+    "2026-11-23-finance"
    ]
   },
   "付凌晖": {
@@ -715,6 +743,14 @@
     "2026-11-15-finance"
    ]
   },
+  "保证金": {
+   "py": "bǎozhèngjīn",
+   "en": "margin, deposit (money put down as security)",
+   "hsk": "超纲",
+   "seen": [
+    "2026-11-23-finance"
+   ]
+  },
   "保险": {
    "py": "bǎoxiǎn",
    "en": "insurance",
@@ -766,6 +802,14 @@
     "2026-11-15-finance",
     "2026-11-16-finance",
     "2026-11-19-finance"
+   ]
+  },
+  "做市商": {
+   "py": "zuòshìshāng",
+   "en": "market maker",
+   "hsk": "超纲",
+   "seen": [
+    "2026-11-23-finance"
    ]
   },
   "做法": {
@@ -879,13 +923,14 @@
   },
   "公告": {
    "py": "gōnggào",
-   "en": "announcement, notice",
-   "hsk": "HSK 6",
+   "en": "announcement, public notice",
+   "hsk": "HSK 7–9",
    "seen": [
     "2026-11-08-fintech",
     "2026-11-18-finance",
     "2026-11-20-finance",
-    "2026-11-21-fintech"
+    "2026-11-21-fintech",
+    "2026-11-23-fintech"
    ]
   },
   "公布": {
@@ -905,6 +950,14 @@
     "2026-11-19-fintech",
     "2026-11-20-finance",
     "2026-11-21-finance"
+   ]
+  },
+  "公开": {
+   "py": "gōngkāi",
+   "en": "publicly; open",
+   "hsk": "HSK 5",
+   "seen": [
+    "2026-11-23-fintech"
    ]
   },
   "关键词": {
@@ -979,12 +1032,28 @@
     "2026-11-15-finance"
    ]
   },
+  "减免": {
+   "py": "jiǎnmiǎn",
+   "en": "to reduce or waive (fees, taxes)",
+   "hsk": "HSK 7–9",
+   "seen": [
+    "2026-11-23-finance"
+   ]
+  },
   "出厂": {
    "py": "chūchǎng",
    "en": "to leave the factory; ex-factory",
    "hsk": "超纲",
    "seen": [
     "2026-11-10-finance"
+   ]
+  },
+  "出款": {
+   "py": "chū kuǎn",
+   "en": "to pay out funds; payout",
+   "hsk": "超纲",
+   "seen": [
+    "2026-11-23-fintech"
    ]
   },
   "分公司": {
@@ -1027,6 +1096,14 @@
    "seen": [
     "2026-11-14-fintech",
     "2026-11-18-fintech"
+   ]
+  },
+  "创业板": {
+   "py": "Chuàngyèbǎn",
+   "en": "ChiNext (Shenzhen board for growth companies)",
+   "hsk": "超纲",
+   "seen": [
+    "2026-11-23-finance"
    ]
   },
   "创新高": {
@@ -1074,6 +1151,14 @@
     "2026-11-16-finance"
    ]
   },
+  "到账": {
+   "py": "dào zhàng",
+   "en": "(of money) to arrive in an account",
+   "hsk": "超纲",
+   "seen": [
+    "2026-11-23-fintech"
+   ]
+  },
   "到达": {
    "py": "dàodá",
    "en": "to reach; to arrive at",
@@ -1082,12 +1167,28 @@
     "2026-11-10-fintech"
    ]
   },
+  "制度": {
+   "py": "zhìdù",
+   "en": "system, institution",
+   "hsk": "HSK 5",
+   "seen": [
+    "2026-11-23-finance"
+   ]
+  },
   "刷": {
    "py": "shuā",
    "en": "to swipe; to tap (a card or phone)",
    "hsk": "HSK 5",
    "seen": [
     "2026-11-18-fintech"
+   ]
+  },
+  "刷卡": {
+   "py": "shuā kǎ",
+   "en": "to swipe a card, to pay by card",
+   "hsk": "超纲",
+   "seen": [
+    "2026-11-23-fintech"
    ]
   },
   "前海": {
@@ -1145,7 +1246,8 @@
    "en": "to strengthen",
    "hsk": "HSK 5",
    "seen": [
-    "2026-11-17-fintech"
+    "2026-11-17-fintech",
+    "2026-11-23-finance"
    ]
   },
   "加息": {
@@ -1346,7 +1448,7 @@
   },
   "发布": {
    "py": "fābù",
-   "en": "to release, to issue",
+   "en": "to issue, to release (a notice, news)",
    "hsk": "HSK 5",
    "seen": [
     "2026-11-08-fintech",
@@ -1354,7 +1456,8 @@
     "2026-11-13-fintech",
     "2026-11-19-finance",
     "2026-11-20-finance",
-    "2026-11-21-fintech"
+    "2026-11-21-fintech",
+    "2026-11-23-finance"
    ]
   },
   "发布会": {
@@ -1456,6 +1559,14 @@
     "2026-11-12-fintech"
    ]
   },
+  "合法": {
+   "py": "héfǎ",
+   "en": "legal, lawful",
+   "hsk": "HSK 6",
+   "seen": [
+    "2026-11-23-fintech"
+   ]
+  },
   "合理": {
    "py": "hélǐ",
    "en": "reasonable; sensibly",
@@ -1497,6 +1608,14 @@
     "2026-11-11-finance",
     "2026-11-14-finance",
     "2026-11-21-finance"
+   ]
+  },
+  "同样": {
+   "py": "tóngyàng",
+   "en": "same; equally",
+   "hsk": "HSK 5",
+   "seen": [
+    "2026-11-23-finance"
    ]
   },
   "同比": {
@@ -1590,7 +1709,7 @@
   },
   "商户": {
    "py": "shānghù",
-   "en": "merchant, business (that accepts payments)",
+   "en": "merchant",
    "hsk": "超纲",
    "seen": [
     "2026-11-11-fintech",
@@ -1598,7 +1717,8 @@
     "2026-11-17-fintech",
     "2026-11-20-fintech",
     "2026-11-21-fintech",
-    "2026-11-22-fintech"
+    "2026-11-22-fintech",
+    "2026-11-23-fintech"
    ]
   },
   "商标权": {
@@ -2035,6 +2155,14 @@
     "2026-11-20-finance"
    ]
   },
+  "实行": {
+   "py": "shíxíng",
+   "en": "to put into effect, to implement",
+   "hsk": "HSK 5",
+   "seen": [
+    "2026-11-23-finance"
+   ]
+  },
   "客户": {
    "py": "kèhù",
    "en": "client, customer",
@@ -2059,7 +2187,8 @@
    "seen": [
     "2026-11-12-fintech",
     "2026-11-17-fintech",
-    "2026-11-20-fintech"
+    "2026-11-20-fintech",
+    "2026-11-23-finance"
    ]
   },
   "对外": {
@@ -2150,6 +2279,14 @@
    "hsk": "超纲",
    "seen": [
     "2026-11-16-finance"
+   ]
+  },
+  "工作组": {
+   "py": "gōngzuòzǔ",
+   "en": "working group, task force",
+   "hsk": "超纲",
+   "seen": [
+    "2026-11-23-fintech"
    ]
   },
   "工具": {
@@ -2460,11 +2597,12 @@
   },
   "成立": {
    "py": "chénglì",
-   "en": "to found, to set up",
+   "en": "to set up, to establish",
    "hsk": "HSK 5",
    "seen": [
     "2026-11-12-fintech",
-    "2026-11-22-fintech"
+    "2026-11-22-fintech",
+    "2026-11-23-fintech"
    ]
   },
   "截至": {
@@ -2568,7 +2706,8 @@
    "hsk": "HSK 5",
    "seen": [
     "2026-11-11-fintech",
-    "2026-11-13-finance"
+    "2026-11-13-finance",
+    "2026-11-23-finance"
    ]
   },
   "承担": {
@@ -2577,6 +2716,14 @@
    "hsk": "HSK 6",
    "seen": [
     "2026-11-08-fintech"
+   ]
+  },
+  "承认": {
+   "py": "chéngrèn",
+   "en": "to admit",
+   "hsk": "HSK 5",
+   "seen": [
+    "2026-11-23-fintech"
    ]
   },
   "投放": {
@@ -2606,7 +2753,8 @@
    "seen": [
     "2026-11-13-finance",
     "2026-11-18-finance",
-    "2026-11-22-finance"
+    "2026-11-22-finance",
+    "2026-11-23-finance"
    ]
   },
   "折算": {
@@ -2856,7 +3004,8 @@
     "2026-11-17-fintech",
     "2026-11-19-fintech",
     "2026-11-20-fintech",
-    "2026-11-22-fintech"
+    "2026-11-22-fintech",
+    "2026-11-23-fintech"
    ]
   },
   "支付宝": {
@@ -2892,6 +3041,14 @@
     "2026-11-15-fintech"
    ]
   },
+  "收单": {
+   "py": "shōudān",
+   "en": "(card) acquiring — processing card payments for merchants",
+   "hsk": "超纲",
+   "seen": [
+    "2026-11-23-fintech"
+   ]
+  },
   "收回": {
    "py": "shōuhuí",
    "en": "to take back; to withdraw",
@@ -2909,12 +3066,13 @@
    ]
   },
   "收款": {
-   "py": "shōukuǎn",
-   "en": "to collect payment; to receive money",
+   "py": "shōu kuǎn",
+   "en": "to receive payment",
    "hsk": "超纲",
    "seen": [
     "2026-11-16-fintech",
-    "2026-11-17-fintech"
+    "2026-11-17-fintech",
+    "2026-11-23-fintech"
    ]
   },
   "收款方": {
@@ -3088,11 +3246,12 @@
   },
   "方式": {
    "py": "fāngshì",
-   "en": "way; method",
+   "en": "way, method",
    "hsk": "HSK 5",
    "seen": [
     "2026-11-14-fintech",
-    "2026-11-17-fintech"
+    "2026-11-17-fintech",
+    "2026-11-23-finance"
    ]
   },
   "日元": {
@@ -3109,6 +3268,14 @@
    "hsk": "HSK 6",
    "seen": [
     "2026-11-10-fintech"
+   ]
+  },
+  "明显": {
+   "py": "míngxiǎn",
+   "en": "obvious; clearly",
+   "hsk": "HSK 5",
+   "seen": [
+    "2026-11-23-finance"
    ]
   },
   "星座": {
@@ -3205,13 +3372,14 @@
   },
   "有关": {
    "py": "yǒuguān",
-   "en": "related to; connected with",
+   "en": "relevant, related",
    "hsk": "HSK 5",
    "seen": [
     "2026-11-13-finance",
     "2026-11-15-fintech",
     "2026-11-18-fintech",
-    "2026-11-21-finance"
+    "2026-11-21-finance",
+    "2026-11-23-fintech"
    ]
   },
   "有效": {
@@ -3220,6 +3388,14 @@
    "hsk": "HSK 5",
    "seen": [
     "2026-11-20-finance"
+   ]
+  },
+  "有效期": {
+   "py": "yǒuxiàoqī",
+   "en": "period of validity",
+   "hsk": "超纲",
+   "seen": [
+    "2026-11-23-fintech"
    ]
   },
   "有限公司": {
@@ -3232,14 +3408,15 @@
   },
   "服务": {
    "py": "fúwù",
-   "en": "service; to serve",
+   "en": "service",
    "hsk": "HSK 5",
    "seen": [
     "2026-11-10-finance",
     "2026-11-11-fintech",
     "2026-11-17-fintech",
     "2026-11-19-fintech",
-    "2026-11-20-fintech"
+    "2026-11-20-fintech",
+    "2026-11-23-fintech"
    ]
   },
   "服务业": {
@@ -3335,6 +3512,14 @@
     "2026-11-15-fintech"
    ]
   },
+  "杠杆": {
+   "py": "gànggǎn",
+   "en": "leverage; lever",
+   "hsk": "超纲",
+   "seen": [
+    "2026-11-23-finance"
+   ]
+  },
   "板块": {
    "py": "bǎnkuài",
    "en": "division; business segment",
@@ -3422,6 +3607,14 @@
    "hsk": "HSK 6",
    "seen": [
     "2026-11-18-fintech"
+   ]
+  },
+  "比例": {
+   "py": "bǐlì",
+   "en": "ratio, proportion",
+   "hsk": "HSK 5",
+   "seen": [
+    "2026-11-23-finance"
    ]
   },
   "水平": {
@@ -3628,11 +3821,12 @@
   },
   "清算": {
    "py": "qīngsuàn",
-   "en": "to clear (payments); clearing",
+   "en": "clearing (of payments)",
    "hsk": "超纲",
    "seen": [
     "2026-11-13-fintech",
-    "2026-11-14-fintech"
+    "2026-11-14-fintech",
+    "2026-11-23-fintech"
    ]
   },
   "渠道商": {
@@ -3680,10 +3874,11 @@
   },
   "牌照": {
    "py": "páizhào",
-   "en": "licence (official permit to run a business)",
+   "en": "licence",
    "hsk": "超纲",
    "seen": [
-    "2026-11-22-fintech"
+    "2026-11-22-fintech",
+    "2026-11-23-fintech"
    ]
   },
   "牛肉": {
@@ -3822,12 +4017,21 @@
     "2026-11-22-finance"
    ]
   },
+  "监督": {
+   "py": "jiāndū",
+   "en": "to supervise",
+   "hsk": "HSK 6",
+   "seen": [
+    "2026-11-23-fintech"
+   ]
+  },
   "监管": {
    "py": "jiānguǎn",
-   "en": "to regulate; regulation",
+   "en": "to regulate, to supervise",
    "hsk": "HSK 7–9",
    "seen": [
-    "2026-11-19-finance"
+    "2026-11-19-finance",
+    "2026-11-23-finance"
    ]
   },
   "目前": {
@@ -3877,6 +4081,14 @@
    "hsk": "HSK 6",
    "seen": [
     "2026-11-08-fintech"
+   ]
+  },
+  "真实": {
+   "py": "zhēnshí",
+   "en": "real, genuine",
+   "hsk": "HSK 5",
+   "seen": [
+    "2026-11-23-fintech"
    ]
   },
   "石油": {
@@ -3992,7 +4204,8 @@
    "seen": [
     "2026-11-10-fintech",
     "2026-11-11-fintech",
-    "2026-11-13-fintech"
+    "2026-11-13-fintech",
+    "2026-11-23-fintech"
    ]
   },
   "移动支付网": {
@@ -4066,11 +4279,12 @@
   },
   "笔": {
    "py": "bǐ",
-   "en": "(measure word for sums of money / transactions)",
+   "en": "measure word for sums of money or transactions",
    "hsk": "HSK 5",
    "seen": [
     "2026-11-13-fintech",
-    "2026-11-14-fintech"
+    "2026-11-14-fintech",
+    "2026-11-23-fintech"
    ]
   },
   "第三方": {
@@ -4217,10 +4431,11 @@
   },
   "结算": {
    "py": "jiésuàn",
-   "en": "settlement; to settle (payments)",
+   "en": "to settle (payments); settlement",
    "hsk": "HSK 7–9",
    "seen": [
-    "2026-11-14-fintech"
+    "2026-11-14-fintech",
+    "2026-11-23-fintech"
    ]
   },
   "统一": {
@@ -4265,14 +4480,15 @@
   },
   "网络": {
    "py": "wǎngluò",
-   "en": "network",
+   "en": "network; online",
    "hsk": "HSK 5",
    "seen": [
     "2026-11-08-fintech",
     "2026-11-11-fintech",
     "2026-11-17-fintech",
     "2026-11-18-fintech",
-    "2026-11-20-fintech"
+    "2026-11-20-fintech",
+    "2026-11-23-fintech"
    ]
   },
   "网络支付": {
@@ -4400,7 +4616,7 @@
   },
   "股票": {
    "py": "gǔpiào",
-   "en": "stock; share",
+   "en": "stock, share",
    "hsk": "HSK 5",
    "seen": [
     "2026-11-13-finance",
@@ -4408,7 +4624,8 @@
     "2026-11-15-finance",
     "2026-11-18-finance",
     "2026-11-19-finance",
-    "2026-11-21-finance"
+    "2026-11-21-finance",
+    "2026-11-23-finance"
    ]
   },
   "胡浩中": {
@@ -4476,6 +4693,14 @@
     "2026-11-08-finance"
    ]
   },
+  "草案": {
+   "py": "cǎo'àn",
+   "en": "draft (of a law or rules)",
+   "hsk": "HSK 7–9",
+   "seen": [
+    "2026-11-23-finance"
+   ]
+  },
   "菲律宾": {
    "py": "Fēilǜbīn",
    "en": "the Philippines",
@@ -4527,10 +4752,11 @@
   },
   "融资": {
    "py": "róngzī",
-   "en": "financing; to raise funds",
-   "hsk": "超纲",
+   "en": "financing; (here) margin financing, borrowing to buy shares",
+   "hsk": "HSK 7–9",
    "seen": [
-    "2026-11-14-finance"
+    "2026-11-14-finance",
+    "2026-11-23-finance"
    ]
   },
   "行为": {
@@ -4578,11 +4804,12 @@
   },
   "规则": {
    "py": "guīzé",
-   "en": "rule",
+   "en": "rule, regulation",
    "hsk": "HSK 5",
    "seen": [
     "2026-11-09-finance",
-    "2026-11-21-fintech"
+    "2026-11-21-fintech",
+    "2026-11-23-finance"
    ]
   },
   "规模": {
@@ -4653,10 +4880,11 @@
   },
   "证券": {
    "py": "zhèngquàn",
-   "en": "securities",
-   "hsk": "HSK 6",
+   "en": "securities (stocks, bonds)",
+   "hsk": "HSK 7–9",
    "seen": [
-    "2026-11-15-finance"
+    "2026-11-15-finance",
+    "2026-11-23-finance"
    ]
   },
   "证券交易印花税": {
@@ -4727,11 +4955,12 @@
   },
   "调整": {
    "py": "tiáozhěng",
-   "en": "to adjust; adjustment",
+   "en": "to adjust",
    "hsk": "HSK 5",
    "seen": [
     "2026-11-09-finance",
-    "2026-11-12-fintech"
+    "2026-11-12-fintech",
+    "2026-11-23-finance"
    ]
   },
   "谣言": {
@@ -4865,10 +5094,12 @@
   },
   "费用": {
    "py": "fèiyòng",
-   "en": "fee; cost",
-   "hsk": "HSK 6",
+   "en": "fee, charge",
+   "hsk": "HSK 5",
    "seen": [
-    "2026-11-14-fintech"
+    "2026-11-14-fintech",
+    "2026-11-23-finance",
+    "2026-11-23-fintech"
    ]
   },
   "资产": {
@@ -4900,13 +5131,14 @@
   },
   "资金": {
    "py": "zījīn",
-   "en": "funds; capital",
+   "en": "funds",
    "hsk": "HSK 6",
    "seen": [
     "2026-11-13-finance",
     "2026-11-14-finance",
     "2026-11-15-finance",
-    "2026-11-16-finance"
+    "2026-11-16-finance",
+    "2026-11-23-fintech"
    ]
   },
   "起诉": {
@@ -5125,14 +5357,16 @@
   },
   "部门": {
    "py": "bùmén",
-   "en": "department; authority",
+   "en": "department; (here) authority",
    "hsk": "HSK 5",
    "seen": [
     "2026-11-12-fintech",
     "2026-11-13-finance",
     "2026-11-15-finance",
     "2026-11-15-fintech",
-    "2026-11-19-finance"
+    "2026-11-19-finance",
+    "2026-11-23-finance",
+    "2026-11-23-fintech"
    ]
   },
   "重量": {
@@ -5309,6 +5543,14 @@
     "2026-11-14-fintech"
    ]
   },
+  "陆续": {
+   "py": "lùxù",
+   "en": "one after another, gradually",
+   "hsk": "HSK 6",
+   "seen": [
+    "2026-11-23-fintech"
+   ]
+  },
   "降": {
    "py": "jiàng",
    "en": "to fall, to drop; to lower",
@@ -5402,10 +5644,11 @@
   },
   "项": {
    "py": "xiàng",
-   "en": "(measure word for services, items, tasks)",
+   "en": "measure word for items",
    "hsk": "HSK 5",
    "seen": [
-    "2026-11-17-fintech"
+    "2026-11-17-fintech",
+    "2026-11-23-finance"
    ]
   },
   "预付卡": {
@@ -5430,7 +5673,8 @@
    "hsk": "HSK 5",
    "seen": [
     "2026-11-18-finance",
-    "2026-11-22-finance"
+    "2026-11-22-finance",
+    "2026-11-23-fintech"
    ]
   },
   "食品": {
@@ -5496,6 +5740,14 @@
    "hsk": "超纲",
    "seen": [
     "2026-11-16-fintech"
+   ]
+  },
+  "鲲鹏支付": {
+   "py": "Kūnpéng Zhīfù",
+   "en": "Kunpeng Payment (a payment company in Chongqing)",
+   "hsk": "超纲",
+   "seen": [
+    "2026-11-23-fintech"
    ]
   },
   "黄金": {
