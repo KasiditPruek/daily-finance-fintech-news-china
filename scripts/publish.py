@@ -8,7 +8,7 @@ Usage (from the repo root):
 read about the story: the fetched article text or page summaries and any search snippets.
 It is used only to check that the lesson does not copy that wording.
 
-The JSON must contain at least: date (YYYY-MM-DD), category (finance|fintech),
+The JSON must contain at least: date (YYYY-MM-DD), category (finance|fintech|business),
 title_zh, title_en, paragraphs [{zh, en}], source {name, name_en, url}, vocab [{hanzi, pinyin, en, hsk}],
 glossary [{w, py, en}] (every other word in the title and paragraphs, so every word can be tapped),
 featured [{hanzi, pinyin, pos, en, note, examples [{zh, py, en}]}].
@@ -38,11 +38,11 @@ import sys
 from urllib.parse import parse_qs, urlparse
 
 KEEP_DAYS = 7
-CATEGORIES = {"finance", "fintech"}
+CATEGORIES = {"finance", "fintech", "business"}
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 LESSONS = ROOT / "lessons"
 ARCHIVE = LESSONS / "vocab-all.json"
-NAME_RE = re.compile(r"^(\d{4}-\d{2}-\d{2})-(finance|fintech)\.json$")
+NAME_RE = re.compile(r"^(\d{4}-\d{2}-\d{2})-(finance|fintech|business)\.json$")
 
 
 def fail(msg):

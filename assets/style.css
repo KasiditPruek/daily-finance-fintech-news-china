@@ -14,6 +14,8 @@
   --red-soft: #fde9e5;
   --jade: #0f7b6c;
   --jade-soft: #dff2ee;
+  --gold: #8a5300;          /* business */
+  --gold-soft: #fbeed3;
   --hl: #ffec80;            /* new-word highlighter */
   --on-flag: #ffffff;
   --zh: "Noto Sans SC", "PingFang SC", "Microsoft YaHei", sans-serif;
@@ -23,18 +25,18 @@
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme]) {
     --flag: #c2200b; --bg: #0f1318; --card: #181e26; --ink: #e9edf2; --ink-2: #b3bcc9; --ink-3: #7f8a9a;
-    --line: #2b3440; --red: #ff7a66; --red-soft: #3a1b16; --jade: #5fcdb9; --jade-soft: #14332e; --hl: #6b5a00;
+    --line: #2b3440; --red: #ff7a66; --red-soft: #3a1b16; --jade: #5fcdb9; --jade-soft: #14332e; --gold: #f0b85a; --gold-soft: #3a2a10; --hl: #6b5a00;
     color-scheme: dark;
   }
 }
 :root[data-theme="dark"] {
   --flag: #c2200b; --bg: #0f1318; --card: #181e26; --ink: #e9edf2; --ink-2: #b3bcc9; --ink-3: #7f8a9a;
-  --line: #2b3440; --red: #ff7a66; --red-soft: #3a1b16; --jade: #5fcdb9; --jade-soft: #14332e; --hl: #6b5a00;
+  --line: #2b3440; --red: #ff7a66; --red-soft: #3a1b16; --jade: #5fcdb9; --jade-soft: #14332e; --gold: #f0b85a; --gold-soft: #3a2a10; --hl: #6b5a00;
   color-scheme: dark;
 }
 :root[data-theme="eye"] {   /* 护眼: soft green paper */
   --flag: #c8321e; --bg: #dfead3; --card: #ecf3e3; --ink: #27301f; --ink-2: #4a5540; --ink-3: #6f7a63;
-  --line: #c9d7bb; --red: #b02a14; --red-soft: #f1ddcf; --jade: #1d6b55; --jade-soft: #cfe5d2; --hl: #f3e27a;
+  --line: #c9d7bb; --red: #b02a14; --red-soft: #f1ddcf; --jade: #1d6b55; --jade-soft: #cfe5d2; --gold: #7a4c00; --gold-soft: #f0e2bf; --hl: #f3e27a;
   color-scheme: light;
 }
 
@@ -103,6 +105,8 @@ main.wrap { padding-top: 28px; padding-bottom: 64px; min-height: 60vh; }
   padding: 2px 8px; border-radius: 6px; background: var(--red-soft); color: var(--red);
 }
 .chip.fintech { background: var(--jade-soft); color: var(--jade); }
+.chip.business { background: var(--gold-soft); color: var(--gold); }
+.chip.hsk { background: var(--ink); color: var(--card); font-family: var(--ui); }
 
 /* ---------- home ---------- */
 .study {
@@ -351,6 +355,40 @@ kbd { font-family: var(--ui); font-size: 11px; font-weight: 400; opacity: .7; bo
 .deck-empty h1 { font-family: var(--zh); font-weight: 900; font-size: 28px; margin: 0 0 8px; }
 .deck-empty p { color: var(--ink-2); max-width: 52ch; margin: 0 auto; }
 .deck-links { display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-top: 22px !important; }
+
+/* ---------- HSK 词汇 ---------- */
+.hskstrip { margin: -20px 0 36px; }
+.hskstrip a { display: flex; flex-wrap: wrap; align-items: center; gap: 6px 12px; text-decoration: none; color: var(--ink);
+  background: var(--card); border: 1px solid var(--line); border-radius: 16px; padding: 12px 18px; }
+.hskstrip a:hover { border-color: var(--ink); }
+.hs-t { font-family: var(--zh); font-weight: 700; }
+.hskstrip .meta { margin-left: auto; }
+.hprog { background: var(--card); border: 1px solid var(--line); border-radius: 20px; padding: 20px 24px; margin-bottom: 36px; }
+.hp-top { display: flex; flex-wrap: wrap; align-items: baseline; gap: 4px 16px; }
+.hp-top .meta { margin: 0; }
+.hbar { display: flex; height: 12px; border-radius: 999px; background: var(--line); overflow: hidden; margin: 14px 0 8px; }
+.hbar i, .hlegend i { display: inline-block; height: 100%; }
+.hbar .k, .hlegend .k { background: var(--jade); }
+.hbar .l, .hlegend .l { background: var(--red); }
+.hbar .o, .hlegend .o { background: var(--ink-3); }
+.hlegend { display: flex; flex-wrap: wrap; gap: 4px 18px; margin: 0; }
+.hlegend i { width: 10px; height: 10px; border-radius: 3px; margin-right: 6px; vertical-align: -1px; background: var(--line); }
+.htoday { margin-bottom: 40px; }
+.htoday h2 { font-family: var(--zh); font-size: 22px; font-weight: 900; margin: 0; }
+.htoday .lv-head .btn:first-of-type { margin-left: auto; }
+.hgrid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 16px; }
+.hcard { background: var(--card); border: 1px solid var(--line); border-radius: 20px; padding: 16px 18px 18px; }
+.hc-head { display: flex; align-items: center; gap: 4px 8px; }
+.hc-head .big { font-family: var(--zh); font-size: 34px; font-weight: 900; line-height: 1.2; }
+.hc-n { margin-left: auto; }
+.hc-py { color: var(--red); font-family: var(--zh); font-size: 16px; margin: 0; }
+.hcard .def { margin: 4px 0 6px; font-size: 15px; }
+.hcard .pos { font-size: 12px; color: var(--ink-3); border: 1px solid var(--line); border-radius: 5px; padding: 0 6px; margin-right: 8px; }
+.lvl { font-size: 12px; color: var(--ink-3); white-space: nowrap; }
+.hcard .ex { margin-top: 8px; padding: 8px 12px; }
+.hcard .ex .z { font-size: 16px; }
+.hex { display: block; font-family: var(--zh); font-size: 13px; color: var(--ink-3); }
+.hsktag { font-family: var(--ui); font-size: 11px; font-weight: 700; color: var(--card); background: var(--ink); border-radius: 5px; padding: 1px 6px; text-decoration: none; vertical-align: 3px; }
 
 /* ---------- footer ---------- */
 footer { border-top: 1px solid var(--line); padding: 22px 0 40px; font-size: 13px; color: var(--ink-3); }

@@ -1,0 +1,425 @@
+{
+ "total": 840,
+ "words": [
+  {
+   "n": 1,
+   "hanzi": "白天",
+   "pinyin": "báitiān",
+   "en": "daytime; during the day; day",
+   "pos": "noun",
+   "level": "HSK 1",
+   "date": "2026-11-24",
+   "examples": [
+    {
+     "zh": "我白天上班，晚上学习。",
+     "py": "Wǒ báitiān shàngbān, wǎnshang xuéxí.",
+     "en": "I work during the day and study in the evening."
+    },
+    {
+     "zh": "他白天不在家。",
+     "py": "Tā báitiān bú zài jiā.",
+     "en": "He isn't home during the day."
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "hanzi": "边",
+   "pinyin": "biān",
+   "en": "side; (suffix for location words)",
+   "pos": "noun, suffix",
+   "level": "HSK 1",
+   "date": "2026-11-24",
+   "examples": [
+    {
+     "zh": "你坐在我这边吧。",
+     "py": "Nǐ zuò zài wǒ zhè biān ba.",
+     "en": "Sit on my side."
+    },
+    {
+     "zh": "学校在路的左边。",
+     "py": "Xuéxiào zài lù de zuǒbian.",
+     "en": "The school is on the left side of the road."
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "hanzi": "病",
+   "pinyin": "bìng",
+   "en": "to fall ill; illness; disease",
+   "pos": "noun, verb",
+   "level": "HSK 1",
+   "date": "2026-11-24",
+   "examples": [
+    {
+     "zh": "他的病好了。",
+     "py": "Tā de bìng hǎo le.",
+     "en": "He has recovered from his illness."
+    },
+    {
+     "zh": "她病了，今天不来上课。",
+     "py": "Tā bìng le, jīntiān bù lái shàngkè.",
+     "en": "She's ill, so she isn't coming to class today."
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "hanzi": "不要",
+   "pinyin": "búyào",
+   "en": "don't; do not want",
+   "pos": "adv",
+   "level": "HSK 1",
+   "date": "2026-11-24",
+   "examples": [
+    {
+     "zh": "请不要在这儿说话。",
+     "py": "Qǐng búyào zài zhèr shuōhuà.",
+     "en": "Please don't talk here."
+    },
+    {
+     "zh": "我不要茶，我要水。",
+     "py": "Wǒ búyào chá, wǒ yào shuǐ.",
+     "en": "I don't want tea, I want water."
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "hanzi": "唱",
+   "pinyin": "chàng",
+   "en": "to sing; to call loudly; to chant",
+   "pos": "verb",
+   "level": "HSK 1",
+   "date": "2026-11-24",
+   "examples": [
+    {
+     "zh": "她很喜欢唱歌。",
+     "py": "Tā hěn xǐhuan chànggē.",
+     "en": "She loves singing."
+    },
+    {
+     "zh": "你唱得真好听。",
+     "py": "Nǐ chàng de zhēn hǎotīng.",
+     "en": "You sing really well."
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "hanzi": "车",
+   "pinyin": "chē",
+   "en": "car; vehicle; machine",
+   "pos": "noun",
+   "level": "HSK 1",
+   "date": "2026-11-24",
+   "examples": [
+    {
+     "zh": "我家有一辆车。",
+     "py": "Wǒ jiā yǒu yí liàng chē.",
+     "en": "My family has a car."
+    },
+    {
+     "zh": "车来了，我们上车吧。",
+     "py": "Chē lái le, wǒmen shàng chē ba.",
+     "en": "The bus is here, let's get on."
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "hanzi": "大学",
+   "pinyin": "dàxué",
+   "en": "university; college",
+   "pos": "noun",
+   "level": "HSK 1",
+   "date": "2026-11-24",
+   "examples": [
+    {
+     "zh": "我哥哥在北京上大学。",
+     "py": "Wǒ gēge zài Běijīng shàng dàxué.",
+     "en": "My older brother goes to university in Beijing."
+    },
+    {
+     "zh": "这个大学很有名。",
+     "py": "Zhège dàxué hěn yǒumíng.",
+     "en": "This university is very famous."
+    }
+   ]
+  },
+  {
+   "n": 8,
+   "hanzi": "大学生",
+   "pinyin": "dàxuéshēng",
+   "en": "university student; college student",
+   "pos": "noun",
+   "level": "HSK 1",
+   "date": "2026-11-24",
+   "examples": [
+    {
+     "zh": "我姐姐是大学生。",
+     "py": "Wǒ jiějie shì dàxuéshēng.",
+     "en": "My older sister is a university student."
+    },
+    {
+     "zh": "很多大学生喜欢上网。",
+     "py": "Hěn duō dàxuéshēng xǐhuan shàngwǎng.",
+     "en": "Many university students like going online."
+    }
+   ]
+  },
+  {
+   "n": 9,
+   "hanzi": "第",
+   "pinyin": "dì",
+   "en": "(before a number) first, second, third, etc.",
+   "pos": "prefix",
+   "level": "HSK 1",
+   "date": "2026-11-24",
+   "examples": [
+    {
+     "zh": "这是我第一次来中国。",
+     "py": "Zhè shì wǒ dì yī cì lái Zhōngguó.",
+     "en": "This is my first time in China."
+    },
+    {
+     "zh": "他住在第三个房间。",
+     "py": "Tā zhù zài dì sān ge fángjiān.",
+     "en": "He lives in the third room."
+    }
+   ]
+  },
+  {
+   "n": 10,
+   "hanzi": "店",
+   "pinyin": "diàn",
+   "en": "shop; store",
+   "pos": "noun",
+   "level": "HSK 1",
+   "date": "2026-11-24",
+   "examples": [
+    {
+     "zh": "这家店的东西很便宜。",
+     "py": "Zhè jiā diàn de dōngxi hěn piányi.",
+     "en": "Things in this shop are cheap."
+    },
+    {
+     "zh": "前面有一个小店。",
+     "py": "Qiánmiàn yǒu yí ge xiǎo diàn.",
+     "en": "There's a small shop up ahead."
+    }
+   ]
+  },
+  {
+   "n": 11,
+   "hanzi": "电话",
+   "pinyin": "diànhuà",
+   "en": "telephone; phone call; phone number",
+   "pos": "noun",
+   "level": "HSK 1",
+   "date": "2026-11-24",
+   "examples": [
+    {
+     "zh": "我的电话是多少，你知道吗？",
+     "py": "Wǒ de diànhuà shì duōshao, nǐ zhīdào ma?",
+     "en": "Do you know my phone number?"
+    },
+    {
+     "zh": "妈妈正在打电话。",
+     "py": "Māma zhèngzài dǎ diànhuà.",
+     "en": "Mum is on the phone."
+    }
+   ]
+  },
+  {
+   "n": 12,
+   "hanzi": "电影院",
+   "pinyin": "diànyǐngyuàn",
+   "en": "cinema; movie theater",
+   "pos": "noun",
+   "level": "HSK 1",
+   "date": "2026-11-24",
+   "examples": [
+    {
+     "zh": "电影院在商店旁边。",
+     "py": "Diànyǐngyuàn zài shāngdiàn pángbiān.",
+     "en": "The cinema is next to the shop."
+    },
+    {
+     "zh": "我们在电影院门口见吧。",
+     "py": "Wǒmen zài diànyǐngyuàn ménkǒu jiàn ba.",
+     "en": "Let's meet at the cinema entrance."
+    }
+   ]
+  },
+  {
+   "n": 13,
+   "hanzi": "读书",
+   "pinyin": "dúshū",
+   "en": "to read a book; to study; to attend school",
+   "pos": "verb",
+   "level": "HSK 1",
+   "date": "2026-11-24",
+   "examples": [
+    {
+     "zh": "我弟弟在北京读书。",
+     "py": "Wǒ dìdi zài Běijīng dúshū.",
+     "en": "My younger brother studies in Beijing."
+    },
+    {
+     "zh": "他很喜欢读书。",
+     "py": "Tā hěn xǐhuan dúshū.",
+     "en": "He loves reading."
+    }
+   ]
+  },
+  {
+   "n": 14,
+   "hanzi": "饭",
+   "pinyin": "fàn",
+   "en": "meal; cooked rice",
+   "pos": "noun",
+   "level": "HSK 1",
+   "date": "2026-11-24",
+   "examples": [
+    {
+     "zh": "饭做好了，快来吃吧。",
+     "py": "Fàn zuò hǎo le, kuài lái chī ba.",
+     "en": "The food is ready, come and eat."
+    },
+    {
+     "zh": "我今天没吃饭。",
+     "py": "Wǒ jīntiān méi chīfàn.",
+     "en": "I haven't eaten today."
+    }
+   ]
+  },
+  {
+   "n": 15,
+   "hanzi": "歌",
+   "pinyin": "gē",
+   "en": "song; (bound form) to sing",
+   "pos": "noun",
+   "level": "HSK 1",
+   "date": "2026-11-24",
+   "examples": [
+    {
+     "zh": "这是一个中国歌。",
+     "py": "Zhè shì yí ge Zhōngguó gē.",
+     "en": "This is a Chinese song."
+    },
+    {
+     "zh": "我会唱这个歌。",
+     "py": "Wǒ huì chàng zhège gē.",
+     "en": "I can sing this song."
+    }
+   ]
+  },
+  {
+   "n": 16,
+   "hanzi": "国",
+   "pinyin": "guó",
+   "en": "country; nation; state",
+   "pos": "noun",
+   "level": "HSK 1",
+   "date": "2026-11-24",
+   "examples": [
+    {
+     "zh": "你是哪国人？",
+     "py": "Nǐ shì nǎ guó rén?",
+     "en": "Which country are you from?"
+    },
+    {
+     "zh": "中国是一个大国。",
+     "py": "Zhōngguó shì yí ge dà guó.",
+     "en": "China is a big country."
+    }
+   ]
+  },
+  {
+   "n": 17,
+   "hanzi": "汉字",
+   "pinyin": "Hànzì",
+   "en": "Chinese character(s)",
+   "pos": "noun",
+   "level": "HSK 1",
+   "date": "2026-11-24",
+   "examples": [
+    {
+     "zh": "我会写一百个汉字。",
+     "py": "Wǒ huì xiě yìbǎi ge Hànzì.",
+     "en": "I can write a hundred Chinese characters."
+    },
+    {
+     "zh": "这个汉字怎么读？",
+     "py": "Zhège Hànzì zěnme dú?",
+     "en": "How do you read this character?"
+    }
+   ]
+  },
+  {
+   "n": 18,
+   "hanzi": "好看",
+   "pinyin": "hǎokàn",
+   "en": "good-looking; nice-looking; (of a film, book) good",
+   "pos": "adj",
+   "level": "HSK 1",
+   "date": "2026-11-24",
+   "examples": [
+    {
+     "zh": "这件衣服很好看。",
+     "py": "Zhè jiàn yīfu hěn hǎokàn.",
+     "en": "This piece of clothing looks nice."
+    },
+    {
+     "zh": "昨天的电影好看吗？",
+     "py": "Zuótiān de diànyǐng hǎokàn ma?",
+     "en": "Was yesterday's film good?"
+    }
+   ]
+  },
+  {
+   "n": 19,
+   "hanzi": "好听",
+   "pinyin": "hǎotīng",
+   "en": "pleasant to hear",
+   "pos": "adj",
+   "level": "HSK 1",
+   "date": "2026-11-24",
+   "examples": [
+    {
+     "zh": "她的名字很好听。",
+     "py": "Tā de míngzi hěn hǎotīng.",
+     "en": "Her name sounds lovely."
+    },
+    {
+     "zh": "这个歌真好听。",
+     "py": "Zhège gē zhēn hǎotīng.",
+     "en": "This song sounds really nice."
+    }
+   ]
+  },
+  {
+   "n": 20,
+   "hanzi": "好玩儿",
+   "pinyin": "hǎowánr",
+   "en": "amusing; fun; interesting",
+   "pos": "adj",
+   "level": "HSK 1",
+   "date": "2026-11-24",
+   "examples": [
+    {
+     "zh": "北京有很多好玩儿的地方。",
+     "py": "Běijīng yǒu hěn duō hǎowánr de dìfang.",
+     "en": "Beijing has lots of fun places."
+    },
+    {
+     "zh": "这个东西真好玩儿。",
+     "py": "Zhège dōngxi zhēn hǎowánr.",
+     "en": "This thing is really fun."
+    }
+   ]
+  }
+ ]
+}

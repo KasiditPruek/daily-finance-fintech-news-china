@@ -1,11 +1,13 @@
-/* 每日金融 · 金融科技 — renders lesson JSON files from /lessons/ and keeps the reader's word list */
+/* 每日金融 · 金融科技 · 商业 — renders lesson JSON files from /lessons/ and keeps the reader's word list */
 (function () {
   "use strict";
 
   var CATS = {
     finance: { zh: "金融", en: "Finance" },
-    fintech: { zh: "金融科技", en: "Fintech" }
+    fintech: { zh: "金融科技", en: "Fintech" },
+    business: { zh: "商业", en: "Business" }
   };
+  var CAT_ORDER = Object.keys(CATS);
   var WINDOW_DAYS = 9; // probe a little beyond 7 days so a late run never hides a lesson
 
   /* ---------- small helpers ---------- */
@@ -56,7 +58,7 @@
     return Promise.all(jobs).then(function (all) {
       return all.filter(Boolean).sort(function (a, b) {
         if (a.date !== b.date) return a.date < b.date ? 1 : -1;
-        return a.category === "finance" ? -1 : 1;
+        return CAT_ORDER.indexOf(a.category) - CAT_ORDER.indexOf(b.category);
       });
     });
   }
@@ -410,6 +412,12 @@
       });
 
       paint();
+      loadHsk().then(function (H) {
+        $$(".lv-list li").forEach(function (li) {
+          var h = li.querySelector(".h"), w = h && H.byWord[h.textContent];
+          if (w && !li.querySelector(".hsktag")) h.insertAdjacentHTML("beforeend", ' <a class="hsktag" href="hsk.html?q=' + encodeURIComponent(w.hanzi) + '" title="On your HSK word list (' + esc(w.level) + ')">词表</a>');
+        });
+      });
       wireWords(R, change);
       setupPlayer(R.sentences, R.total());
     });
@@ -762,6 +770,160 @@
     next();
   }
 
+  /* ---------- HSK 词汇: the daily study list (hsk/all.json) ---------- */
+  var hskPromise = null;
+  function loadHsk() {
+    if (!hskPromise) {
+      hskPromise = fetch("hsk/all.json", { cache: "no-cache" })
+        .then(function (r) { return r.ok ? r.json() : null; })
+        .catch(function () { return null; })
+        .then(function (j) {
+          var words = (j && j.words) || [], byWord = {}, dates = [];
+          words.forEach(function (w) {
+            if (!byWord[w.hanzi]) byWord[w.hanzi] = w;
+            if (dates.indexOf(w.date) === -1) dates.push(w.date);
+          });
+          dates.sort();
+          return { total: (j && j.total) || 840, words: words, byWord: byWord, dates: dates };
+        });
+    }
+    return hskPromise;
+  }
+  function hskEntry(w) { return { w: w.hanzi, py: w.pinyin, en: w.en, hsk: w.level }; }
+  function hskCtx(w) { var e = (w.examples || [])[0] || {}; return { zh: e.zh || "", en: e.en || "" }; }
+  var PER_DAY = 20;
+
+  // Home page: one line about today's HSK words.
+  function renderHskStrip() {
+    var el = $("#hskstrip");
+    if (!el) return;
+    loadHsk().then(function (H) {
+      if (!H.words.length) { el.hidden = true; return; }
+      var last = H.dates[H.dates.length - 1], todays = H.words.filter(function (w) { return w.date === last; });
+      var fresh = todays.filter(function (w) { return !statusOf(w.hanzi); }).length;
+      el.hidden = false;
+      el.innerHTML = '<a href="hsk.html"><span class="chip hsk">HSK</span>' +
+        '<span class="hs-t">' + (last === bangkokDate(0) ? "今日新词" : "最新一组 " + esc(last.slice(5).replace("-", "/"))) +
+        " · " + todays.length + " 个词" + (fresh ? "，" + fresh + " 个还没标" : "，都标好了") + "</span>" +
+        '<span class="meta">' + H.words.length + " / " + H.total + " learned so far →</span></a>";
+    });
+  }
+
+  function renderHsk() {
+    markTabs();
+    var prog = $("#hprog"), today = $("#htoday"), body = $("#hbody"), count = $("#hcount"), input = $("#hsearch");
+    var sel = { hlevel: "all", hstatus: "all" };
+    var q0 = new URLSearchParams(location.search).get("q");
+    if (q0) input.value = q0;
+
+    loadHsk().then(function (H) {
+      if (!H.words.length) {
+        prog.innerHTML = '<p class="empty">还没有词。The first ' + PER_DAY + " words arrive with the next daily update.</p>";
+        today.innerHTML = ""; body.innerHTML = ""; return;
+      }
+      var last = H.dates[H.dates.length - 1];
+      var todays = H.words.filter(function (w) { return w.date === last; });
+
+      function drawProgress() {
+        var k = 0, l = 0;
+        H.words.forEach(function (w) { var s = statusOf(w.hanzi); if (s === "k") k++; if (s === "l") l++; });
+        var left = H.total - H.words.length, daysLeft = Math.ceil(left / PER_DAY);
+        var end = new Date(Date.UTC(+last.slice(0, 4), +last.slice(5, 7) - 1, +last.slice(8, 10)) + daysLeft * 864e5).toISOString().slice(0, 10);
+        var pct = function (n) { return (100 * n / H.total).toFixed(1) + "%"; };
+        prog.innerHTML =
+          '<div class="hp-top"><p class="study-line">已学 <b>' + H.words.length + "</b> / " + H.total + " 个词</p>" +
+          '<p class="meta">' + (left ? left + " words to go, " + PER_DAY + " a day: the list finishes around " + esc(end) + "."
+                                      : "All " + H.total + " words are out. Keep reviewing!") + "</p></div>" +
+          '<div class="hbar" role="img" aria-label="' + k + " known, " + l + " learning, " + H.words.length + " published of " + H.total + '">' +
+          '<i class="k" style="width:' + pct(k) + '"></i><i class="l" style="width:' + pct(l) + '"></i><i class="o" style="width:' + pct(H.words.length - k - l) + '"></i></div>' +
+          '<p class="hlegend meta"><span><i class="k"></i>认识 Known ' + k + '</span><span><i class="l"></i>学习中 Learning ' + l +
+          '</span><span><i class="o"></i>没标 Not marked ' + (H.words.length - k - l) + '</span><span><i></i>还没发 Not out yet ' + left + "</span></p>";
+      }
+
+      function drawToday() {
+        var unmarked = todays.filter(function (w) { return !statusOf(w.hanzi); }).length;
+        today.innerHTML =
+          '<div class="lv-head"><h2>' + (last === bangkokDate(0) ? "今日新词" : "最新一组") + ' <span class="sub">' + esc(prettyDate(last)) +
+          " · words " + todays[0].n + "–" + todays[todays.length - 1].n + "</span></h2>" +
+          '<button type="button" id="hallin" class="btn small"' + (unmarked ? "" : " hidden") + ">把 " + unmarked + " 个都加入学习 Learn all</button>" +
+          '<button type="button" id="hpractise" class="btn small primary">练习这 ' + todays.length + " 个 Practise</button></div>" +
+          '<div class="hgrid">' + todays.map(function (w) {
+            return '<article class="hcard"><div class="hc-head"><span class="big" lang="zh-CN">' + esc(w.hanzi) + "</span>" + sayButton(w.hanzi, "Listen to " + w.hanzi) +
+              '<span class="hc-n meta">#' + w.n + "</span>" + statusButtons(w.hanzi) + "</div>" +
+              '<p class="hc-py">' + esc(w.pinyin) + "</p>" +
+              '<p class="def">' + (w.pos ? '<span class="pos">' + esc(w.pos) + "</span>" : "") + esc(w.en) + ' <span class="lvl">' + esc(w.level) + "</span></p>" +
+              (w.examples || []).map(function (e) {
+                return '<div class="ex"><div class="z" lang="zh-CN">' + esc(e.zh) + sayButton(e.zh, "Listen to the example") + '</div><div class="y">' + esc(e.py) +
+                  '</div><div class="e">' + esc(e.en) + "</div></div>";
+              }).join("") + "</article>";
+          }).join("") + "</div>";
+      }
+
+      var shown = [];
+      function drawList() {
+        var raw = input.value.trim(), q = plain(raw);
+        shown = H.words.slice().reverse().filter(function (w) {
+          var s = statusOf(w.hanzi);
+          if (sel.hstatus !== "all" && (sel.hstatus === "new" ? s : s !== sel.hstatus)) return false;
+          if (sel.hlevel !== "all" && w.level !== sel.hlevel) return false;
+          if (!q) return true;
+          return w.hanzi.indexOf(raw) !== -1 || plain(w.pinyin).replace(/\s/g, "").indexOf(q.replace(/\s/g, "")) !== -1 || plain(w.en).indexOf(q) !== -1;
+        });
+        count.textContent = shown.length + " / " + H.words.length + " 个词";
+        body.innerHTML = shown.map(function (w) {
+          var e = (w.examples || [])[0] || {};
+          return '<tr><td class="h" lang="zh-CN">' + esc(w.hanzi) + sayButton(w.hanzi, "Listen to " + w.hanzi) + '</td><td class="p">' + esc(w.pinyin) + "</td>" +
+            '<td class="m">' + esc(w.en) + (e.zh ? '<span class="hex" lang="zh-CN">' + esc(e.zh) + "</span>" : "") + '</td><td class="lvl">' + esc(w.level) + "</td>" +
+            '<td class="src"><span>' + esc(w.date.slice(5).replace("-", "/")) + " · #" + w.n + '</span></td><td class="sta">' + statusButtons(w.hanzi) + "</td></tr>";
+        }).join("") || '<tr><td colspan="6" class="empty">没有找到。No words match these filters.</td></tr>';
+      }
+
+      function paintButtons() {
+        $$(".st").forEach(function (st) {
+          var s = statusOf(st.getAttribute("data-h"));
+          $$("button", st).forEach(function (b) { b.setAttribute("aria-pressed", b.getAttribute("data-s") === s ? "true" : "false"); });
+        });
+        var unmarked = todays.filter(function (w) { return !statusOf(w.hanzi); }).length, all = $("#hallin");
+        if (all) { all.hidden = !unmarked; all.textContent = "把 " + unmarked + " 个都加入学习 Learn all"; }
+        drawProgress();
+      }
+
+      document.addEventListener("click", function (e) {
+        var b = e.target.closest && e.target.closest(".st button");
+        if (b) {
+          var h = b.parentNode.getAttribute("data-h"), w = H.byWord[h];
+          if (!w) return;
+          setStatus(hskEntry(w), statusOf(h) === b.getAttribute("data-s") ? "" : b.getAttribute("data-s"), hskCtx(w));
+          paintButtons();
+          return;
+        }
+        if (e.target.id === "hallin") {
+          todays.forEach(function (w) { if (!statusOf(w.hanzi)) setStatus(hskEntry(w), "l", hskCtx(w)); });
+          paintButtons();
+        }
+        if (e.target.id === "hpractise") {
+          var cards = shuffle(todays.slice()).map(function (w) {
+            var c = hskCtx(w);
+            return { w: w.hanzi, py: w.pinyin, en: w.en, hsk: w.level, ctx: c.zh, ctxEn: c.en };
+          });
+          try { sessionStorage.setItem("practice", JSON.stringify(cards)); } catch (err) { return; }
+          location.href = "review.html?mode=practice";
+        }
+      });
+      input.addEventListener("input", drawList);
+      Object.keys(sel).forEach(function (id) {
+        $$("#" + id + " button").forEach(function (b) {
+          b.addEventListener("click", function () {
+            $$("#" + id + " button").forEach(function (x) { x.classList.remove("on"); });
+            b.classList.add("on"); sel[id] = b.getAttribute("data-v"); drawList();
+          });
+        });
+      });
+
+      drawProgress(); drawToday(); drawList();
+    });
+  }
+
   /* ---------- theme switch: light / dark / eye-care ---------- */
   function setupThemes() {
     var btns = $$("[data-theme-set]");
@@ -791,9 +953,10 @@
     setupToggles();
     paintDue();
     var page = document.body.getAttribute("data-page");
-    if (page === "home") renderHome();
+    if (page === "home") { renderHome(); renderHskStrip(); }
     if (page === "lesson") renderLesson();
     if (page === "vocab") renderVocab();
     if (page === "review") renderReview();
+    if (page === "hsk") renderHsk();
   });
 })();
