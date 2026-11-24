@@ -1,0 +1,462 @@
+{
+  "date": "2026-11-24",
+  "category": "finance",
+  "title_zh": "第三季度保险公司多买了1464亿元股票",
+  "title_en": "Insurance companies bought 146.4 billion yuan more stocks in the third quarter",
+  "paragraphs": [
+    {
+      "zh": "金融监管总局最近公布了第三季度保险资金的使用情况。到9月底，保险公司用来投资的钱一共有41.64万亿元，比年初多了8.2%，比6月底多了1.99%。",
+      "en": "The National Financial Regulatory Administration recently released data on how insurance funds were used in the third quarter. By the end of September, the money insurance companies used for investment totalled 41.64 trillion yuan, 8.2% more than at the start of the year and 1.99% more than at the end of June."
+    },
+    {
+      "zh": "在这些钱里，放在股票上的有4.25万亿元，三个月里增加了1464亿元。股票在全部投资里的比例是10.56%。同一时期，沪深300指数下跌了12.49%。",
+      "en": "Of this money, 4.25 trillion yuan was in stocks, an increase of 146.4 billion yuan in three months. Stocks made up 10.56% of all investments. Over the same period, the CSI 300 index fell 12.49%."
+    },
+    {
+      "zh": "债券仍然是保险公司最大的投资。到9月底，债券投资达到20.73万亿元，占全部投资的51.54%，比6月底高了1.02个百分点。基金投资大约是2.29万亿元，和上个季度差不多。",
+      "en": "Bonds are still insurance companies' biggest investment. By the end of September, bond investments reached 20.73 trillion yuan, 51.54% of all investments and 1.02 percentage points higher than at the end of June. Fund investments were about 2.29 trillion yuan, roughly the same as the previous quarter."
+    },
+    {
+      "zh": "背景：保险公司收到客户交的保费以后，会把这些钱拿去投资，比如买债券、股票和基金。在所有保险公司里，人身保险公司的资金最多，有37.66万亿元。",
+      "en": "Background: after insurance companies receive the premiums their customers pay, they invest this money, for example in bonds, stocks and funds. Among all insurers, life and personal insurance companies hold the most funds: 37.66 trillion yuan."
+    }
+  ],
+  "source": {
+    "name": "第一财经",
+    "name_en": "Yicai (China Business Network)",
+    "url": "https://www.yicai.com/news/103450917.html"
+  },
+  "vocab": [
+    {
+      "hanzi": "季度",
+      "pinyin": "jìdù",
+      "en": "quarter (of a year)",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "保险",
+      "pinyin": "bǎoxiǎn",
+      "en": "insurance",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "亿",
+      "pinyin": "yì",
+      "en": "hundred million",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "股票",
+      "pinyin": "gǔpiào",
+      "en": "stock; share",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "金融监管总局",
+      "pinyin": "Jīnróng Jiānguǎn Zǒngjú",
+      "en": "National Financial Regulatory Administration (NFRA)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "公布",
+      "pinyin": "gōngbù",
+      "en": "to announce; to make public",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "资金",
+      "pinyin": "zījīn",
+      "en": "funds; capital",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "投资",
+      "pinyin": "tóuzī",
+      "en": "to invest; investment",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "万亿",
+      "pinyin": "wànyì",
+      "en": "trillion",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "年初",
+      "pinyin": "niánchū",
+      "en": "beginning of the year",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "比例",
+      "pinyin": "bǐlì",
+      "en": "proportion; ratio",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "时期",
+      "pinyin": "shíqī",
+      "en": "period (of time)",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "沪深",
+      "pinyin": "Hù-Shēn",
+      "en": "Shanghai and Shenzhen (stock exchanges)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "指数",
+      "pinyin": "zhǐshù",
+      "en": "index",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "下跌",
+      "pinyin": "xiàdiē",
+      "en": "to fall; to drop (prices)",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "债券",
+      "pinyin": "zhàiquàn",
+      "en": "bond",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "达到",
+      "pinyin": "dádào",
+      "en": "to reach",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "占",
+      "pinyin": "zhàn",
+      "en": "to make up; to account for",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "百分点",
+      "pinyin": "bǎifēndiǎn",
+      "en": "percentage point",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "基金",
+      "pinyin": "jījīn",
+      "en": "fund",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "背景",
+      "pinyin": "bèijǐng",
+      "en": "background",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "客户",
+      "pinyin": "kèhù",
+      "en": "customer; client",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "保费",
+      "pinyin": "bǎofèi",
+      "en": "insurance premium",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "人身保险",
+      "pinyin": "rénshēn bǎoxiǎn",
+      "en": "life and personal insurance",
+      "hsk": "超纲"
+    }
+  ],
+  "glossary": [
+    {
+      "w": "第三",
+      "py": "dì-sān",
+      "en": "third"
+    },
+    {
+      "w": "多",
+      "py": "duō",
+      "en": "more; many"
+    },
+    {
+      "w": "买",
+      "py": "mǎi",
+      "en": "to buy"
+    },
+    {
+      "w": "了",
+      "py": "le",
+      "en": "(completed action particle)"
+    },
+    {
+      "w": "元",
+      "py": "yuán",
+      "en": "yuan"
+    },
+    {
+      "w": "金融",
+      "py": "jīnróng",
+      "en": "finance"
+    },
+    {
+      "w": "最近",
+      "py": "zuìjìn",
+      "en": "recently"
+    },
+    {
+      "w": "的",
+      "py": "de",
+      "en": "(possessive / modifier particle)"
+    },
+    {
+      "w": "使用",
+      "py": "shǐyòng",
+      "en": "use"
+    },
+    {
+      "w": "情况",
+      "py": "qíngkuàng",
+      "en": "situation"
+    },
+    {
+      "w": "到",
+      "py": "dào",
+      "en": "by; up to"
+    },
+    {
+      "w": "月底",
+      "py": "yuèdǐ",
+      "en": "end of the month"
+    },
+    {
+      "w": "月",
+      "py": "yuè",
+      "en": "month"
+    },
+    {
+      "w": "底",
+      "py": "dǐ",
+      "en": "end"
+    },
+    {
+      "w": "公司",
+      "py": "gōngsī",
+      "en": "company"
+    },
+    {
+      "w": "用来",
+      "py": "yònglái",
+      "en": "to be used for"
+    },
+    {
+      "w": "钱",
+      "py": "qián",
+      "en": "money"
+    },
+    {
+      "w": "一共",
+      "py": "yígòng",
+      "en": "in total"
+    },
+    {
+      "w": "有",
+      "py": "yǒu",
+      "en": "to have; there is"
+    },
+    {
+      "w": "比",
+      "py": "bǐ",
+      "en": "than; compared with"
+    },
+    {
+      "w": "在",
+      "py": "zài",
+      "en": "in; at"
+    },
+    {
+      "w": "这些",
+      "py": "zhèxiē",
+      "en": "these"
+    },
+    {
+      "w": "里",
+      "py": "lǐ",
+      "en": "in; inside"
+    },
+    {
+      "w": "放",
+      "py": "fàng",
+      "en": "to put"
+    },
+    {
+      "w": "上",
+      "py": "shàng",
+      "en": "on"
+    },
+    {
+      "w": "三个月",
+      "py": "sān ge yuè",
+      "en": "three months"
+    },
+    {
+      "w": "增加",
+      "py": "zēngjiā",
+      "en": "to increase"
+    },
+    {
+      "w": "全部",
+      "py": "quánbù",
+      "en": "all"
+    },
+    {
+      "w": "是",
+      "py": "shì",
+      "en": "to be"
+    },
+    {
+      "w": "同一",
+      "py": "tóngyī",
+      "en": "the same"
+    },
+    {
+      "w": "仍然",
+      "py": "réngrán",
+      "en": "still"
+    },
+    {
+      "w": "最大",
+      "py": "zuì dà",
+      "en": "biggest"
+    },
+    {
+      "w": "高",
+      "py": "gāo",
+      "en": "high; higher"
+    },
+    {
+      "w": "个",
+      "py": "gè",
+      "en": "(measure word)"
+    },
+    {
+      "w": "大约",
+      "py": "dàyuē",
+      "en": "about"
+    },
+    {
+      "w": "和",
+      "py": "hé",
+      "en": "and; with"
+    },
+    {
+      "w": "上个",
+      "py": "shàng ge",
+      "en": "previous; last"
+    },
+    {
+      "w": "差不多",
+      "py": "chàbuduō",
+      "en": "about the same"
+    },
+    {
+      "w": "收到",
+      "py": "shōudào",
+      "en": "to receive"
+    },
+    {
+      "w": "交",
+      "py": "jiāo",
+      "en": "to pay; to hand in"
+    },
+    {
+      "w": "以后",
+      "py": "yǐhòu",
+      "en": "after"
+    },
+    {
+      "w": "会",
+      "py": "huì",
+      "en": "will; would"
+    },
+    {
+      "w": "把",
+      "py": "bǎ",
+      "en": "(marks the object)"
+    },
+    {
+      "w": "拿去",
+      "py": "ná qù",
+      "en": "to take (and use)"
+    },
+    {
+      "w": "比如",
+      "py": "bǐrú",
+      "en": "for example"
+    },
+    {
+      "w": "所有",
+      "py": "suǒyǒu",
+      "en": "all"
+    },
+    {
+      "w": "最多",
+      "py": "zuì duō",
+      "en": "the most"
+    }
+  ],
+  "featured": [
+    {
+      "hanzi": "债券",
+      "pinyin": "zhàiquàn",
+      "pos": "noun",
+      "en": "bond",
+      "note": "Common collocations: 国债 (government bond), 发行债券 (issue bonds), 买债券 / 持有债券 (buy / hold bonds), 债券市场 (bond market), 债券收益率 (bond yield).",
+      "examples": [
+        {
+          "zh": "政府这个月发行了一批新的债券。",
+          "py": "Zhèngfǔ zhège yuè fāxíng le yì pī xīn de zhàiquàn.",
+          "en": "The government issued a batch of new bonds this month."
+        },
+        {
+          "zh": "我爸爸觉得买债券比买股票安全。",
+          "py": "Wǒ bàba juéde mǎi zhàiquàn bǐ mǎi gǔpiào ānquán.",
+          "en": "My dad thinks buying bonds is safer than buying stocks."
+        },
+        {
+          "zh": "利率下降的时候，债券的价格一般会上涨。",
+          "py": "Lìlǜ xiàjiàng de shíhou, zhàiquàn de jiàgé yìbān huì shàngzhǎng.",
+          "en": "When interest rates fall, bond prices usually rise."
+        }
+      ]
+    },
+    {
+      "hanzi": "股票",
+      "pinyin": "gǔpiào",
+      "pos": "noun",
+      "en": "stock; share",
+      "note": "Common collocations: 买股票 / 卖股票 (buy / sell stocks), 炒股 (trade stocks, informal), 股票市场 / 股市 (stock market), 股票价格 / 股价 (share price).",
+      "examples": [
+        {
+          "zh": "今天很多科技公司的股票都跌了。",
+          "py": "Jīntiān hěn duō kējì gōngsī de gǔpiào dōu diē le.",
+          "en": "Many tech companies' stocks fell today."
+        },
+        {
+          "zh": "我同事每天上班前都要看一下股票。",
+          "py": "Wǒ tóngshì měitiān shàngbān qián dōu yào kàn yíxià gǔpiào.",
+          "en": "My colleague checks the stocks every day before work."
+        },
+        {
+          "zh": "这家银行的股票价格比去年高了不少。",
+          "py": "Zhè jiā yínháng de gǔpiào jiàgé bǐ qùnián gāo le bù shǎo.",
+          "en": "This bank's share price is quite a bit higher than last year."
+        }
+      ]
+    }
+  ]
+}

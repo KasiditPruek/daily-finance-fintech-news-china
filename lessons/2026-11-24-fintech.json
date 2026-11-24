@@ -1,0 +1,525 @@
+{
+  "date": "2026-11-24",
+  "category": "fintech",
+  "title_zh": "新加坡大华银行App加入银联二维码，在中国也能扫码付款",
+  "title_en": "Singapore's UOB adds UnionPay QR codes to its app, so customers can scan to pay in China too",
+  "paragraphs": [
+    {
+      "zh": "11月18日，银联国际、新加坡的大华银行和新加坡支付公司NETS一起宣布，大华银行的手机银行App“TMRW”将可以用银联二维码付款。",
+      "en": "On November 18, UnionPay International, Singapore's UOB and the Singapore payment company NETS jointly announced that UOB's mobile banking app \"TMRW\" will be able to make payments with UnionPay QR codes."
+    },
+    {
+      "zh": "有了这个功能，大华银行的客户去中国旅行或者出差时，在接受银联二维码的商店里打开App扫一下就能付钱。这个App还可以扫微信支付的商户收款码，所以在中国只用一个App就能完成大部分付款。",
+      "en": "With this feature, when UOB customers travel or go on business trips to China, they can open the app and scan to pay in shops that accept UnionPay QR codes. The app can also scan WeChat Pay merchant payment codes, so in China most payments can be made with just one app."
+    },
+    {
+      "zh": "这次合作的技术支持由NETS负责。NETS是新加坡的一家支付网络公司，它和银联从2004年就开始合作了。",
+      "en": "NETS is responsible for the technical support for this partnership. NETS is a payment network company in Singapore, and it has been working with UnionPay since 2004."
+    },
+    {
+      "zh": "大华银行和银联的关系也很长。2008年，两家推出了联名卡。今年10月，这张卡又升级了，客户在全球刷卡消费时不再需要付外币交易手续费。",
+      "en": "UOB's relationship with UnionPay is also a long one. In 2008, the two launched a co-branded card. This October the card was upgraded again, and customers no longer have to pay foreign-currency transaction fees when they use the card to spend anywhere in the world."
+    }
+  ],
+  "source": {
+    "name": "移动支付网",
+    "name_en": "Mpaypass (China Mobile Payment Network)",
+    "url": "https://www.mpaypass.com.cn/news/202611/23185828.html"
+  },
+  "vocab": [
+    {
+      "hanzi": "新加坡",
+      "pinyin": "Xīnjiāpō",
+      "en": "Singapore",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "大华银行",
+      "pinyin": "Dàhuá Yínháng",
+      "en": "United Overseas Bank (UOB)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "加入",
+      "pinyin": "jiārù",
+      "en": "to add; to join",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "银联",
+      "pinyin": "Yínlián",
+      "en": "UnionPay",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "二维码",
+      "pinyin": "èrwéimǎ",
+      "en": "QR code",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "扫码",
+      "pinyin": "sǎo mǎ",
+      "en": "to scan a (QR) code",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "银联国际",
+      "pinyin": "Yínlián Guójì",
+      "en": "UnionPay International",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "支付",
+      "pinyin": "zhīfù",
+      "en": "to pay; payment",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "宣布",
+      "pinyin": "xuānbù",
+      "en": "to announce",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "手机银行",
+      "pinyin": "shǒujī yínháng",
+      "en": "mobile banking",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "将",
+      "pinyin": "jiāng",
+      "en": "will; shall (formal)",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "功能",
+      "pinyin": "gōngnéng",
+      "en": "function; feature",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "扫",
+      "pinyin": "sǎo",
+      "en": "to scan; to sweep",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "微信支付",
+      "pinyin": "Wēixìn Zhīfù",
+      "en": "WeChat Pay",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "商户",
+      "pinyin": "shānghù",
+      "en": "merchant",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "收款码",
+      "pinyin": "shōukuǎnmǎ",
+      "en": "payment-collection QR code",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "合作",
+      "pinyin": "hézuò",
+      "en": "to cooperate; partnership",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "网络",
+      "pinyin": "wǎngluò",
+      "en": "network",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "推出",
+      "pinyin": "tuīchū",
+      "en": "to launch; to introduce",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "联名卡",
+      "pinyin": "liánmíngkǎ",
+      "en": "co-branded card",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "升级",
+      "pinyin": "shēngjí",
+      "en": "to upgrade",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "全球",
+      "pinyin": "quánqiú",
+      "en": "the whole world; global",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "刷卡",
+      "pinyin": "shuā kǎ",
+      "en": "to swipe/use a card",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "消费",
+      "pinyin": "xiāofèi",
+      "en": "to spend; consumption",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "外币",
+      "pinyin": "wàibì",
+      "en": "foreign currency",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "交易",
+      "pinyin": "jiāoyì",
+      "en": "transaction; to trade",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "手续费",
+      "pinyin": "shǒuxùfèi",
+      "en": "service fee; handling fee",
+      "hsk": "HSK 6"
+    }
+  ],
+  "glossary": [
+    {
+      "w": "在",
+      "py": "zài",
+      "en": "in"
+    },
+    {
+      "w": "中国",
+      "py": "Zhōngguó",
+      "en": "China"
+    },
+    {
+      "w": "也",
+      "py": "yě",
+      "en": "also"
+    },
+    {
+      "w": "能",
+      "py": "néng",
+      "en": "can"
+    },
+    {
+      "w": "付款",
+      "py": "fùkuǎn",
+      "en": "to pay"
+    },
+    {
+      "w": "月",
+      "py": "yuè",
+      "en": "month"
+    },
+    {
+      "w": "日",
+      "py": "rì",
+      "en": "day"
+    },
+    {
+      "w": "的",
+      "py": "de",
+      "en": "(possessive / modifier particle)"
+    },
+    {
+      "w": "和",
+      "py": "hé",
+      "en": "and; with"
+    },
+    {
+      "w": "公司",
+      "py": "gōngsī",
+      "en": "company"
+    },
+    {
+      "w": "一起",
+      "py": "yìqǐ",
+      "en": "together"
+    },
+    {
+      "w": "可以",
+      "py": "kěyǐ",
+      "en": "can"
+    },
+    {
+      "w": "用",
+      "py": "yòng",
+      "en": "to use; with"
+    },
+    {
+      "w": "有了",
+      "py": "yǒu le",
+      "en": "with; having"
+    },
+    {
+      "w": "这个",
+      "py": "zhège",
+      "en": "this"
+    },
+    {
+      "w": "客户",
+      "py": "kèhù",
+      "en": "customer"
+    },
+    {
+      "w": "去",
+      "py": "qù",
+      "en": "to go"
+    },
+    {
+      "w": "旅行",
+      "py": "lǚxíng",
+      "en": "to travel"
+    },
+    {
+      "w": "或者",
+      "py": "huòzhě",
+      "en": "or"
+    },
+    {
+      "w": "出差",
+      "py": "chūchāi",
+      "en": "to go on a business trip"
+    },
+    {
+      "w": "时",
+      "py": "shí",
+      "en": "when"
+    },
+    {
+      "w": "接受",
+      "py": "jiēshòu",
+      "en": "to accept"
+    },
+    {
+      "w": "商店",
+      "py": "shāngdiàn",
+      "en": "shop"
+    },
+    {
+      "w": "里",
+      "py": "lǐ",
+      "en": "in"
+    },
+    {
+      "w": "打开",
+      "py": "dǎkāi",
+      "en": "to open"
+    },
+    {
+      "w": "一下",
+      "py": "yíxià",
+      "en": "once; a bit"
+    },
+    {
+      "w": "就",
+      "py": "jiù",
+      "en": "then; just"
+    },
+    {
+      "w": "付钱",
+      "py": "fù qián",
+      "en": "to pay money"
+    },
+    {
+      "w": "还",
+      "py": "hái",
+      "en": "also"
+    },
+    {
+      "w": "所以",
+      "py": "suǒyǐ",
+      "en": "so"
+    },
+    {
+      "w": "只",
+      "py": "zhǐ",
+      "en": "only"
+    },
+    {
+      "w": "一个",
+      "py": "yí ge",
+      "en": "one"
+    },
+    {
+      "w": "完成",
+      "py": "wánchéng",
+      "en": "to complete"
+    },
+    {
+      "w": "大部分",
+      "py": "dàbùfen",
+      "en": "most"
+    },
+    {
+      "w": "这次",
+      "py": "zhè cì",
+      "en": "this time"
+    },
+    {
+      "w": "技术",
+      "py": "jìshù",
+      "en": "technical; technology"
+    },
+    {
+      "w": "支持",
+      "py": "zhīchí",
+      "en": "support"
+    },
+    {
+      "w": "由",
+      "py": "yóu",
+      "en": "by"
+    },
+    {
+      "w": "负责",
+      "py": "fùzé",
+      "en": "to be responsible for"
+    },
+    {
+      "w": "是",
+      "py": "shì",
+      "en": "to be"
+    },
+    {
+      "w": "一家",
+      "py": "yì jiā",
+      "en": "a (company)"
+    },
+    {
+      "w": "它",
+      "py": "tā",
+      "en": "it"
+    },
+    {
+      "w": "从",
+      "py": "cóng",
+      "en": "from; since"
+    },
+    {
+      "w": "年",
+      "py": "nián",
+      "en": "year"
+    },
+    {
+      "w": "开始",
+      "py": "kāishǐ",
+      "en": "to start"
+    },
+    {
+      "w": "了",
+      "py": "le",
+      "en": "(particle)"
+    },
+    {
+      "w": "关系",
+      "py": "guānxi",
+      "en": "relationship"
+    },
+    {
+      "w": "很长",
+      "py": "hěn cháng",
+      "en": "very long"
+    },
+    {
+      "w": "两家",
+      "py": "liǎng jiā",
+      "en": "the two (companies)"
+    },
+    {
+      "w": "今年",
+      "py": "jīnnián",
+      "en": "this year"
+    },
+    {
+      "w": "这张",
+      "py": "zhè zhāng",
+      "en": "this (card)"
+    },
+    {
+      "w": "卡",
+      "py": "kǎ",
+      "en": "card"
+    },
+    {
+      "w": "又",
+      "py": "yòu",
+      "en": "again"
+    },
+    {
+      "w": "不再",
+      "py": "bú zài",
+      "en": "no longer"
+    },
+    {
+      "w": "需要",
+      "py": "xūyào",
+      "en": "to need"
+    },
+    {
+      "w": "付",
+      "py": "fù",
+      "en": "to pay"
+    }
+  ],
+  "featured": [
+    {
+      "hanzi": "扫码",
+      "pinyin": "sǎo mǎ",
+      "pos": "verb (verb-object)",
+      "en": "to scan a (QR) code",
+      "note": "Common collocations: 扫码支付 (pay by scanning), 扫码付款 (scan to pay), 扫码点餐 (scan to order food), 扫一下码 (scan the code once); 扫 = scan, 码 = code.",
+      "examples": [
+        {
+          "zh": "现在很多外国游客来中国也可以扫码付款。",
+          "py": "Xiànzài hěn duō wàiguó yóukè lái Zhōngguó yě kěyǐ sǎo mǎ fùkuǎn.",
+          "en": "Now many foreign tourists coming to China can also pay by scanning a QR code."
+        },
+        {
+          "zh": "这家饭馆没有菜单，客人要扫码点餐。",
+          "py": "Zhè jiā fànguǎn méiyǒu càidān, kèrén yào sǎo mǎ diǎn cān.",
+          "en": "This restaurant has no menu; guests scan a code to order."
+        },
+        {
+          "zh": "我们要看一下每个月扫码支付的交易数量有没有增加。",
+          "py": "Wǒmen yào kàn yíxià měi ge yuè sǎo mǎ zhīfù de jiāoyì shùliàng yǒu méiyǒu zēngjiā.",
+          "en": "We need to check whether the number of scan-to-pay transactions is growing each month."
+        }
+      ]
+    },
+    {
+      "hanzi": "商户",
+      "pinyin": "shānghù",
+      "pos": "noun",
+      "en": "merchant; business (that accepts payments)",
+      "note": "Common collocations: 小微商户 (small and micro merchants), 商户收款码 (merchant payment code), 接入商户 (onboard merchants), 商户数量 (number of merchants).",
+      "examples": [
+        {
+          "zh": "这家支付公司今年新接入了两万家商户。",
+          "py": "Zhè jiā zhīfù gōngsī jīnnián xīn jiērù le liǎng wàn jiā shānghù.",
+          "en": "This payment company has onboarded 20,000 new merchants this year."
+        },
+        {
+          "zh": "我家楼下的小商店也是微信支付的商户。",
+          "py": "Wǒ jiā lóu xià de xiǎo shāngdiàn yě shì Wēixìn Zhīfù de shānghù.",
+          "en": "The little shop downstairs from my home is also a WeChat Pay merchant."
+        },
+        {
+          "zh": "上个月，我们平台上活跃商户的比例提高了三个百分点。",
+          "py": "Shàng ge yuè, wǒmen píngtái shang huóyuè shānghù de bǐlì tígāo le sān ge bǎifēndiǎn.",
+          "en": "Last month, the share of active merchants on our platform rose by three percentage points."
+        }
+      ]
+    }
+  ]
+}
