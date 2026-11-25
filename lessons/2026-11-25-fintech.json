@@ -1,0 +1,552 @@
+{
+  "date": "2026-11-25",
+  "category": "fintech",
+  "title_zh": "工行上海分行和蚂蚁国际签约，一起做跨境支付和数字人民币",
+  "title_en": "ICBC's Shanghai branch signs an agreement with Ant International to work together on cross-border payments and the digital yuan",
+  "paragraphs": [
+    {
+      "zh": "据移动支付网11月24日报道，中国工商银行上海市分行和蚂蚁国际签了一份战略合作备忘录，两家要在跨境金融方面加强合作。",
+      "en": "According to a Mpaypass report on November 24, the Shanghai branch of the Industrial and Commercial Bank of China (ICBC) and Ant International have signed a strategic cooperation memorandum, and the two will strengthen their cooperation in cross-border finance."
+    },
+    {
+      "zh": "按照备忘录，在符合法律和监管要求的前提下，两家会在几个方面合作：跨境人民币、数字人民币、跨境支付二维码的互联互通、金融市场交易、用区块链管理跨境资金，还有建设新兴市场的生态。",
+      "en": "Under the memorandum, on the condition that they meet legal and regulatory requirements, the two will cooperate in several areas: cross-border RMB, the digital yuan, interconnecting cross-border payment QR codes, financial market trading, using blockchain to manage cross-border funds, and building ecosystems in emerging markets."
+    },
+    {
+      "zh": "在这次合作中，工行会用上它在全球的金融服务，蚂蚁国际会提供数字技术和用在各种场景里的技术。",
+      "en": "In this partnership, ICBC will bring in its financial services around the world, and Ant International will provide digital technology and technology used in many kinds of scenarios."
+    },
+    {
+      "zh": "两家下一步的计划包括跨境电商、让人们出入境旅行更方便，以及在更多场景中使用跨境人民币。蚂蚁国际是蚂蚁集团的国际业务公司，Alipay+就是它的一个产品。",
+      "en": "The two sides' next plans include cross-border e-commerce, making it easier for people to travel in and out of the country, and using cross-border RMB in more scenarios. Ant International is Ant Group's international business company, and Alipay+ is one of its products."
+    }
+  ],
+  "source": {
+    "name": "移动支付网",
+    "name_en": "Mpaypass (China Mobile Payment Network)",
+    "url": "https://www.mpaypass.com.cn/news/202611/24185547.html"
+  },
+  "vocab": [
+    {
+      "hanzi": "工行",
+      "pinyin": "Gōngháng",
+      "en": "ICBC (short name)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "分行",
+      "pinyin": "fēnháng",
+      "en": "branch (of a bank)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "蚂蚁国际",
+      "pinyin": "Mǎyǐ Guójì",
+      "en": "Ant International",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "签约",
+      "pinyin": "qiānyuē",
+      "en": "to sign an agreement",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "跨境",
+      "pinyin": "kuàjìng",
+      "en": "cross-border",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "支付",
+      "pinyin": "zhīfù",
+      "en": "payment; to pay",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "数字人民币",
+      "pinyin": "shùzì rénmínbì",
+      "en": "digital yuan (e-CNY)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "据",
+      "pinyin": "jù",
+      "en": "according to",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "移动支付网",
+      "pinyin": "Yídòng Zhīfù Wǎng",
+      "en": "Mpaypass (China Mobile Payment Network)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "报道",
+      "pinyin": "bàodào",
+      "en": "to report; news report",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "中国工商银行",
+      "pinyin": "Zhōngguó Gōngshāng Yínháng",
+      "en": "Industrial and Commercial Bank of China (ICBC)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "签",
+      "pinyin": "qiān",
+      "en": "to sign",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "战略",
+      "pinyin": "zhànlüè",
+      "en": "strategic; strategy",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "合作",
+      "pinyin": "hézuò",
+      "en": "cooperation; to cooperate",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "备忘录",
+      "pinyin": "bèiwànglù",
+      "en": "memorandum",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "金融",
+      "pinyin": "jīnróng",
+      "en": "finance",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "加强",
+      "pinyin": "jiāqiáng",
+      "en": "to strengthen",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "监管",
+      "pinyin": "jiānguǎn",
+      "en": "regulation; to regulate",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "前提",
+      "pinyin": "qiántí",
+      "en": "precondition; premise",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "人民币",
+      "pinyin": "rénmínbì",
+      "en": "RMB (Chinese yuan)",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "二维码",
+      "pinyin": "èrwéimǎ",
+      "en": "QR code",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "互联互通",
+      "pinyin": "hùlián hùtōng",
+      "en": "interconnection; to connect with each other",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "市场",
+      "pinyin": "shìchǎng",
+      "en": "market",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "交易",
+      "pinyin": "jiāoyì",
+      "en": "trading; transaction",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "区块链",
+      "pinyin": "qūkuàiliàn",
+      "en": "blockchain",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "资金",
+      "pinyin": "zījīn",
+      "en": "funds; capital",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "建设",
+      "pinyin": "jiànshè",
+      "en": "to build",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "新兴",
+      "pinyin": "xīnxīng",
+      "en": "emerging; newly rising",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "生态",
+      "pinyin": "shēngtài",
+      "en": "ecosystem; ecology",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "全球",
+      "pinyin": "quánqiú",
+      "en": "global; worldwide",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "服务",
+      "pinyin": "fúwù",
+      "en": "service; to serve",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "场景",
+      "pinyin": "chǎngjǐng",
+      "en": "scenario; use case; scene",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "包括",
+      "pinyin": "bāokuò",
+      "en": "to include",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "电商",
+      "pinyin": "diànshāng",
+      "en": "e-commerce",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "出入境",
+      "pinyin": "chūrùjìng",
+      "en": "to enter and leave a country",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "以及",
+      "pinyin": "yǐjí",
+      "en": "as well as; and",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "蚂蚁集团",
+      "pinyin": "Mǎyǐ Jítuán",
+      "en": "Ant Group",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "业务",
+      "pinyin": "yèwù",
+      "en": "business; line of business",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "产品",
+      "pinyin": "chǎnpǐn",
+      "en": "product",
+      "hsk": "HSK 5"
+    }
+  ],
+  "glossary": [
+    {
+      "w": "上海",
+      "py": "Shànghǎi",
+      "en": "Shanghai"
+    },
+    {
+      "w": "和",
+      "py": "hé",
+      "en": "and; with"
+    },
+    {
+      "w": "一起",
+      "py": "yìqǐ",
+      "en": "together"
+    },
+    {
+      "w": "做",
+      "py": "zuò",
+      "en": "to do"
+    },
+    {
+      "w": "月",
+      "py": "yuè",
+      "en": "month"
+    },
+    {
+      "w": "日",
+      "py": "rì",
+      "en": "day (of month)"
+    },
+    {
+      "w": "上海市",
+      "py": "Shànghǎi Shì",
+      "en": "Shanghai (city)"
+    },
+    {
+      "w": "了",
+      "py": "le",
+      "en": "(particle)"
+    },
+    {
+      "w": "一份",
+      "py": "yí fèn",
+      "en": "one (document)"
+    },
+    {
+      "w": "两家",
+      "py": "liǎng jiā",
+      "en": "the two (companies)"
+    },
+    {
+      "w": "要",
+      "py": "yào",
+      "en": "will; to want to"
+    },
+    {
+      "w": "在",
+      "py": "zài",
+      "en": "in; at"
+    },
+    {
+      "w": "方面",
+      "py": "fāngmiàn",
+      "en": "area; aspect"
+    },
+    {
+      "w": "按照",
+      "py": "ànzhào",
+      "en": "according to"
+    },
+    {
+      "w": "符合",
+      "py": "fúhé",
+      "en": "to meet; to conform to"
+    },
+    {
+      "w": "法律",
+      "py": "fǎlǜ",
+      "en": "law"
+    },
+    {
+      "w": "要求",
+      "py": "yāoqiú",
+      "en": "requirement"
+    },
+    {
+      "w": "的",
+      "py": "de",
+      "en": "(particle)"
+    },
+    {
+      "w": "下",
+      "py": "xià",
+      "en": "under"
+    },
+    {
+      "w": "会",
+      "py": "huì",
+      "en": "will"
+    },
+    {
+      "w": "几个",
+      "py": "jǐ gè",
+      "en": "several"
+    },
+    {
+      "w": "数字",
+      "py": "shùzì",
+      "en": "digital"
+    },
+    {
+      "w": "用",
+      "py": "yòng",
+      "en": "to use"
+    },
+    {
+      "w": "管理",
+      "py": "guǎnlǐ",
+      "en": "to manage"
+    },
+    {
+      "w": "还有",
+      "py": "háiyǒu",
+      "en": "and also"
+    },
+    {
+      "w": "这次",
+      "py": "zhè cì",
+      "en": "this time"
+    },
+    {
+      "w": "中",
+      "py": "zhōng",
+      "en": "in; during"
+    },
+    {
+      "w": "用上",
+      "py": "yòngshang",
+      "en": "to put to use"
+    },
+    {
+      "w": "它",
+      "py": "tā",
+      "en": "it; its"
+    },
+    {
+      "w": "提供",
+      "py": "tígōng",
+      "en": "to provide"
+    },
+    {
+      "w": "技术",
+      "py": "jìshù",
+      "en": "technology"
+    },
+    {
+      "w": "各种",
+      "py": "gè zhǒng",
+      "en": "all kinds of"
+    },
+    {
+      "w": "里",
+      "py": "lǐ",
+      "en": "in"
+    },
+    {
+      "w": "下一步",
+      "py": "xià yí bù",
+      "en": "next step"
+    },
+    {
+      "w": "计划",
+      "py": "jìhuà",
+      "en": "plan"
+    },
+    {
+      "w": "让",
+      "py": "ràng",
+      "en": "to make; to let"
+    },
+    {
+      "w": "人们",
+      "py": "rénmen",
+      "en": "people"
+    },
+    {
+      "w": "旅行",
+      "py": "lǚxíng",
+      "en": "to travel"
+    },
+    {
+      "w": "更",
+      "py": "gèng",
+      "en": "more"
+    },
+    {
+      "w": "方便",
+      "py": "fāngbiàn",
+      "en": "convenient"
+    },
+    {
+      "w": "更多",
+      "py": "gèng duō",
+      "en": "more"
+    },
+    {
+      "w": "使用",
+      "py": "shǐyòng",
+      "en": "to use"
+    },
+    {
+      "w": "是",
+      "py": "shì",
+      "en": "to be"
+    },
+    {
+      "w": "国际",
+      "py": "guójì",
+      "en": "international"
+    },
+    {
+      "w": "公司",
+      "py": "gōngsī",
+      "en": "company"
+    },
+    {
+      "w": "就是",
+      "py": "jiùshì",
+      "en": "is (exactly)"
+    },
+    {
+      "w": "一个",
+      "py": "yí gè",
+      "en": "one; a"
+    }
+  ],
+  "featured": [
+    {
+      "hanzi": "跨境",
+      "pinyin": "kuàjìng",
+      "pos": "adjective / attributive",
+      "en": "cross-border",
+      "note": "Used before a noun: 跨境支付 (cross-border payment), 跨境电商 (cross-border e-commerce), 跨境人民币 (cross-border RMB), 跨境汇款 (cross-border remittance).",
+      "examples": [
+        {
+          "zh": "越来越多的银行开始和支付公司合作做跨境支付。",
+          "py": "Yuèláiyuè duō de yínháng kāishǐ hé zhīfù gōngsī hézuò zuò kuàjìng zhīfù.",
+          "en": "More and more banks are starting to work with payment companies on cross-border payments."
+        },
+        {
+          "zh": "我妈妈喜欢在跨境电商网站上买日本的东西。",
+          "py": "Wǒ māma xǐhuan zài kuàjìng diànshāng wǎngzhàn shang mǎi Rìběn de dōngxi.",
+          "en": "My mom likes buying Japanese things on cross-border e-commerce websites."
+        },
+        {
+          "zh": "这个月我们平台的跨境交易笔数比上个月增加了百分之十五。",
+          "py": "Zhège yuè wǒmen píngtái de kuàjìng jiāoyì bǐshù bǐ shàng gè yuè zēngjiā le bǎi fēn zhī shíwǔ.",
+          "en": "This month the number of cross-border transactions on our platform rose 15% from last month."
+        }
+      ]
+    },
+    {
+      "hanzi": "场景",
+      "pinyin": "chǎngjǐng",
+      "pos": "noun",
+      "en": "scenario; use case; (usage) setting",
+      "note": "In fintech it means a real situation where people pay or use finance: 支付场景 (payment scenario), 消费场景 (consumption scenario), 场景金融 (scenario-based finance), 覆盖更多场景 (cover more use cases).",
+      "examples": [
+        {
+          "zh": "这家公司想把数字人民币用在更多的支付场景里。",
+          "py": "Zhè jiā gōngsī xiǎng bǎ shùzì rénmínbì yòng zài gèng duō de zhīfù chǎngjǐng li.",
+          "en": "This company wants to use the digital yuan in more payment scenarios."
+        },
+        {
+          "zh": "这部电影里有一个下雨的场景，让我很感动。",
+          "py": "Zhè bù diànyǐng li yǒu yí gè xià yǔ de chǎngjǐng, ràng wǒ hěn gǎndòng.",
+          "en": "There is a scene in this movie where it rains that really moved me."
+        },
+        {
+          "zh": "分析数据的时候，我们要看用户在哪些场景里用得最多。",
+          "py": "Fēnxī shùjù de shíhou, wǒmen yào kàn yònghù zài nǎxiē chǎngjǐng li yòng de zuì duō.",
+          "en": "When analysing the data, we need to see in which scenarios users use the product the most."
+        }
+      ]
+    }
+  ]
+}

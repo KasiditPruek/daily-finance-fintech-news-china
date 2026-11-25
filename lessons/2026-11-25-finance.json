@@ -1,0 +1,459 @@
+{
+  "date": "2026-11-25",
+  "category": "finance",
+  "title_zh": "央行今天做8000亿元MLF，比到期的少2000亿元",
+  "title_en": "The central bank carries out an 800 billion yuan MLF operation today, 200 billion less than the amount maturing",
+  "paragraphs": [
+    {
+      "zh": "11月24日，中国人民银行发布公告说，11月25日会做一次8000亿元的MLF操作，时间是一年。央行表示，这样做是为了让银行有足够的钱。",
+      "en": "On November 24, the People's Bank of China issued an announcement saying that on November 25 it will carry out an 800 billion yuan MLF operation with a term of one year. The central bank said it is doing this so that banks have enough money."
+    },
+    {
+      "zh": "MLF的中文名字叫“中期借贷便利”。它是央行借钱给银行的一种工具，银行到期以后要把钱还回去。",
+      "en": "The Chinese name of the MLF is \"zhongqi jiedai bianli\" (Medium-term Lending Facility). It is a tool the central bank uses to lend money to banks, and the banks must pay the money back when it matures."
+    },
+    {
+      "zh": "这个月一共有10000亿元MLF到期。新做的8000亿元比到期的少了2000亿元，10月也是少了这么多。另外，这个月两种期限的买断式逆回购也比到期的少，一共少了3000亿元。所以11月这些中期工具一共少了5000亿元。在这以前，央行已经连续四个月让这些工具的规模变大。",
+      "en": "A total of 1 trillion yuan of MLF matures this month. The new 800 billion yuan is 200 billion less than the amount maturing; in October it was also this much less. In addition, this month the outright reverse repos of two different terms were also smaller than the amounts maturing, by 300 billion yuan in total. So in November these medium-term tools fell by 500 billion yuan altogether. Before this, the central bank had made these tools bigger for four months in a row."
+    },
+    {
+      "zh": "同一天，央行还会做5000亿元的7天期逆回购。逆回购是央行在短时间里给市场提供钱的一种方法。",
+      "en": "On the same day, the central bank will also carry out a 500 billion yuan 7-day reverse repo. A reverse repo is a way for the central bank to provide money to the market for a short time."
+    }
+  ],
+  "source": {
+    "name": "澎湃新闻",
+    "name_en": "The Paper",
+    "url": "https://www.thepaper.cn/newsDetail_forward_34547849"
+  },
+  "vocab": [
+    {
+      "hanzi": "央行",
+      "pinyin": "yāngháng",
+      "en": "central bank",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "到期",
+      "pinyin": "dàoqī",
+      "en": "to mature; to expire",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "中国人民银行",
+      "pinyin": "Zhōngguó Rénmín Yínháng",
+      "en": "People's Bank of China (PBOC)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "发布",
+      "pinyin": "fābù",
+      "en": "to issue; to release",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "公告",
+      "pinyin": "gōnggào",
+      "en": "announcement; notice",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "操作",
+      "pinyin": "cāozuò",
+      "en": "operation; to operate",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "足够",
+      "pinyin": "zúgòu",
+      "en": "enough; sufficient",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "中期借贷便利",
+      "pinyin": "zhōngqī jièdài biànlì",
+      "en": "Medium-term Lending Facility (MLF)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "工具",
+      "pinyin": "gōngjù",
+      "en": "tool; instrument",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "期限",
+      "pinyin": "qīxiàn",
+      "en": "term; time limit",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "买断式逆回购",
+      "pinyin": "mǎiduànshì nì huígòu",
+      "en": "outright reverse repo",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "中期",
+      "pinyin": "zhōngqī",
+      "en": "medium-term",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "连续",
+      "pinyin": "liánxù",
+      "en": "in a row; consecutive",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "规模",
+      "pinyin": "guīmó",
+      "en": "scale; size",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "逆回购",
+      "pinyin": "nì huígòu",
+      "en": "reverse repo",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "市场",
+      "pinyin": "shìchǎng",
+      "en": "market",
+      "hsk": "HSK 5"
+    }
+  ],
+  "glossary": [
+    {
+      "w": "今天",
+      "py": "jīntiān",
+      "en": "today"
+    },
+    {
+      "w": "做",
+      "py": "zuò",
+      "en": "to do; to carry out"
+    },
+    {
+      "w": "亿元",
+      "py": "yì yuán",
+      "en": "hundred million yuan"
+    },
+    {
+      "w": "比",
+      "py": "bǐ",
+      "en": "than"
+    },
+    {
+      "w": "的",
+      "py": "de",
+      "en": "(possessive/attributive particle)"
+    },
+    {
+      "w": "少",
+      "py": "shǎo",
+      "en": "less; fewer"
+    },
+    {
+      "w": "月",
+      "py": "yuè",
+      "en": "month"
+    },
+    {
+      "w": "日",
+      "py": "rì",
+      "en": "day (of month)"
+    },
+    {
+      "w": "说",
+      "py": "shuō",
+      "en": "to say"
+    },
+    {
+      "w": "会",
+      "py": "huì",
+      "en": "will"
+    },
+    {
+      "w": "一次",
+      "py": "yí cì",
+      "en": "one time; once"
+    },
+    {
+      "w": "时间",
+      "py": "shíjiān",
+      "en": "time; term"
+    },
+    {
+      "w": "是",
+      "py": "shì",
+      "en": "to be"
+    },
+    {
+      "w": "一年",
+      "py": "yì nián",
+      "en": "one year"
+    },
+    {
+      "w": "表示",
+      "py": "biǎoshì",
+      "en": "to state"
+    },
+    {
+      "w": "这样",
+      "py": "zhèyàng",
+      "en": "this way"
+    },
+    {
+      "w": "为了",
+      "py": "wèile",
+      "en": "in order to"
+    },
+    {
+      "w": "让",
+      "py": "ràng",
+      "en": "to let; to make"
+    },
+    {
+      "w": "银行",
+      "py": "yínháng",
+      "en": "bank"
+    },
+    {
+      "w": "有",
+      "py": "yǒu",
+      "en": "to have"
+    },
+    {
+      "w": "钱",
+      "py": "qián",
+      "en": "money"
+    },
+    {
+      "w": "中文",
+      "py": "Zhōngwén",
+      "en": "Chinese (language)"
+    },
+    {
+      "w": "名字",
+      "py": "míngzi",
+      "en": "name"
+    },
+    {
+      "w": "叫",
+      "py": "jiào",
+      "en": "to be called"
+    },
+    {
+      "w": "它",
+      "py": "tā",
+      "en": "it"
+    },
+    {
+      "w": "借",
+      "py": "jiè",
+      "en": "to lend; to borrow"
+    },
+    {
+      "w": "给",
+      "py": "gěi",
+      "en": "to; for"
+    },
+    {
+      "w": "一种",
+      "py": "yì zhǒng",
+      "en": "a kind of"
+    },
+    {
+      "w": "以后",
+      "py": "yǐhòu",
+      "en": "after"
+    },
+    {
+      "w": "要",
+      "py": "yào",
+      "en": "must; need to"
+    },
+    {
+      "w": "把",
+      "py": "bǎ",
+      "en": "(object marker)"
+    },
+    {
+      "w": "还",
+      "py": "huán / hái",
+      "en": "to pay back (还回去); also (还会)"
+    },
+    {
+      "w": "回去",
+      "py": "huíqu",
+      "en": "back"
+    },
+    {
+      "w": "这个",
+      "py": "zhège",
+      "en": "this"
+    },
+    {
+      "w": "一共",
+      "py": "yígòng",
+      "en": "in total"
+    },
+    {
+      "w": "新",
+      "py": "xīn",
+      "en": "new"
+    },
+    {
+      "w": "了",
+      "py": "le",
+      "en": "(particle)"
+    },
+    {
+      "w": "也",
+      "py": "yě",
+      "en": "also"
+    },
+    {
+      "w": "这么",
+      "py": "zhème",
+      "en": "so; this"
+    },
+    {
+      "w": "多",
+      "py": "duō",
+      "en": "much; many"
+    },
+    {
+      "w": "另外",
+      "py": "lìngwài",
+      "en": "in addition"
+    },
+    {
+      "w": "两种",
+      "py": "liǎng zhǒng",
+      "en": "two kinds"
+    },
+    {
+      "w": "所以",
+      "py": "suǒyǐ",
+      "en": "so; therefore"
+    },
+    {
+      "w": "这些",
+      "py": "zhèxiē",
+      "en": "these"
+    },
+    {
+      "w": "在",
+      "py": "zài",
+      "en": "at; in"
+    },
+    {
+      "w": "这",
+      "py": "zhè",
+      "en": "this"
+    },
+    {
+      "w": "以前",
+      "py": "yǐqián",
+      "en": "before"
+    },
+    {
+      "w": "已经",
+      "py": "yǐjīng",
+      "en": "already"
+    },
+    {
+      "w": "四个",
+      "py": "sì gè",
+      "en": "four"
+    },
+    {
+      "w": "变大",
+      "py": "biàndà",
+      "en": "to become bigger"
+    },
+    {
+      "w": "同一天",
+      "py": "tóng yì tiān",
+      "en": "the same day"
+    },
+    {
+      "w": "天期",
+      "py": "tiān qī",
+      "en": "-day term"
+    },
+    {
+      "w": "短",
+      "py": "duǎn",
+      "en": "short"
+    },
+    {
+      "w": "里",
+      "py": "lǐ",
+      "en": "in; within"
+    },
+    {
+      "w": "提供",
+      "py": "tígōng",
+      "en": "to provide"
+    },
+    {
+      "w": "方法",
+      "py": "fāngfǎ",
+      "en": "method; way"
+    }
+  ],
+  "featured": [
+    {
+      "hanzi": "到期",
+      "pinyin": "dàoqī",
+      "pos": "verb",
+      "en": "to mature; to expire; to fall due",
+      "note": "Used for loans, bonds, deposits and contracts: 贷款到期 (a loan falls due), 到期日 (maturity date), 即将到期 (about to expire).",
+      "examples": [
+        {
+          "zh": "这笔一年期的贷款下个月到期。",
+          "py": "Zhè bǐ yì nián qī de dàikuǎn xià gè yuè dàoqī.",
+          "en": "This one-year loan matures next month."
+        },
+        {
+          "zh": "我的护照快到期了，得赶快去换一本新的。",
+          "py": "Wǒ de hùzhào kuài dàoqī le, děi gǎnkuài qù huàn yì běn xīn de.",
+          "en": "My passport is about to expire, so I have to get a new one quickly."
+        },
+        {
+          "zh": "这个月到期的国债比上个月多。",
+          "py": "Zhège yuè dàoqī de guózhài bǐ shàng gè yuè duō.",
+          "en": "More government bonds mature this month than last month."
+        }
+      ]
+    },
+    {
+      "hanzi": "逆回购",
+      "pinyin": "nì huígòu",
+      "pos": "noun",
+      "en": "reverse repo (repurchase agreement)",
+      "note": "A central-bank tool for adding short-term money to the market: 开展逆回购操作 (carry out a reverse repo), 7天期逆回购 (7-day reverse repo), 逆回购利率 (reverse repo rate).",
+      "examples": [
+        {
+          "zh": "央行今天开展了一笔7天期逆回购。",
+          "py": "Yāngháng jīntiān kāizhǎn le yì bǐ qī tiān qī nì huígòu.",
+          "en": "The central bank carried out a 7-day reverse repo today."
+        },
+        {
+          "zh": "他每天都看新闻，想知道央行有没有做逆回购。",
+          "py": "Tā měitiān dōu kàn xīnwén, xiǎng zhīdào yāngháng yǒu méiyǒu zuò nì huígòu.",
+          "en": "He reads the news every day because he wants to know whether the central bank did a reverse repo."
+        },
+        {
+          "zh": "节假日以前，逆回购的规模常常会增加。",
+          "py": "Jiéjiàrì yǐqián, nì huígòu de guīmó chángcháng huì zēngjiā.",
+          "en": "Before holidays, the size of reverse repos often increases."
+        }
+      ]
+    }
+  ]
+}
