@@ -1,0 +1,555 @@
+{
+  "date": "2026-11-26",
+  "category": "fintech",
+  "title_zh": "蚂蚁国际在沙特的合资公司拿到电子货币牌照",
+  "title_en": "Ant International's joint venture in Saudi Arabia gets an e-money licence",
+  "paragraphs": [
+    {
+      "zh": "据移动支付网11月25日报道，蚂蚁国际和沙特邮政物流公司（SPL）一起成立的合资公司SPL ANT Saudi，已经得到沙特中央银行的批准，成为一家大型电子货币机构。",
+      "en": "According to a Mpaypass report on November 25, SPL ANT Saudi, a joint venture set up by Ant International and Saudi Post and Logistics Services (SPL), has been approved by the Saudi Central Bank and has become a major electronic money institution."
+    },
+    {
+      "zh": "这家公司打算用金融科技在沙特各地推广移动支付，并为当地的个人和企业提供数字金融服务。SPL在沙特全国有600多个线下网点，这些网点会帮助公司开展业务。",
+      "en": "The company plans to use fintech to promote mobile payments across Saudi Arabia and to provide digital financial services to local individuals and businesses. SPL has more than 600 physical outlets across Saudi Arabia, and these outlets will help the company carry out its business."
+    },
+    {
+      "zh": "公司表示，会遵守沙特央行的规定，保证服务质量，做到公开透明，并保护消费者。",
+      "en": "The company said it will follow the Saudi central bank's rules, ensure the quality of its service, be open and transparent, and protect consumers."
+    },
+    {
+      "zh": "两家公司在2025年签了战略合作协议。2025年2月，蚂蚁国际在沙特首都利雅得开了它在中东的第一个办公室。蚂蚁国际是蚂蚁集团的国际业务公司，主要做跨境支付等服务。",
+      "en": "The two companies signed a strategic cooperation agreement in 2025. In February 2025, Ant International opened its first office in the Middle East in Riyadh, the Saudi capital. Ant International is Ant Group's international business company and mainly provides services such as cross-border payments."
+    }
+  ],
+  "source": {
+    "name": "移动支付网",
+    "name_en": "Mpaypass (China Mobile Payment Network)",
+    "url": "https://www.mpaypass.com.cn/news/202611/25164730.html"
+  },
+  "vocab": [
+    {
+      "hanzi": "蚂蚁国际",
+      "pinyin": "Mǎyǐ Guójì",
+      "en": "Ant International",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "沙特",
+      "pinyin": "Shātè",
+      "en": "Saudi Arabia",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "合资公司",
+      "pinyin": "hézī gōngsī",
+      "en": "joint venture (company)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "电子货币",
+      "pinyin": "diànzǐ huòbì",
+      "en": "electronic money; e-money",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "牌照",
+      "pinyin": "páizhào",
+      "en": "licence",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "据",
+      "pinyin": "jù",
+      "en": "according to",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "移动支付网",
+      "pinyin": "Yídòng Zhīfù Wǎng",
+      "en": "Mpaypass (China Mobile Payment Network, a news site)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "报道",
+      "pinyin": "bàodào",
+      "en": "to report; news report",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "邮政",
+      "pinyin": "yóuzhèng",
+      "en": "postal service; post",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "物流",
+      "pinyin": "wùliú",
+      "en": "logistics",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "成立",
+      "pinyin": "chénglì",
+      "en": "to set up, to establish",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "中央银行",
+      "pinyin": "zhōngyāng yínháng",
+      "en": "central bank",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "批准",
+      "pinyin": "pīzhǔn",
+      "en": "to approve; approval",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "大型",
+      "pinyin": "dàxíng",
+      "en": "large-scale; major",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "机构",
+      "pinyin": "jīgòu",
+      "en": "institution; organisation",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "金融科技",
+      "pinyin": "jīnróng kējì",
+      "en": "fintech; financial technology",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "各地",
+      "pinyin": "gèdì",
+      "en": "all over; various places",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "推广",
+      "pinyin": "tuīguǎng",
+      "en": "to promote; to popularize",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "移动支付",
+      "pinyin": "yídòng zhīfù",
+      "en": "mobile payment",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "当地",
+      "pinyin": "dāngdì",
+      "en": "local",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "个人",
+      "pinyin": "gèrén",
+      "en": "individual; personal",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "企业",
+      "pinyin": "qǐyè",
+      "en": "company, enterprise",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "金融",
+      "pinyin": "jīnróng",
+      "en": "finance; financial",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "服务",
+      "pinyin": "fúwù",
+      "en": "service; to serve",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "全国",
+      "pinyin": "quánguó",
+      "en": "the whole country; nationwide",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "线下",
+      "pinyin": "xiànxià",
+      "en": "offline; physical (not online)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "网点",
+      "pinyin": "wǎngdiǎn",
+      "en": "branch outlet; service point",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "开展",
+      "pinyin": "kāizhǎn",
+      "en": "to carry out; to launch (work, business)",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "业务",
+      "pinyin": "yèwù",
+      "en": "business; line of business",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "遵守",
+      "pinyin": "zūnshǒu",
+      "en": "to follow, to comply with (rules)",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "央行",
+      "pinyin": "yāngháng",
+      "en": "central bank",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "公开",
+      "pinyin": "gōngkāi",
+      "en": "open; public",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "透明",
+      "pinyin": "tòumíng",
+      "en": "transparent",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "消费者",
+      "pinyin": "xiāofèizhě",
+      "en": "consumer",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "签",
+      "pinyin": "qiān",
+      "en": "to sign",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "战略",
+      "pinyin": "zhànlüè",
+      "en": "strategic; strategy",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "协议",
+      "pinyin": "xiéyì",
+      "en": "agreement",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "利雅得",
+      "pinyin": "Lìyǎdé",
+      "en": "Riyadh (capital of Saudi Arabia)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "中东",
+      "pinyin": "Zhōngdōng",
+      "en": "the Middle East",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "蚂蚁集团",
+      "pinyin": "Mǎyǐ Jítuán",
+      "en": "Ant Group",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "跨境",
+      "pinyin": "kuàjìng",
+      "en": "cross-border",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "支付",
+      "pinyin": "zhīfù",
+      "en": "payment; to pay",
+      "hsk": "HSK 5"
+    }
+  ],
+  "glossary": [
+    {
+      "w": "在",
+      "py": "zài",
+      "en": "in; at"
+    },
+    {
+      "w": "的",
+      "py": "de",
+      "en": "(possessive particle)"
+    },
+    {
+      "w": "拿到",
+      "py": "nádào",
+      "en": "to get, to obtain"
+    },
+    {
+      "w": "月",
+      "py": "yuè",
+      "en": "month"
+    },
+    {
+      "w": "日",
+      "py": "rì",
+      "en": "day (of month)"
+    },
+    {
+      "w": "和",
+      "py": "hé",
+      "en": "and"
+    },
+    {
+      "w": "公司",
+      "py": "gōngsī",
+      "en": "company"
+    },
+    {
+      "w": "一起",
+      "py": "yìqǐ",
+      "en": "together"
+    },
+    {
+      "w": "已经",
+      "py": "yǐjīng",
+      "en": "already"
+    },
+    {
+      "w": "得到",
+      "py": "dédào",
+      "en": "to receive, to get"
+    },
+    {
+      "w": "成为",
+      "py": "chéngwéi",
+      "en": "to become"
+    },
+    {
+      "w": "一家",
+      "py": "yì jiā",
+      "en": "one (company)"
+    },
+    {
+      "w": "这家",
+      "py": "zhè jiā",
+      "en": "this (company)"
+    },
+    {
+      "w": "打算",
+      "py": "dǎsuàn",
+      "en": "to plan to"
+    },
+    {
+      "w": "用",
+      "py": "yòng",
+      "en": "to use"
+    },
+    {
+      "w": "并",
+      "py": "bìng",
+      "en": "and also"
+    },
+    {
+      "w": "为",
+      "py": "wèi",
+      "en": "for"
+    },
+    {
+      "w": "提供",
+      "py": "tígōng",
+      "en": "to provide"
+    },
+    {
+      "w": "数字",
+      "py": "shùzì",
+      "en": "digital"
+    },
+    {
+      "w": "有",
+      "py": "yǒu",
+      "en": "to have"
+    },
+    {
+      "w": "多个",
+      "py": "duō gè",
+      "en": "more than"
+    },
+    {
+      "w": "这些",
+      "py": "zhèxiē",
+      "en": "these"
+    },
+    {
+      "w": "会",
+      "py": "huì",
+      "en": "will"
+    },
+    {
+      "w": "帮助",
+      "py": "bāngzhù",
+      "en": "to help"
+    },
+    {
+      "w": "表示",
+      "py": "biǎoshì",
+      "en": "to say, to state"
+    },
+    {
+      "w": "规定",
+      "py": "guīdìng",
+      "en": "rules, regulations"
+    },
+    {
+      "w": "保证",
+      "py": "bǎozhèng",
+      "en": "to ensure"
+    },
+    {
+      "w": "质量",
+      "py": "zhìliàng",
+      "en": "quality"
+    },
+    {
+      "w": "做到",
+      "py": "zuòdào",
+      "en": "to achieve"
+    },
+    {
+      "w": "保护",
+      "py": "bǎohù",
+      "en": "to protect"
+    },
+    {
+      "w": "两家",
+      "py": "liǎng jiā",
+      "en": "two (companies)"
+    },
+    {
+      "w": "年",
+      "py": "nián",
+      "en": "year"
+    },
+    {
+      "w": "了",
+      "py": "le",
+      "en": "(completed action particle)"
+    },
+    {
+      "w": "合作",
+      "py": "hézuò",
+      "en": "cooperation"
+    },
+    {
+      "w": "首都",
+      "py": "shǒudū",
+      "en": "capital city"
+    },
+    {
+      "w": "开",
+      "py": "kāi",
+      "en": "to open"
+    },
+    {
+      "w": "它",
+      "py": "tā",
+      "en": "it"
+    },
+    {
+      "w": "第一个",
+      "py": "dì yī gè",
+      "en": "the first"
+    },
+    {
+      "w": "办公室",
+      "py": "bàngōngshì",
+      "en": "office"
+    },
+    {
+      "w": "是",
+      "py": "shì",
+      "en": "is"
+    },
+    {
+      "w": "国际",
+      "py": "guójì",
+      "en": "international"
+    },
+    {
+      "w": "主要",
+      "py": "zhǔyào",
+      "en": "mainly"
+    },
+    {
+      "w": "做",
+      "py": "zuò",
+      "en": "to do"
+    },
+    {
+      "w": "等",
+      "py": "děng",
+      "en": "and so on; such as"
+    }
+  ],
+  "featured": [
+    {
+      "hanzi": "移动支付",
+      "pinyin": "yídòng zhīfù",
+      "pos": "noun",
+      "en": "mobile payment",
+      "note": "Paying with a phone (QR code, wallet app, NFC): 推广移动支付 (promote mobile payment), 移动支付平台 (mobile payment platform), 移动支付用户 (mobile payment users), 用移动支付付款.",
+      "examples": [
+        {
+          "zh": "很多外国游客来中国以后，也开始用移动支付。",
+          "py": "Hěn duō wàiguó yóukè lái Zhōngguó yǐhòu, yě kāishǐ yòng yídòng zhīfù.",
+          "en": "After coming to China, many foreign tourists also start using mobile payment."
+        },
+        {
+          "zh": "我奶奶现在买菜也用移动支付，很少带现金了。",
+          "py": "Wǒ nǎinai xiànzài mǎi cài yě yòng yídòng zhīfù, hěn shǎo dài xiànjīn le.",
+          "en": "My grandma now uses mobile payment even to buy groceries and rarely carries cash."
+        },
+        {
+          "zh": "这个月我们平台移动支付的交易笔数增加了百分之十。",
+          "py": "Zhège yuè wǒmen píngtái yídòng zhīfù de jiāoyì bǐshù zēngjiā le bǎi fēn zhī shí.",
+          "en": "This month the number of mobile payment transactions on our platform rose by 10%."
+        }
+      ]
+    },
+    {
+      "hanzi": "线下",
+      "pinyin": "xiànxià",
+      "pos": "adjective / noun",
+      "en": "offline; physical (in-person)",
+      "note": "The opposite of 线上 (online): 线下网点 (physical outlets), 线下门店 (physical stores), 线下活动 (in-person event), 线上线下结合 (combining online and offline).",
+      "examples": [
+        {
+          "zh": "这家支付公司要通过线下网点找到更多商户。",
+          "py": "Zhè jiā zhīfù gōngsī yào tōngguò xiànxià wǎngdiǎn zhǎodào gèng duō shānghù.",
+          "en": "This payment company wants to find more merchants through its physical outlets."
+        },
+        {
+          "zh": "我们周末有一个线下读书会，你想来吗？",
+          "py": "Wǒmen zhōumò yǒu yí gè xiànxià dúshūhuì, nǐ xiǎng lái ma?",
+          "en": "We have an in-person book club this weekend. Do you want to come?"
+        },
+        {
+          "zh": "数据显示，线下开户的客户比线上开户的客户更活跃。",
+          "py": "Shùjù xiǎnshì, xiànxià kāihù de kèhù bǐ xiànshàng kāihù de kèhù gèng huóyuè.",
+          "en": "The data show that customers who opened accounts offline are more active than those who opened them online."
+        }
+      ]
+    }
+  ]
+}
