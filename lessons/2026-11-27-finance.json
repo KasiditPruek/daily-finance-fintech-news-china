@@ -1,0 +1,544 @@
+{
+  "date": "2026-11-27",
+  "category": "finance",
+  "title_zh": "全球重要银行名单出来了，中国五家大银行的位置没变",
+  "title_en": "Global list of important banks is out: China's five big banks keep their places",
+  "paragraphs": [
+    {
+      "zh": "11月25日，金融稳定理事会公布了今年全球系统重要性银行的名单。这份名单从2011年开始每年公布一次。今年一共有29家银行进入名单，和去年是同样的29家。",
+      "en": "On November 25, the Financial Stability Board (FSB) published this year's list of global systemically important banks (G-SIBs). The list has been published once a year since 2011. This year 29 banks are on the list, the same 29 as last year."
+    },
+    {
+      "zh": "名单把银行分成五个组，组越高，银行要多准备的资本就越多。中国有五家国有大银行在名单里：工商银行在第三组，农业银行、中国银行和建设银行在第二组，交通银行在第一组。这和去年完全一样。",
+      "en": "The list divides banks into five groups (buckets). The higher the group, the more extra capital a bank must hold. Five of China's big state-owned banks are on the list: ICBC is in group 3; Agricultural Bank of China, Bank of China and China Construction Bank are in group 2; and Bank of Communications is in group 1. This is exactly the same as last year."
+    },
+    {
+      "zh": "工商银行是去年从第二组升到第三组的，它是第一家进入第三组的中国银行。按照规定，工商银行的附加资本要求是2%，第二组的三家银行是1.5%，交通银行是1%。",
+      "en": "ICBC moved up from group 2 to group 3 last year; it was the first Chinese bank to enter group 3. Under the rules, ICBC's additional capital requirement is 2%, the three banks in group 2 have 1.5%, and Bank of Communications has 1%."
+    },
+    {
+      "zh": "在其他国家的银行中，摩根大通还是唯一在第四组的银行，第五组没有银行。法国巴黎银行从第二组升到了第三组，三菱日联金融集团从第二组降到了第一组。金融稳定理事会表示，组别变化主要是因为银行的业务规模和结构变了。",
+      "en": "Among banks from other countries, JPMorgan Chase is still the only bank in group 4, and group 5 has no banks. BNP Paribas moved up from group 2 to group 3, and Mitsubishi UFJ Financial Group dropped from group 2 to group 1. The FSB said the group changes were mainly because the size and structure of banks' business had changed."
+    }
+  ],
+  "source": {
+    "name": "第一财经",
+    "name_en": "Yicai (China Business Network)",
+    "url": "https://www.yicai.com/news/103456068.html"
+  },
+  "vocab": [
+    {
+      "hanzi": "全球",
+      "pinyin": "quánqiú",
+      "en": "global; worldwide",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "名单",
+      "pinyin": "míngdān",
+      "en": "list (of names)",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "位置",
+      "pinyin": "wèizhi",
+      "en": "position; place",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "金融稳定理事会",
+      "pinyin": "Jīnróng Wěndìng Lǐshìhuì",
+      "en": "Financial Stability Board (FSB)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "公布",
+      "pinyin": "gōngbù",
+      "en": "to publish; to announce (officially)",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "全球系统重要性银行",
+      "pinyin": "quánqiú xìtǒng zhòngyàoxìng yínháng",
+      "en": "global systemically important bank (G-SIB)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "进入",
+      "pinyin": "jìnrù",
+      "en": "to enter; to get into",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "组",
+      "pinyin": "zǔ",
+      "en": "group; bucket",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "资本",
+      "pinyin": "zīběn",
+      "en": "capital (money a bank holds)",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "国有",
+      "pinyin": "guóyǒu",
+      "en": "state-owned",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "工商银行",
+      "pinyin": "Gōngshāng Yínháng",
+      "en": "Industrial and Commercial Bank of China (ICBC)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "农业银行",
+      "pinyin": "Nóngyè Yínháng",
+      "en": "Agricultural Bank of China (ABC)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "中国银行",
+      "pinyin": "Zhōngguó Yínháng",
+      "en": "Bank of China (BOC)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "建设银行",
+      "pinyin": "Jiànshè Yínháng",
+      "en": "China Construction Bank (CCB)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "交通银行",
+      "pinyin": "Jiāotōng Yínháng",
+      "en": "Bank of Communications (BoCom)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "升",
+      "pinyin": "shēng",
+      "en": "to rise; to move up",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "附加",
+      "pinyin": "fùjiā",
+      "en": "additional; extra",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "摩根大通",
+      "pinyin": "Mógēn Dàtōng",
+      "en": "JPMorgan Chase",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "唯一",
+      "pinyin": "wéiyī",
+      "en": "only; sole",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "法国巴黎银行",
+      "pinyin": "Fǎguó Bālí Yínháng",
+      "en": "BNP Paribas",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "三菱日联金融集团",
+      "pinyin": "Sānlíng Rìlián Jīnróng Jítuán",
+      "en": "Mitsubishi UFJ Financial Group (MUFG)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "降",
+      "pinyin": "jiàng",
+      "en": "to drop; to go down",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "组别",
+      "pinyin": "zǔbié",
+      "en": "group category; bucket",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "业务",
+      "pinyin": "yèwù",
+      "en": "business; operations",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "规模",
+      "pinyin": "guīmó",
+      "en": "scale; size",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "结构",
+      "pinyin": "jiégòu",
+      "en": "structure",
+      "hsk": "HSK 5"
+    }
+  ],
+  "glossary": [
+    {
+      "w": "重要",
+      "py": "zhòngyào",
+      "en": "important"
+    },
+    {
+      "w": "银行",
+      "py": "yínháng",
+      "en": "bank"
+    },
+    {
+      "w": "出来",
+      "py": "chūlai",
+      "en": "to come out"
+    },
+    {
+      "w": "了",
+      "py": "le",
+      "en": "(completed action / change)"
+    },
+    {
+      "w": "中国",
+      "py": "Zhōngguó",
+      "en": "China"
+    },
+    {
+      "w": "五",
+      "py": "wǔ",
+      "en": "five"
+    },
+    {
+      "w": "家",
+      "py": "jiā",
+      "en": "(measure word for companies/banks)"
+    },
+    {
+      "w": "大",
+      "py": "dà",
+      "en": "big"
+    },
+    {
+      "w": "的",
+      "py": "de",
+      "en": "(particle: of / 's)"
+    },
+    {
+      "w": "没",
+      "py": "méi",
+      "en": "not (have)"
+    },
+    {
+      "w": "变",
+      "py": "biàn",
+      "en": "to change"
+    },
+    {
+      "w": "月",
+      "py": "yuè",
+      "en": "month"
+    },
+    {
+      "w": "日",
+      "py": "rì",
+      "en": "day (of month)"
+    },
+    {
+      "w": "今年",
+      "py": "jīnnián",
+      "en": "this year"
+    },
+    {
+      "w": "这",
+      "py": "zhè",
+      "en": "this"
+    },
+    {
+      "w": "份",
+      "py": "fèn",
+      "en": "(measure word for documents)"
+    },
+    {
+      "w": "从",
+      "py": "cóng",
+      "en": "from"
+    },
+    {
+      "w": "年",
+      "py": "nián",
+      "en": "year"
+    },
+    {
+      "w": "开始",
+      "py": "kāishǐ",
+      "en": "to start"
+    },
+    {
+      "w": "每",
+      "py": "měi",
+      "en": "every"
+    },
+    {
+      "w": "一",
+      "py": "yī",
+      "en": "one"
+    },
+    {
+      "w": "次",
+      "py": "cì",
+      "en": "time (occurrence)"
+    },
+    {
+      "w": "一共",
+      "py": "yígòng",
+      "en": "in total"
+    },
+    {
+      "w": "有",
+      "py": "yǒu",
+      "en": "to have; there are"
+    },
+    {
+      "w": "和",
+      "py": "hé",
+      "en": "and; with"
+    },
+    {
+      "w": "去年",
+      "py": "qùnián",
+      "en": "last year"
+    },
+    {
+      "w": "是",
+      "py": "shì",
+      "en": "to be"
+    },
+    {
+      "w": "同样",
+      "py": "tóngyàng",
+      "en": "the same"
+    },
+    {
+      "w": "把",
+      "py": "bǎ",
+      "en": "(particle: puts object before verb)"
+    },
+    {
+      "w": "分成",
+      "py": "fēnchéng",
+      "en": "to divide into"
+    },
+    {
+      "w": "个",
+      "py": "gè",
+      "en": "(general measure word)"
+    },
+    {
+      "w": "越",
+      "py": "yuè",
+      "en": "the more… (越…越…)"
+    },
+    {
+      "w": "高",
+      "py": "gāo",
+      "en": "high"
+    },
+    {
+      "w": "要",
+      "py": "yào",
+      "en": "must; need to"
+    },
+    {
+      "w": "多",
+      "py": "duō",
+      "en": "more; extra"
+    },
+    {
+      "w": "准备",
+      "py": "zhǔnbèi",
+      "en": "to prepare; to hold ready"
+    },
+    {
+      "w": "就",
+      "py": "jiù",
+      "en": "then"
+    },
+    {
+      "w": "在",
+      "py": "zài",
+      "en": "in; at; to be in"
+    },
+    {
+      "w": "里",
+      "py": "lǐ",
+      "en": "in; inside"
+    },
+    {
+      "w": "第三",
+      "py": "dì-sān",
+      "en": "third"
+    },
+    {
+      "w": "第二",
+      "py": "dì-èr",
+      "en": "second"
+    },
+    {
+      "w": "第一",
+      "py": "dì-yī",
+      "en": "first"
+    },
+    {
+      "w": "完全",
+      "py": "wánquán",
+      "en": "completely"
+    },
+    {
+      "w": "一样",
+      "py": "yíyàng",
+      "en": "the same"
+    },
+    {
+      "w": "到",
+      "py": "dào",
+      "en": "to (a place/level)"
+    },
+    {
+      "w": "它",
+      "py": "tā",
+      "en": "it"
+    },
+    {
+      "w": "按照",
+      "py": "ànzhào",
+      "en": "according to"
+    },
+    {
+      "w": "规定",
+      "py": "guīdìng",
+      "en": "rule; regulation"
+    },
+    {
+      "w": "要求",
+      "py": "yāoqiú",
+      "en": "requirement"
+    },
+    {
+      "w": "三",
+      "py": "sān",
+      "en": "three"
+    },
+    {
+      "w": "其他",
+      "py": "qítā",
+      "en": "other"
+    },
+    {
+      "w": "国家",
+      "py": "guójiā",
+      "en": "country"
+    },
+    {
+      "w": "中",
+      "py": "zhōng",
+      "en": "among; in"
+    },
+    {
+      "w": "还是",
+      "py": "háishi",
+      "en": "still"
+    },
+    {
+      "w": "第四",
+      "py": "dì-sì",
+      "en": "fourth"
+    },
+    {
+      "w": "第五",
+      "py": "dì-wǔ",
+      "en": "fifth"
+    },
+    {
+      "w": "没有",
+      "py": "méiyǒu",
+      "en": "there is no; not have"
+    },
+    {
+      "w": "表示",
+      "py": "biǎoshì",
+      "en": "to say; to state"
+    },
+    {
+      "w": "变化",
+      "py": "biànhuà",
+      "en": "change"
+    },
+    {
+      "w": "主要",
+      "py": "zhǔyào",
+      "en": "mainly"
+    },
+    {
+      "w": "因为",
+      "py": "yīnwèi",
+      "en": "because"
+    }
+  ],
+  "featured": [
+    {
+      "hanzi": "资本",
+      "pinyin": "zīběn",
+      "pos": "noun",
+      "en": "capital (funds a bank or company holds to absorb losses or invest)",
+      "note": "Common collocations: 资本要求 (capital requirement), 资本市场 (capital market), 补充资本 (to replenish capital), 附加资本 (additional capital).",
+      "examples": [
+        {
+          "zh": "监管部门要求大银行准备更多的资本。",
+          "py": "Jiānguǎn bùmén yāoqiú dà yínháng zhǔnbèi gèng duō de zīběn.",
+          "en": "Regulators require big banks to hold more capital."
+        },
+        {
+          "zh": "他想开一家咖啡店，但是资本不够。",
+          "py": "Tā xiǎng kāi yì jiā kāfēidiàn, dànshì zīběn bú gòu.",
+          "en": "He wants to open a coffee shop, but he doesn't have enough capital."
+        },
+        {
+          "zh": "这家公司打算去香港的资本市场上市。",
+          "py": "Zhè jiā gōngsī dǎsuàn qù Xiānggǎng de zīběn shìchǎng shàngshì.",
+          "en": "This company plans to list on Hong Kong's capital market."
+        }
+      ]
+    },
+    {
+      "hanzi": "公布",
+      "pinyin": "gōngbù",
+      "pos": "verb",
+      "en": "to publish; to announce officially",
+      "note": "Used for official data, results or lists: 公布数据 (release data), 公布名单 (publish a list), 公布结果 (announce results), 正式公布 (officially announce).",
+      "examples": [
+        {
+          "zh": "国家统计局今天公布了上个月的经济数据。",
+          "py": "Guójiā Tǒngjìjú jīntiān gōngbù le shàng ge yuè de jīngjì shùjù.",
+          "en": "The National Bureau of Statistics released last month's economic data today."
+        },
+        {
+          "zh": "考试结果下周一公布。",
+          "py": "Kǎoshì jiéguǒ xià zhōuyī gōngbù.",
+          "en": "The exam results will be announced next Monday."
+        },
+        {
+          "zh": "银行每个季度都会公布一次利润。",
+          "py": "Yínháng měi ge jìdù dōu huì gōngbù yí cì lìrùn.",
+          "en": "The bank announces its profit once every quarter."
+        }
+      ]
+    }
+  ]
+}
