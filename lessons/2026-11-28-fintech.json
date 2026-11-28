@@ -1,0 +1,542 @@
+{
+  "date": "2026-11-28",
+  "category": "fintech",
+  "title_zh": "微信在苹果手机上推出NFC交通卡，碰一下就能进站",
+  "title_en": "WeChat launches an NFC transit card on iPhone: just tap to enter the station",
+  "paragraphs": [
+    {
+      "zh": "据移动支付网11月27日报道，苹果手机上的微信8.0.80版本在“卡包”里增加了NFC交通卡功能。用户坐地铁或公交的时候，不用再打开二维码，只要把手机靠近闸机就能通过。",
+      "en": "According to a Mpaypass report on November 27, version 8.0.80 of WeChat on iPhone has added an NFC transit card function to its \"Card Wallet\". When users take the subway or a bus, they no longer need to open a QR code; they just hold the phone close to the gate to get through."
+    },
+    {
+      "zh": "NFC是一种近距离无线通信技术，手机和机器离得很近时就能交换信息。以前，很多人在中国坐车时用的是微信或支付宝里的乘车码，需要扫码。",
+      "en": "NFC is a short-range wireless communication technology: a phone and a machine can exchange information when they are very close to each other. In the past, many people in China used the ride codes in WeChat or Alipay when taking transport, which required scanning a code."
+    },
+    {
+      "zh": "微信还没有公布哪些城市可以用这个功能。有的城市开卡的时候需要先充值，有的城市不需要。用户可以在微信的“我—卡包”里添加交通卡，选好城市，再到小程序里完成开通。",
+      "en": "WeChat has not yet announced which cities can use this function. In some cities you need to top up first when opening the card; in others you don't. Users can add a transit card under \"Me – Card Wallet\" in WeChat, choose their city, and then finish activating it in a mini-program."
+    },
+    {
+      "zh": "今年4月，支付宝已经接入了苹果钱包。现在，支付宝的NFC交通卡可以在13个城市使用。",
+      "en": "In April this year, Alipay already connected to Apple Wallet. Now Alipay's NFC transit card can be used in 13 cities."
+    }
+  ],
+  "source": {
+    "name": "移动支付网",
+    "name_en": "Mpaypass (China Mobile Payment Network)",
+    "url": "https://www.mpaypass.com.cn/news/202611/27192032.html"
+  },
+  "vocab": [
+    {
+      "hanzi": "推出",
+      "pinyin": "tuīchū",
+      "en": "to launch; to roll out",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "碰",
+      "pinyin": "pèng",
+      "en": "to touch; to tap",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "据",
+      "pinyin": "jù",
+      "en": "according to (据…报道 = according to a report by…)",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "报道",
+      "pinyin": "bàodào",
+      "en": "to report; news report",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "版本",
+      "pinyin": "bǎnběn",
+      "en": "version",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "卡包",
+      "pinyin": "kǎbāo",
+      "en": "card wallet (in an app)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "功能",
+      "pinyin": "gōngnéng",
+      "en": "function; feature",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "用户",
+      "pinyin": "yònghù",
+      "en": "user",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "公交",
+      "pinyin": "gōngjiāo",
+      "en": "public bus; public transport",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "二维码",
+      "pinyin": "èrwéimǎ",
+      "en": "QR code",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "靠近",
+      "pinyin": "kàojìn",
+      "en": "to get close to",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "闸机",
+      "pinyin": "zhájī",
+      "en": "ticket gate; turnstile",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "无线",
+      "pinyin": "wúxiàn",
+      "en": "wireless",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "通信",
+      "pinyin": "tōngxìn",
+      "en": "communication",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "机器",
+      "pinyin": "jīqì",
+      "en": "machine",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "交换",
+      "pinyin": "jiāohuàn",
+      "en": "to exchange",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "乘车码",
+      "pinyin": "chéngchēmǎ",
+      "en": "ride code (QR code for public transport)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "扫码",
+      "pinyin": "sǎomǎ",
+      "en": "to scan a (QR) code",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "公布",
+      "pinyin": "gōngbù",
+      "en": "to announce; to make public",
+      "hsk": "HSK 5"
+    },
+    {
+      "hanzi": "充值",
+      "pinyin": "chōngzhí",
+      "en": "to top up (money)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "添加",
+      "pinyin": "tiānjiā",
+      "en": "to add",
+      "hsk": "HSK 6"
+    },
+    {
+      "hanzi": "小程序",
+      "pinyin": "xiǎochéngxù",
+      "en": "mini-program (app inside a super-app)",
+      "hsk": "超纲"
+    },
+    {
+      "hanzi": "开通",
+      "pinyin": "kāitōng",
+      "en": "to activate; to open (a service)",
+      "hsk": "HSK 7–9"
+    },
+    {
+      "hanzi": "接入",
+      "pinyin": "jiērù",
+      "en": "to connect to; to integrate with",
+      "hsk": "超纲"
+    }
+  ],
+  "glossary": [
+    {
+      "w": "微信",
+      "py": "Wēixìn",
+      "en": "WeChat"
+    },
+    {
+      "w": "在",
+      "py": "zài",
+      "en": "on; in"
+    },
+    {
+      "w": "苹果手机",
+      "py": "Píngguǒ shǒujī",
+      "en": "iPhone"
+    },
+    {
+      "w": "上",
+      "py": "shàng",
+      "en": "on"
+    },
+    {
+      "w": "交通卡",
+      "py": "jiāotōngkǎ",
+      "en": "transit card"
+    },
+    {
+      "w": "一下",
+      "py": "yíxià",
+      "en": "once; briefly"
+    },
+    {
+      "w": "就",
+      "py": "jiù",
+      "en": "then; just"
+    },
+    {
+      "w": "能",
+      "py": "néng",
+      "en": "can"
+    },
+    {
+      "w": "进站",
+      "py": "jìn zhàn",
+      "en": "to enter the station"
+    },
+    {
+      "w": "移动支付网",
+      "py": "Yídòng Zhīfù Wǎng",
+      "en": "Mpaypass (China Mobile Payment Network)"
+    },
+    {
+      "w": "月",
+      "py": "yuè",
+      "en": "month"
+    },
+    {
+      "w": "日",
+      "py": "rì",
+      "en": "day"
+    },
+    {
+      "w": "苹果",
+      "py": "Píngguǒ",
+      "en": "Apple"
+    },
+    {
+      "w": "手机",
+      "py": "shǒujī",
+      "en": "mobile phone"
+    },
+    {
+      "w": "的",
+      "py": "de",
+      "en": "(possessive particle)"
+    },
+    {
+      "w": "里",
+      "py": "lǐ",
+      "en": "inside"
+    },
+    {
+      "w": "增加",
+      "py": "zēngjiā",
+      "en": "to add"
+    },
+    {
+      "w": "了",
+      "py": "le",
+      "en": "(completed action)"
+    },
+    {
+      "w": "坐",
+      "py": "zuò",
+      "en": "to ride; to take"
+    },
+    {
+      "w": "地铁",
+      "py": "dìtiě",
+      "en": "subway"
+    },
+    {
+      "w": "或",
+      "py": "huò",
+      "en": "or"
+    },
+    {
+      "w": "时候",
+      "py": "shíhou",
+      "en": "time; when"
+    },
+    {
+      "w": "不用",
+      "py": "búyòng",
+      "en": "no need to"
+    },
+    {
+      "w": "再",
+      "py": "zài",
+      "en": "again; any more"
+    },
+    {
+      "w": "打开",
+      "py": "dǎkāi",
+      "en": "to open"
+    },
+    {
+      "w": "只要",
+      "py": "zhǐyào",
+      "en": "as long as; just"
+    },
+    {
+      "w": "把",
+      "py": "bǎ",
+      "en": "(object marker)"
+    },
+    {
+      "w": "通过",
+      "py": "tōngguò",
+      "en": "to pass through"
+    },
+    {
+      "w": "是",
+      "py": "shì",
+      "en": "is"
+    },
+    {
+      "w": "一种",
+      "py": "yì zhǒng",
+      "en": "a kind of"
+    },
+    {
+      "w": "近距离",
+      "py": "jìn jùlí",
+      "en": "short-range"
+    },
+    {
+      "w": "技术",
+      "py": "jìshù",
+      "en": "technology"
+    },
+    {
+      "w": "和",
+      "py": "hé",
+      "en": "and"
+    },
+    {
+      "w": "离得很近",
+      "py": "lí de hěn jìn",
+      "en": "very close (to each other)"
+    },
+    {
+      "w": "时",
+      "py": "shí",
+      "en": "when"
+    },
+    {
+      "w": "信息",
+      "py": "xìnxī",
+      "en": "information"
+    },
+    {
+      "w": "以前",
+      "py": "yǐqián",
+      "en": "before; in the past"
+    },
+    {
+      "w": "很多",
+      "py": "hěn duō",
+      "en": "many"
+    },
+    {
+      "w": "人",
+      "py": "rén",
+      "en": "people"
+    },
+    {
+      "w": "中国",
+      "py": "Zhōngguó",
+      "en": "China"
+    },
+    {
+      "w": "坐车",
+      "py": "zuò chē",
+      "en": "to take transport"
+    },
+    {
+      "w": "用",
+      "py": "yòng",
+      "en": "to use"
+    },
+    {
+      "w": "支付宝",
+      "py": "Zhīfùbǎo",
+      "en": "Alipay"
+    },
+    {
+      "w": "需要",
+      "py": "xūyào",
+      "en": "to need"
+    },
+    {
+      "w": "还没有",
+      "py": "hái méiyǒu",
+      "en": "not yet"
+    },
+    {
+      "w": "哪些",
+      "py": "nǎxiē",
+      "en": "which (plural)"
+    },
+    {
+      "w": "城市",
+      "py": "chéngshì",
+      "en": "city"
+    },
+    {
+      "w": "可以",
+      "py": "kěyǐ",
+      "en": "can"
+    },
+    {
+      "w": "这个",
+      "py": "zhège",
+      "en": "this"
+    },
+    {
+      "w": "有的",
+      "py": "yǒude",
+      "en": "some"
+    },
+    {
+      "w": "开卡",
+      "py": "kāi kǎ",
+      "en": "to open a card"
+    },
+    {
+      "w": "先",
+      "py": "xiān",
+      "en": "first"
+    },
+    {
+      "w": "不需要",
+      "py": "bù xūyào",
+      "en": "don't need"
+    },
+    {
+      "w": "我",
+      "py": "wǒ",
+      "en": "me (the 'Me' tab)"
+    },
+    {
+      "w": "选好",
+      "py": "xuǎnhǎo",
+      "en": "to choose (finished)"
+    },
+    {
+      "w": "到",
+      "py": "dào",
+      "en": "to; go to"
+    },
+    {
+      "w": "完成",
+      "py": "wánchéng",
+      "en": "to complete"
+    },
+    {
+      "w": "今年",
+      "py": "jīnnián",
+      "en": "this year"
+    },
+    {
+      "w": "已经",
+      "py": "yǐjīng",
+      "en": "already"
+    },
+    {
+      "w": "苹果钱包",
+      "py": "Píngguǒ Qiánbāo",
+      "en": "Apple Wallet"
+    },
+    {
+      "w": "现在",
+      "py": "xiànzài",
+      "en": "now"
+    },
+    {
+      "w": "个",
+      "py": "gè",
+      "en": "(measure word)"
+    },
+    {
+      "w": "使用",
+      "py": "shǐyòng",
+      "en": "to use"
+    }
+  ],
+  "featured": [
+    {
+      "hanzi": "扫码",
+      "pinyin": "sǎomǎ",
+      "pos": "verb",
+      "en": "to scan a (QR) code",
+      "note": "Common collocations: 扫码支付 (pay by scanning a code), 扫码付款, 扫码点餐 (order food by scanning), 扫一扫 (the 'Scan' button in apps).",
+      "examples": [
+        {
+          "zh": "现在很多小商店都支持扫码支付。",
+          "py": "Xiànzài hěn duō xiǎo shāngdiàn dōu zhīchí sǎomǎ zhīfù.",
+          "en": "Now many small shops support paying by scanning a QR code."
+        },
+        {
+          "zh": "服务员说，请扫码点餐。",
+          "py": "Fúwùyuán shuō, qǐng sǎomǎ diǎncān.",
+          "en": "The waiter said: please scan the code to order."
+        },
+        {
+          "zh": "我们要看一下，上个月有多少用户是扫码进入平台的。",
+          "py": "Wǒmen yào kàn yíxià, shàng ge yuè yǒu duōshao yònghù shì sǎomǎ jìnrù píngtái de.",
+          "en": "We need to check how many users entered the platform by scanning a code last month."
+        }
+      ]
+    },
+    {
+      "hanzi": "小程序",
+      "pinyin": "xiǎochéngxù",
+      "pos": "noun",
+      "en": "mini-program (a light app that runs inside a super-app)",
+      "note": "Common collocations: 微信小程序, 支付宝小程序, 打开小程序, 小程序入口 (mini-program entry point), 开发小程序 (develop a mini-program).",
+      "examples": [
+        {
+          "zh": "这家银行在微信上推出了一个新的小程序。",
+          "py": "Zhè jiā yínháng zài Wēixìn shang tuīchūle yí ge xīn de xiǎochéngxù.",
+          "en": "This bank launched a new mini-program on WeChat."
+        },
+        {
+          "zh": "我常常用小程序买电影票。",
+          "py": "Wǒ chángcháng yòng xiǎochéngxù mǎi diànyǐngpiào.",
+          "en": "I often use a mini-program to buy movie tickets."
+        },
+        {
+          "zh": "这个月，从小程序来的新客户比上个月多了百分之二十。",
+          "py": "Zhège yuè, cóng xiǎochéngxù lái de xīn kèhù bǐ shàng ge yuè duōle bǎi fēn zhī èrshí.",
+          "en": "This month, new customers coming from the mini-program were 20% more than last month."
+        }
+      ]
+    }
+  ]
+}
